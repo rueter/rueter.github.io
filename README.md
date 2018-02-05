@@ -9,8 +9,10 @@ The documents come in pairs with either .pdf or .txt endings, only the Shoksha t
 
 If you use this data set in an academic publication, I would be ever so grateful if you cited it as follows:
 
-Olga Erina & Jack Rueter. (2018, February 5). Shoksha Kolkhoznikin' val'gij 1932--1933 (Version v1.0)  
+Olga Erina & Jack Rueter. (2018, February 5). Shoksha Kolkhoznikin' val'gij 1932--1933 (Version v1.0)  http://doi.org/10.5281/zenodo.1165766
 
+
+[![DOI](https://zenodo.org/badge/120288368.svg)](https://zenodo.org/badge/latestdoi/120288368)
 
 
 # Introduction
