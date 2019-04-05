@@ -9,7 +9,7 @@ The documents come in pairs with either .pdf or .txt endings, only the Shoksha t
 
 If you use this data set in an academic publication, I would be ever so grateful if you cited it as follows:
 
-Olga Erina & Jack Rueter. (2018, February 5). Shoksha Kolkhoznikin' val'gij 1932--1933 (Version v1.0)  http://doi.org/10.5281/zenodo.1165766
+Olga Erina & Jack Rueter. (2018, February 5). Shoksha Kolkhoznikin' val'gij 1932--1933 (Version v1.0)  https://zenodo.org/badge/120288368.svg
 
 
 [![DOI](https://zenodo.org/badge/120288368.svg)](https://zenodo.org/badge/latestdoi/120288368)
@@ -22,6 +22,7 @@ Olga Erina & Jack Rueter. (2018, February 5). Shoksha Kolkhoznikin' val'gij 1932
 
 Kolxoźńikiń vaĺgij (KV): 1933 four of which can also be attested from fieldwork by Heikki Paasonen three decades earlier, in 1901.
  settlements mentioned in KV for possible language form distinction work:
+ ```
  Berezniak
  Dudnikova
  Narovatova
@@ -33,4 +34,4 @@ Kolxoźńikiń vaĺgij (KV): 1933 four of which can also be attested from fi
  Šelubej
  Širomasovo
  Šokša
-
+```
