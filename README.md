@@ -30,7 +30,7 @@ Janine Siewiert, Olga Erina & Jack Rueter. (2019, September 5). Wiedemann, F. J.
 
 # Grammar of Erzya Morphology by Riabov 1935
 Anatolij Riabov's Erzya morphology was originally published as an Erzya-language stengazet in Saransk, Mordovia, Russian Federation in 1935.
-The grammar can be viewed [here](https://rueter.github.io/historical-mordvin-grammars/html/riabov-anatolij-1935-morfologian-grammatika-erzya.html).
+The grammar can be viewed [here](https://rueter.github.io/historical-mordvin-grammars/docs/riabov-anatolij-1935-morfologian-grammatika-erzya.html).
 
 # Cite
 
@@ -40,7 +40,7 @@ Olga Erina & Jack Rueter. (2021, September 5). Râbov, Anatolij 1935 = Морф�
 
 # Erzya Syntax by Riabov 1936
 Anatolij Riabov's Erzya syntax was originally published as an Erzya-language stengazet in Saransk, Mordovia, Russian Federation in 1936.
-The grammar can be viewed [here](https://rueter.github.io/historical-mordvin-grammars/html/riabov-anatolij-1936-sintaksis-erzya.html).
+The grammar can be viewed [here](https://rueter.github.io/historical-mordvin-grammars/docs/riabov-anatolij-1936-sintaksis-erzya.html).
 
 # Cite
 
