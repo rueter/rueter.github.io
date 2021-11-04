@@ -395,25 +395,29 @@ In Rauzho Palman’, 1997. Саранск Format: majorityCorpus
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 Word count: 47,537; Character count: 633,678 
 
-##
+## Любаев, Павел
+
 - Lyubayev, Pavel 1958 = Любаев, Павел 1958:
 Poetry: Ялгань вал.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 Word count: 3,616; Character count: 51,370
 
-##
+## Люлякина, Серафима
+
 - Lyulyakina, Serafima 1996 = Люлякина, Серафима 1996: Drama: Авань седей.
 In Mon’ vechkeviks knigam, 1996. Саранск
 Format: majorityCorpus
 Word count: 3,763; Character count: 47,616
 
-##
+## Мартынов, Александр
+
 - Martynov, Aleksandr 1984 = Мартынов, Александр 1984:
 Novel: Толонь сёлмот.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 Word count: 60,494; Character count: 823,353
 
-##
+## Моторкин, Михаил
+
 - Motorkin, Mikhail 1996 = Моторкин, Михаил 1996: Drama: Чачома чи.
 In Mon’ vechkeviks knigam, 1996. Саранск Format: majorityCorpus
 Word count: 5,470; Character count: 73,927 
@@ -423,7 +427,8 @@ Short story: Варма ковол.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 Word count: 39,517; Character count: 554,726
 
-##
+## Петайкин, Александр
+
 - Petaikin, Aleksandr 1995 = Петайкин, Александр 1995: Poetry: .
 In Vechkemado, Саранск.
 Format: majorityCorpus
@@ -434,7 +439,8 @@ In Mon’ vechkeviks knigam, 1996. Саранск
 Format: majorityCorpus
 Word count: 5,414; Character count: 71,431 
 
-##
+## Петрушкин, Николай
+
 - Petrushkin, Nikolai 1997 = Петрушкин, Николай 1997:
 Short story: Айгор Петя.
 In Otsyor, 1997. Саранск
@@ -456,12 +462,14 @@ Short story: Валдо васолкст.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 Word count: 35,380; Character count: 486,334
 
-##
+## Прончатов, Иван
+
 - Pronchatov, Ivan 1996 = Прончатов, Иван 1996: Poetry: Сэняжа.
 In Mon’ vechkeviks knigam, 1996. Саранск Format: majorityCorpus
 Word count: 2,964; Character count: 43,016
 
-##
+## Радаев, Василий
+
 - Radayev, Vasili & Anoshkin, V.1938/8 = Радаев, Василий & Аношкин, В.1938/8:
 Short story: Депутат.
 In Syatko, 1938/8. Саранск
@@ -498,24 +506,27 @@ Drama: Тюштянь койть.
 In Mon’ vechkeviks knigam, 1996. Саранск Format: majorityCorpus
 Word count: 1,285; Character count: 18,440
 
-##
+## Раптанов, Тимофей
+
 - Raptanov, Timofei 1985 = Раптанов, Тимофей 1985: Novel: Чихан пандо ало.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 Word count: 51,732; Character count: 710,941
 
-##
+## Разгуляева, Татьяна
+
 - Razgulyayeva, Tat’yana 1997 = Разгуляева, Татьяна 1997: Short story: Он, Вирень азор, Чуваронь кудынеть,.... In Otsyor, 1997. Саранск
 Format: majorityCorpus
 Word count: 6,195; Character count: 87,440 
 
-##
+## Рузавина, Валентина
+
 - Ruzavina, Valentina 1997 = Рузавина, Валентина 1997:
 Short story: Седейстэ лисиця валт.
 In Otsyor, 1997. Саранск
 Format: majorityCorpus
 Word count: 1,451; Character count: 20,230
 
-##
+## Рябов, Анатолий
 - Ryabov, Anatoliy 1935 = Рябов, Анатолий 1935: Linguistics: Эрьзянь келень грамматика. Морфология. Саранск ― .
 Word count: 15,655; Character count: 237,364
 
@@ -524,17 +535,17 @@ Linguistics: Эрзянь келень грамматика. Средней шк
 Саранск ― .
 Word count: 15,643; Character count: 228,820
 
-##
+## Седойкин, Леонид
 - Sedoikin, Leonid 1991 = Седойкин, Леонид 1991: Short story: Авань морозо.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 Word count: 18,983; Character count: 256,050 
 
-##
+## Шаронов, Александр
 - Sharonov, Aleksandr 1994 = Шаронов, Александр 1994:
 Folklore: Масторава.
 Саранск ― Мордовской книжной издательствась. 
 
-##
+## Щеглов, Александр
 - Shcheglov, Aleksandr 1968 = Щеглов, Александр 1968:
 Short story: Уцяска.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
@@ -554,19 +565,19 @@ In Mon’ vechkeviks knigam, 1996. Саранск
 Format: majorityCorpus
 Word count: 962; Character count: 13,609
 
-##
+## Сидоров, Виктор
 - Sidorov, Viktor 1996 = Сидоров, Виктор 1996:
 Short story: Сулейть.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 Word count: 20,881; Character count: 287,287 
 
-##
+## Сульдина, Анна
 - Sul’dina, Anna 1979 = Сульдина, Анна 1979:
 Poetry: Тештень пиземе.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 Word count: 3,077; Character count: 46,360
 
-## Тарасова, Марина
+## Тарасова, Марина Тарасова, Марина
 - Tarasova, Marina 1996 = Тарасова, Марина 1996: Short story: Псакань ёвкст.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 
@@ -595,7 +606,9 @@ Word count: 22,028; Character count: 298,382
 
 - Zhuravlyov, Vyachislav 1996 = Журавлёв, Вячислав 1996: Poetry: Валдо ойме.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
-Word count: 7,038; Character count: 101,534 Zhuravlyov, Vyachislav 1999 = Журавлёв, Вячислав 1999:
+Word count: 7,038; Character count: 101,534
+
+- Zhuravlyov, Vyachislav 1999 = Журавлёв, Вячислав 1999:
 Poetry: Арсемат ды ёжот.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 Word count: 22,827; Character count: 315,603
