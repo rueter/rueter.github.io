@@ -2,6 +2,21 @@
 
 Jack Michael Rueter
 
+## 2021
+
+
+- Hämäläinen, M., Alnajjar, K., Partanen, N. & Rueter, J., 2021, Finnish Dialect Identification: The Effect of Audio and Text. In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing.* The Association for Computational Linguistics
+- Hämäläinen, M., Alnajjar, K., Rueter, J., Lehtinen, M. & Partanen, N., 2021, An Online Tool Developed for Post-Editing the New Skolt Sami Dictionary. *Electronic lexicography in the 21st century (eLex 2021). Proceedings of the eLex 2021 conference.* Kosem, I., Cukr, M., Jakubíček, M., Kallas, J., Krek, S. & Tiberius, C. (eds.). Brno: Lexical Computing CZ s.r.o., p. 653-664 12 p. (Electronic lexicography in the 21st century (eLex 2021). Proceedings of the eLex 2021 conference).
+- Hämäläinen, M., Partanen, N., Rueter, J. & Alnajjar, K., May 2021, Neural Morphology Dataset and Models for Multiple Languages, from the Large to the Endangered. In *Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa).* Dobnik, S. & Øvrelid, L. (eds.). Linköping University Electronic Press, p. 166-177 (NEALT Proceedings Series; no. 45)(Linköping Electronic Conference Proceedings; no. 178).
+- Hämäläinen, M., Patpong, P., Alnajjar, K., Partanen, N. & Rueter, J., 2021, Detecting Depression in Thai Blog Posts: a Dataset and a Baseline. In *Proceedings of the 2021 EMNLP Workshop W-NUT: The Seventh Workshop on Noisy User-generated Text.* The Association for Computational Linguistics
+- Hämäläinen, M., Rueter, J. & Alnajjar, K., 2021, Documentación de lenguas amenazadas en la época digital. In: *Linha D’Água.* 34, 2, p. 47-64 18 p.
+- Partanen, N., Alnajjar, K., Hämäläinen, M. & Rueter, J., 2021, Linguistic change and historical periodization of Old Literary Finnish. In *Proceedings of the 2nd International Workshop on Computational Approaches to Historical Language Change 2021.* Tahmasebi, N., Jatowt, A., Xu, Y., Hengchen, S., Montariol, S. & Dubossarsky, H. (eds.). Stroudsburg: The Association for Computational Linguistics, p. 21–27 7 p.
+- Hämäläinen, M., Alnajjar, K., Partanen, N. & Rueter, J., May 2021, Never guess what I heard... Rumor Detection in Finnish News: a Dataset and a Baseline. In *Proceedings of the Fourth Workshop on NLP for Internet Freedom: Censorship, Disinformation, and Propaganda.* Feldman, A., Da San Martino, G., Leberknight, C. & Nakov, P. (eds.). The Association for Computational Linguistics, p. 39–44 6 p.
+- Rueter, J., Partanen, N., Hämäläinen, M. & Trosterud, T., 2021, Overview of Open-Source Morphology Development for the Komi-Zyrian Language: Past and Future. In Proceedings of the *Seventh International Workshop on Computational Linguistics of Uralic Languages*. Stroudsburg: The Association for Computational Linguistics, p. 62–72 11 p.
+- Rueter, J., Pereira de Freitas, M. F., Facundes, S., Hämäläinen, M. & Partanen, N., 2021, Apurinã Universal Dependencies Treebank. In *Proceedings of the First Workshop on Natural Language Processing for Indigenous Languages of the Americas.* Mager, M., Oncevay, A., Rios, A., Meza Ruiz, I. V., Palmer, A., Neubig, G. & Kann, K. (eds.). Stroudsburg: The Association for Computational Linguistics, p. 28-33 6 p.
+- Zeman, Daniel; et al., 2020, *Universal Dependencies 2.7*, LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University, http://hdl.handle.net/11234/1-3424. 
+- Zeman, Daniel; et al., 2021, *Universal Dependencies 2.8.1*, LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University, http://hdl.handle.net/11234/1-3687. 
+
 
 ## 2020
 
