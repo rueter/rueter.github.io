@@ -103,18 +103,12 @@ Rueter, J., 2011, The status of the non-finite OmstO morpheme in Erzya. In: *Lin
 ## 2010
 Rueter, J., 2010,*Adnominal person in the morphological system of Erzya*. Suomalais-Ugrilainen Seura. (Suomalais-ugrilaisen seuran toimituksia; vol. 261) (Dissertation) [Online](https://www.researchgate.net/publication/48336530_Adnominal_Person_in_the_Morphological_System_of_Erzya_Adnominaalinen_persoona_ersan_kielen_morfologisessa_jarjestelmassa)
 
-## 2009
-## 2008
 ## 2007
-## 2006
-## 2005
-## 2004
+- Rueter, J., 2007, Additional Information for WALS on Erzya Mordvin. *E-book published for Bernard Comrie on his 60-th birthday: For Bernard Comrie on his 60th birthday.* Max Planck Institute for Evolutionary Anthropology Department of Linguistics. [Online](https://www.researchgate.net/publication/355972260_Additional_Information_for_WALS_on_Erzya_Mordvin)
 
 ## 2003
 Rueter, J., 2003, Etymological determinate particles in Erzya word derivation. *International Symposium on Deictic Systems and Quantification in Languages Spoken in Europe and North and Central Asia: Collection of Papers.* Suihkonen, P. & Comrie, B. (eds.). Leipzig, Germany: Max Planck Institute for Evolutionary Anthropology, p. 164–172 9 p. [Online](https://www.researchgate.net/publication/353220566_Etymological_determinate_particles_in_Erzya_word_derivation)
 
-## 2002
-## 2001
 ## 2000
 Rueter, J., 2000, Хельсинкиса университетын кыв туялысь Ижкарын перымса кывъяс симпозиум вылын лыддьӧмтор. In: *Permistika 6.* p. 154-158 5 p. [Online](https://www.researchgate.net/publication/339003539_Rueter_in-Permistika-6_2000-154-158)
 
