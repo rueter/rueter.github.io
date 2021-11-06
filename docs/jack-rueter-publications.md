@@ -5,14 +5,14 @@ Jack Michael Rueter
 ## 2021
 
 
-- Hämäläinen, M., Alnajjar, K., Partanen, N. & Rueter, J., 2021, Finnish Dialect Identification: The Effect of Audio and Text. In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing.* The Association for Computational Linguistics
-- Hämäläinen, M., Alnajjar, K., Rueter, J., Lehtinen, M. & Partanen, N., 2021, An Online Tool Developed for Post-Editing the New Skolt Sami Dictionary. *Electronic lexicography in the 21st century (eLex 2021). Proceedings of the eLex 2021 conference.* Kosem, I., Cukr, M., Jakubíček, M., Kallas, J., Krek, S. & Tiberius, C. (eds.). Brno: Lexical Computing CZ s.r.o., p. 653-664 12 p. (Electronic lexicography in the 21st century (eLex 2021). Proceedings of the eLex 2021 conference).
+- Hämäläinen, M., Alnajjar, K., Partanen, N. & Rueter, J., 2021, Finnish Dialect Identification: The Effect of Audio and Text. In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing.* The Association for Computational Linguistics. [Online](https://www.researchgate.net/publication/355954870_Finnish_Dialect_Identification_The_Effect_of_Audio_and_Text)
+- Hämäläinen, M., Alnajjar, K., Rueter, J., Lehtinen, M. & Partanen, N., 2021, An Online Tool Developed for Post-Editing the New Skolt Sami Dictionary. *Electronic lexicography in the 21st century (eLex 2021). Proceedings of the eLex 2021 conference.* Kosem, I., Cukr, M., Jakubíček, M., Kallas, J., Krek, S. & Tiberius, C. (eds.). Brno: Lexical Computing CZ s.r.o., p. 653-664 12 p. (Electronic lexicography in the 21st century (eLex 2021). Proceedings of the eLex 2021 conference).[Online](https://www.researchgate.net/publication/353130816_An_Online_Tool_Developed_for_Post-Editing_the_New_Skolt_Sami_Dictionary)
 - Hämäläinen, M., Partanen, N., Rueter, J. & Alnajjar, K., May 2021, Neural Morphology Dataset and Models for Multiple Languages, from the Large to the Endangered. In *Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa).* Dobnik, S. & Øvrelid, L. (eds.). Linköping University Electronic Press, p. 166-177 (NEALT Proceedings Series; no. 45)(Linköping Electronic Conference Proceedings; no. 178).
-- Hämäläinen, M., Patpong, P., Alnajjar, K., Partanen, N. & Rueter, J., 2021, Detecting Depression in Thai Blog Posts: a Dataset and a Baseline. In *Proceedings of the 2021 EMNLP Workshop W-NUT: The Seventh Workshop on Noisy User-generated Text.* The Association for Computational Linguistics
-- Hämäläinen, M., Rueter, J. & Alnajjar, K., 2021, Documentación de lenguas amenazadas en la época digital. In: *Linha D’Água.* 34, 2, p. 47-64 18 p.
+- Hämäläinen, M., Patpong, P., Alnajjar, K., Partanen, N. & Rueter, J., 2021, Detecting Depression in Thai Blog Posts: a Dataset and a Baseline. In *Proceedings of the 2021 EMNLP Workshop W-NUT: The Seventh Workshop on Noisy User-generated Text.* The Association for Computational Linguistics. [Online](https://www.researchgate.net/publication/355954955_Detecting_Depression_in_Thai_Blog_Posts_a_Dataset_and_a_Baseline)
+- Hämäläinen, M., Rueter, J. & Alnajjar, K., 2021, Documentación de lenguas amenazadas en la época digital. In: *Linha D’Água.* 34, 2, p. 47-64 18 p.[Online](https://www.researchgate.net/publication/354365669_Documentacion_de_lenguas_amenazadas_en_la_epoca_digital)
 - Partanen, N., Alnajjar, K., Hämäläinen, M. & Rueter, J., 2021, Linguistic change and historical periodization of Old Literary Finnish. In *Proceedings of the 2nd International Workshop on Computational Approaches to Historical Language Change 2021.* Tahmasebi, N., Jatowt, A., Xu, Y., Hengchen, S., Montariol, S. & Dubossarsky, H. (eds.). Stroudsburg: The Association for Computational Linguistics, p. 21–27 7 p.
 - Hämäläinen, M., Alnajjar, K., Partanen, N. & Rueter, J., May 2021, Never guess what I heard... Rumor Detection in Finnish News: a Dataset and a Baseline. In *Proceedings of the Fourth Workshop on NLP for Internet Freedom: Censorship, Disinformation, and Propaganda.* Feldman, A., Da San Martino, G., Leberknight, C. & Nakov, P. (eds.). The Association for Computational Linguistics, p. 39–44 6 p.
-- Rueter, J., Partanen, N., Hämäläinen, M. & Trosterud, T., 2021, Overview of Open-Source Morphology Development for the Komi-Zyrian Language: Past and Future. In Proceedings of the *Seventh International Workshop on Computational Linguistics of Uralic Languages*. Stroudsburg: The Association for Computational Linguistics, p. 62–72 11 p.
+- Rueter, J., Partanen, N., Hämäläinen, M. & Trosterud, T., 2021, Overview of Open-Source Morphology Development for the Komi-Zyrian Language: Past and Future. In Proceedings of the *Seventh International Workshop on Computational Linguistics of Uralic Languages*. Stroudsburg: The Association for Computational Linguistics, p. 62–72 11 p. [Online](https://www.researchgate.net/publication/354762931_Overview_of_Open-Source_Morphology_Development_for_the_Komi-Zyrian_Language_Past_and_Future)
 - Rueter, J., Pereira de Freitas, M. F., Facundes, S., Hämäläinen, M. & Partanen, N., 2021, Apurinã Universal Dependencies Treebank. In *Proceedings of the First Workshop on Natural Language Processing for Indigenous Languages of the Americas.* Mager, M., Oncevay, A., Rios, A., Meza Ruiz, I. V., Palmer, A., Neubig, G. & Kann, K. (eds.). Stroudsburg: The Association for Computational Linguistics, p. 28-33 6 p.
 - Zeman, Daniel; et al., 2020, *Universal Dependencies 2.7*, LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University, http://hdl.handle.net/11234/1-3424. 
 - Zeman, Daniel; et al., 2021, *Universal Dependencies 2.8.1*, LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University, http://hdl.handle.net/11234/1-3687. 
@@ -79,13 +79,39 @@ In Saarinen, Sirkka (ed.). Finnisch-Ugrische Forschungen. 63, p. 254-266 13 p. -
 Rueter, J. M. & Uibo, H. 2015. Morfa-S, nouns. (online Skolt Sami ICALL featuring noun declension practice [case and number]: http://oahpa.no/nuorti/morfas/ )
 Rueter, J. M. & Uibo, H., Gerstenberg, C. & Trosterud, T. 2015. Koltansaamen Nuorti Oahpa Numra. (online Skolt Sami ICALL featuring numerals: http://oahpa.no/nuorti/numra/ )
 - Rueter, J. M. & Uibo, H. & Iva, S. 2015. Võro Oahpa Numra. (online Võro ICALL featuring numerals: http://oahpa.no/voro/numra/ )
-Silfverberg, M. & Rueter, J. 16 Jan 2015. Can Morphological Analyzers Improve the Quality of Optical Character Recognition? (Presentation and publication at IWCLUL 2015. p. 45-56 12 p.)
-- Rueter, J. M. 2015. On Linguistic Distance between Erzya and Moksha, Morphology. 90-letiju professora D.V. Cygankina. (90-летию профессора Д. В. Цыганкина.) [For 90 year celebration of professor D.V. Cygankin.] 20 p. (In press)
+Silfverberg, M. & Rueter, J. 16 Jan 2015. Can Morphological Analyzers Improve the Quality of Optical Character Recognition? (Presentation and publication at IWCLUL 2015. p. 45-56 12 p.) [Online](https://www.researchgate.net/publication/283621221_Can_Morphological_Analyzers_Improve_the_Quality_of_Optical_Character_Recognition)
+- Rueter, J. M. 2015. On Linguistic Distance between Erzya and Moksha, Morphology. 90-letiju professora D.V. Cygankina. (90-летию профессора Д. В. Цыганкина.) [For 90 year celebration of professor D.V. Cygankin.] 20 p. [Online](https://www.researchgate.net/publication/341910659_On_Linguistic_Distance_between_Erzya_and_Moksha)
 
 ## 2014
 
 - Blumberga, R. & Uibo, H. & Rueter, J. 2014. Liivi-oahpa. (online Livonian ICALL introducing numerals and translation practice: http://testing.oahpa.no/livokel/ )
 - Erina, O. & Uibo, H. & Rueter, J. & Gerstenberger, C. & Trosterud, T. 2014. Ersä-oahpa. (online Erzya ICALL with noun declension [definite and indefinite], verb conjugation [indicative] and translation practice: http://oahpa.no/erzya/morfas )
-- Rueter, J. 2014. The Livonian-Estonian-Latvian Dictionary as a threshold to the era of language technological applications. In : Journal of Estonian and Finno-Ugric Linguistics. 5, 1, p. 251–259 9 p.
+- Rueter, J. 2014. The Livonian-Estonian-Latvian Dictionary as a threshold to the era of language technological applications. In : Journal of Estonian and Finno-Ugric Linguistics. 5, 1, p. 251–259 9 p. [Online](https://www.researchgate.net/publication/274215994_The_Livonian-Estonian-Latvian_Dictionary_as_a_threshold_to_the_era_of_language_technological_applications)
 - Rueter, J. & Salo, M. & Johnson, R. 2014. Nettidigisanat: suomi-mokša. (online morphology-savvy dictionary: http://valks.oahpa.no/fin/mdf/ )
 - Rueter, J. & Soosaar, S-E. & Johnson, R. 2014. Nettidigisanat: suomi-tundranenets. (online morphology-savvy dictionary: http://vada.oahpa.no/fin/yrk/ )
+
+## 2013
+## 2012
+
+## 2011
+Rueter, J., 2011, The status of the non-finite OmstO morpheme in Erzya. In: *Linguistica Uralica. XLVII* (2011), 1, p. 41–55 15 p. [Online](https://www.researchgate.net/publication/274117359_The_Status_of_the_Non-Finite_-_OmstO_Morpheme_in_Erzya)
+
+## 2010
+Rueter, J., 2010,*Adnominal person in the morphological system of Erzya*. Suomalais-Ugrilainen Seura. (Suomalais-ugrilaisen seuran toimituksia; vol. 261) (Dissertation) [Online](https://www.researchgate.net/publication/48336530_Adnominal_Person_in_the_Morphological_System_of_Erzya_Adnominaalinen_persoona_ersan_kielen_morfologisessa_jarjestelmassa)
+
+## 2009
+## 2008
+## 2007
+## 2006
+## 2005
+## 2004
+
+## 2003
+Rueter, J., 2003, Etymological determinate particles in Erzya word derivation. *International Symposium on Deictic Systems and Quantification in Languages Spoken in Europe and North and Central Asia: Collection of Papers.* Suihkonen, P. & Comrie, B. (eds.). Leipzig, Germany: Max Planck Institute for Evolutionary Anthropology, p. 164–172 9 p. [Online](https://www.researchgate.net/publication/353220566_Etymological_determinate_particles_in_Erzya_word_derivation)
+
+## 2002
+## 2001
+## 2000
+Rueter, J., 2000, Хельсинкиса университетын кыв туялысь Ижкарын перымса кывъяс симпозиум вылын лыддьӧмтор. In: *Permistika 6.* p. 154-158 5 p. [Online](https://www.researchgate.net/publication/339003539_Rueter_in-Permistika-6_2000-154-158)
+
+## 1999
