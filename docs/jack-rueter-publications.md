@@ -91,6 +91,10 @@ Silfverberg, M. & Rueter, J. 16 Jan 2015. Can Morphological Analyzers Improve th
 - Rueter, J. & Soosaar, S-E. & Johnson, R. 2014. Nettidigisanat: suomi-tundranenets. (online morphology-savvy dictionary: http://vada.oahpa.no/fin/yrk/ )
 
 ## 2013
+- Rueter, J., Dec 2013, Quantification in Erzya. Typology of Quantification: *On quantification in Finnish and languages spoken in the Volga–Kama Region.* Suihkonen, P. & Solovyev, V. (eds.). Lincom GmbH, p. 99-122 24 p. (LINCOM Studies in Language Typology; vol. 28).
+
+- Rueter, J., 2013, The Erzya Language, Where is it spoken? In: *Études finno-ougriennes.* 45, 16 p.
+
 ## 2012
 
 ## 2011
