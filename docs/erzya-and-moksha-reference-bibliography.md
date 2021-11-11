@@ -223,7 +223,7 @@
 
 - Pallas, P. S. = Паллас, П. С. 1789: *Сравнительные словари всҍх языковъ и нарҍчій.* Linguarum totius orbis vocabularia comparativa. въ Санктпетербургҍ.
 
-- Pleshak, Polina 2018: ADNOMINAL POSSESSIVE CONSTRUCTIONS IN MORDVIN, MARI AND PERMIC. [Online](https://doi.org/10.12697/jeful.2018.9.1.06)
+- Pleshak, Polina 2018: ADNOMINAL POSSESSIVE CONSTRUCTIONS IN MORDVIN, MARI AND PERMIC. ESUKA – JEFUL 2018, Vol. 9 No. 1 (2018): Erinumber / Special issue: "Typology of Uralic languages: current views and new perspectives". 139–168. [Online](https://doi.org/10.12697/jeful.2018.9.1.06)
 
 - Polyakov, O. E. &amp; J. Rueter 2004 = Поляков, О. Е. &amp; J. Rueter 2004: *Мокшень и эрзянь кяльхнень фкакс- и аф фкаксшисна. Синь валлувкссна. Эрзянь ды мокшонь кельтнень вейкекс- ды аволь вейкексчист. Сынст валлувост.* /  О. Е. Поляков, J. Rueter; Н.П. Огаревонь лемса Мордовскяй государственнай университетсь. Саранск: «Красный Октябрь» типографиясь.
 
