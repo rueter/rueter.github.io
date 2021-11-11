@@ -10,7 +10,7 @@ Here is a list of what Jack Rueter has [published](docs/jack-rueter-publications
 Here is a list of what Olga Erina has [published](docs/olga-erina-publications.md).
 
 ## Research reference bibliography
-Here is a growing list of research on [Erzya and Moksha studies](docs/erzya-and-moksha-reference-bibliography.html).
+Here is a growing list of research on [Erzya and Moksha studies](docs/erzya-and-moksha-reference-bibliography.md).
 
 # Metadata including place and time of birth of author are instrumental in language research
 

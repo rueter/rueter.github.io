@@ -37,7 +37,7 @@
 
 - Comrie, Bernhard 1981: *The languages of the Soviet Union.* Cambridge : Cambridge University Press.
 
-- Danilov, Viktor (Данилов, Виктор= 1969: К вопросу о комитативе в эрзянском языке. *Советское финно-угроведение* (3), 171&ndash;174.
+- Danilov, Viktor (Данилов, Виктор) 1969: К вопросу о комитативе в эрзянском языке. *Советское финно-угроведение* (3), 171&ndash;174.
 
 - Danilov, Viktor (Данилов, Виктор) 1973: Общие функции инесива в мордовских и прибалтийско-финских языках. *Советское финно-угроведение* (3), 185&ndash;194.
 
@@ -51,7 +51,7 @@
 
 - EKM (Эрзянь кель, морфология) 2000: *Эрзянь кель, морфемика, валонь теевема ды морфология*: Вузонь эрзянь ды финнэнь ожделениянь тонавтницятнень туртов /Редколлегиясь: Д.В. Цыганкин (отв. ред., Н. А. Агафонова, М. Д. Имайкина ды лият. ― Саранск: Тип. «Крас. Окт.». 2000. ― 280 с. ― Мордов.-эрзя яз.
 
-- Erina, Ol'ga (Ерина, Ольга) 1997: *Частицы в мордовских языках* Dissertationes philologiae uralicae universitatis Tartuensis, 1. Tartu ülikooli kirjastus.
+- Erina, Ol'ga (Ерина, Ольга) 1997: *Частицы в мордовских языках* Dissertationes philologiae uralicae universitatis Tartuensis, 1. Tartu ülikooli kirjastus. [Online](https://www.researchgate.net/publication/355981020_rus-myv-mdf_Erina-Olga_Particles-in-the-Mordvin-Languages_rus_1997)
 
 - Ermushkin (Ермушкин, Г. И.) 1968: Северо-западные говоры эрзя-мордовского языка. *OMD* V, 318-382.
 
@@ -66,7 +66,7 @@
 
 - Estill, Denis 2004: *Diachronic change in Erzya word stress.* Suomalais-Ugrilaisen Seuran Toimituksia. 246 Helsinki: Suomalais-Ugrilainen Seura.
 
-- Evsev'ev (Евсевьев, М. Е.) [1928-29]/1963 *Мордовская грамматика.* (Избранные труды 4. Москва 1963)
+- Evsev'ev (Евсевьев, М. Е.) [1928-29]/1963 *Мордовская грамматика.* (Избранные труды 4. Москва 1963) [Online]
 
 - Feoktistov, A. P. (Феоктистов А.П.) 1960: Мордовские языки и их диалекты. In *Вопросы этнической истории мордовского народа*, 63&ndash;82. Москва.
 
@@ -80,7 +80,7 @@
 
 - Feoktistov, Aleksandr &amp; Sirkka Saarinen 2005: *Mokšamordvan murteet.* Suomalais-Ugrilaisen Seuran Toimituksia. 249. Helsinki: Suomalais-Ugrilainen Seura.
 
-- Gabelentz, Herr Conon von der 1839: Versuch einer Mordwinischen Grammatik. *Zeitschrift für die Kunde des Morgenlandes*. II. 2&ndash;3. Göttingen: Druck und Verlag der Dieterlichschen Buchhandlung. 235&ndash;284, 383&ndash;419.
+- Gabelentz, Herr Conon von der 1839: Versuch einer Mordwinischen Grammatik. *Zeitschrift für die Kunde des Morgenlandes*. II. 2&ndash;3. Göttingen: Druck und Verlag der Dieterlichschen Buchhandlung. 235&ndash;284, 383&ndash;419. [Online](https://rueter.github.io/Erzya-grammar-Gabelentz-1838-39/GabelentzHCVonDer-Versuch-einer-mordwinischen-Grammatik-1838-39.html)
 
 
 - Gheno, D1995: “‘Mordwinisch’ oder ‘Mokschanisch und Erzanisch’?”, in Gábor Zaicz (red.),*Zur Frage der uralischen Schriftsprachen*, Budapest, A MTA Nyelvtudományi Intézete, 1995, pp. &ndash;7-61 (Linguistica. Series A. Studia et dissertationes 17).
@@ -223,6 +223,7 @@
 
 - Pallas, P. S. = Паллас, П. С. 1789: *Сравнительные словари всҍх языковъ и нарҍчій.* Linguarum totius orbis vocabularia comparativa. въ Санктпетербургҍ.
 
+- Pleshak, Polina 2018: ADNOMINAL POSSESSIVE CONSTRUCTIONS IN MORDVIN, MARI AND PERMIC. [Online](https://doi.org/10.12697/jeful.2018.9.1.06)
 
 - Polyakov, O. E. &amp; J. Rueter 2004 = Поляков, О. Е. &amp; J. Rueter 2004: *Мокшень и эрзянь кяльхнень фкакс- и аф фкаксшисна. Синь валлувкссна. Эрзянь ды мокшонь кельтнень вейкекс- ды аволь вейкексчист. Сынст валлувост.* /  О. Е. Поляков, J. Rueter; Н.П. Огаревонь лемса Мордовскяй государственнай университетсь. Саранск: «Красный Октябрь» типографиясь.
 
@@ -230,16 +231,16 @@
 - PLN 1995 = Prescriptive Literary Norms 1995: *Мокшень кяльс сёрмадомань, корхтамань, пунктуациянь норматне* *Эрзянь кельсэ сёрмадомань, кортамонь, пунктуациянь лувтне.* Саранск: «Красный Октябрь» типографиясь, 2004. &ndash; 264 с.
 
 
-- Rueter, Jack 2003: Etymological Determinate Particles in Erzya Word Derivation. In *International Symposium of Deictic Systems and Quantification in Languages Spoken in Europe and North and Central Asia*. Udmurt State University, Iževsk, Udmurtia, Russia, May 22&ndash;25, 2001. *Collection of Papers*,  164&ndash;172. Compiled and edited by Pirkko Suihkonen and Bernard Comrie with assistance of Sergej Anatol'evič Maksimov Udmurt State University, Iževsk, Udmurtia, Russia &ndash; Max Planck Institute for Evolutionary Anthropology, Department of Linguistics, Leipzig, Germany.
+- Rueter, Jack 2003: Etymological Determinate Particles in Erzya Word Derivation. In *International Symposium of Deictic Systems and Quantification in Languages Spoken in Europe and North and Central Asia*. Udmurt State University, Iževsk, Udmurtia, Russia, May 22&ndash;25, 2001. *Collection of Papers*,  164&ndash;172. Compiled and edited by Pirkko Suihkonen and Bernard Comrie with assistance of Sergej Anatol'evič Maksimov Udmurt State University, Iževsk, Udmurtia, Russia &ndash; Max Planck Institute for Evolutionary Anthropology, Department of Linguistics, Leipzig, Germany. [Online](https://www.researchgate.net/publication/353220566_Etymological_determinate_particles_in_Erzya_word_derivation)
 
 
-- Rueter, Jack 2005: Conflicting Evidence for the Erzian Genitive<br /> In // *Lihkkun lehkos!* Beiträge zur Finnougristik aus Anlaß des sechzigsten Geburtstages von Hans-Herman Bartens / Cornelius Hasselblatt, Eino Koponen und Anna Widmer (Hrsg.). Veröffentlichungen der Societas Uralo-Altaica, Bd 65 Wiesbaden: Harrassowitz Verlag.
+- Rueter, Jack 2005: Conflicting Evidence for the Erzian Genitive. In // *Lihkkun lehkos!* Beiträge zur Finnougristik aus Anlaß des sechzigsten Geburtstages von Hans-Herman Bartens / Cornelius Hasselblatt, Eino Koponen und Anna Widmer (Hrsg.). Veröffentlichungen der Societas Uralo-Altaica, Bd 65 Wiesbaden: Harrassowitz Verlag. [Online](https://www.researchgate.net/publication/356148683_Conflicting_Evidence_for_the_Erzian_Genitive)
 
 
 - Rueter, Jack 2007: Asymmetries in Word Class Divisions with Examples pertaining to Person in Erzya *40th Annual Meeting of the Societas Linguistica Europaea* 29 August - 1 September 2007. University of Joensuu.
 
 
-- Rueter, Jack 2009a: Case in Erzya: A synthesis of morphology, semantics, syntactic function, and compatibility with number person and definiteness<br /> (Disputed cases in Erzya.) Section paper at SKY 2009: *Case in and across languages*. Helsinki.
+- Rueter, Jack 2009a: Case in Erzya: A synthesis of morphology, semantics, syntactic function, and compatibility with number person and definiteness. (Disputed cases in Erzya.) Section paper at SKY 2009: *Case in and across languages*. Helsinki.
 
 
 - Rueter, Jack 2009b: Is the “-msto/-mste” formant in Erzya anything more than a deverbal noun in the elative? Abstract for "*Finiteness and Non-Finiteness*" Conference in Tallinn, November 25, 2009.
@@ -252,7 +253,8 @@
 
 - Ryabov, A. (Рябов, А.) 1931: *Русско-эрзянский словарь.* Москва: Центриздат.
 
-- Ryabov, Anatoli P. (Рябов, Анатолий П.) 1935: *Эрзянь морфологиянь грамматика.* Саранск.
+- Ryabov, Anatoli P. (Рябов, Анатолий П.) 1935: *Эрзянь морфологиянь грамматика.* Саранск. [Online](https://rueter.github.io/historical-mordvin-grammars/docs/riabov-anatolij-1935-morfologian-grammatika-erzya.html)
+
 
 - Saarinen, Sirkka 2009: Case endings in Mari and Mordvin postpositions. Section paper at SKY 2009: *Case in and across languages*. Helsinki.
 
@@ -283,8 +285,7 @@
 
   - Tikhonova, T. M. (Тихонова Т.М.) 1974: Суффиксы притяжательности в непритяжательном значении в волжских языках финно-угорской группы// In *Вопросы советского финно-угроведения* 119-121. Петрозаводск.
 
-  - Tikhonova, T. M. (Тихонова Т.М.) 1980:
-    <dd>!!! In *GMYa 1980* 183-187.
+- Tikhonova, T. M. (Тихонова Т.М.) 1980: In *GMYa 1980* 183-187.
 
 - Trosterud, Trond 1994: Miksi mordvan objektikonjugaatio näyttää juuri sellaiselta kuin se näyttää? *Volgalaiskielet muutoksessa*, 74&ndash;86. Volgalaiskielten symposiumi Turussa 1. -- 2.9.1993 Turun yliopiston suomalaisen ja yleisen kielitieteen laitoksen julkaisuja, 45, Turku.
 
@@ -293,8 +294,7 @@
 - Tsygankin, D. (Цыганкин, Д.) 1961: Шугуровский диалект эрзя-мордовского языка. *OMD*, 1, 294-395.
 
 
-- Tsygankin D. V. (Цыганкин Д. В.) 1970:
-<dd>Фонетика эрзянского литературного языка. *Devaev, S. Z., Tsygankin D. V. 1970*, 46&ndash;79.
+- Tsygankin D. V. (Цыганкин Д. В.) 1970: Фонетика эрзянского литературного языка. *Devaev, S. Z., Tsygankin D. V. 1970*, 46&ndash;79.
 
 - Tsygankin, D. V. (Цыганкин, Д. В.) 1978: *Грамматические категории имени существительного в диалектах эрзя-мордовского языка (определенности-неопределенности и притяжательности).* Саранск: Мордов. кн. изд-во, 1978. - 70 с.
 
@@ -328,7 +328,7 @@
 - WALS Online: *The World Atlas of Language Structures Online* &lt;http://wals.info/&gt;
 
 
-- Wiedemann, F. J. 1865: Mémoires de l'académie impériale des sciences de St.-Pétersbourg, VII<sup>E</sup> Série. Tome IX, № 5. *Grammatik der ersa-mordwinischen Sprache* nebst einem kleinen mordwinisch-deutschen und deutsch-mordwinischen Wörterbuch.
+- Wiedemann, F. J. 1865: Mémoires de l'académie impériale des sciences de St.-Pétersbourg, VII<sup>E</sup> Série. Tome IX, № 5. *Grammatik der ersa-mordwinischen Sprache* nebst einem kleinen mordwinisch-deutschen und deutsch-mordwinischen Wörterbuch. [Online](https://rueter.github.io/Erzya-grammar-Wiedemann-1865/WiedemannFJ-Grammatik-der-ersa-mordwinischen-Sprache-1865.html)
 
 
 - Witsen, Nicolaes 1705: *Noord en Oost Tartarye, Ofte Bondig Ontwerp Van eenig dier Landen en Volken Welke voormaels bekent zijn geweest. Beneffens verscheide tot noch toe onbekende, en meest nooit voorheen beschreve Tartersche en Nabuurige Gewesten, Landstreeken, Steden, Rivieren, en Plaetzen, in de Noorder en Oosterlykste Gedeelten Van Asia En Europa Verdeelt in twee Stukken, Met der zelviger Land-kaerten: mitsgaders, onderscheide Afbeeldingen van Steden, Drachten, enz. Zedert naeuwkeurig onderzoek van veele Jaren, door eigen ondervondinge ontworpen, beschreven, geteekent, en in 't licht gegeven, Door Nicolaes Witsen.* (First print: Amsterdam, 1692; Second print: Amsterdam, 1705. Reprint in 1785.) 't Amsterdam By François Halma, Boekverkooper op de Nieuwendyk.
