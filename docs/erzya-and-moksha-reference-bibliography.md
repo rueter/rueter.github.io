@@ -1,8 +1,6 @@
 # Reference bibliography to Erzya and Moksha Studies
 
 
-<dl>
-
 - Abondolo, D. 1998: Introduction. In D. Abondolo, (ed.), *The Uralic Languages*, 1&ndash;42. London: Routledge.
 
 - Adushkina (Адушкина, Н. С.) 2000: Азорксчинь категориясь, Азорксчинь невтиця суффикстнэнь тевс нолдамост, Азорксчинь категориянть невтемань китне-янтнэ, Азорксчинь
@@ -343,21 +341,3 @@
 
 - Zaicz, Gábor 2006: Mordva. 184&ndash;218. In D. Abondolo, (ed.), *The Uralic Languages*. London: Routledge.
 
-
-
-</dl>  
-
-
-<p>
-      <a href="http://validator.w3.org/check?uri=referer"><img
-          src="http://www.w3.org/Icons/valid-xhtml10"
-          alt="Valid XHTML 1.0!" height="31" width="88" /></a>
-</p>
-
-
-
-<hr />
-<address>Jack Rueter</address>
-<!-- hhmts start -->Last modified: Thu Nov 4 10:18:45 EET 2009 <!-- hhmts end -->
-</body>
-</html>
