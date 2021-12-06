@@ -223,9 +223,9 @@ Objedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya 
 - Ornatov, Pavel (Ортановъ, Павелъ) 1838: *Мордовская грамматика*a /составленная на наречий мордвы мокши Павломъ Орнатовымъo.* Москва: Въ Синодальной тип.*
 
 
-- Paasonen, Heikki 1897: Die türkischen Lehnwörter im Mordwinischen. *SUSA XV/2.* 1&ndash;64
+- Paasonen, Heikki 1897: Die türkischen Lehnwörter im Mordwinischen. *SUSA XV/2.* 1&ndash;64  (In Erzya, German)
 
-- Paasonen, Heikki 1903: *Mordvinische Lautlehre.*. SUST 22. Helsinki
+- Paasonen, Heikki 1893: *Mordvinische Lautlehre.*. Akademishe  Abhandlung.  Helsingfors, 1893.  Mordwinische Lautlehre. MSFOu XXII. Helsingfors: Société Finno-Ougrienne, 1903. 123 p. (In Erzya, German)
 
 - Paasonen, Heikki 1909/1953: Hilfmittle für das studium der finnisch-ugrischen sprachen IV. *Mordwinische Chrestomathie mit Glossar und grammatikalischem Abriss.* Turku: Suomalais-Ugrilainen Seura.
 
@@ -292,7 +292,7 @@ Objedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya 
 
 - Serebrennikov, B. A. (Серебренников Б.А.) 1967: *Историческая морфология мордовских языков.* М.: Наука, 1967.-260 с.
 
-- Shakhmatov, A. A. (Шахматовъ, А. А.) 1910: *Мордовскій этнографическій сборникъ.* С.-Петербургъ.
+- Shakhmatov, A. A. (Шахматовъ, А. А.) 1910: *Мордовскій этнографическій сборникъ.* (Mordovsky ehtnografichesky sbornik)  [Mordovian  ethnographic  collection]. С.-Петербургъ: Tipografiya Imperatorskoj Akademii Nauk Publ., 1910. 848 p. (In Russian, Erzya)
 
 
 - Strahlenberg, Philip Johan Tabbert von 1730: *Nord- Und Ostliche Theil Von Europa Und Asia, in so weit solches Das ganze Russische Reich mit Sibirien und der grossen Tatarey in sich begreiffet : in einer historisch-geographischen Bescreibung der alten und neuern Zeiten, und vielen andern unbekannten* Stockholm: In Verlegung des Autoris.
@@ -318,6 +318,7 @@ Objedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya 
 
 - Tsygankin, D. V. (Цыганкин, Д. В.) 1978: *Грамматические категории имени существительного в диалектах эрзя-мордовского языка (определенности-неопределенности и притяжательности).* Саранск: Мордов. кн. изд-во, 1978. - 70 с.
 
+- Tsygankin D. V. (Цыганкин, Д.В.) 1979: Fonetika erzyanskih dialektov [Phonetics of the Erzya dialects]. Saransk: Izd-vo Mordov. un-ta Publ., 1979. 112 p. (In Russian)
 
 - Tsygankin, D. V. (Цыганкин, Д.В.) 1994: Транспозиционные отношения между частями речи в эрзянском языке. In *Volgalaiskielet muutoksessa*, 87&ndash;91. Volgalaiskielten symposiumi Turussa 1. &ndash; 2.9.1993. Turku.
 
@@ -326,8 +327,15 @@ Objedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya 
 
 - Tsygankin (Цыганкин, Д. В.) 2000b: *Мордовские языки глазами ученого-лингвиста.* Саранск: Типография «Красный Октябрь».
 
+- Tsygankin D. V. (Цыганкин, Д. В.), Agafonova N. A. (Агафонова Н. А.), Ryabov I. N. (Рябов, И. Н.) 2011: Dialektologichesky atlas. Programma-voprosnik (leksika) [Dialectological atlas. Program-questioner]. Saransk: Progress Publ., 2011. 31 p. (In Russian)
 
-- Tsygankin, D. V., Kiushkina, R. I. (Цыганкин   Д.В.,   Киушкина   Р.И.) 1985: Особенности   употребления   лично-притяжательных аффиксов в эрзянском языке // *Основные тенденции развития финно-угорских языков*, 46-52. Саранск: Мордов. кн. изд-во.
+- Tsygankin D. V.; Bibin M. T. (Цыганкин, Д. В.; Бибин М. Т.) 2002: Lingvistichesky atlas mokshanskikh i erzyanskikh govorov [Linguistic Atlas of the Moksha and the Erzya dialects]. Saransk: Kras. Okt. Publ., 2002. 56 р. (In Russian)
+
+- Tsygankin, D. V.; Kiushkina, R. I. (Цыганкин   Д.В.;   Киушкина   Р.И.) 1985: Особенности   употребления   лично-притяжательных аффиксов в эрзянском языке // *Основные тенденции развития финно-угорских языков*, 46-52. Саранск: Мордов. кн. изд-во.
+
+- Tsygankin, D. V.; Mosin, M. V. (Цыганкин, Д. В.; Мосин, М. В.) 1998: Etimologiyan’ valks [Etymological dictionary]. Saransk: Mordov. kn.  izd-vo Publ., 1998. 240 p. (In Erzya)
+
+- Tsyganov, N. F. (Цыганов, Н. Ф.) 1959: K voprosu o klassifikatsii mordovskogo-erzya yazyka [To the question of classification of the Mordovian-Erzya languages]. Soveshchanie po voprosam istoricheskoy grammatiki i istoricheskoy dialektologii finno-ugorskikh yazykov [Conference on the questions of historical grammar and historical dialectology of the Finno-Ugric languages]. Moscow: [w/p], 1959. pp. 70–73. (In Russian)
 
 - Tsypkaynkina, V. P. (Цыпкайкина, В.П.) 1994: Текстообразующие средства эрзянского языка (на примере актуальной субстантивации).  In *Volgalaiskielet muutoksessa*, 92&ndash;97. Volgalaiskielten symposiumi Turussa 1. &ndash; 2.9.1993. Turku.
 
