@@ -3,12 +3,17 @@
 
 - Abondolo, D. 1998: Introduction. In D. Abondolo, (ed.), *The Uralic Languages*, 1&ndash;42. London: Routledge.
 
-- Adushkina (Адушкина, Н. С.) 2000: Азорксчинь категориясь, Азорксчинь невтиця суффикстнэнь тевс нолдамост, Азорксчинь категориянть невтемань китне-янтнэ, Азорксчинь
-  полавтнемасонть падеженть лувось. *EKM*, 89&ndash;102.
+- Adushkina (Адушкина, Н. С.) 2000: Азорксчинь категориясь, Азорксчинь невтиця суффикстнэнь тевс нолдамост, Азорксчинь категориянть невтемань китне-янтнэ, Азорксчинь полавтнемасонть падеженть лувось. *Эрзянь кель, морфемика, валонь теевема ды морфология*: Вузонь эрзянь ды финнэнь ожделениянь тонавтницятнень туртов /Редколлегиясь: Д.В. Цыганкин (отв. ред., Н. А. Агафонова, М. Д. Имайкина ды лият, 89&ndash;102. ― Саранск: Тип. «Крас. Окт.». 2000. ― 280 с. ― Мордов.-эрзя яз.
 
 - Agafonova (Агафонова, Н. А.) 2000: Местоимениясь. *Эрзянь кель, морфемика, валонь теевема ды морфология*: Вузонь эрзянь ды финнэнь ожделениянь тонавтницятнень туртов /Редколлегиясь: Д.В. Цыганкин (отв. ред., Н. А. Агафонова, М. Д. Имайкина ды лият, 124&ndash;145. ― Саранск: Тип. «Крас. Окт.». 2000. ― 280 с. ― Мордов.-эрзя яз.
 
-- Agafonova, Nina A. (Агафонова, Нина А.) and Ryabov, Ivan N. (Рябов, Иван Н.) 2021. Уляновской областень новомалыклинской райононь Эрзянь велень кортавкстнэсэ азорксчинь невтиця суффикстнэнь башка ёнксост. In Mika Hämäläinen, Niko Partanen, and Khalid Alnajjar (eds), Multilingual Facilitation. University of Helsinki.
+- Agafonova  N. A. (Агафонова, Н. А.),  Ryabov  I.  N. (Рябов, И. Н.) 2013:  Dialektologichesky atlas kak rezultat issledovaniy erzyanskikh dialektov metodami lingvisticheskoy geografii [Dialectological atlas as a result of research of the Erzya dialects through methods of linguistic geography]. Finno-ugorskij mir [Finno-Ugric World], 2013, no. 2 (15), pp. 48–53. (In Russian)
+
+- Agafonova  N. A. (Агафонова, Н. А.),  Ryabov  I.  N. (Рябов, И. Н.) 2014:  Dialektologichesky atlas ehrzyanskogo yazyka. Programma-voprosnik (Morfologiya) [Dialectological atlas of the Erzya language. Program-questioner]. Saransk: Print-Izdat Publ., 2014. 52 p. (In Russian)
+
+- Agafonova, Nina A. (Агафонова, Нина А.) and Ryabov, Ivan N. (Рябов, Иван Н.) 2021. Уляновской областень новомалыклинской райононь Эрзянь велень кортавкстнэсэ азорксчинь невтиця суффикстнэнь башка ёнксост. In Mika Hämäläinen, Niko Partanen, and Khalid Alnajjar (eds), Multilingual Facilitation. University of Helsinki. [Online](https://www.researchgate.net/publication/350325623_Ulanovskoj_Oblasten_Novomalyklinskoj_Rajonon_Erzan_Velen_Kortavkstnese_Azorkscin_Nevtica_Suffikstnen_Baska_Enksost)
+
+- Agafonova N. A. (Агафонова, Нина А.), Ryabov I. N. (Рябов, И. Н.), Ryabova G. V. (Рябова, Г. В.) 2018: Programma po sboru dialektnogo materiala erzyanskogo yazyka [Program on collecting of dialect material of the Erzya language]. Saransk: Izd-vo Mordov. un-ta Publ., 2018. 80 p. (In Russian)
 
 - Ahlqvist, August Engelbrekt 1859: *Läran om Verbet i Mordvinskans Mokscha-dialekt.* Akademisk Afhandling, som med den vidtberömda Historisk-Filologiska Fakultetens vid Kejserliga Alexanders-Universitetet i Finland samtycke till offentlig granskning framställes af August Engelbrekt Ahlqvist, Hist.-Fil. Magister. Uti hist.-filol. lärosalen den 28 Maj 1859 p. v. t. f. m. Helsingfors, tryckt hos J. C. Frenckell &amp; Son, 1859.
 
@@ -28,8 +33,11 @@
 
 - Bubrikh (Бубрих, Д. В.) 1930: *Звуки и формы эрзянской речи по говору с. Козловки.* Центральное издательство народов СССР. Москва.
 
-- Bubrikh (Бубрих, Д. В.) 1947: *Эрзя мордовская грамматика - минимум (Пособие для
-  вузов).* Саранск. <!-- ?? 51. --> 
+- Bubrikh  D.  V. (Бубрих, Д. В.) 1935: Instruktsiya  i  programma  po  sobiraniyu  materiala  dlya  dialektologicheskogo  atlasa mordovskikh (erzya i moksha) yazykov [Instruction and program on collecting of dialectological material for dialectological atlas of the Mordovian (Erzya and Moksha) languages]. Saransk: Mordgiz Publ., 1935. 46 p. (In Russian)
+
+- Bubrikh D. V. (Бубрих, Д. В.) 1936: O rabote po mordovskomu dialektologicheskomu atlasu [About work on the Mordovian dialectological atlas]. Revolytsiya i pismennost [Revolution and writing], 1936, no. 2, pp. 38–41. (In Russian)
+
+- Bubrikh (Бубрих, Д. В.) 1947: *Эрзя мордовская грамматика - минимум (Пособие для  вузов).* Саранск. <!-- ?? 51. --> 
 
 - Bubrikh (Бубрих, Д. В.) 1953: *Историческая грамматика эрзянского языка.* Саранск.
 
@@ -57,11 +65,11 @@
 
 - Ermushkin (Ермушкин, Г. И.) 1968: Северо-западные говоры эрзя-мордовского языка. *Очерки мордовских диалектов, том V.* Редакционная коллегия: И. С. Бузаков, Р. В. Бабушкина, Д. Т. Надькин. Научно-Исследовательский Институт Языка, Литературы, Истории И Экономики При Совете Министров Мордовской АССР, 318-382. Мордовское книжное издательство —  Саранск.
 
+- Ermushkin G. I. (Ермушкин, Г. И.) 1984: Arealnye issledovaniya po vostochnym finno-ugorskim yazykam (erzya-mordovskij yazyk) [Areal studies on the Eastern Finno-Ugric languages (the Erzya-Mordovian language)]. Moscow: Nauka Publ., 1984. 142 p. (In Russian)
+
 - Ermuškin, Grigorij I. (Ермушкин, Григорий И.) 1991: III. *Verchnep'janskij dialekt èrzja-mordovskogo jazyka.* (Als Manuskript vervielfältigt.) Mitteilungen der Societas Uralo-Altaica. Heft 13. Hamburg: Finnisch-Ugrisches Seminar der Universität Hamburg.
 
-
 - Ermuškin, Grigorij I. (Ермушкин, Григорий И.) 2004: IX. *Srednetëšskij dialekt èrzja-mordovskogo jazyka.* (Als Manuskript vervielfältigt.) Mitteilungen der Societas Uralo-Altaica. Heft 24. Moskva ― Groningen: Faculteit der Letteren, Finoegristiek, Rijksuniversiteit Groningen.
-
 
 - ERD 1993 = ЭРС 1993: Эрзянско-русский словарь. Ок. 27 000 слов/НИИ языка, литературы, истории и экономики при Правительстве Мордовской ССР, под ред. Серебренникова Б. А., Бузаковой Р. Н., Мосина М. В. М.: Рус. яз., Дигора, 1993. 803 с.
 
@@ -78,7 +86,8 @@
 
 - Feoktistov, A. P. (Феоктистов А.П.) 1975: Мордовские языки. In *Основы финно-угорского языкознания*: Прибалтийско-финские, саамские и мордовские языки, 248&ndash;345. Москва: Наука.
 
-- Feoktistow, A.P. 1990 = Феоктистов А.П. 1990: Die Dialekte der mordwinischen Sprachen.  In *MW* Band I, XXXI&ndash;LVII.
+- Feoktistow, A.P. 1990 = Феоктистов А.П. 1990: Die Dialekte der mordwinischen Sprachen.  In  *H. Paasonens Mordwinisches Wörterbuch.* Band I (A-J) Zusammengestellt von Kaino Heikkilä. Unter Mitarbeit von Hans-Hermann Bartens, Aleksandr Feoktistow und Grigori Jermuschkin bearbeitet und herausgegeben von Martti Kahla. Lexica Societatis Fenno-Ugricae XXIII, 1 Kotimaisten kielten tutkimuskeskuksen julkaisuja 59, XXXI&ndash;LVII. Helsinki: Suomalais-Ugrilainen Seura &amp; Kotimaisten kielten tutkimuskeskus.
+
 
 - Feoktistov, Aleksandr &amp; Sirkka Saarinen 2005: *Mokšamordvan murteet.* Suomalais-Ugrilaisen Seuran Toimituksia. 249. Helsinki: Suomalais-Ugrilainen Seura.
 
@@ -195,8 +204,11 @@
 
 - Niemi, Jaana &amp; Mihail Mosin 1995: *Ersäläis-suomalainen sanakirja*. Turun yliopiston suomalaisen ja yleisen kielitieteen laitoksen julkaisuja 48. Turku.
 
-- Obʼʼedkin, V. D. 1961 = Объедкин, В. Д. 1961: Старо-Турдаковский диалект эрзя-мордовского языка. *Очерки мордовских диалектов. Том 1.* Редакторы: доктор филологических наук. профессор М. Н. Колядёнков, Кандидат филологических наук О. И. Чудаева. Научно-Исследовательский Институт Языка, Литературы, Истории и Экономики при Совете Министров Мордовской АССР, 100-196. Мордовское Книжное Издательство — Саранск.
+Objedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya  svedeny  po  dialektam  mordovskikh  (mokshanskogo  i erzyanskogo) yazykov [Questioner for collecting of data on the dialects of the Mordovian (Moksha and Erzya) languages]. Saransk: Tip. «Kras. Okt.» Publ., 1960. 106 p. (In Russian)
 
+- Obˮedkin, V. D. (Объедкин, В. Д.) 1961: Старо-Турдаковский диалект эрзя-мордовского языка. *Очерки мордовских диалектов. Том 1.* Редакторы: доктор филологических наук. профессор М. Н. Колядёнков, Кандидат филологических наук О. И. Чудаева. Научно-Исследовательский Институт Языка, Литературы, Истории и Экономики при Совете Министров Мордовской АССР, 100-196. Мордовское Книжное Издательство — Саранск.
+
+- Ocherki mordovskih dialektov [Essays of the Mordovian dialects]. Saransk: Mordov. kn. izd-vo Publ., Vol. 1. 1961. 396 p.; Vol. 2. 1963. 448 p.; Vol. 3. 1963. 276 p.; Vol. 4. 1966. 382 p.; Vol. 5. 1968. 399 p. (In Russian)
 
 - OMD 1961 = ОМД 1961: *Очерки мордовских диалектов. Том 1.* Редакторы: доктор филологических наук. профессор М. Н. Колядёнков, Кандидат филологических наук О. И. Чудаева. Научно-Исследовательский Институт Языка, Литературы, Истории и Экономики при Совете Министров Мордовской АССР. Мордовское Книжное Издательство — Саранск.
 
@@ -249,18 +261,20 @@
 - Rueter, Jack 2009b: Is the “-msto/-mste” formant in Erzya anything more than a deverbal noun in the elative? Abstract for "*Finiteness and Non-Finiteness*" Conference in Tallinn, November 25, 2009.
 
 
-- Rueter, Jack 2010: *Adnominal Person in the Morphological System of Erzya* Suomalais-Ugrilaisen Seuran Toimituksia 261. Helsinki: Suomalais-Ugrilainen Seura.
+- Rueter, Jack 2010: *Adnominal Person in the Morphological System of Erzya* Suomalais-Ugrilaisen Seuran Toimituksia 261. Helsinki: Suomalais-Ugrilainen Seura. [Online](https://www.researchgate.net/publication/48336530_Adnominal_Person_in_the_Morphological_System_of_Erzya_Adnominaalinen_persoona_ersan_kielen_morfologisessa_jarjestelmassa)
 
 
 - Rueter, Jack 2013: On Quantification in Erzya In: "*Typology of Quantification: On quantification in Finnish and languages spoken in the Volga–Kama Region*".
 
-- Jack Rueter. 2016. Towards a systematic characterization of dialect variation in the erzya-speaking world: Isoglosses and their reflexes attested in and around the dubyonki raion. In: Ksenia Shagal and Heini Arjava (eds), *Mordvin Languages in the Field*, volume 10 of Uralica Helsingiensia, pages 109–148. - Helsinki.
+- Jack Rueter. 2016. Towards a systematic characterization of dialect variation in the erzya-speaking world: Isoglosses and their reflexes attested in and around the dubyonki raion. In: Ksenia Shagal and Heini Arjava (eds), *Mordvin Languages in the Field*, volume 10 of Uralica Helsingiensia, pages 109–148. - Helsinki. [Online](https://www.researchgate.net/publication/341902931_Towards_a_systematic_characterization_of_dialect_variation_in_the_Erzya-speaking_world_Isoglosses_and_their_reflexes_attested_in_and_around_the_Dubyonki_Raion)
 
 - Ryabov, A. (Рябов, А.) 1931: *Русско-эрзянский словарь.* Москва: Центриздат.
 
 - Ryabov, Anatoli P. (Рябов, Анатолий П.) 1935: *Эрзянь морфологиянь грамматика.* Саранск. [Online](https://rueter.github.io/historical-mordvin-grammars/docs/riabov-anatolij-1935-morfologian-grammatika-erzya.html)
 
 - Ryabov, Ivan (Рябов, Иван) 2016. Ob issledovanii èrzânskix dialektov metodami lingvističeskoj geografii [On research ofthe Erzya dialects with linguistic-geographic methods].  In: Ksenia Shagal and Heini Arjava (eds), *Mordvin Languages in the Field*, volume 10 ofUralica Helsingiensia, pages 91–108.
+
+- Ryabov, I. N. (Рябов, И. Н.), Ryabova, G.V. (Рябов, И. Н.) 2019: Lexical Atlas of the Erzya dialects (materials and research). Bulletin of Ugric Studies. Vol. 9, No 1. 2019, 61–70. [Online](https://www.researchgate.net/publication/333355587_Lexical_Atlas_of_the_Erzya_dialects_materials_and_research)
 
 - Saarinen, Sirkka 2009: Case endings in Mari and Mordvin postpositions. Section paper at SKY 2009: *Case in and across languages*. Helsinki.
 
@@ -295,7 +309,7 @@
 
 - Trosterud, Trond 1994: Miksi mordvan objektikonjugaatio näyttää juuri sellaiselta kuin se näyttää? *Volgalaiskielet muutoksessa*, 74&ndash;86. Volgalaiskielten symposiumi Turussa 1. -- 2.9.1993 Turun yliopiston suomalaisen ja yleisen kielitieteen laitoksen julkaisuja, 45, Turku.
 
-- Trosterud, Trond 2006: *Homonymy in the Uralic Two-Argument Agreement Paradigms.* Suomalais-Ugrilaisen Seuran Toimituksia 251.   Helsinki: Suomalais-Ugrilainen Seura.
+- Trosterud, Trond 2006: *Homonymy in the Uralic Two-Argument Agreement Paradigms.* Suomalais-Ugrilaisen Seuran Toimituksia 251. Helsinki: Suomalais-Ugrilainen Seura.
 
 - Tsygankin, D. (Цыганкин, Д.) 1961: Шугуровский диалект эрзя-мордовского языка. *Очерки мордовских диалектов. Том 1.* Редакторы: доктор филологических наук. профессор М. Н. Колядёнков, Кандидат филологических наук О. И. Чудаева. Научно-Исследовательский Институт Языка, Литературы, Истории и Экономики при Совете Министров Мордовской АССР, 294-395. Мордовское Книжное Издательство — Саранск.
 
