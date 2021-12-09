@@ -273,7 +273,7 @@ Objedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya 
 
 - Plešak, Polina 2018: ADNOMINAL POSSESSIVE CONSTRUCTIONS IN MORDVIN, MARI AND PERMIC. ESUKA – JEFUL 2018, Vol. 9 No. 1 (2018): Erinumber / Special issue: "Typology of Uralic languages: current views and new perspectives". 139–168. [Online](https://www.researchgate.net/publication/330097139_Adnominal_possessive_constructions_in_Mordvin_Mari_and_Permic)
 
-- Polyakov, O. E. &amp; J. Rueter 2004 = Поляков, О. Е. &amp; J. Rueter 2004: *Мокшень и эрзянь кяльхнень фкакс- и аф фкаксшисна. Синь валлувкссна. Эрзянь ды мокшонь кельтнень вейкекс- ды аволь вейкексчист. Сынст валлувост.* /  О. Е. Поляков, J. Rueter; Н.П. Огаревонь лемса Мордовскяй государственнай университетсь. Саранск: «Красный Октябрь» типографиясь.
+- Polyakov, O. E.; J. Rueter (Поляков, О. Е.; J. Rueter) 2004: *Мокшень и эрзянь кяльхнень фкакс- и аф фкаксшисна. Синь валлувкссна. Эрзянь ды мокшонь кельтнень вейкекс- ды аволь вейкексчист. Сынст валлувост.* /  О. Е. Поляков, J. Rueter; Н.П. Огаревонь лемса Мордовскяй государственнай университетсь. Саранск: «Красный Октябрь» типографиясь.
 
 
 - PLN 1995 = Prescriptive Literary Norms 1995: *Мокшень кяльс сёрмадомань, корхтамань, пунктуациянь норматне* *Эрзянь кельсэ сёрмадомань, кортамонь, пунктуациянь лувтне.* Саранск: «Красный Октябрь» типографиясь, 2004. &ndash; 264 с.
