@@ -93,6 +93,8 @@
 
 - Erina, Ol'ga (Ерина, Ольга) 1997: *Частицы в мордовских языках* Dissertationes philologiae uralicae universitatis Tartuensis, 1. Tartu ülikooli kirjastus. [Online](https://www.researchgate.net/publication/355981020_rus-myv-mdf_Erina-Olga_Particles-in-the-Mordvin-Languages_rus_1997)
 
+- (Ерина, Ольга) 1999: Словообразующие частицы в мордовских языках. In: *Словообразовательная архитектоника ва Волжско-финских языках*: Материалы междунар. науч. симпозиума 1–4 окт. 1998 г. /МГУ им. Н. П. Орагёва: Редкол.: М. В. Мосин (отв. ред.), М. Д. Имайкина, О. В. Ерина и др. 99–103. – Саранск: Тип. «Крас. Окт.», 1999.–144 с. (ISBN: 5–7493–0196–6)
+
 - Ermuškin (Ермушкин, Г. И.) 1968: Северо-западные говоры эрзя-мордовского языка. *Очерки мордовских диалектов, том V.* Редакционная коллегия: И. С. Бузаков, Р. В. Бабушкина, Д. Т. Надькин. Научно-Исследовательский Институт Языка, Литературы, Истории И Экономики При Совете Министров Мордовской АССР, 318-382. Мордовское книжное издательство —  Саранск.
 
 - Ermuškin G. I. (Ермушкин, Г. И.) 1984: Arealnye issledovaniya po vostočnym finno-ugorskim yazykam (erzya-mordovskij yazyk) [Areal studies on the Eastern Finno-Ugric languages (the Erzya-Mordovian language)]. Moscow: Nauka Publ., 1984. 142 p. (In Russian)
@@ -282,6 +284,11 @@ Objedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya 
 
 - Rueter, Jack 2005: Conflicting Evidence for the Erzian Genitive. In // *Lihkkun lehkos!* Beiträge zur Finnougristik aus Anlaß des sechzigsten Geburtstages von Hans-Herman Bartens / Cornelius Hasselblatt, Eino Koponen und Anna Widmer (Hrsg.). Veröffentlichungen der Societas Uralo-Altaica, Bd 65 Wiesbaden: Harrassowitz Verlag. [Online](https://www.researchgate.net/publication/356148683_Conflicting_Evidence_for_the_Erzian_Genitive)
 
+- Rueter, Jack 1999: Эрзянь сёрмадома лувонть коряс арсема [A suggestion for the Erzya orthography]. In: Словообразовательная архитектоника ва Волжско-финских языках: Материалы междунар. науч. симпозиума 1–4 окт. 1998 г. /МГУ им. Н. П. Орагёва: Редкол.: М. В. Мосин (отв. ред.), М. Д. Имайкина, О. В. Ерина и др. 49–55. – Саранск: Тип. «Крас. Окт.», 1999.–144 с. (ISBN: 5–7493–0196–6)
+
+- Rueter, Jack 2000a: Эрзянь келенть морфологиянь коряс сёрмадоманзо авейкетьксчинзэ [On the irregularities of the morphology-based Erzya-language orthography]. In: *Материалы II Всероссийской научной конференции финно-угроведов «Финно-угристика на пороге III тысячелетия»* (филологические науки) 2–5 февраля 2000 г. /Правительство Респ. Мордовия, МНИИЯЛИЭ, МГУ им. Н. П. Огарёва, МГПИ им. М. Е. Евсевьева: Редкол. М. В Мосин (отв. ред), Н. С. Алямкин, Д. В. Цыганкин и др.  270–272. – Саранск: Тип. «Крас. Окт.», 2000.–520 с. (ISBN: 5–7493-0256-3)
+
+- Rueter, Jack 2000b: Молемс глаголонть сюлмавксонзо. [The verb "molems" 'to go' and its contexts.] In: *Материалы II Всероссийской научной конференции финно-угроведов «Финно-угристика на пороге III тысячелетия»* (филологические науки) 2–5 февраля 2000 г. /Правительство Респ. Мордовия, МНИИЯЛИЭ, МГУ им. Н. П. Огарёва, МГПИ им. М. Е. Евсевьева: Редкол. М. В Мосин (отв. ред), Н. С. Алямкин, Д. В. Цыганкин и др., 273-277. – Саранск: Тип. «Крас. Окт.», 2000.–520 с. (ISBN: 5–7493-0256-3)
 
 - Rueter, Jack 2007: Asymmetries in Word Class Divisions with Examples pertaining to Person in Erzya *40th Annual Meeting of the Societas Linguistica Europaea* 29 August - 1 September 2007. University of Joensuu.
 
@@ -305,8 +312,10 @@ Objedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya 
 
 - Ryabov, Ivan (Рябов, Иван) 2016. Ob issledovanii èrzânskix dialektov metodami lingvističeskoj geografii [On research ofthe Erzya dialects with linguistic-geographic methods].  In: Ksenia Shagal and Heini Arjava (eds), *Mordvin Languages in the Field*, volume 10 ofUralica Helsingiensia, pages 91–108.
 
-- Ryabov, I. N. (Рябов, И. Н.), Ryabova, G.V. (Рябов, И. Н.) 2019: Lexical Atlas of the Erzya dialects (materials and research). Bulletin of Ugric Studies. Vol. 9, No 1. 2019, 61–70. [Online](https://www.researchgate.net/publication/333355587_Lexical_Atlas_of_the_Erzya_dialects_materials_and_research)
+- Ryabov, I. N.; Ryabova, G.V. (Рябов, И. Н., Рябов, Г. В.) 2019: Lexical Atlas of the Erzya dialects (materials and research). *Bulletin of Ugric Studies. Vol. 9, No 1. 2019*, 61–70. [Online](https://www.researchgate.net/publication/333355587_Lexical_Atlas_of_the_Erzya_dialects_materials_and_research)
 
+- Saarinen, Sirkka 1999: Словообразовательная архитектоника в волжских языках: диахронная перспектива. In: *Словообразовательная архитектоника ва Волжско-финских языках*: Материалы междунар. науч. симпозиума 1–4 окт. 1998 г. /МГУ им. Н. П. Орагёва: Редкол.: М. В. Мосин (отв. ред.), М. Д. Имайкина, О. В. Ерина и др. 3–6. – Саранск: Тип. «Крас. Окт.», 1999.–144 с. (ISBN: 5–7493–0196–6)
+ 
 - Saarinen, Sirkka 2009: Case endings in Mari and Mordvin postpositions. Section paper at SKY 2009: *Case in and across languages*. Helsinki.
 
 
