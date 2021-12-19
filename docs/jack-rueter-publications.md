@@ -109,6 +109,8 @@ Rueter, J., 2010,*Adnominal person in the morphological system of Erzya*. Suomal
 ## 2005
 - Rueter, Jack 2005: Conflicting Evidence for the Erzian Genitive. In // *Lihkkun lehkos!* Beiträge zur Finnougristik aus Anlaß des sechzigsten Geburtstages von Hans-Herman Bartens / Cornelius Hasselblatt, Eino Koponen und Anna Widmer (Hrsg.). Veröffentlichungen der Societas Uralo-Altaica, Bd 65 Wiesbaden: Harrassowitz Verlag. [Online](https://www.researchgate.net/publication/356148683_Conflicting_Evidence_for_the_Erzian_Genitive)
 
+## 2004
+- Rueter, J., 2004: Statistics on Bubrikh’s Pronominal Paradigm from 1930. Статья. С. 94-96. *Язык. Культура. Личность: Межвузовский сборник научных трудов* (Материалы Всероссийской научно-практической конференции «Язык и литературка в контексте культуры») /Отв. редактор: д.ф.н. проф. член-корр. МАНПО С.М. Колесникова. ― М.: МАНПО, 2004. ― 210 с. [Online](https://www.researchgate.net/publication/357164393_Statistics_on_Bubrikh's_pronominal_paradigm_from_1930)
 
 ## 2003
 - Rueter, J., 2003, Etymological determinate particles in Erzya word derivation. *International Symposium on Deictic Systems and Quantification in Languages Spoken in Europe and North and Central Asia: Collection of Papers.* Suihkonen, P. & Comrie, B. (eds.). Leipzig, Germany: Max Planck Institute for Evolutionary Anthropology, p. 164–172 9 p. [Online](https://www.researchgate.net/publication/353220566_Etymological_determinate_particles_in_Erzya_word_derivation)
