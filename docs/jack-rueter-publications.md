@@ -115,6 +115,9 @@ Rueter, J., 2010,*Adnominal person in the morphological system of Erzya*. Suomal
 ## 2003
 - Rueter, J., 2003, Etymological determinate particles in Erzya word derivation. *International Symposium on Deictic Systems and Quantification in Languages Spoken in Europe and North and Central Asia: Collection of Papers.* Suihkonen, P. & Comrie, B. (eds.). Leipzig, Germany: Max Planck Institute for Evolutionary Anthropology, p. 164–172 9 p. [Online](https://www.researchgate.net/publication/353220566_Etymological_determinate_particles_in_Erzya_word_derivation)
 
+## 2002
+- Rueter, J. (Рютер, Дж.) 2002: On word order of pronouns in the final-position parenthetical found in the book «Od èrâmo uvt» by F. Chesnakov. In: Râbovy: pro et contra: Collection of  materials of the Ryabov scientific seminar [Sb. materialov Râbovskix nauč čtenij, g. Saransk, 16 apr. 2002 g.[ / Otv. red. i sost. V. A. Ûrčenkov: NIIGN pri Pravitelʹstve RM. – Saransk, 2002. – 246 s. (Nauč. tr. / NIIGN pri Pravitelʹstve RM; T. 2 (119)). [Online](https://www.researchgate.net/publication/357205626_On_word_order_of_pronouns_in_the_final-position_parenthetical_found_in_the_book_Od_eramo_uvt_by_F_Chesnakov)
+
 ## 2001
 - Rueter, J., 2001: Сонензэ – тензэ. In: Финно-угристикань кевкстематне: Алтавить Т. М. Тихонова доцентэнть чачома чистэнзэ 60 иень топодемантень /Редкол.: М. Д. Имайкина (отв. ред.), К. И. Ананьина, И. Н. Рябов, В. П. Цыпкайкина, 106–112. – Саранск ош: Тип. «Крас. Окт.», 2001.– 164. [Online](https://www.researchgate.net/publication/357163908_Sonze_-_tenze_On_Erzya_dative_personal_pronoun_variation_with_Danes_progression)
 
