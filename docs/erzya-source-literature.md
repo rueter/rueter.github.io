@@ -304,11 +304,11 @@ In Kiskan’ èryamo, 2000. Саранск
 
 ## Кемайкина, Раиса
 
-- Kemaikina, Raisa 1987 = Кемайкина, Раиса 1987: Poetry: Маней васолкст.
+- Kemajkina, Raisa 1987 = Кемайкина, Раиса 1987: Poetry: Маней васолкст.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 Word count: 2,199; Character count: 32,749
 
-- Kemaikina, Raisa 1996 = Кемайкина, Раиса 1996: Drama: Шумбрат, од ие.
+- Kemajkina, Raisa 1996 = Кемайкина, Раиса 1996: Drama: Шумбрат, од ие.
 In Mon’ vechkeviks knigam, 1996. Саранск Format: majorityCorpus
 Word count: 1,253; Character count: 17,534 
 
@@ -613,3 +613,5 @@ Poetry: Арсемат ды ёжот.
 Саранск ― Мордовской книжной издательствась. Format: majorityCorpus
 Word count: 22,827; Character count: 315,603
 
+#
+Образцы мордовской народной словесности выпускъ I. пѣсни на Эрзянскомъ и нѣкорторыя на Мокшанскомъ нарѣчіи. – Казанъ. Типографія Губернскаго правленія. 1882. 231 стр.
