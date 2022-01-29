@@ -19,5 +19,10 @@ By documenting geographic locations and time periods associated with different n
 ## Erzya source literature
 Here is a growing list of [Erzya writers.](docs/erzya-source-literature.md)
 
+## Коми кыв вылын мый видзӧдны
+
+[Комиӧн вежӧраа](docs/komi-videos.md)
+
 ## Эрзянь кельсэ ванмот
 Тесэ морыть ды кортыть эрзякс: [Эрзянь ванмот.](docs/erzya-videos.md)
+
