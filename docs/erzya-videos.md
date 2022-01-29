@@ -162,6 +162,32 @@
 
 [Каляда «1989»](https://youtu.be/6uN6QKaZ_sI)
 
+## Эрзянь Вал
+
+[Нолдавкс 1 «2019-03-05»](https://youtu.be/As5ayI-dC5k)
+
+[Нолдавкс 31 «2020-08-11»](https://youtu.be/lWKmT39AjHw)
+
+[Нолдавкс 71 «2022-01-25»](https://youtu.be/5t1mEg9naSo)
+
+## Эрзянь Геннадый
+Оренбургонь Цёрась максы эрзянь келень ламо урокт. Аламошка корты рузокс, седе пек корты эрзякс.
+
+[Эрзянь кель 19-це урокось Объект марто глаголонь сыця шкань форматне «2017-10-08»](https://youtu.be/jbvcTMG4k0g)
+
+[Эрзянь кель 1-це урокось Шумбракстнемась. Мелень ёвтамось](https://youtu.be/HM0BaeNB0p4)
+
+[Эрзянь кель 2-це пельксэсь 10-це урокось Переместительный падеж основного склонения «2019-07-01»](https://youtu.be/ZAGRlcEtWXM)
+
+[Эрзянь кельсэ кортамонь ёрокчись 1. «2021-03-20»](https://youtu.be/6GtAY9_ydy8)
+
+[Эрзянь кельсэ кортамонь ёрокчись. 3.](https://youtu.be/8Q1ZMJjZGTI)
+
+Англань келень ломантнень туртовгак теи тев.
+[Erzya English 16th lesson The present (future) tense of the verb. Examples «2017-09-20»](https://youtu.be/a6jYOU8OaLg)
+
+Тесэ пурназь зярыя урок (1–31):
+[Erzya English second lesson Pronoun, verb. Examples](https://youtu.be/np09XKdS74I)
 ## Ялгат
 
 [Чевгель](https://youtu.be/YHhwI5q67lA)
