@@ -128,7 +128,7 @@
 |PxPl1|x|x|x|x|x|x|
 |PxPl2|x|x|x|x|x|x|
 |-----|-----|------|-----|-----|-----|-----|-----|
-|steal|qada|qadqada|x|x|x|x|
+|to steal|qada|qadqada|x|x|x|x|
 |PxSg1|x|x|x|x|x|x|
 |PxSg2|x|x|x|x|x|x|
 |PxSP3|x|x|x|x|x|x|
