@@ -10,6 +10,7 @@ If you use this data set in an academic publication, we would be ever so gratefu
 This subdirectory contains materials published by the Finno-Ugrian Society which are being prepared for searchable corpus annotation on the CSC Korp server in Helsinki.
 
 * Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. I. Band. SUST LXXVII. 1938. XXVI + 509 p.
+* Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. II. Band. SUST LXXXI. 1939. VI + 574 p.
 
 
 
