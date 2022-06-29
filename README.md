@@ -8,4 +8,5 @@ If you use this data set in an academic publication, we would be ever so gratefu
 
 # Introduction
 
-
+# dictionaries
+This contains word lists and dictionaries of the Mordvin languages including dialect lexica
