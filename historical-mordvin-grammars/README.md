@@ -2,7 +2,7 @@
 
 # Erzya grammar by Gabelentz, 1838–39
 Herr Conrad von Der Gabelentz's grammar is an erudite interpretation of grammatical phenomena to be found in the first Erzya translation of the Gospel published in 1821, i.e. this is the first bit of parallel corpus work in Erzya studies.
-The grammar can be viewed [here](https://rueter.github.io/EMERALD/historical-mordvin-grammars/docs/GabelentzHCVonDer-Versuch-einer-mordwinischen-Grammatik-1838-39.html).
+The grammar can be viewed [here](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/GabelentzHCVonDer-Versuch-einer-mordwinischen-Grammatik-1838-39.html).
 
 # Cite
 
@@ -17,7 +17,7 @@ This document has been designed for use with html linking to the 1821 Erzya Gosp
 
 # Erzya grammar by Wiedemann 1865
 F. J. Wiedemann's grammar of Erzya is based on previous research work by Herr Conrad von Der Gabelentz (1838–39) and interviews with native speakers he had access to in  Reval (Tallinn). No fieldwork was conducted in the Erzya homeland.
-The grammar can be viewed [here](https://rueter.github.io/Erzya-grammar-Wiedemann-1865/WiedemannFJ-Grammatik-der-ersa-mordwinischen-Sprache-1865.html).
+The grammar can be viewed [here](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/WiedemannFJ-Grammatik-der-ersa-mordwinischen-Sprache-1865.html).
 
 # Cite
 
@@ -30,7 +30,7 @@ Janine Siewiert, Olga Erina & Jack Rueter. (2019, September 5). Wiedemann, F. J.
 
 # Grammar of Erzya Morphology by Riabov 1935
 Anatolij Riabov's Erzya morphology was originally published as an Erzya-language stengazet in Saransk, Mordovia, Russian Federation in 1935.
-The grammar can be viewed [here](https://rueter.github.io/historical-mordvin-grammars/docs/riabov-anatolij-1935-morfologian-grammatika-erzya.html).
+The grammar can be viewed [here](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/riabov-anatolij-1935-morfologian-grammatika-erzya.html).
 
 # Cite
 
@@ -40,7 +40,7 @@ Olga Erina & Jack Rueter. (2021, September 5). Râbov, Anatolij 1935 = Морф�
 
 # Erzya Syntax by Riabov 1936
 Anatolij Riabov's Erzya syntax was originally published as an Erzya-language stengazet in Saransk, Mordovia, Russian Federation in 1936.
-The grammar can be viewed [here](https://rueter.github.io/historical-mordvin-grammars/docs/riabov-anatolij-1936-sintaksis-erzya.html).
+The grammar can be viewed [here](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/riabov-anatolij-1936-sintaksis-erzya.html).
 
 # Cite
 
