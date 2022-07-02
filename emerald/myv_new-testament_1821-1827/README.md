@@ -5,9 +5,9 @@ This is a combination of the first Erzya-language translation of the Gospel in 1
 Documents in this directory come from Erzya-language Bible books published 1821–1827. The text has been segmented according to verse and analyses have been given for sentence position, lemma, part of speech and morphological analysis (2020-02-22):
 <!-- #vrt-positional-attributes: order word lemma pos msd -->
 
-This is the (Erzya-1821) material also available in the [https://korp.csc.fi/test-pabivus/] parallel corpora of Biblical verses for Uralic languages.
+This is the (Erzya-1821) material, of which some is also available in the [https://korp.csc.fi/test-pabivus/] parallel corpora of Biblical verses for Uralic languages. Material under development can be viewed [here](https://rueter.github.io/emerald/myv_new-testament_1821-1827/myv_bible-new-testament_1821-1827.html)
 
-There is a direct relation to the grammar project Erzya-grammar-Gabelentz-1838-39, which can be viewed [here](https://rueter.github.io/Erzya-grammar-Gabelentz-1838-39/GabelentzHCVonDer-Versuch-einer-mordwinischen-Grammatik-1838-39.html).
+There is a direct relation to the grammar project Erzya-grammar-Gabelentz-1838-39, which can be viewed [here](https://rueter.github.io/emerald/historical-mordvin-grammars/historical-mordvin-grammars/docs/gabelentz_hcvonder-versuch-einer-mordwinischen-grammatik-1838-39.html).
 
 # Cite
 

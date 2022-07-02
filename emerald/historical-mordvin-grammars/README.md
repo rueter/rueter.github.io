@@ -13,7 +13,7 @@ Janine Siewiert, Olga Erina & Jack Rueter. (2019, September 5). Gabelentz, H. C.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3385180.svg)](https://doi.org/10.5281/zenodo.3385180)
 
 # Introduction
-This document has been designed for use with html linking to the 1821 Erzya Gospel [here](https://github.com/rueter/myv_New-Testament_1821-1827)
+This document has been designed for use with html linking to the 1821 Erzya Gospel [here](https://rueter.github.io/emerald/myv_new-testament_1821-1827/myv_bible-new-testament_1821-1827.html)
 
 # Erzya grammar by Wiedemann 1865
 F. J. Wiedemann's grammar of Erzya is based on previous research work by Herr Conrad von Der Gabelentz (1838–39) and interviews with native speakers he had access to in  Reval (Tallinn). No fieldwork was conducted in the Erzya homeland.
