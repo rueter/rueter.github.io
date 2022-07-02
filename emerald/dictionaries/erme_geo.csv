@@ -188,19 +188,19 @@ E:StLeb,x,x,Staraja Lebeshaika,Старая Лебежайка,myv:Mixed,x,x,x,x
 E:StMokl,x,x,Stary Moklausch,x,myv:X,Bugulma,Шенталинский район,Samara,Куйбышевский область,с.,E
 E:StSed,x,x,Staroje Sedelkino,Сиделькино,myv:Mixed,x,x,x,x,с.,"54.537698, 51.113744"
 E:StSosni,Ташто Сосна,x,Staryje Sosni,x,myv:X,Buguruslan,x,Samara,x,с.,E
-E:StZach,x,x,Staroje Sacharkino,x,myv:X,Petrowsk,x,x,x,с.,E
+E:StZach,x,x,Staroje Sacharkino,x,myv:X,Petrowsk,x,x,x,с.,"52.892833,45.242666"
 E:Standr,x,x,Standrowo,Стандрово,myv:Mixed,x,x,x,x,с.,"54.642155, 42.659735"
 E:Stavr,x,x,x,x,myv:X,Stawropol,x,x,x,р.,E
 E:Sterl,x,x,x,x,myv:X,Sterlitamak,x,x,x,р.,E
 E:StŠant,Ташто Шентала,x,Staraja Schantala,Старая Шентала,myv:Mixed,x,x,x,x,с.,"54.392433, 51.488315"
 E:StŠkud,škud́im,x,Staraja Schkudym,Шкудим,myv:Mixed,x,x,x,x,с.,"53.373729, 46.443035"
-E:SuhKarb,x,x,Suhoi Karbulak,x,myv:X,Saratow,x,x,x,с.,E
-E:Sulli,x,x,Sulli,x,myv:X,Belebej,x,Ufa,x,с.,E
-E:Surk,x,x,Surkino,x,myv:X,Bugulma,Шенталинский район,Samara,Куйбышевский область,с.,E
+E:SuhKarb,x,x,Suhoi Karbulak,x,myv:X,Saratow,x,x,x,с.,"52.006667″,46.852167"
+E:Sulli,x,x,Sulli,x,myv:X,Belebej,x,Ufa,x,с.,"54.183333,53.566667"
+E:Surk,x,x,Surkino,x,myv:X,Bugulma,Шенталинский район,Samara,Куйбышевский область,с.,"54.292666,51.559500"
 E:SŠant,stepnoj šantala,x,Stepnaja Schantala,Степная Шентала,myv:Mixed,x,x,x,x,с.,"54.311692, 50.328572"
 E:Ta,x,x,Tajaba,Большая Таяба:Малая Таяба:Таяба,myv:X,Tetjuschi,x,Kasan,x,с.,"55.242417, 47.918733:55.217876, 47.962230:?54.571214, 51.318533"
 E:Tamb,x,x,x,x,myv:X,x,x,x,x,Губер.,
-E:Tel,Вазвеле,x,Teljatnikowo,Телятниково,myv:X,Chwalynsk,x,Saratowo,x,с.,?
+E:Tel,Вазвеле,x,Teljatnikowo,Телятниково,myv:X,Chwalynsk,x,Saratowo,x,с.,"53.009167,47.257833"
 E:Temjaš,x,x,x,Темяшево,myv:mfd|C,x,x,x,x,с.,"54.525938, 44.615925"
 E:Temn,x,x,x,x,myv:Mixed,x,x,x,x,р.,
 E:Turch,x,x,Turchanka,Турхановка:Григорьевка,myv:X,östl. Buguruslan,x,Samara,x,с.,"53.761657, 52.462026:53.719420, 53.054959"
@@ -208,13 +208,13 @@ E:Ufa,x,x,x,x,myv:X,x,x,x,x,Губер.,E
 E:Usa,x,x,Usa,Усть-Уза,myv:Mixed,Saratow,Усть-Узинский район,Saratow,Пензенская область,?с.,"52.968581, 45.307753"
 E:VVr,ińeĺej,x,Weliki Wrag,Великий Враг,myv:NW,Arsamas,Шатковский район,Nishni-Nowgorod,Горьковская область,с.,"55.255883, 44.520649"
 E:Vač,x,x,x,Вачелай,myv:Mixed,x,x,x,x,с.,"53.375916, 46.186350"
-E:Vez,x,x,Wjasowka,Вязовка,myv:X,Bugulma,Шенталинский район,Samara,Куйбышевский область,?с.,?
+E:Vez,x,x,Wjasowka,Вязовка,myv:X,Bugulma,Шенталинский район,Samara,Куйбышевский область,д.,"54.323999,51.652667"
 E:Večk,Вечкань веле,x,Wetschkanowo,Старое Вечканово,myv:X,Buguruslan,x,Samara,x,с.,"54.079646, 51.731695"
 E:Večkus,x,x,x,Вечкусово,myv:NW,x,x,x,x,с.,"55.261700, 44.452952"
 E:VrKatm,x,x,x,Верхний Катмис,myv:Mixed,x,Pensa,x,x,д.,"53.396410, 46.078364"
 E:Čamz,Чаунза,x,Tschamsinka,Чамзинка,myv:C,Ardatow,Чамзинский район,Simbirsk,Мордовская АССР,рп.,"54.404336, 45.782055"
 E:Čer,x,x,Festung Tscheremschan,Черемшан,myv:C,x,Черемшанский район,x,Татарская АССР,с.,"54.654699, 51.505616"
-E:Šest,Шестайвеле,x,Schestaikino,x,myv:X,Buguruslan,x,Samara,x,с.,E
+E:Šest,Шестайвеле,x,Schestaikino,x,myv:X,Buguruslan,x,Samara,x,с.,"53.769833,52.576833"
 E:Šir,širomaz,x,Schiromassowo,Широмасово,myv:Mixed,x,x,x,x,с.,"54.708347, 42.533082"
 E:Škud,x,x,Schkudim,Шкудим,myv:Mixed,x,x,x,x,с.,"53.373729, 46.443035"
 E:Šokša,šokš,x,Schokscha,Шокша,myv:Mixed,x,x,x,x,с.,"54.769991, 42.520874"
