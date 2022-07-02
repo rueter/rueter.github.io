@@ -27,6 +27,12 @@ Janine Siewiert, Olga Erina & Jack Rueter. (2019, September 5). Wiedemann, F. J.
 
 [![DOI](https://zenodo.org/badge/206095106.svg)](https://zenodo.org/badge/latestdoi/206095106)
 
+# Grammar of Erzya by Evsevʹev 1928–29
+Makar Evsevʹevič Evsevʹev published a most extensive grammar of the Erzya language in the end of the 1920s.
+The paragraphs of the grammar have id attributes at the beginning of each paragraph for encouraging linking, i.e., when the text shows «§ 1.», the id attribute is (id="§1.").
+
+The grammar can be viewed [here](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/evsevjev_makar_e_erzjanj_grammatika_1928_29.html).
+
 
 # Grammar of Erzya Morphology by Riabov 1935
 Anatolij Riabov's Erzya morphology was originally published as an Erzya-language stengazet in Saransk, Mordovia, Russian Federation in 1935.
