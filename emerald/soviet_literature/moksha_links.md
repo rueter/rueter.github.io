@@ -1,7 +1,11 @@
 # -*- coding : utf-8 -*-
 # Moksha links
 
-## (Moksha) Кармен, Р. 1932: Аеронуртт 
+This is a collection of links to Moksha-language news, educational and enlightenment media. Where possible URN links are given for direct access. Some matereials are available in parallel with Erzya-language media. The majority of these media have been made available through an OCR digital pilot program conducted by the National Library of Finland in collaboration with the National Library of Russia in St. Petersburg, and they are available with licence information in [Fennougrica](https://fennougrica.kansalliskirjasto.fi).
+
+## (Moksha) Аеронуртт
+
+- Кармен, Р. 1932: Аеронуртт 
  http://urn.fi/URN:NBN:fi-fe2014090844530
 
 ## (Moksha)
@@ -55,5 +59,43 @@ http://urn.fi/URN:NBN:fi-fe2013123011730
 
 - (Erzya+Moksha) Мордовиянь комсомолец 1.11.1938 No. 130 (956)
 http://urn.fi/URN:NBN:fi-fe2013123013355
+
+## (Moksha) Сяскома : мокшень художественнай литературань альманах
+
+- Сяскома : мокшень художественнай литературань альманах 05/1947 No. 2
+http://urn.fi/URN:NBN:fi-fe201501201199
+
+- Сяскома : мокшень художественнаӥ литературань альманах 12/1947 No. 3
+http://urn.fi/URN:NBN:fi-fe201501201200
+
+- Сяскома : мокшень художественнай литературань альманах 10/1948 No. 4-5
+http://urn.fi/URN:NBN:fi-fe201501201201
+
+- Сяськома : мокшень художественнаӥ литературань альманах 10/1949 No. 6-7
+http://urn.fi/URN:NBN:fi-fe201501201202
+
+- Сяськома : мокшень художественнаӥ литературань альманах 08/1951 No. 8-9
+http://urn.fi/URN:NBN:fi-fe201501201203
+
+- Сяськома : мокшень литературно-художественнаӥ альманах 02/1952 No. 10
+http://urn.fi/URN:NBN:fi-fe201501201204
+
+- Сяськома : мокшень литературно-художественнай альманах 07/1952 No. 11
+http://urn.fi/URN:NBN:fi-fe201501201205
+
+- Сяськома : мокшень литературно-художественнай альманах 02/1953 No. 12
+http://urn.fi/URN:NBN:fi-fe201501201206
+
+- Сяськома : мокшень литературно-художественнай альманах 11/1953 No. 13
+http://urn.fi/URN:NBN:fi-fe201501201207
+
+- Сяськома : мокшень литературно-художественнай альманах 09/1954 No. 14
+http://urn.fi/URN:NBN:fi-fe201501201208
+
+- Сяськома : мокшень литературно-художественнай альманах 04/1955 No. 15
+http://urn.fi/URN:NBN:fi-fe201501201209
+
+- Сяськома : мокшень литературно-художественнай альманах 11/1955 No. 16
+http://urn.fi/URN:NBN:fi-fe201501201210
 
 
