@@ -261,7 +261,7 @@
 
 - Niemi, Jaana &amp; Mihail Mosin 1995: *Ersäläis-suomalainen sanakirja*. Turun yliopiston suomalaisen ja yleisen kielitieteen laitoksen julkaisuja 48. Turku.
 
-Objedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya  svedeny  po  dialektam  mordovskix  (mokšanskogo  i erzyanskogo) yazykov [Questioner for collecting of data on the dialects of the Mordovian (Moksha and Erzya) languages]. Saransk: Tip. «Kras. Okt.» Publ., 1960. 106 p. (In Russian)
+- Obˮedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya  svedeny  po  dialektam  mordovskix  (mokšanskogo  i erzyanskogo) yazykov [Questioner for collecting of data on the dialects of the Mordovian (Moksha and Erzya) languages]. Saransk: Tip. «Kras. Okt.» Publ., 1960. 106 p. (In Russian)
 
 - Obˮedkin, V. D. (Объедкин, В. Д.) 1961: Старо-Турдаковский диалект эрзя-мордовского языка. *Очерки мордовских диалектов. Том 1.* Редакторы: доктор филологических наук. профессор М. Н. Колядёнков, Кандидат филологических наук О. И. Чудаева. Научно-Исследовательский Институт Языка, Литературы, Истории и Экономики при Совете Министров Мордовской АССР, 100-196. Мордовское Книжное Издательство — Саранск.
 
@@ -364,7 +364,7 @@ Objedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya 
 - Tixonova, T. M. (Тихонова Т.М.) 1972: Выражение категории определённости в мордовских языках. In *Вопросы мордовского языкознания труды*, выпуск 42, 3&ndash;60. Редакторы: Бузаков И.С., Надкин Д.Т., Тихонова Т.М. Саранск: Мордовское книжное издательство.
 
 
-  - Tixonova, T. M. (Тихонова Т.М.) 1974: Суффиксы притяжательности в непритяжательном значении в волжских языках финно-угорской группы// In *Вопросы советского финно-угроведения* 119-121. Петрозаводск.
+- Tixonova, T. M. (Тихонова Т.М.) 1974: Суффиксы притяжательности в непритяжательном значении в волжских языках финно-угорской группы// In *Вопросы советского финно-угроведения* 119-121. Петрозаводск.
 
 - Tixonova, T. M. (Тихонова Т.М.) 1980: In *GMYa 1980* 183-187.
 
