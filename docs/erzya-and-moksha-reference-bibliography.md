@@ -216,6 +216,8 @@
 
 - Lallukka, S 1992: *Venäjän uralilaisten kansojen tilastoa* Koonnut ja toimittanut Seppo Lallukka Venäjän ja Itä-Euroopan instituutti, Julkaisusarja A 16. Helsinki.
 
+- Larsson, L. 1981: Studier i de östersjöfinska språkens partitiv bruk. Uppsala
+
 - Levina, Mariâ Z. (Левина, Мария З.) 2021. Электронный языковой корпус как фактор сохранения мордовских (мокшанского и эрзянского) языков. In: Mika Hämäläinen, Niko Partanen, and Khalid Alnajjar (eds), Multilingual Facilitation. University of Helsinki.
 
 - Luutonen, Jorma, Mikhail Mosin, Valentina Shchankina  2004: *Reverse dictionary of Mordvin = Обратный словарь мордовских языков.* Lexica Societatis Fenno-Ugricae XXIX. Helsinki: Suomalais-Ugrilainen Seura.
