@@ -104,6 +104,9 @@ Rueter, J., 2011, The status of the non-finite OmstO morpheme in Erzya. In: *Lin
 ## 2010
 Rueter, J., 2010,*Adnominal person in the morphological system of Erzya*. Suomalais-Ugrilainen Seura. (Suomalais-ugrilaisen seuran toimituksia; vol. 261) (Dissertation) [Online](https://www.researchgate.net/publication/48336530_Adnominal_Person_in_the_Morphological_System_of_Erzya_Adnominaalinen_persoona_ersan_kielen_morfologisessa_jarjestelmassa)
 
+## 2009
+Rueter, J., 2009, Case in Erzya, A synthesis of morphology, semantics, syntactic function, and compatibility with number, person and definiteness. In *SKY Case in and across languages Helsinki (Finland), August 27.-29.2009*. Presentation [Online](https://www.researchgate.net/publication/363366663_Disputed_cases_in_Erzya)
+
 ## 2007
 - Rueter, J., 2007, Additional Information for WALS on Erzya Mordvin. *E-book published for Bernard Comrie on his 60-th birthday: For Bernard Comrie on his 60th birthday.* Max Planck Institute for Evolutionary Anthropology Department of Linguistics. [Online](https://www.researchgate.net/publication/355972260_Additional_Information_for_WALS_on_Erzya_Mordvin)
 
