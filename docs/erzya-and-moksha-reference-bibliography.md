@@ -160,6 +160,9 @@
 
 - Grebneva 2000 = Гребнева, А. М. 2000: Существительноесь, Падежень лувось, Аволь невтемачинь полавтнемась, Невтемачинь категориясь. *Эрзянь кель, морфемика, валонь теевема ды морфология*: Вузонь эрзянь ды финнэнь ожделениянь тонавтницятнень туртов /Редколлегиясь: Д.В. Цыганкин (отв. ред., Н. А. Агафонова, М. Д. Имайкина ды лият, 73&ndash;75, 76&ndash;77, 78&ndash;82, 102&ndash;105. ― Саранск: Тип. «Крас. Окт.». 2000. ― 280 с. ― Мордов.-эрзя яз.
 
+– Grünthal, R. 2008: Transitivity in Erzya Mordvin. In *Ünnepi irasok Havas Ferenc tiszteletere* [Eletroninen aineisto] (pp. 235-246). (Uralisztikai tanulmanyok). ELTE.
+
+– Grünthal, R. 2022: Diachronic bottlenecks of the Uralic (ablative-)partitive. *Linguistic variation, 22.* https://doi.org/10.1075/lv.21003.gru
 
 - Hamari, Arja 2007: *The negation of stative relation clauses in the Mordvin languages.* Suomalais-Ugrilaisen Seuran Toimituksia, 254. Helsinki: Suomalais-Ugrilainen Seura.
 
