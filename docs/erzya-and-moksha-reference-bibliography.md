@@ -346,6 +346,8 @@
 
 - Salo, Merja 2010: Mordvin *t* derivates &ndash; semantic equivalent for impersonal. In: Dybo, A. V. &amp; Yu. V. Normanskaya (eds.) *Ural-Altaic Studies, Scietific Journal*, 2:  Moscow.
 
+- Salo, Merja 2015: *Passive and Reflexive Categories in Languages of the Volga Region, An areal typology study*. (Dissertation)
+
 - Sarv, Heno 2002: *Indigenous Europeans East of Moscow.* Population and Migration Patterns of the Largest Finno-Ugrian Peoples in Russia from the 18th to the 19th Centuries. Dissertation Geographicae Universitatis Tartuensis, 17. Tartu 2002.
 
 
