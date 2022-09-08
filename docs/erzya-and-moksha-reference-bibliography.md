@@ -53,7 +53,7 @@
 
 - Bubrix  D. V. (Бубрих, Д. В.) 1935: Instrukciâ  i  programma  po  sobiraniiu  materiala  dlâ  dialektologičeskogo  atlasa mordovskix (erzâ i mokša) âzykov [Instruction and program on collecting of dialectological material for dialectological atlas of the Mordovian (Erzya and Moksha) languages]. Saransk: Mordgiz Publ., 1935. 46 p. (In Russian)
 
-- Bubrix D. V. (Бубрих, Д. В.) 1936: O rabote po mordovskomu dialektologičeskomu atlasu [About work on the Mordovian dialectological atlas]. Revolytsiya i pismennost [Revolution and writing], 1936, no. 2, pp. 38–41. (In Russian)
+- Bubrix D. V. (Бубрих, Д. В.) 1936: O rabote po mordovskomu dialektologičeskomu atlasu [About work on the Mordovian dialectological atlas]. Revolytsiya i pismennost [Revolution and writing], 1936, no. 2, pp. 38–41. (In Russian) [Online](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/riabov-anatolij-1936-sintaksis-erzya.html)
 
 - Bubrix D. V. (Бубрих, Д. В.) 1947: *Эрзя-мордовская грамматика минимум*: пособие для вузов / Д. В. Бубрих. - Саранск : Мордгиз, 1947. - 52 с. [Online](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/bubrix_grammatika_minimum_1947.html)
 
