@@ -191,6 +191,7 @@
 - Keresztes, Lázló 2005: Finno-Ugric cross-language analysis: Hungarian compared with Mordvin. In *Les langues ouraliennes aujourd’hui, Approche linguistique
   et cognitive*, 369-379. The Uralic languages today, A linguistic and cognitive approach. Sous la direction de M.M. Joalyne Fernandez-Vest. Paris.
 
+- Keresztes, Lázló 2011: *Bevezetés a mordvin nyelvészetbe*. Debreceni Egyetemi Kiadó. Debrecen University Press. 
 
 - Klement'eva, E.F. (Клементьева, Е.Ф.) 2004: *Категория собирательности в эрзянском языке:* Учеб. пособие. Саранск: Тип. «Крас. Окт.», 2004. — 80 с.<!-- ISBN 5—7493—0661—5 -->
 
