@@ -55,7 +55,7 @@
 
 - Bubrix D. V. (Бубрих, Д. В.) 1936: O rabote po mordovskomu dialektologičeskomu atlasu [About work on the Mordovian dialectological atlas]. Revolytsiya i pismennost [Revolution and writing], 1936, no. 2, pp. 38–41. (In Russian)
 
-- Bubrix D. V. (Бубрих, Д. В.) 1947: *Эрзя-мордовская грамматика минимум*: пособие для вузов / Д. В. Бубрих. - Саранск : Мордгиз, 1947. - 52 с.
+- Bubrix D. V. (Бубрих, Д. В.) 1947: *Эрзя-мордовская грамматика минимум*: пособие для вузов / Д. В. Бубрих. - Саранск : Мордгиз, 1947. - 52 с. [Online](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/bubrix_grammatika_minimum_1947.html)
 
 - Bubrix D. V. (Бубрих, Д. В.) 1953: *Историческая грамматика эрзянского языка* / Д. В. Бубрих. — Саранск : Мордов. кн. изд-во, 1953. 265 с.
 
@@ -145,7 +145,7 @@
 
 - Feoktistov, Aleksandr &amp; Sirkka Saarinen 2005: *Mokšamordvan murteet.* Suomalais-Ugrilaisen Seuran Toimituksia. 249. Helsinki: Suomalais-Ugrilainen Seura.
 
-- Gabelentz, Herr Conon von der 1839: Versuch einer Mordwinischen Grammatik. *Zeitschrift für die Kunde des Morgenlandes*. II. 2&ndash;3. Göttingen: Druck und Verlag der Dieterlichschen Buchhandlung. 235&ndash;284, 383&ndash;419. [Online](https://rueter.github.io/Erzya-grammar-Gabelentz-1838-39/GabelentzHCVonDer-Versuch-einer-mordwinischen-Grammatik-1838-39.html)
+- Gabelentz, Herr Conon von der 1839: Versuch einer Mordwinischen Grammatik. *Zeitschrift für die Kunde des Morgenlandes*. II. 2&ndash;3. Göttingen: Druck und Verlag der Dieterlichschen Buchhandlung. 235&ndash;284, 383&ndash;419. [Online](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/gabelentz_hcvonder-versuch-einer-mordwinischen-grammatik-1838-39.html)
 
 
 - Gheno, D1995: “‘Mordwinisch’ oder ‘Mokschanisch und Erzanisch’?”, in Gábor Zaicz (red.),*Zur Frage der uralischen Schriftsprachen*, Budapest, A MTA Nyelvtudományi Intézete, 1995, pp. &ndash;7-61 (Linguistica. Series A. Studia et dissertationes 17).
@@ -325,7 +325,7 @@ Objedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya 
 
 - Ryabov, A. (Рябов, А.) 1931: *Русско-эрзянский словарь.* Москва: Центриздат.
 
-- Ryabov, Anatoli P. (Рябов, Анатолий П.) 1935: *Эрзянь морфологиянь грамматика.* Саранск. [Online](https://rueter.github.io/historical-mordvin-grammars/docs/riabov-anatolij-1935-morfologian-grammatika-erzya.html)
+- Ryabov, Anatoli P. (Рябов, Анатолий П.) 1935: *Эрзянь морфологиянь грамматика.* Саранск. [Online](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/riabov-anatolij-1935-morfologian-grammatika-erzya.html)
 
 - Ryabov, Ivan (Рябов, Иван) 2016. Ob issledovanii èrzânskix dialektov metodami lingvističeskoj geografii [On research ofthe Erzya dialects with linguistic-geographic methods].  In: Ksenia Shagal and Heini Arjava (eds), *Mordvin Languages in the Field*, volume 10 ofUralica Helsingiensia, pages 91–108.
 
@@ -383,7 +383,7 @@ Objedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlya  sobiraniya 
 - WALS Online: *The World Atlas of Language Structures Online* &lt;http://wals.info/&gt;
 
 
-- Wiedemann, F. J. 1865: Mémoires de l'académie impériale des sciences de St.-Pétersbourg, VII<sup>E</sup> Série. Tome IX, № 5. *Grammatik der ersa-mordwinischen Sprache* nebst einem kleinen mordwinisch-deutschen und deutsch-mordwinischen Wörterbuch. [Online](https://rueter.github.io/Erzya-grammar-Wiedemann-1865/WiedemannFJ-Grammatik-der-ersa-mordwinischen-Sprache-1865.html)
+- Wiedemann, F. J. 1865: Mémoires de l'académie impériale des sciences de St.-Pétersbourg, VII<sup>E</sup> Série. Tome IX, № 5. *Grammatik der ersa-mordwinischen Sprache* nebst einem kleinen mordwinisch-deutschen und deutsch-mordwinischen Wörterbuch. [Online](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/wiedemann_fj-grammatik-der-ersa-mordwinischen-sprache-1865.html)
 
 
 - Witsen, Nicolaes 1705: *Noord en Oost Tartarye, Ofte Bondig Ontwerp Van eenig dier Landen en Volken Welke voormaels bekent zijn geweest. Beneffens verscheide tot noch toe onbekende, en meest nooit voorheen beschreve Tartersche en Nabuurige Gewesten, Landstreeken, Steden, Rivieren, en Plaetzen, in de Noorder en Oosterlykste Gedeelten Van Asia En Europa Verdeelt in twee Stukken, Met der zelviger Land-kaerten: mitsgaders, onderscheide Afbeeldingen van Steden, Drachten, enz. Zedert naeuwkeurig onderzoek van veele Jaren, door eigen ondervondinge ontworpen, beschreven, geteekent, en in 't licht gegeven, Door Nicolaes Witsen.* (First print: Amsterdam, 1692; Second print: Amsterdam, 1705. Reprint in 1785.) 't Amsterdam By François Halma, Boekverkooper op de Nieuwendyk.
