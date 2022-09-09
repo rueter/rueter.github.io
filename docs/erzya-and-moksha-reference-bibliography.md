@@ -220,6 +220,12 @@
 
 - Levina, Mariâ Z. (Левина, Мария З.) 2021. Электронный языковой корпус как фактор сохранения мордовских (мокшанского и эрзянского) языков. In: Mika Hämäläinen, Niko Partanen, and Khalid Alnajjar (eds), Multilingual Facilitation. University of Helsinki.
 
+- Lewy, Ernst 1933: Zur Bezeichnung des Objektes im Mordwinischen. In: *Liber Semisaecularis Societatis Fenno-Ugricae*. (MSFOu 67) Helsinki.
+
+- Lewy, Ernst 1937: Erzämordwinisches sajems ’nehmen’ perfektivierend. In: *FUF 24*.
+
+- Lewy, Ernst 1965: Kurze Betrachtung des Erdzja-Mordwinischen. In: *UAJb 36*.
+
 - Luutonen, Jorma, Mikhail Mosin, Valentina Shchankina  2004: *Reverse dictionary of Mordvin = Обратный словарь мордовских языков.* Lexica Societatis Fenno-Ugricae XXIX. Helsinki: Suomalais-Ugrilainen Seura.
 
 
