@@ -2,6 +2,11 @@
 
 Jack Michael Rueter
 
+## 2022
+
+- Rueter, J., Partanen, N., Alnajjar, K., & Hämäläinen, M., 2022, Establishing a Role for Minority Source Language in Multilingual Facilitation. *Nordlyd, 46*(1), 231-240. https://doi.org/10.7557/12.6370
+
+
 ## 2021
 
 

@@ -220,7 +220,7 @@
 
 - Levina, Mariâ Z. (Левина, Мария З.) 2021. Электронный языковой корпус как фактор сохранения мордовских (мокшанского и эрзянского) языков. In: Mika Hämäläinen, Niko Partanen, and Khalid Alnajjar (eds), Multilingual Facilitation. University of Helsinki.
 
-- Lewy, Ernst 1933: Zur Bezeichnung des Objektes im Mordwinischen. In: *Liber Semisaecularis Societatis Fenno-Ugricae*. (MSFOu 67) Helsinki.
+- Lewy, Ernst 1933: Zur Bezeichnung des Objektes im Mordwinischen. In: *Liber Semisaecularis Societatis Fenno-Ugricae*. (MSFOu 67) Helsinki. <https://fennougrica.kansalliskirjasto.fi/handle/10024/89903>
 
 - Lewy, Ernst 1937: Erzämordwinisches sajems ’nehmen’ perfektivierend. In: *FUF 24*.
 
