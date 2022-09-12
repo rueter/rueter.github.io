@@ -19,6 +19,11 @@ Olga Erina (Ольга Ерина)
 ## 2014
 - Erina, O. & Uibo, H. & Rueter, J. & Gerstenberger, C. & Trosterud, T. 2014. Ersä-oahpa. (Erzya ICALL with noun declension [definite and indefinite], verb conjugation [indicative] and translation practice: [online](http://oahpa.no/erzya/morfas) )
 
+## 2000
+- Erina, Ol'ga (Ерина, Ольга) (2000). Частицатне. *Эрзянь кель, морфемика, валонь теевема ды морфология*: Вузонь эрзянь ды финнэнь ожделениянь тонавтницятнень туртов /Редколлегиясь: Д.В. Цыганкин (отв. ред., Н. А. Агафонова, М. Д. Имайкина ды лият, 260&ndash;267.― Саранск: Тип. «Крас. Окт.». 2000. ― 280 с. ― Мордов.-эрзя яз.
+
+## 1999
+- Erina, Ol'ga (Ерина, Ольга) 1999: Словообразующие частицы в мордовских языках. In: *Словообразовательная архитектоника ва Волжско-финских языках*: Материалы междунар. науч. симпозиума 1–4 окт. 1998 г. /МГУ им. Н. П. Орагёва: Редкол.: М. В. Мосин (отв. ред.), М. Д. Имайкина, О. В. Ерина и др. 99–103. – Саранск: Тип. «Крас. Окт.», 1999.–144 с. (ISBN: 5–7493–0196–6)
 
 ## 1997
 - Erina, Ol'ga (Ерина, Ольга) 1997: *Частицы в мордовских языках*. Dissertationes philologiae uralicae universitatis Tartuensis, 1. Tartu ülikooli kirjastus. [Online](https://www.researchgate.net/publication/355981020_rus-myv-mdf_Erina-Olga_Particles-in-the-Mordvin-Languages_rus_1997)
