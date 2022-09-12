@@ -5,6 +5,7 @@ Jack Michael Rueter
 ## 2022
 
 - Rueter, J., Partanen, N., Alnajjar, K., & Hämäläinen, M., 2022, Establishing a Role for Minority Source Language in Multilingual Facilitation. *Nordlyd, 46*(1), 231-240. https://doi.org/10.7557/12.6370
+- Zeman, Daniel; et al., 2022, *Universal Dependencies 2.10*, LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University,  http://hdl.handle.net/11234/1-4758.
 
 
 ## 2021
