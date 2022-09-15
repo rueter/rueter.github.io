@@ -26,4 +26,8 @@ These samples will be further enhanced with glosses and person tracking, i.e. po
 | mdf_MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39_erme_01.erme | Moksha | Moksha | Мишанина Валентина | Лиендень очконяса | 1972 |
 
 
+## Resources
 
+Presently there are two versions of ERME on line. One is the original version consisting of only sentences with extended paragraph-size contexts, see [ERME metashare](http://urn.fi/urn:nbn:fi:lb-201407306). All searches were based on stings, i.e., consecutive keystrokes, but these were also accompanied by information about the literary work and its author, basically everything you would need for your bibliography. It is important that we can associate example sentences with their authors, because that way we can compare in linguistic research.
+
+The latest version of ERME, which is now in test Korp for [Erzya]( https://korp.csc.fi/korp-test/erme2/?mode=other_languages#?corpus=erme_myv_test&cqp=%5B%5D) and [Moksha](https://korp.csc.fi/korp-test/erme2/?mode=other_languages#?corpus=erme_mdf_test&cqp=%5B%5D), has retained the idea of showing important bibliographic data, but automated morphosyntactic annotation has also been added.
