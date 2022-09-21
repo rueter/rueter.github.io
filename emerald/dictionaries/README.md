@@ -21,6 +21,8 @@ The materials of these four volumes contain over 2700 pages dedicated to fieldwo
 
 The dictionary itself is found in the XML file ```mordwinisches_woerterbuch_all.xml```.
 
+You can search the four volumes of the dictionary as an html file [here](docs/mw_paasonen_original_ib.html), where you can read it in you browser and make simple searches -- nowadays, searches don't require «funny letters».
+
 At present, the XML file is under development for use as a SQL database. It contains all of the nearly 7,000 macro articles of the dialect dictionary of the Mordvin languages, Erzya and Moksha.
 
 Development includes:
