@@ -6,10 +6,11 @@ This will host material on for the EMERALD-FELT (Fieldwork and Early Literary Te
 If you use this data set in an academic publication, we would be ever so grateful if you cited it as follows:
 
 
+
 # Introduction
 This subdirectory contains materials published by the Finno-Ugrian Society which are being prepared for searchable corpus annotation on the CSC Korp server in Helsinki.
 
-* Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. I. Band. SUST LXXVII. 1938. XXVI + 509 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016090123416)
+* Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. I. Band. SUST LXXVII. 1938. XXVI + 509 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016090123416) [Korp prep file](https://rueter.github.io/emerald/fieldwork-and-early-literary-texts/erz_SUST_77.txt)
 * Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. II. Band. SUST LXXXI. 1939. IV + 2 + 574 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016090123438)
 * Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. III. Band. SUST LXXXIV. 1941. IX + 343 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016090123425)
 * Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. IV. Band. SUST XCI. 1947. VIII + 898 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016090123439)
