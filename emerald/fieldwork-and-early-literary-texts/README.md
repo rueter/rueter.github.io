@@ -9,14 +9,14 @@ If you use this data set in an academic publication, we would be ever so gratefu
 # Introduction
 This subdirectory contains materials published by the Finno-Ugrian Society which are being prepared for searchable corpus annotation on the CSC Korp server in Helsinki.
 
-* Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. I. Band. SUST LXXVII. 1938. XXVI + 509 p.
-* Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. II. Band. SUST LXXXI. 1939. IV + 2 + 574 p.
-* Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. III. Band. SUST LXXXIV. 1941. IX + 343 p.
-* Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. IV. Band. SUST XCI. 1947. VIII + 898 p.
-* Mordwinische Volksdichtung. V. Band. Gesamm. von Ignatij Zorin, durchges. u. transkr. von Heikki Paasonen, übers. von Kaino Heikkilä & Paavo Ravila, hrsg. von Martti Kahla. SUST 161. 1977. VII + 525 p.
-* Mordwinische Volksdichtung. VI. Band. Gesamm. von Ignatij Zorin, durchges. u. transkr. von Heikki Paasonen, übers. von Kaino Heikkilä & Paavo Ravila, hrsg. von Martti Kahla. SUST 162. 1977. XIV + 236 p.
-* Mordwinische Volksdichtung. VII. Band. Gesamm. von Makarij Evsevʹev, Ivan Školʹnikov, Andrej Šuvalov und Mihail Tarajkin, durchgesehen und transkribiert von Heikki Paasonen, herausgegeben von Martti Kahla. SUST 167. 1980. X + 471 p.
-* Mordwinische Volksdichtung. VIII. Band. Gesamm. von Roman Učaev, Sergej Čigin und Vladimir Savkin, durchgesehen von Heikki Paasonen, transkribiert und übersetzt von Kaino Heikkilä, herausgegeben von Martti Kahla. SUST 168. 1981. V + 499 p.
+* Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. I. Band. SUST LXXVII. 1938. XXVI + 509 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016090123416)
+* Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. II. Band. SUST LXXXI. 1939. IV + 2 + 574 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016090123438)
+* Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. III. Band. SUST LXXXIV. 1941. IX + 343 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016090123425)
+* Mordwinische Volksdichtung. Gesamm. von H. Paasonen. Hrsg. und übers. von Paavo Ravila. IV. Band. SUST XCI. 1947. VIII + 898 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016090123439)
+* Mordwinische Volksdichtung. V. Band. Gesamm. von Ignatij Zorin, durchges. u. transkr. von Heikki Paasonen, übers. von Kaino Heikkilä & Paavo Ravila, hrsg. von Martti Kahla. SUST 161. 1977. VII + 525 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016060613323)
+* Mordwinische Volksdichtung. VI. Band. Gesamm. von Ignatij Zorin, durchges. u. transkr. von Heikki Paasonen, übers. von Kaino Heikkilä & Paavo Ravila, hrsg. von Martti Kahla. SUST 162. 1977. XIV + 236 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016090123436)
+* Mordwinische Volksdichtung. VII. Band. Gesamm. von Makarij Evsevʹev, Ivan Školʹnikov, Andrej Šuvalov und Mihail Tarajkin, durchgesehen und transkribiert von Heikki Paasonen, herausgegeben von Martti Kahla. SUST 167. 1980. X + 471 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016090123437)
+* Mordwinische Volksdichtung. VIII. Band. Gesamm. von Roman Učaev, Sergej Čigin und Vladimir Savkin, durchgesehen von Heikki Paasonen, transkribiert und übersetzt von Kaino Heikkilä, herausgegeben von Martti Kahla. SUST 168. 1981. V + 499 p. [.pdf and raw .txt](http://urn.fi/URN:NBN:fi-fe2016090123441)
 
 
 # Acknowledgements
