@@ -12,14 +12,14 @@ SU0MALAIS-U6RILAISEN SEURAN TOIMITUKSIA LXXXIV MŕMOIRES DE LA SOCIETŕ FINNO-OU
             HELSINKI 1941 SU OMALAIS -UGRILAINEN SEIIRA
                                                 Hintn mk 120:-
 »
- MO II DWINISCIIE VOLKS DI CI ITl JNG
+ MORDWINISCHE VOLKS DICHTUNG
                     GESAMMELT
                         VON
-                  H. PA AS ON EN
-           HERAUSGEGEBEN UNI) ÜBERSETZT
+                  H. PAASONEN
+           HERAUSGEGEBEN UND ÜBERSETZT
                         VON
-                  PAAVO RAV ILA [II. HAND
-                   Suomalais-ugrilaisen Seuran Toimituksia LXXXll Memoires de ta Societe Finno-ougrienne LXXXll
+                  PAAVO RAVILA III. BAND
+                   Suomalais-ugrilaisen Seuran Toimituksia LXXXIV Memoires de ta Societe Finno-ougrienne LXXXIV
               HELSINKI 1941 SUOMALAIS-UGBILAINEN SEURA
  Die Finnisch-ugrische Gesellschaft hat für dieses Werk Unterstützung von der Alfred Kordelin-Stiftung erhalten.
                TURKU 1941
@@ -90,8 +90,8 @@ Zaubersprüche             gegen die "trockene       Milz” .............. 151
 Zauberspruch gegen die źeĺcźŕńHKrankheit............................... 153
 Zaubersprüche    gegen  jede beliebige Krankheit ....................... 154
 Zaubersprüche    gegen  die  narkot́-Krankheit ......................... 163
-Zaubersprüche žur Vertreibung der alganžej ............................. 166
-Zauberspruch žur Vertreibung der šajt́an ............................... 173
+Zaubersprüche zur Vertreibung der alganžej ............................. 166
+Zauberspruch zur Vertreibung der šajt́an ............................... 173
 Zaubersprüche gegen den Fluch .......................................... 175
 Zauberspruch gegen Schmähungen ......................................... 186
 Zauberspruch, mit dem man einen Menschen töten kann .................... 187
@@ -100,8 +100,8 @@ Liebeszauber ........................................................... 189
 Erkaltenlassen der Liebe ............................................... 196
 Zauberspruch gegen      das Behextsein ................................. 201
 Zaubersprüche    gegen  die Unfruchtbarkeit ............................ 202
-Zauberspruch    žur Verderbung der     Hochzeit ........................ 204
-Zauberspruch    žur Beschützung der     Hochzeit ....................... 206
+Zauberspruch    zur Verderbung der     Hochzeit ........................ 204
+Zauberspruch    zur Beschützung der     Hochzeit ....................... 206
 Zauberspruch    gegen das Feuer ........................................ 209
 Zauberspruch,    wenn man zum Gericht geht ............................. 210
 Zauberspruch    für den Fischfang ...................................... 210
@@ -134,7 +134,7 @@ Ersänische Märchen.
    Der Rübendiebstahl            und seine Folgen .............................. 338
    Des Popen Pflegekind ........................................................ 339
    Wie der Russe geboren wurde ................................................. 342
-                                                      V o r >v o r ĺ.
+                                                      V o r w o r t.
    Der vorliegende 3. Band unserer Serie "Mordwinische Volksdichtung” erscheint gemäss dem Plan, der im Vorwort des 1. Bandes dargelegt worden ist. Die Herausgabe hat sich jedoch infolge des letzten finnischen Freiheitskrieges (1939—1940) verschoben, wo auch der Herausgeber und seine Mitarbeiter vor andere Aufgaben gestellt waren. Wenn die Arbeit nun wieder aufgenommen werden konnte, so gebührt unser tiefer Dank nicht zuletzt den gefallenen Helden dieses Krieges, deren Opfer die Fortsetzung jeglicher Kulturarbeit in einem freien Finnland ermöglicht hat.
    Zur Sache selbst ist nicht viel über das hinaus zu bemerken, was im Vorwort des 1. Bandes schon gesagt worden ist. Der vorliegende 3. Band bringt das unveröffentlicht gebliebene ersänische Material, das noch von Paasonen selbst gesammelt worden ist. Schwierigkeiten bei der Übersetzung haben besonders die Zaubersprüche bereitet, für deren stilistische Eigenart — man denke vor allem an die zahlreichen Parallelwörter — nur schwer eine genaue deutsche Entsprechung gefunden werden konnte. Bei der Übersetzung der Märchen ist insofern etwas freier verfahren worden, als einige Bindewörter hinzugefügt worden sind. Dadurch ist allerdings eine klarere und fliessendere Übersetzung erreicht worden, die dem Folkloristen das Verständnis und die Lesbarkeit des Textes erleichtern dürften. Die Wortgenauigkeit hat auch in diesem Bande manchmal zugunsten einer freieren, aber inhaltlich getreuen Übersetzung zurückstehen müssen. Wir haben das mit uniso grösserem Recht getan, als das geplante Mordwinisch-
 VII —
@@ -228,7 +228,8 @@ ist am Sonnabend nach Pfingsten. Es wird von allen, von Männern und Frauen zusa
 1 Dem.
 — 8 —
   Wenn er zufälligerweise klein ist, werden ausserdem zwei Schafe geschlachtet. Das Opfer wird von drei alten Männern verrichtet, die nicht durch einen besonderen Beschluss dazu bestimmt werden, sondern diese Aufgabe auf Grund ihrer Erfahrung mit allgemeiner Einwilligung übernehmen. Beim Beten wendet man sich stets nach Osten (so bei allen Opferfesten), das Blut wird abgelassen d.h. das Schlachten geschieht stets an einer Stelle (v́eŕeń noldamo-tarka) (so bei allen Opferfesten).
-       v́eĺeń śadoń ašks anoks, t́it́ań at́ań osks anoks, ḿire͔ń čaχaŕeń osḱs anoks, v́eĺeń śadoń jurt-ava, v́eĺeńek śadońek at́ańek babańek odne͔k čovaĺańek valdo śv́ečanok maro oznotano i eńalttano. ĺeḿeze͔t́ kandi͔ńek buka, v́eĺeń śadoń osks anoks, makst v́el'eńe śadońe, 5. ḿirne͔ čaχarne͔, kardaz-poeo ḱiĺ et́i mańe ṕed́amodo šoždi͔ńet́ pari͔ńet́. ton laśej sḱaloń paš, nastaśija ŕev́eń paš, vani͔ƞḱ skalonok i ŕev́eńeḱ.
+
+v́eĺeń śadoń ašks anoks, t́it́ań at́ań osks anoks, ḿire͔ń čaχaŕeń osḱs anoks, v́eĺeń śadoń jurt-ava, v́eĺeńek śadońek at́ańek babańek odne͔k čovaĺańek valdo śv́ečanok maro oznotano i eńalttano. ĺeḿeze͔t́ kandi͔ńek buka, v́eĺeń śadoń osks anoks, makst v́el'eńe śadońe, 5. ḿirne͔ čaχarne͔, kardaz-poeo ḱiĺ et́i mańe ṕed́amodo šoždi͔ńet́ pari͔ńet́. ton laśej sḱaloń paš, nastaśija ŕev́eń paš, vani͔ƞḱ skalonok i ŕev́eńeḱ.
   ńiśḱe-pas ḱoŕḿińeć, makst t́eńek se͔t́ḿe paro ṕize͔mńe, ṕešt́it́ šaro-nok salonok al t́uža laco, vanok v́ijev varmado, blagoj ćaraχmando. možot a mašttano t́et́ oznomo varamo, eńaldomo v́ešeḿe, toń parot
        Opfer der alten Männer (Ochsenopfer, Dorfopfer).
     (Hier ist) das Opfer des Dorfes, das Opfer der Vorväter, das Opfer der Dorfschaft! Jurt-ava des Dorfes, wir beten und flehen, das ganze Dorf, Alt und Jung, mit unseren leuchtenden Kerzen. In deinem Namen haben wir einen Ochsen hergebracht. (Hier ist) das Opfer des Dorfes! Gib dem Dorf, der Dorfschaft, den Pferden und Kühen im Hofe dein Leichtes1, dein Gutes'! Lasej, Gott der Kühe, Nastasija, Göttin der Schafe, beschützt unsere Kühe und Schafe! Nischke-pas, Ernährer, gib uns einen leisen, guten Regen1, mach füllig unser Korn wie Eidotter, bewahre (es) vor heftigem Wind, vor bösein Hagel! Vielleicht sind wir nicht imstande dir zu opfern, (dich) anzuflehen. (Aber) dein Gutes reicht für Alle.

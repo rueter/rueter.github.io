@@ -1,4 +1,4 @@
-# Soviet literature / Совет пингень сёрмалмо-литература
+# Soviet literature / Советпингень сёрмалмо-литература
 These lists of publications include newspapers, magazines and books scanned with subsequent optical character recognition (OCR) coordinated by the National Library of Finland.
 
 * [Erzya-language texts](erzya_links.md)

@@ -1,4 +1,3 @@
-# -*- coding : utf-8 -*-
 # Moksha links
 
 This is a collection of links to Moksha-language news, educational and enlightenment media. Where possible URN links are given for direct access. Some matereials are available in parallel with Erzya-language media. The majority of these media have been made available through an OCR digital pilot program conducted by the National Library of Finland in collaboration with the National Library of Russia in St. Petersburg, and they are available with licence information in [Fennougrica](https://fennougrica.kansalliskirjasto.fi).
