@@ -313,6 +313,7 @@
 
 - PLN 1995 = Prescriptive Literary Norms 1995: *Мокшень кяльс сёрмадомань, корхтамань, пунктуациянь норматне* *Эрзянь кельсэ сёрмадомань, кортамонь, пунктуациянь лувтне.* Саранск: «Красный Октябрь» типографиясь, 2004. &ndash; 264 с.
 
+- Rubruquis, Willem de. 1707. *Aanmerklyke reys, gedaan door Willem de Rubruquis, voor ambassadeur van den Koning Lodewyk de IXe afgesonden na d’Oostersche gedeelten der weereld, insonderheyd na Tartaryen en China, in ‘t jaar onses Heeren 1253. Vervattende veelerley sonderlinge saken, en voorgekomene gevallen.* Te Leyden, Bp Pieter vander AA, Boekverkoper.
 
 - Rueter, Jack 2003: Etymological Determinate Particles in Erzya Word Derivation. In *International Symposium of Deictic Systems and Quantification in Languages Spoken in Europe and North and Central Asia*. Udmurt State University, Iževsk, Udmurtia, Russia, May 22&ndash;25, 2001. *Collection of Papers*,  164&ndash;172. Compiled and edited by Pirkko Suihkonen and Bernard Comrie with assistance of Sergej Anatol'evič Maksimov Udmurt State University, Iževsk, Udmurtia, Russia &ndash; Max Planck Institute for Evolutionary Anthropology, Department of Linguistics, Leipzig, Germany. [Online](https://www.researchgate.net/publication/353220566_Etymological_determinate_particles_in_Erzya_word_derivation)
 
