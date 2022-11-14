@@ -275,9 +275,9 @@
 
 - Niemi, Jaana &amp; Mihail Mosin 1995: *Ersäläis-suomalainen sanakirja*. Turun yliopiston suomalaisen ja yleisen kielitieteen laitoksen julkaisuja 48. Turku.
 
-- Obˮedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlâ  sobiraniâ  svedeny  po  dialektam  mordovskix  (mokšanskogo  i erzânskogo) âzykov [Questioner for collecting of data on the dialects of the Mordovian (Moksha and Erzya) languages]. Saransk: Tip. «Kras. Okt.» Publ., 1960. 106 p. (In Russian)
+- Obʺedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlâ  sobiraniâ  svedeny  po  dialektam  mordovskix  (mokšanskogo  i erzânskogo) âzykov [Questioner for collecting of data on the dialects of the Mordovian (Moksha and Erzya) languages]. Saransk: Tip. «Kras. Okt.» Publ., 1960. 106 p. (In Russian)
 
-- Obˮedkin, V. D. (Объедкин, В. Д.) 1961: Старо-Турдаковский диалект эрзя-мордовского языка. *Очерки мордовских диалектов. Том 1.* Редакторы: доктор филологических наук. профессор М. Н. Колядёнков, Кандидат филологических наук О. И. Чудаева. Научно-Исследовательский Институт Языка, Литературы, Истории и Экономики при Совете Министров Мордовской АССР, 100-196. Мордовское Книжное Издательство — Саранск.
+- Obʺedkin, V. D. (Объедкин, В. Д.) 1961: Старо-Турдаковский диалект эрзя-мордовского языка. *Очерки мордовских диалектов. Том 1.* Редакторы: доктор филологических наук. профессор М. Н. Колядёнков, Кандидат филологических наук О. И. Чудаева. Научно-Исследовательский Институт Языка, Литературы, Истории и Экономики при Совете Министров Мордовской АССР, 100-196. Мордовское Книжное Издательство — Саранск.
 
 - Očerki mordovskih dialektov [Essays of the Mordovian dialects]. Saransk: Mordov. kn. izd-vo Publ., Vol. 1. 1961. 396 p.; Vol. 2. 1963. 448 p.; Vol. 3. 1963. 276 p.; Vol. 4. 1966. 382 p.; Vol. 5. 1968. 399 p. (In Russian)
 
@@ -289,7 +289,7 @@
 
 - OMD-V (ОМД-V) 1968: *Очерки мордовских диалектов, том V.* Редакционная коллегия: И. С. Бузаков, Р. В. Бабушкина, Д. Т. Надькин. Научно-Исследовательский Институт Языка, Литературы, Истории И Экономики При Совете Министров Мордовской АССР. Мордовское книжное издательство —  Саранск.
 
-- Ornatov, Pavel (Ортановъ, Павелъ) 1838: *Мордовская грамматика* /составленная на нарѣчій мордвы мокши Тамбовской семинаріи профессоромъ, магистромъ, Павломъ Орнатовымъo. Москва: Въ Сѵнодальной типографіи, 1838.-106 с.
+- Ornatovʺ, Pavelʺ (Ортановъ, Павелъ) 1838: *Мордовская грамматика* /составленная на нарѣчій мордвы мокши Тамбовской семинаріи профессоромъ, магистромъ, Павломъ Орнатовымъo. Москва: Въ Сѵнодальной типографіи, 1838.-106 с.
 
 - Paasonen, Heikki 1897: Die türkischen Lehnwörter im Mordwinischen. *SUSA XV/2.* 1&ndash;64  (In Erzya, German)
 
@@ -370,7 +370,7 @@
 
 - Serebrennikov, B. A. (Серебренников Б.А.) 1967: *Историческая морфология мордовских языков.* М.: Наука, 1967.-260 с.
 
-- Šaxmatov, A. A. (Шахматовъ, А. А.) 1910: *Мордовскій этнографическій сборникъ.* (Mordovsky ehtnografičesky sbornik)  [Mordovian  ethnographic  collection]. С.-Петербургъ: Tipografiâ Imperatorskoj Akademii Nauk Publ., 1910. 848 p. (In Russian, Erzya)
+- Šaxmatovʺ, A. A. (Шахматовъ, А. А.) 1910: *Мордовскій этнографическій сборникъ.* (Mordovsky ehtnografičesky sbornik)  [Mordovian  ethnographic  collection]. С.-Петербургъ: Tipografiâ Imperatorskoj Akademii Nauk Publ., 1910. 848 p. (In Russian, Erzya)
 
 
 - Strahlenberg, Philip Johan Tabbert von 1730: *Nord- Und Ostliche Theil Von Europa Und Asia, in so weit solches Das ganze Russische Reich mit Sibirien und der grossen Tatarey in sich begreiffet : in einer historisch-geographischen Bescreibung der alten und neuern Zeiten, und vielen andern unbekannten* Stockholm: In Verlegung des Autoris.
