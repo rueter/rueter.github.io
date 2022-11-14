@@ -418,5 +418,5 @@
 
 - Zaicz, Gábor 1998: Mordva. In D. Abondolo, (ed.), *The Uralic Languages*, 184&ndash;218. London: Routledge.
 
-- Zaicz, Gábor 2006: Mordva. 184&ndash;218. In D. Abondolo, (ed.), *The Uralic Languages*. London: Routledge.
+- Zaicz, Gábor 2006: Mordva. In D. Abondolo, (ed.), *The Uralic Languages*, 184&ndash;218. London: Routledge.
 
