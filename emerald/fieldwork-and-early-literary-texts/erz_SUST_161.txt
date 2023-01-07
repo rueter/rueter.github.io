@@ -9020,7 +9020,7 @@ tašto moklauš. Bez. Bugul’ma, 17/2 1899 a. St. (in der Mundart von Večkanov
    Sie lebten und lebten, sie lebten (sehr lange),
    sie zogen sieben Söhne auf,
    sie nahmen sieben Schwiegertöchter.
-    ¹ Dem.² flocaaHO hjim rpycTHo CTajio. P.³ D.h. žur Arbeiterin. P.⁴ Bopomnacb. P.
+    ¹ Dem.² flocaaHO hjim rpycTHo CTaj10. P.³ D.h. žur Arbeiterin. P.⁴ Bopomnacb. P.
 
 </text>
 <text type="fieldwork"
@@ -13970,7 +13970,7 @@ eŕʒ̕ań bruslan,
    Wir sind, Mann, keine, die (im Wohl) leben werden,
   ¹ Dem.
   ² Vgl. moksch. ilškiźe.
-  ³ TpycTHo cTajio. P.
+  ³ TpycTHo cTaj10. P.
 <pg>158
 # text_deu = 
 
