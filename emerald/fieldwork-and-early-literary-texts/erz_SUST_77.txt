@@ -3805,7 +3805,7 @@ iśt́a ḿeźeń tamašat
 iśt́a ḿeźeń pŕičuda 
 ćorat moĺit́ ḿiŕďeńe 
 t́ejt́eŕt́ ašt́it́ kudoso
-5. sud'ado at́at sud'ado 
+5. sud́ado at́at sud́ado 
 ŕeďado at́at ŕeďado
 ćorat ašt́eśt́ kudoso 
 t́ejt́eŕt́ moĺest ḿiŕďeńe 
@@ -4113,7 +4113,7 @@ koda saḱšnoś son i kudov:
 ox t́et́akaj, ton dorogoj,
 15. ḿejs a oznat t́e pazoźńe 
 a ot́ańďat t́e ńišḱeźńe
-omboće cxiste͔ ńiśḱe-pas noldaś 
+omboće čiste͔ ńiśḱe-pas noldaś 
 sḱotonzo laŋga v́e čiń morne͔
 v́eśe pakśasto skotonzo kulośt́ 
 v́eśe ŕev́enze͔ pakśasto kulośt́
@@ -4407,7 +4407,7 @@ vaj ďiŕij valco kortakšnoś
 ux a j avakaj vani͔ńem
 ušttaja, avkaj, ton ban'a 
 ušttaja, ďiŕkaj, ton ban'a 
-vaj čuvtomś d'iŕiń avazo
+vaj čuvtomś d́iŕiń avazo
 15. vaj čuvtomś vani͔ń avazo, 
 nuš uštokśnoś ṕiśi bańińe,
 
@@ -4446,7 +4446,7 @@ vaj joman joman, t́et́akaj, joman
 vaj lafćań se͔ŕse͔ (< -ŕce͔) oĺań pŕalksozo,
 5. ja vaĺmań se͔ŕse͔ oĺań alksozo 
 «ton iĺa kulo oĺa t́ejt́eŕem
-ton iĺa joma oĺa docxinkam ( < -ń-)!
+ton iĺa joma oĺa dočinkam ( < -ń-)!
 śizǵeḿeń śiśem moń rabot́ńiḱem
 śiśem stadavast skot́inan (< -m) aštit́.»
 10. «vaj vačo v́eŕǵis skot́inant povśińze!» 
@@ -4617,7 +4617,7 @@ tońć eśit́ ṕeďa, ejďakaj, śeďʒe͔nʒe͔.
 dumajaś ḱeŋkšḱem, ejďakaj, ṕekstamo.
 eśśe kuncolo odʒ́ora avanʒo 
 eśśe ḱeḿekšne͔ od-aĺa avanʒo
-tukšnoś odʒ́ora kudad'en' pukśav
+tukšnoś odʒ́ora kudad́en' pukśav
 15. moĺkśne͔ś od-aĺa kudaďeń v́iŕej. 
 koda pačkoĺeś pakśa-grańeńt́e
 koda moĺekšne͔ś son v́iŕ-čiŕeńt́e, 
@@ -4775,7 +4775,7 @@ kudaďeń pakśań, ańďamo, sajeḿe
 koda pačkuďat kudaďeń grańeśt́ laŋks
 toń krugom-jondo rozbojńik kuruttadi͔ź ( < kurot-) 
 vaj krugomganok ḿińek si͔ń aŕśit́
-5. si͔ń kunšḱińeze͔st (< -ncx-) ḿińek sajsaḿiź 
+5. si͔ń kunšḱińeze͔st (< -nč-) ḿińek sajsaḿiź 
 si͔ń toń ṕiŕińet́, oďʒ́ora, ḱeŕasi͔ź,
 jakśt́eŕe v́eŕńet́, ańďamo, si͔ń valsi͔ź 
 ton prošt́akaja, oďʒ́ora, moń maro
@@ -4805,7 +4805,7 @@ igna-at́a,
 
 koda uĺńeśt́ ḱipańat okśat kavońest
 si͔ń pat́at sazort ḱipańat okśat kavońest 
-5. vaj čokšńe mad'it́ ḱipańat okśat dumait́ 
+5. vaj čokšńe mad́it́ ḱipańat okśat dumait́ 
 si͔ń valsk'ejak śt́it́ ḱipańat okśat gadait́
 vaj kov dumait́ ḱipańat okśat gadait́ 
 vaj si͔ń dumait́ ḱipańat okśat vasov ḱiv
@@ -4884,8 +4884,20 @@ igna-at́a,
 # text_de_lines = 
 
 ox ĺujĺak ĺujĺak ĺujĺak ĺujĺaĺa! 
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 159
+# text_orig =
+# text =
+# text_de_lines =
 pat́i·ńet́ ja·lakst ḱipa·jt́ okśa·t kavo·ńesk
 5. pat́i·ńet́ ja·lakst ḱipa·jt́ okśa·t śka·mne͔sk 
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 159
+# text_orig =
+# text =
+# text_de_lines =
 a kot́ śka·mne͔sk ḱipa·jt́ okśa·t si͔ń part
 si͔n kot́ v́ejḱi·ńet́ ḱipa·jt́ okśa·t uda·laśt́
 udala·kšnośt́ ḱipa·jt́ okśa·t se͔ŕńe·va 
@@ -4901,19 +4913,66 @@ werden uns ausruhen1. So, meine Schwester, werden wir nach Hause kommen.
 Och ljujljak ljujljak Ijujljak Ijujljalja! Die Geschwister Kipaj und Oksja sind (nur) zwei, 5. die Geschwister Kipaj und Oksja sind allein. Obgleich allein, sind Kipaj und Oksja schön, obgleich die einzigen2 (Kinder), sind Kipaj und Oksja wohlgeraten,
 wohlgeraten ist der Körper2 von Kipaj und Oksja, wohlgeraten ist der Körper von Kipaj und Oksja, lo. schön ist der Schritt ihrer beiden Beine, geschickt sind sie in Handarbeiten, schön ist ihr Gesicht.
 
-cxokšńe·ńe mad'i ḱipa·j eŕźa· duma·i
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 160
+# text_orig =
+# text =
+# text_de_lines =
+čokšńe·ńe mad́i ḱipa·j eŕźa· duma·i
 valsḱeja·k i śt́i ḱipa·j eŕźa· ḿeĺt́ sa·jńi 
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 160
+# text_orig =
+# text =
+# text_de_lines =
 a kov ḿeĺi·nze͔ ḱipa·j eŕźa· saje·kšne͔ś
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 160
+# text_orig =
+# text =
+# text_de_lines =
 vaso·loń ḱiva· ḱipmj eŕźa· jai·ḱev 
 5. vaso·loń tarḱa·v ḱipa·j eŕźa· goro·dov 
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 160
+# text_orig =
+# text =
+# text_de_lines =
 ḱi ŕeďi·źe: ḱipa·j eŕź· jai·ḱev, 
 ḱi vani͔·źe: ḱipa·j eŕź· goro·dov?
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 160
+# text_orig =
+# text =
+# text_de_lines =
 pat́a·zo uĺńe·ś ḱipa·j eŕźa·ń v́ejḱi·ńeś 
 pat́a·zo uĺńe·ś ḱipa·j eŕźa·ń śkamunzo
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 160
+# text_orig =
+# text =
+# text_de_lines =
 10. ṕiži·ńe duga·j ḱipa·j eŕźa· iĺa· moĺt́ 
 mazi͔·ńe duga·j ḱipa·j eŕź· iĺa· tuk! 
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 160
+# text_orig =
+# text =
+# text_de_lines =
 ux a-pa·rosto jaiḱiń ḱiń jovĺi·si͔ź
 ux srasnojńeste͔ jaiḱiń ḱiń korta·vsi͔ź.
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 160–161
+# text_orig =
+# text =
+# text_de_lines =
 ḱiń kavto ṕe·ĺga, ṕiže· dug·j, čuvoń ro·v
 
 Abends legt sich die Ersänin Kipaj nieder und denkt, morgens steht die Ersänin Kipaj auf und sinnt. Wohin denkt die Ersänin Kipaj (zu gehen)? Einen fernen Weg, die Ersänin Kipaj, nach Jaik3, 5. weit, die Ersänin Kipaj, zur Stadt.
@@ -4923,27 +4982,63 @@ wer sah, (dass) die Ersänin Kipaj zur Stadt (gehen
 wollte)?
 Die Ersänin Kipaj hatte eine einzige1 I ältere] Schwester, die Ersänin Kipaj hatte nur eine |ältere] Schwester . Ю. «Kleine2 Schwester, Ersänin Kipaj, gehe nicht, schöne2 Schwester, Ersänin Kipaj, gehe nicht! Man erzählt, der Weg nach Jaik sei nicht gut, man spricht, der Weg nach Jaik sei furchtbar2. Auf beiden Seiten des Weges, kleine Schwester, (läuft) ein
 ausgehobener Graben,
+
 ḱiń kavto ṕe·ĺga, maži͔·ńe duga·j, čuvoń ro·v
 da rovońt́ ku·valt, ṕiže· duga·j, kolt śt́a·vĺeź
 eŕva kol pŕa·so, mazi· duga·j, loma·ń pŕa. 
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 161
+# text_orig =
+# text =
+# text_de_lines =
 Iĺa· moĺt́ka, ṕiže· duga·j, t́e ḱi·źga
 5. tońt́ka·k ḱeŕa·si͔ź, mazi͔·n'е duga·j, ṕiŕi·ńeńt́ 
 v́eŕńe·ńt́ nolda·si͔ź, ṕiže· duga·j, ćuďi· v́et́ks
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 161
+# text_orig =
+# text =
+# text_de_lines =
 ḿe·ĺńićat t́ei·t́, mazi͔·ńe duga·j, v́eŕńe-ńt́ laŋks
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 161
+# text_orig =
+# text =
+# text_de_lines =
 uš eź kulsońe (< -lco-) ḱipa·j eŕźa· pat́a·nzo 
 ex eź kulsońe ḱipa·j eŕźa· v́ejḱińeń
 10. ṕeĺe v́e po·ras ḱipa·j eŕźa· udo·ḱšnoś
 ṕeĺe v́e ška·ńďe ḱipa·j eŕźa· surgo·śkšne͔ś 
 ux jai·ḱiń ḱiv ḱipa·j eŕźa· tuje·ḱšne͔ś
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 161–162
+# text_orig =
+# text =
+# text_de_lines =
 kava·t́ a ku·vat́ ḱipa·j eŕźa· mole·kšne͔ś 
 uš ṕeĺe ḱi la·ŋgoń ḱipa·j eŕźa· juti͔·źe
 ṕeĺe ḱi Ia·ŋgoń ḱipa·j eŕźa· moĺi·źe 
 ux i jai·ḱev ḱipa·j eŕźa· pačk:o·ĺeś
 ux i goro·dov ḱipa·j eŕź· moĺe·ḱšne͔ś 
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 162
+# text_orig =
+# text =
+# text_de_lines =
 ux eź so·va (z-) ḱipa·j eŕź· jai·ḱev
 5. ĺiśńe·śt́ ḱaršo·zunzo ḱipa·j eŕźa·ń rozbo·jńiḱ 
 ĺiśńe·śt́ ḱaršo·zunzo ḱipa·j eŕźa·ń jas·ult. 
-da ńe rozbo·jńiḱńe śulmśi·ź ḱa·vto ṕiĺǵe·nze͔
+
+# sent_id = SUST-77-41-pp159-162_Lup-Zotkin-E:Is:1
+# pgno = 162
+# text_orig =
+# text =
+# text_de_lines = da ńe rozbo·jńiḱńe śulmśi·ź ḱa·vto ṕiĺǵe·nze͔
 uda·lov tarǵi·ź ḱipa·j eŕźa·ń ḱeďi·nze͔ 
 ṕiŕa·nzo ḱeŕi·ź ḱipa·j eŕźa·ń sabĺa·so
 10. v́eŕńe·nze͔ noldpi͔·ź ḱipa·j eŕźa·ń rovne͔·va.
@@ -4962,21 +5057,63 @@ lup zotḱin, isaḱla, Oct. 1898.
 # text_de_lines = 
 
 od torgovoj. 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 162
+# text_orig =
+# text =
+# text_de_lines =
 vaj šačumńeďe odʒ́ori͔ńe v́ejḱińe
 uź ḱasomńeďe od aĺińe śḱamńenʒe͔
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 163
+# text_orig =
+# text =
+# text_de_lines =
 čokšńejaḱ maďi t́e odʒ́ori͔ńe dumai 
 son valcḱejak śt́i od aĺińe dumai 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 163
+# text_orig =
+# text =
+# text_de_lines =
 kudoskak sov́i t́e odʒ́ori͔ńe ṕiḱst ponći 
 ošoskak ĺiśi t́e od aĺińe nart t́ei.
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 163
+# text_orig =
+# text =
+# text_de_lines =
 5. vaj sońć a jofti͔ t́e odʒ́ori͔ńe ḱińeŋgak 
 uź sońć a korti͔ t́e od aĺińe ḱińeŋgak
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 163
+# text_orig =
+# text =
+# text_de_lines =
 vaj koda t́ejevś t́e odʒ́ori͔ńeń nurdonʒo. 
 už koda purnavś t́e od at́ińeń zbrujenʒe͔
 tarǵińʒe kardo t́e odʒori͔ńe rakšanʒo
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 163
+# text_orig =
+# text =
+# text_de_lines =
 10. už son ḱiĺďińʒ́e t́e odʒ́ori͔ńe povďińʒ́e. 
 son i v́it́ińʒ́e t́e odʒ́ori͔ńe ṕet́ińʒe
 vaj kuśt́ima-ṕes t́e od aĺińe v́et́ińʒ́e
 už kŕiĺca (< -ća) stolbas t́e od aĺińe śulḿińʒ́e 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 163–164
+# text_orig =
+# text =
+# text_de_lines =
 vaj śeste͔ sovaś t́e odʒ́ori͔ńeś sońć kudos
 15. śeste͔ śukuńaś t́e od aĺińe t́et́anste͔. 
 śeste͔ śukuńaś t́e odʒ́ori͔ńe avanste͔.
@@ -4984,9 +5121,21 @@ vaj śeste͔ sovaś t́e odʒ́ori͔ńeś sońć kudos
 ton baslavamak t́iŕiń avakaj torgovojks 
 ďošov́ińeste͔ ton t́et́akaj ramamo
 už ṕit́ńejńeste͔ ox avakaj ḿijeḿe.» 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 164
+# text_orig =
+# text =
+# text_de_lines =
 5. «vaj koda joftan, kakańakaj, paro val
 a koda t́et́ maksan kakańakaj baslafka, 
 a koda t́et́ joftan kakańakaj paro val, 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 164
+# text_orig =
+# text =
+# text_de_lines =
 iśt́a t́et́ maksan mon kakańakaj baslafka 
 iśt́a t́et́ joftan mon kakańakaj paro val
 10. už pokš ḱijava ton kakańakaj moĺemste͔
@@ -4995,26 +5144,68 @@ toń ḱi v́e bokav kakańakaj toń ṕiŕat,
 omboće bokav kakańakaj toń ruŋgot! 
 a ḱi borckava toń jaḱśt́eŕe ńej v́eŕńet́.
 15. ḱi boroźńikka kakańakaj toń ojḿet́
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 164–165
+# text_orig =
+# text =
+# text_de_lines =
 iśt́a t́et́ maksan mon kakańakaj baslafka
 
 «Segne mich, lieber Vater1, zum Kaufmann, segne mich, liebe Mutter1, zum Kaufmann, dass ich billig1 kaufe, Vater1, dass ich teuer1 verkaufe, Mutter1!» s. «Welches gute Wort sage ich, Kind1, welchen Segen gebe ich dir, Kind1, welches gute Wort sage ich dir, Kind1? Ich gebe dir, Kind1, diesen Segen, ich sage dir, Kind1, dieses gute Wort: lo. Wenn du, Kind1, den Hauptweg gehst,
 wenn du, Kind1, durch die grosse Feldmark gehst, (soll) dein Kopf, Kind1, auf die eine Wegseite (rollen), (soll) dein Körper, Kind1, auf die andere Wegseite (fallen), (soll) dein rotes Blut1 die Weggeleise entlang (fliessen), 15. (soll) dein Leben, Kind1, die Wegfurchen entlang (fliessen). Solchen Segen gebe ich dir, Kind1,
 
 iśt́a t́et́ joftan mon kakańakaj paro val 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 165
+# text_orig =
+# text =
+# text_de_lines =
 śivoj uskosso kakańakaj toń se͔ŕet́
 buroj uskosso kakańakaj toń ruŋgot.» 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 165
+# text_orig =
+# text =
+# text_de_lines =
 «paśiba t́et́kaj a toń paro valozot!
 5. paśiba avkaj (< afka j) toń baslavkan' maksomozot! 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 165
+# text_orig =
+# text =
+# text_de_lines =
 śeste͔ panʒXińʒ́e od torgovojeś (d-) ortanʒo 
 śeste͔ tujekšne͔ś od torgovojeś torguvamo
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 165
+# text_orig =
+# text =
+# text_de_lines =
 už koda tukšnoś t́e od torgovoj torguvamo 
 vaj koda tukšnoś t́e od torgovoj bari͔šamo
 10. vasov a vasov t́e od torgovoj moĺekšne͔ś 
 vasov a vasov t́e od torgovoj pačkoĺeś
 son nuja-v́eĺes t́e od torgovoj moĺekšne͔ś 
 son nujaĺ-at́ań ortanʒo laŋks lotkakšnoś
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 165
+# text_orig =
+# text =
+# text_de_lines =
 «už kozoj kozoj ḱevkśt́i t́e od torgovoj udomo
 15. už kozo] kozoj sov́i t́e od torgovoj andomo? 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 165
+# text_orig =
+# text =
+# text_de_lines =
 son nujaĺ-at́ań vaĺmalonʒo moĺekšne͔ś
 
 solch gutes Wort sage ich dir, Kind1. Der Graue, Kind1, soll deinen Körper (zuriick)fahren, der Braune, Kind1, soll deinen Leib (zurück)fahren!» «Dank, Vater1, für dein gutes Wort, s. Dank, Mutter1, dass du mir deinen Segen erteilt hast!» Dann öffnete der junge Kaufmann sein Tor, dann machte sich der junge Kaufmann auf, Handel zu treiben. Als der junge Kaufmann ging, Handel zu treiben, als der junge Kaufmann ging, Geschäfte zu machen, ю. eine Strecke ging der junge Kaufmann da, ziemlich weit kam der junge Kaufmann, der junge Kaufmann kam in das Dorf Nuja, er hielt am Tore des alten Nujalj. Wo fragt der junge Kaufmann um Schlaff statt), 15. wo, wo tritt der junge Kaufmann ein um (die Pferde) zu füttern? Er ging zum Fenster des alten Nujalj,
@@ -5022,24 +5213,72 @@ solch gutes Wort sage ich dir, Kind1. Der Graue, Kind1, soll deinen Körper (zur
 son nujaĺ-at́ań vaĺma krajga ḱevkśt́akšnoś: 
 «noldat a noldat ton nujaĺ pokšt́aj udomo
 noldat a noldat ton nujaĺ pokśt́aj andomo, 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 166
+# text_orig =
+# text =
+# text_de_lines =
 «vaj sovak sovak, ćorańakaj, ton sovak (z-), 
 5. za xvat́er lamo ćorańakaj, a sajan
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 166
+# text_orig =
+# text =
+# text_de_lines =
 ṕit́ńejste͔ t́ikšet́ mon, ćorańakaj, a mijan.» 
 už son panʒXińʒ́e t́e nujaĺ-at́a ortanʒo. 
 son i noldi͔z'e t́e odʒ́ori͔ńeń udomo, 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 166
+# text_orig =
+# text =
+# text_de_lines =
 vaj ḱemgaftovo t́e nujaĺ-at́ań robot́ńiḱ,
 10. ḱemgolmovoće t́e nujaĺ-at́ań pŕikaščiḱ 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 166
+# text_orig =
+# text =
+# text_de_lines =
 kuvat́ a kuvat́ t́e odʒ́ori͔ńe udokšnoś
 tagoń a kuvat́ t́e od aĺińe ojmakšnoś. 
 ṕeĺe v́e poras t́e odʒ́ori͔ńe udokšnoś
 ṕeĺe v́e šḱińes t́e od aĺińeś ojmakšnoś. 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 166–167
+# text_orig =
+# text =
+# text_de_lines =
 15. vaj baranks śulmsi͔ź od torgovojeń ḱeďenʒe͔ 
 už bukaks śulḿiz' od torgovojeń ṕiĺǵenʒe͔
 si͔ń paŕćejks noldi͔z' od torgovojeń v́eŕenʒe͔ 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 167
+# text_orig =
+# text =
+# text_de_lines =
 si͔ń śivojs puti͔ź od torgovojeń se͔ŕenʒe͔
 vaj burojs vačk'iz' t́e odʒ́ori͔ńeń paronʒo 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 167
+# text_orig =
+# text =
+# text_de_lines =
 vaj ko jondo saś t́e od torgovoj, tov ḱučiź
 5. už ko jondo saś t́e od torgovoj, tov noldi͔z', 
+
+# sent_id = SUST-77-42-pp162-167_Driganj-Andrej-E:Vez:1
+# pgno = 167
+# text_orig =
+# text =
+# text_de_lines =
 śivoj usḱiźe od torgovojeń se͔ŕenʒe͔
 buroj usḱiźe odʒ́ori͔ńeń paronʒo.
 
@@ -5148,7 +5387,7 @@ kozlofka, 18 23/10 98.
 # text =  
 # text_de_lines = 
 
-10. mad'i·ń udi͔·ń anna polaj udu·kśni͔ń 
+10. mad́i·ń udi͔·ń anna polaj udu·kśni͔ń 
 a pa·ra on anna polaj ńeje·kšńeń
 
 Als er zurückkam, trat er bei seiner eigenen [älteren]
@@ -5188,7 +5427,7 @@ koda moĺkšńeś dŕigoŕe·jka v́esnova·ma
 kota či·ńit́ dŕigoŕe·jka torgova·kšni͔ś 
 10. śiśiḿi·ćä čisti͔ńt́ dŕigoŕe·jka dumaja·kśni͔ś jolča·nkav. 
 jolča·nkań ḱińińt́ dŕigoŕe·jka azda·sä 
-ad'a ńe·ft́eḱ mikin po·kśt́aj jolča·nka·ń ḱińt́ 
+ad́a ńe·ft́eḱ mikin po·kśt́aj jolča·nka·ń ḱińt́ 
 iśt́a· ńe-ft́ä ḿikin at́a jolča·nka·ń ḱińt́: 
 son ńeft́e·źä ḿikın at́a ĺiśma-pŕa·ń ḱińt́
 15. koda pa·čki͔ć dŕigoŕe·jka ĺi·śma-la·tkıńt́ij
@@ -5437,7 +5676,7 @@ t́it́ań (< t́e-) kudov moĺimam saś
 polaj polaj ḿixaila 
 vastaj vastaj ḿixaila
 5. aďa polaj t́it́ań kudov 
-ad'a vastaj avań kudov
+ad́a vastaj avań kudov
 moĺevĺiń bu t́it́ań kudov 
 sajevĺit́iń avań kudov
 laŋkso paĺat ṕek raužo
@@ -5451,7 +5690,7 @@ iĺa ḿeĺaft vastaj moń ḱis
 avam kuli͔ ruća kadi͔ 
 uŕam kuli͔ paĺa kadi͔ 
 dugam kuli͔ zapun kadi͔ 
-i to ad'a t́it́ań kudov
+i to ad́a t́it́ań kudov
 5. i to aďa avań kudov 
 ḱiĺć polazo paro rakša
 ḱiĺć vastazo paro rakša 
@@ -5895,7 +6134,7 @@ boka jonov bašḱir ĺevḱsḱe ĺuḱšt́at́t́an
 pŕaso pŕevńes nogaj ĺevḱsḱe sovafttan
 paro t́et́an' eŕʒ́ań ćora ejkakšat
 15. paro avań eŕʒ́ań aĺa kakajat
-koston uĺi eŕʒ́ań ćora šacxumat (< ć-)
+koston uĺi eŕʒ́ań ćora šačumat (< ć-)
 kostoń uĺi eŕʒ́ań aĺa kasumat?
 tašto ṕenʒań bašḱir ava šačumam 
 ṕenʒa ošoń nogaj ava kasumam
@@ -6087,7 +6326,7 @@ ombo ṕeĺej od-aĺińeń ruŋgozo.
 ḱiń kuvalma eŕʒ́ań ćorań v́eŕeze͔.
 
 ĺisa-baba,
-v́ecxkań-v́eľe, Ende Nov.
+v́ečkań-v́eľe, Ende Nov.
 
 </chap>
 </text>
@@ -6250,7 +6489,7 @@ ḿińek v́eranok azdasak.
 5. ańuŕka ḿeŕi polanste͔
 polaj polaj oĺoša 
 davaj ḿiń iśt́a t́ejďano,
-ḿiń ruzuń (< -zoń) v́eras tujd'ano. 
+ḿiń ruzuń (< -zoń) v́eras tujd́ano. 
 davaj ḱŕeśt́atan ńej i ḿiń»
 10. «iśta ḿeŕi oĺoša: 
 bašḱiŕ ťeťakaj ťeťińem
@@ -6304,7 +6543,7 @@ uź orči kaŕi se͔ŕenʒe͔
 10. raužo zborov sumańce͔ 
 polustaḿitnoj kušakso, 
 ĺubava ĺiśi luga laŋks 
-mazi͔ d'iga ĺevks vanomo, 
+mazi͔ d́iga ĺevks vanomo, 
 ĺubava moĺi iḱeĺej
 i5. balalaj moĺi ḿeĺganʒo
 
@@ -6397,7 +6636,7 @@ sońć t́et́ań paro (b-) a sodi͔
 son śeďej jožos tarǵiźe 
 ṕiśi śeĺv́ece͔ vali͔źe: 
 «proščaj, kakakaj, proščajka, 
-v́eḱi do v́eḱi prošcxajka!
+v́eḱi do v́eḱi proščajka!
 15. ton ĺeḿeń ĺiv́i uĺt́'aja,
 
 für immer lebewohl! Du sollst mein Andenken bewahren, du sollst mein Gedächtnis begehen!» ihr zweites Kind ist so (gross): 5. es3 läuft (schon) auf der Bank,
@@ -6410,7 +6649,7 @@ už poťse͔ ašťi kurgozo,
 5. son ťeťaj valco a ḿeŕi
 son avaj valco a korti͔. 
 śeń kutmurdi͔źe pali͔źe
-son śed'ej jozos [1. jožos] tarǵiźe. 
+son śed́ej jozos [1. jožos] tarǵiźe. 
 ṕiśi śeĺv́ece͔ vali͔źe. 
 10. proščaj, t́akakaj, proščajka,
 v́eḱi do v'ek'i proščajka, 
@@ -6435,7 +6674,7 @@ son ḿeḱej kudov son sakšnoś (ź-)
 «ton v́ečḱiḿińem ĺubava
 ton ḱeĺǵiḿińem t́ııbava 
 ton aďaka ńej polaks
-15. už ad'akaja ńej vastaks!
+15. už ad́akaja ńej vastaks!
 ton durak ćora balalaj
 
 Traubenkirschbäume biegen, Johannisbeeren essen!»
@@ -6479,7 +6718,7 @@ vaseq·lda ńejəź ašo ḱiĺi.ańä
 oj mala·v čašteqź śormav čekšata (< š-). 
 ḱijaks-kuńčkasa sońʒa lavśə·za 
 10. aša ḱiśəjat ďakańt́ nulanza 
-oj ṕižä paŕcxäń lavś i laŋgeqza
+oj ṕižä paŕčäń lavś i laŋgeqza
 
 «Fürwahr1, ich bin dumm, ich bin dumm, fürwahr, ich bin töricht, ich bin töricht!»
 58.
@@ -6577,8 +6816,8 @@ oďiŕvań vačnoś sonʒo ṕeḱeze͔
 
 Er griff nach dem Kopfe des Pferdes, seine Hand reichte nicht bis zu des Pferdes Kopf, seine Kraft reichte nicht hin, das Pferd zu halten. Sie schirrten und spannten ihr Pferd1 an, 5. dann gingen sie Engelwurz sammeln, dann gingen sie Engelwurz sammeln. «Wohin, Gattin, sollen wir nach Engelwurz gehen, wohin, Gattin, sollen wir nach Engelwurz gehen?» «Komm, Gatte, auf die Kineljwiese2, lo. komm, Mann, ans Ufer der Kinelj!» Als sie auf die Kineljwiese kamen, pflückte die junge Frau zwei Traglasten (voll), ihr Gatte pflückte eine Traglast (voll). Die junge Frau bekam einen hungrigen Magen: 15. «Komm, Gatte, mein Magen1 ist hungrig geworden,
 
-mon' ṕeḱińem vačś, śeďejńem nucxkaś
-śeďejńem nucxkaś, moń moćińem majš.» 
+mon' ṕeḱińem vačś, śeďejńem nučkaś
+śeďejńem nučkaś, moń moćińem majš.» 
 odʒ́orań sakšnoś sonʒo śimazo
 «vaj aďa, polaj, moń śiḿińem (ź-) saś. 
 5. moń śiḿińem saś, moń kurǵińem kośkś. 
@@ -6802,7 +7041,7 @@ Wo ist die todbringende Pflanze gewachsen, wo ist die tödliche Pflanze gewachse
 vaj son i ńej kajś son ďikoj pakśas
 vaj ďikoj śt́epḱeń samaj kunšḱińes (< -nč-). 
 vaj śe pakśasośť uĺi pokš guboŕ
-guboŕksḱeśť ṕiŕas samaj son ńej šacxś 
+guboŕksḱeśť ṕiŕas samaj son ńej šačś 
 5. guboŕksḱeśť ḱoŕas son ḱoŕen noldaś
 vaj, aĺńe, son šačś kuluma-ťiḱšeś
 son guboŕ-ṕiŕaśť samaj son kunškas, 
@@ -6894,7 +7133,7 @@ se͔ŕej kočkaŕa, uŕakaj, ḱemńese͔
 raužo zborov, uŕakaj, sumańce͔ 
 xalaḿitnoj, uŕakaj, kušakso
 karmaźinnoj, uŕakaj, šapkaso
-15. ašo ṕercxatkat, uŕakaj, ḱece͔nze͔
+15. ašo ṕerčatkat, uŕakaj, ḱece͔nze͔
 
 63.
 
@@ -6930,7 +7169,7 @@ wie Seide, Schwägerin1, liess ich sein Blut1 (fliessen), in einen leeren Getrei
 64.
 lo. Der Mann wurde als Soldat eingeschrieben, Andjamo wurde als Rekrut eingeschrieben. Der junge Mann hatte ein schwarzbraunes Weib zur Gattin,
 
-vastazo uĺńeś an'd'amon' čobd-ava 
+vastazo uĺńeś an'd́amon' čobd-ava 
 polanste͔ ḿeŕi ravž-ava son korti͔
 vastanste͔ ḿeŕi čobd-ava (< š-) son baśi. 
 vaj polaj polaj ḿeŕan oďʒ́ora
@@ -7098,7 +7337,7 @@ vaj koda pačkoć ravž-ava kalmośt́ laŋks
 10. vaj ńišḱe-pazne͔ ravž-ava son oznoś 
 mastor-avańe vaj i son śukuńaś. 
 uk polaj polaj ton mazi͔ńe polaj 
-uk vastaj vastaj ton i ńej ańd'r'uša. 
+uk vastaj vastaj ton i ńej ańd́r'uša. 
 ḿeźe laŋks polaj ton ńej kadi͔ḿik 
 15. kosto mon ńesa tońt́ ašo kiĺej se͔ŕńeť.
 
@@ -7109,7 +7348,7 @@ was (zur Stütze), Gatte, hast du mir hinterlassen,215. wann werde ich deine, ei
 sehen,
 
 vaj mazi͔ kumać, polaj, mon čaḿińet́
-vaj surksḱeť surḱsḱeť, toń polaj, pŕacxeŕńet.
+vaj surksḱeť surḱsḱeť, toń polaj, pŕačeŕńet.
 
 igna-aťa,
 śťepnoj šantala, 18 22/ı 99.
@@ -7206,7 +7445,7 @@ Eine sehr grosse, eine grosse Feldmark! 5. In der grossen Feldmark2 ist ein Wass
 
 pando nučk ašťi v́iďe se͔ŕeze͔ 
 pando nučk ašťi v́iďe se͔ŕeze͔ 
-pandoń (< -ńť) kuvalma kafto ḱed'enʒe͔ 
+pandoń (< -ńť) kuvalma kafto ḱed́enʒe͔ 
 pandoń kuvalma kafto ḱeďenʒe͔
 5. vaj pr'a ṕese͔nʒe͔ kukov kukordi͔ 
 vaj pŕa ṕese͔nʒe͔ kukov kukordi͔
@@ -7495,12 +7734,12 @@ da eŕḿevt́ jaḱit́ ĺaďamonzo.
 ĺitova ḿeŕi t́et́anste͔: 
 iĺamak čija śupavne͔ 
 iĺamak čija t́et́akaj, 
-10. iĺamak lad'a eŕḿevńe:
+10. iĺamak lad́a eŕḿevńe:
 śupauń (< -avoń) lamo robota (< rabota) 
 eŕḿev́eń lamo zabota
 moń mazi͔t́ mazi͔t́ moń paĺan,
 śeďejak mazi͔t́ moń rućan.
-15. vaj valsḱeń rosas gad'av́it́, 
+15. vaj valsḱeń rosas gad́av́it́, 
 vaj valsḱeń rosas si͔ń oli͔t́
 ḱežijavś sonze͔ ťeťazo
 ḱežijavś sonze͔ koŕmazo, 
@@ -8283,7 +8522,7 @@ kuluma-činʒe͔ ḱemaĺ sodi͔źe
 5. jomamo-činʒe͔ ḱemaĺ jofti͔źe
 kulan, t́et́akaj, kulan, avakaj, 
 ṕetrovoń paroń, t́et́kaj, čińeste͔,
-obid'n'a maro zaftŕeńa jutksto 
+obid́n'a maro zaftŕeńa jutksto 
 iĺiḿiź kalma v́eĺeń kalmazi͔ŕc 
 10. iĺiḿiź puto v́eĺeń ograd poc 
 ti͔ń kalḿiḿiźga pokš ḱi čiŕińes
@@ -8400,7 +8639,7 @@ t́et́an zastańiź, ḿeźeń goŕazo?
 son eź raduva t́et́am moń i es
 eź targa t́et́am targań stot́enze͔ 
 eź puto t́et́am stoĺ laŋks kšeńenze͔
-eź put́ńe koŕmam sald'er'ks salne͔nze͔ 
+eź put́ńe koŕmam sald́er'ks salne͔nze͔ 
 10. eź kuŕvaśt́ekšńe valdo śv́ečanzo 
 eź ozno, t́et́kam, uk ńišḱe-pazne͔, 
 eź śukuńa son, mastor-avańe.
@@ -8933,7 +9172,7 @@ ton sakajat́a ton i moń malav
 15. mon jovtan tońet́ mon polat turtov 
 mon maksan t́enze͔ a mon ĺekarstva
 vaj mon i maksan t́e kolkaśt́ este͔ (< ejste͔) 
-vaśeń cxuvt́oń pŕaso-taratḱe 
+vaśeń čuvt́oń pŕaso-taratḱe 
 ton aźo saik kudov čiv v́iik 
 uštovtkaja ton ṕiśi bańińe 
 5. lakafti͔ka t́eń ṕiśi v́eďńese͔ 
@@ -9033,10 +9272,10 @@ gubor pŕasońt čijadalks
 gubor pŕasońt da čejada 
 čejadaśońt́ son (da) eŕḱińe
 5. eŕkinese͔ńt́ da śiĺďej bŕa 
-sild'ej pŕasońt da ṕizi͔ńe 
+sild́ej pŕasońt da ṕizi͔ńe 
 pize͔ś peškse da alne͔ďe a
 altne͔ ṕeškśet da ĺevksḱeďe 
-levkstne͔ ṕeškśet da ojm'ed'e 
+levkstne͔ ṕeškśet da ojm'ed́e 
 10. altne͔ laŋkso d(a) ašo utka
 ašo utka da jakśargo 
 mazi͔ utka da jakśargo
@@ -9227,7 +9466,7 @@ a śeĺḿińese͔ polańań ńeize͔.
 5. v́eŕga saiźe polańań pali͔ tol, 
 alga saiźe dubrovań čuďi v́eď, 
 krugom saiźe polańań potopa. 
-mastoroń ḱeĺe polańań kacxamzo. 
+mastoroń ḱeĺe polańań kačamzo. 
 ḿeńeĺ jožova dubrovań tolozo,
 10. čufto śeďejga polańań žarozo. 
 čufto ṕiŕaso ińe guj avaŕďi,
@@ -9241,7 +9480,7 @@ už loma valco ińe guj pškaďekšne͔ś,
 son lomań ḱeĺce͔ ińe guj kortakšnoś: 
 iĺamak čavo oďʒora ružejńiḱ, 
 5. iĺamak mašta od-aĺa oxot́n'iḱ. 
-ton lad'ikaja odʒ́ora ružijat, 
+ton lad́ikaja odʒ́ora ružijat, 
 ružijat kuvalt odʒ́ora mon valgan,
 eśt́et́ polaks od-aĺa maštuvan.
 
@@ -9275,7 +9514,7 @@ vaj ḿeks avaŕďat zloďej guj, m'eĺavtat?
 v́eŕga saiźe poĺanań pali͔ tol
 alga saiźe poĺanań čuďi v́eď
 10. saka malazon oxot́ńiḱ saka 
-lad'ika oxot́ńiḱ ružijat 
+lad́ika oxot́ńiḱ ružijat 
 saka puti͔ka oxot́ńiḱ ružijat 
 saka puti͔ka oxot́ńiḱ ružijat 
 ružijat kavalk oxot́ńiḱ mon valgan
@@ -9370,8 +9609,8 @@ mako-pančtḱet́ bojar avań pĺoskanʒo (< -stk-)
 t́ejt́eŕ t́akań ravž ańďamo ńeiźe 
 10. eŕḱeńt́ krugom ravz ańďamo tujekšne͔š 
 t́ejt́eŕ-t́akańt́e ravz ańďamo pškaďekšne͔ś 
-sajd'an sajd'an t́ejteŕ-t́aka koźejkaks
-eśt́eń sajd'an bojar ava mon polaks 
+sajd́an sajd́an t́ejteŕ-t́aka koźejkaks
+eśt́eń sajd́an bojar ava mon polaks 
 vaj a moĺan ravž ańďamo a moĺan
 15. tońe polaks ravž ańďamo a uĺan.
 
@@ -9469,21 +9708,21 @@ So machte sich der junge Mann auf durch die Feldmark zu gehen, der junge Mann st
 Grashalm,
 in der Feldmark fand der junge Mann nichts. (Da) begab sich der junge Mann auf eine Wiese. 5. Mitten in der Wiese liegt ein Röhricht1, im Röhricht sprudelt und strömt eine Quelle, an der Quelle iiegt ein hingeworfener Baumstamm1, auf dem Baumstamm wäscht ein Mädchen. «Helf Gott, Bojarin, Mädchen, 10. helf Gott, Herrin2. Mädchen!»
 «Danke, schwarzbrauner, schöner junger Mann, Danke, dunkelbrauner junger Mann!» «Kommst du, Mädchen, (meine) Gattin werden, kommst du, Herrin, (meine) Frau werden?» 10. «Ich komme nicht, schwarzbrauner, schöner junger Mann, ich komme nicht, dunkelbrauner1 junger Mann.»
-kot́ a moĺat t́ejt́eŕejďe mon sajd'an 
-ḱot́ a moĺat azor avaś mon sajd'an
+kot́ a moĺat t́ejt́eŕejďe mon sajd́an 
+ḱot́ a moĺat azor avaś mon sajd́an
 ašo numolks odʒ́ora v́eĺavtan
 pokš v́iŕ kunčkav odʒ́ora mon noškstan
 5. vaj pańi borʒojks t́ejt́eŕejďe v́eĺavtan,
 nuš pokš v́iŕ kunčkas t́ejt́eŕejďe kundatan, 
-i to mon sajd'an t́ejt́eŕejďe mon polaks
-i to mon sajd'an azor avaś mon vastaks
+i to mon sajd́an t́ejt́eŕejďe mon polaks
+i to mon sajd́an azor avaś mon vastaks
 vaj a moĺan raužoń paroń odʒ́ora
 10. vaj a moĺan topudań čińe odaĺa 
 se͔ń guĺḱińeks odʒ́ora v́eĺavtan
 pokš v́eĺe kunškav, odaĺa, mon ĺivt́an. 
 vaj ašo kaŕćiganks t́ejt́eŕejďe v́eĺavtan
 pokš v́eĺe kunčkasto bojar ava kundatan 
-15. i to mon sajd'an t́ejt́eŕejďe mon polaks
+15. i to mon sajd́an t́ejt́eŕejďe mon polaks
 i to mon sajďan bojar ava toń vastaks
 
 «Kommst du nicht, Mädchen, so nehme ich dich.» kommst du nicht, Herrin, so nehme ich dich.» «Ich verwandle mich in einen weissen Hasen, junger Mann, ich laufe mitten in einen grossen Wald, junger Mann.» r>. «Ich verwandle mich in einen Jagdhund,
@@ -9529,9 +9768,9 @@ vaj toto ḿeŕi šičeze͔ korti͔:
 v́eĺavtan i mon ĺivt́i kaŕśiganks
 v́eśe v́iŕńet́ńeń a mon ĺivĺisi͔ń (<-vńes-)
 10. v́eśe mon eŕkńeń a mon jakasi͔ń 
-vaj koda mujd'an, baldus, kundatan, 
-i to mon sajd'an, baldus, mon polaks 
-vaj toto sajd'an, baldus, mon sajd'an, 
+vaj koda mujd́an, baldus, kundatan, 
+i to mon sajd́an, baldus, mon polaks 
+vaj toto sajd́an, baldus, mon sajd́an, 
 a moĺan, šiče, mon tońďe polaks 
 15. v́eĺavtan šiče mon mazi͔ guĺkaks.
 vaj guĺkań polkso mon i ńej ĺivt́an
@@ -9552,7 +9791,7 @@ v́eĺavtan, šiče, mon se͔ń karv́ińeks,
 karman kudova, šiče, ĺivt́eḿe,
 10. karman pakśava, šiče, ĺivt́eḿe.
 v́eĺavtan, baldus, karvoń-kaŕśiganks, 
-i to mon mujd'an, baldus, mon sajďan
+i to mon mujd́an, baldus, mon sajďan
 uk šiče šiče šiče dorogoj 
 mon tońe, šiče, ńej a muivan,
 15. v́eĺavtan, šiče, mon kaluń (< kalon) ĺošt́aks
@@ -9564,7 +9803,7 @@ v́eśe v́eďbŕat́ńeń, baldus, jakasi͔ń
 mon tońt́ i pańďan moŕań uśijas
 i to mon, baldus, mon i ńej mutan, 
 i to mon, baldus, ńej mon kundatan, 
-kodak mon mutan, polaks mon sajd'an.
+kodak mon mutan, polaks mon sajd́an.
 10. v́ečkt́an mon, baldus, čama-ĺićava. 
 mon v́ečkan i tońt́ ṕilǵeń čalgavtka
 kavti͔ńe śeĺḿeń, baldus, vanuvtka, 
@@ -10176,11 +10415,11 @@ der arme Erjuma sei eingeschlossen im Kerker, beim Gehen, der Braune, in der Her
 vaj skukas kajaś t́e čova gńedoj ṕiŕanzo 
 uk toskas kajaś mazi͔ńe gńedoj se͔ŕenze͔
 uk ḱi ńeiźe čova gńedoiń vani͔źe 
-da d'onnoj pastuk čova gńedoiń vani͔źe
+da d́onnoj pastuk čova gńedoiń vani͔źe
 5. «ḿejs ton a jarsat ton čova gńedoj a śimat?» 
 son lomańḱs pańšńeś t́e čova gńedoj ḱeĺńenze͔
 son karmaś lomańks t́e čova gńedoj kortamo 
-uk d'onnoj pastuk ton ńej uĺat vani͔ćam 
+uk d́onnoj pastuk ton ńej uĺat vani͔ćam 
 uk ďonnoj pastuk ton i uĺat andi͔ćam 
 10. śeks mon a jarsan uk ďonnoj pastuk a śiman 
 mon beŕat́ kuĺat azorom este͔ (< ejste͔) mon maŕiń 
@@ -10194,12 +10433,12 @@ Wie ein Mensch hub (da) der schlanke Braune an5, wie ein Mensch begann der schla
 ich habe schlechte Nachrichten über meinen Herrn gehört. Mein Hausherr sitzt (schon) das dritte Jahr im Kerker, mein Ernährer sitzt (schon) das dritte Jahr im Gefängnis, seine Eltern, ach, Tagehirt, sind alt,
 
 si͔ń ńej ašt́it́ uk ďonnoj pastuk si͔ń vačo.
-si͔ń i ńej ašt́it́ uk d'onnoj pastuḱ si͔ń štrapo. 
-uk ńej mon tujan uk d'onnoj pastuk mon tujan, 
+si͔ń i ńej ašt́it́ uk d́onnoj pastuḱ si͔ń štrapo. 
+uk ńej mon tujan uk d́onnoj pastuk mon tujan, 
 uk užo moĺan uk ďonnoj pastuk mon kudov 
 5. mon varšasi͔ń eŕumań t́et́anzo avanzo
-vaj i mon tujan uk d'onnoj pastuk mon tujan 
-ṕeĺe-v́e škańe mon d'onnoj pastuk mon kudov
+vaj i mon tujan uk d́onnoj pastuk mon tujan 
+ṕeĺe-v́e škańe mon d́onnoj pastuk mon kudov
 ṕeĺe-v́e škańe t́e čova gńedoj tujekšne͔ś. 
 koda son i aŕś gŕešnoj eŕumań orta laŋks 
 10. vaj son śejaźevś t́e čova gńedoj ḿeĺavtoź 
@@ -10270,7 +10509,7 @@ v́eŕe v́eŕe solaj utotco
 v́eŕe utomoń solaj ćulanco 
 ćulanoń valdo solaj vaĺm alo 
 5. kužon lukazdi͔ solaj eźemse͔ 
-ašo ḱeńd'e sonʒo alonʒo 
+ašo ḱeńd́e sonʒo alonʒo 
 puxoń todov sonʒo pŕalonʒo 
 čińeḿeń ḱeďeń šuba laŋksonʒo 
 śijań mukoŕ ṕiĺǵenʒe͔ alo
@@ -10593,7 +10832,7 @@ kavkst́ vačkoĺeś ḱeĺes panʒXiźe
 10. koda sovaśt́ mokšoń ortava
 si͔ń sovakšnośt́ mokšoń kudos, 
 mokšo mokšo śupav mokšo
-učat araś a-ucxuma gośt́
+učat araś a-učuma gośt́
 davaj mokšo ton pan3Xumat
 
 als die Räuber kamen,
@@ -10788,8 +11027,8 @@ luǵińeś paro araś jarci͔ze͔
 mat́ŕuša paro araś saize͔. 
 iĺa avaŕďe paro mat́ŕuša
 už iĺa ḿeĺaft mazi͔ mat́ŕuša 
-eśt́eń polaks mat́ŕa mon sajd'an, 
-10. vaj ešt́eń vastaks mat́ŕa mon sajd'an
+eśt́eń polaks mat́ŕa mon sajd́an, 
+10. vaj ešt́eń vastaks mat́ŕa mon sajd́an
 vaj uĺi kaŕej mat́ŕa moń rakšam, 
 št́iṕec a poŋǵi sonʒo ponazo 
 vaj noldan' paŕćej sonʒo pulozo 
@@ -11060,7 +11299,7 @@ maŕu maŕuśa maŕu mašinḱa
 ṕič alga jaḱi jaxim oďʒ́ora
 5. «jaxim odʒ́ora ḿeśt́ t́ija jakat 
 jaxim od-aĺa ḿeśt́ t́ija pakat?»
-«ṕicx-umaŕt́ kočkan, ṕič-umaŕ-ńet́ḱst raz'd'an» 
+«ṕič-umaŕt́ kočkan, ṕič-umaŕ-ńet́ḱst raz'd́an» 
 «ḿeźeḱs ḱočḱasi͔ ṕič-umaŕńet́ńeń,
 ḿeźeḱs raźďesi͔ ṕič-umaŕ-ńet́ḱsne͔ń (< -stńeń)?»
 10. «tońeńt́ ḱočḱasi͔ń, tońeńt́ raźďesi͔ń! 
@@ -11185,7 +11424,7 @@ uš eĺ eŕav́it́, t́ejt́eŕ ejďe, tońt́ srokot
 das Feld des Mädche ns bleibt unbestellt. Das Mädchen weint beim Gehen, traurig ist das Mädchen beim Gehen. Wer sah das Mädchen weinen, 5. wer bemerkte, dass das Mädchen traurig ist? Der Ersäne Kandraschka1 sah sie, der Mursane Kandraschka bemerkte sie: «Was weinst du, Mädchen, beim Gehen, was bist du traurig, Mädchen, beim Gehen?» lo. «Ich bin nicht dazu da, Kandraschka, dass du mich fragstund ich habe das nicht, Kandraschka, zu erzählen.» «Obgleich du (es) nicht erzählst, Mädchen, weiss ich es (doch), obgleich du nicht sprichst, Herrin', errate ich es: deine Zeit2 der Verpachtung, Mädchen, ist bald abgelaufen,
 
 vaj a spravav'i t́ejt́eŕ ejďe, toń pakśat
-ńej nuš ḿeźeń uĺi t́ejt́eŕ ejďe, toń ṕeĺd'e paroś 
+ńej nuš ḿeźeń uĺi t́ejt́eŕ ejďe, toń ṕeĺd́e paroś 
 vaj mońć spravasa, t́ejt́eŕ ejďe, paḱśińet́
 nuš ḱot́ śadoso tońet́ ḱandrašḱa mon kajan (g- ) 
 5. vaj ḱot́ kavtoso tońet́ kandrat́ej mon kajan, 
@@ -11218,7 +11457,7 @@ vaj śijań bĺida tatar ava pakśan ḱis
 5. ṕižeń jandava tatar ava latkoń ḱis
 tatḱoń kuvalma śijaks čuďi v́eďńeń ḱis
 v́eśi bojartne͔ń tatar ava jaḱińźe
-v́eśi sud'jat́ńeń bojar ava kaźńińźe 
+v́eśi sud́jat́ńeń bojar ava kaźńińźe 
 i to pakśan' tatar ava iďiźe 
 10. eŕaś eŕaś tatar ava ṕeḱijaś 
 ćora t́aka bojar ava son šačtaś ašo ḱiĺej tataroń ćoŕań se͔ŕeze͔ (< śe-)
@@ -11473,13 +11712,13 @@ kuśt́ima ṕeńes mokšo śulḿińʒ́e
 pŕaškav ašḱińet́ mokšo toŋgokšnoś 
 uź son ḱiĺďińʒ́e mokšo povďińʒ́e 
 kŕiĺća iḱeĺej mokšo v́et́ińʒ́e
-15. «ton ad'akaja, ańo t́ejt́eŕem
-už ad'akaja, ańoś dočińem
+15. «ton ad́akaja, ańo t́ejt́eŕem
+už ad́akaja, ańoś dočińem
 
 Zu ihrem Vater sprach Anjuscha, zu ihrer Mutter sagte Anjuscha:
 «Tag für Tag1, Vater2, gibst du Baschkiren zu trinken, Tag für Tag, Ernährer2, gibst du Nogajern zu speisen, 5. (aber) das Baschkirenland hast du mir nicht gezeigt, (aber) die Nogajermark hast du mir nicht gezeigt.» Einen Grauen und einen Braunen hat der Mokschane als Pferde, der Mokschane hält sie in einem dunklen Stalle, der Mokschane tränkt sie mit herbeigetragenem Wasser2, 10. Der Mokschane nahm sie und führte sie (heraus), der Mokschane band sie bei der Aussentreppe2 fest, ein Kummet2 mit Schnallen legte (ihnen) der Mokschane an, der Mokschane schirrte und spannte sie an, der Mokschane führte sie vor die Aussentreppe. 15. «Komm, meine Tochter Anjuscha, komm, mein Töchterchen Anjuscha,
-už ton ad'aka bašḱir mastorov
-ton ad'aka nogajeń paksav (b-) 
+už ton ad́aka bašḱir mastorov
+ton ad́aka nogajeń paksav (b-) 
 už paro paro bašḱir ( < -re͔ń) mastoroś
 śeďejak paro nogajeń pakśaś
 5. son śijań bĺida bašḱir mastoroś 
@@ -11885,7 +12124,7 @@ tujat, jalaksḱem, a ton śańaka
 son śeste͔ tukšnoś, si͔nst i kadi͔ńźe. 
 kuvat́ a kuvat́ paťanzo eŕaśt́ 
 uk kolmo ijet́ pat́anzo učeśt́, 
-kolmo ijed'e ḿejĺe si͔ń korti͔t́
+kolmo ijed́e ḿejĺe si͔ń korti͔t́
 15. vaj i kolmon'est (< -sk) si͔ń pat́at sazort 
 vaj sokol ḿeŕi ĺebeďńe korti͔
 
