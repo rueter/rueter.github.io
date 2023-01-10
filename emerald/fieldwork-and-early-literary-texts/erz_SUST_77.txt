@@ -3633,7 +3633,7 @@ Balladenartige Lieder der Ersänen
 # sent_id = SUST-77-26-pp103-104_Od-Surkina:2
 # pgno = 103
 # text_orig = tolne͔ze͔ pali͔ di͔ valdi͔ńeste͔ \n kačamzo ĺiśi vaj tusti͔ńeste͔ 
-# text =  
+# text = 
 # text_de_lines = Das Feuer brennt hell, \n der Rauch steigt dicht empor.
 
 # sent_id = SUST-77-26-pp103-104_Od-Surkina:3
@@ -3645,13 +3645,13 @@ Balladenartige Lieder der Ersänen
 # sent_id = SUST-77-26-pp103-104_Od-Surkina:4
 # pgno = 103
 # text_orig = pavol petrov́ič pŕanzo činc v́eši \n pŕanzo činc v́eši od ińazoroks \n od ińazoroks od ganazoroks
-# text =  
+# text = 
 # text_de_lines = Pavol Petrovitsch fordert den Rang für sich, \n fordert den Rang für sich, will der neue Kaiser werden, \n der neue Kaiser, der neue Khan.
 
 # sent_id = SUST-77-26-pp103-104_Od-Surkina:5
 # pgno = 103
 # text_orig = ux a j avakaj ada ďiŕińem \n tujikaja ťaťań čińende͔ \n vaj tujikaja ďiŕim kojńende͔. 
-# text =  
+# text = 
 # text_de_lines = ”Oh, Mutter, meine Ernährerin, \n gib (mir) den Rang meines Vaters, \n gib (mir) seine Stellung, meine Ernährerin!”
 
 # sent_id = SUST-77-26-pp103-104_Od-Surkina:6
