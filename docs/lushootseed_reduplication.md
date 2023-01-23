@@ -71,3 +71,13 @@ saq̓ʷ
 tágʷəxʷ
 123_123 tágʷ√tagʷəxʷ(2)
 1ə_123 ʔəs-tə+√tágʷəxʷəxʷ (7)
+
+
+# Intro
+There is an extensive description of reduplication phenomena in Lushootseed dating back to at least the 1950s (QUOTE NEEDED).
+Bates (1986)
+
+
+Resources
+
+Bates, Dawn 1986: An Analysis of Lushootseed Diminutive Reduplication. Proceedings of the Twelfth Annual Meeting of the Berkeley Linguistics Society (1986), pp. 1-13.

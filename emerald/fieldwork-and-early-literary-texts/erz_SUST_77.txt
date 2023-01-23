@@ -3775,17 +3775,30 @@ anna zoŕina, večkanovo, 18 /9 98.
 
 <text type="fieldwork" iso_lang="myv" collection="Suomalais-Ugrilaien Seura" name_of_publication="Mordwinische Volksdichtung, I Band. SUST LXXVII" publication_place="Turku" publisher="Suomalais-Ugrilainen Seura" publication_year="1938" issue_number="77">
 <chap title_myv="Кезэрень коесь кодамо" title_deu="" genre_deu="Balladenartige Lieder der Ersänen" comment_deu="" author="ivan" author_geo="kozlofka" datefrom="18981210" dateto="18981220" interviewer="Heikki Paasonen" page_range="106–110" text_number="28">
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:1
+# pgno = 106
+# text_orig = ḱeze͔ŕeń kojeś kodamo 
+\n 10. ḱeze͔ŕeń v́eraś kodamo? 
+# text =
+# text_de_lines = Welches ist die alte Volkssitte, 10. welches ist der alte Brauch?
 
-ḱeze͔ŕeń kojeś kodamo 
-10. ḱeze͔ŕeń v́eraś kodamo? 
-ḱeze͔ŕeń kojeś iśt́amo 
-ḱeze͔ŕeń v́eraś iśt́amo:
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:2
+# pgno = 106
+# text_orig = ḱeze͔ŕeń kojeś iśt́amo 
+\n ḱeze͔ŕeń v́eraś iśt́amo:
+# text =
+# text_de_lines = Die alte Volkssitte ist diese, der alte Brauch ist dieser:
 
-ich schicke Diebe, ich schicke Missetäter, ich schicke Henker, ich schicke Mörder. Ich lasse einen Strom von ihrem1 Blute2 fliessen, ich baue einen Damm2 aus ihrem Fleische2, 5. ich baue eine Brücke2 aus ihren Knochen, ich mache Geländer aus ihren Rippen, auf die Geländerenden werde ich Menschenköpfe spiessen, über die Brücke2 werde ich ein Heer Soldaten senden.»
-28.
-Welches ist die alte Volkssitte, 10. welches ist der alte Brauch? Die alte Volkssitte ist diese, der alte Brauch ist dieser:
-ćorat moĺit́ ḿiŕďeńe 
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:3
+# pgno = 107
+# text_orig = ćorat moĺit́ ḿiŕďeńe 
 t́ejt́eŕt́ ašt́it́ kudoso
+# text =
+# text_de_lines =
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:
+# pgno = 107
+# text_orig = 
 v́ejḱe ulńeś dogat ćori͔ńe 
 v́ejḱe utlńeś dogat alińe 
 5. kodi͔ tumo-kaŕce͔nʒe͔
@@ -3799,8 +3812,28 @@ dajt́e t́ejďan v́e soglas
 vaj si͔ŕe at́at pokšt́ińeń 
 śeďe oďne͔t́ aĺińeń
 
-Söhne heiraten ein1, Töchter bleiben zıı Hause. Es gab einen verständigen2 Mann1, es gab einen verständigen Mann3. r>. Er flicht die Bastschuhe für seinen Aufbruch4, er dreht die Bastschuhschnuren für seine Einheirat. Er weint beim Flechten, er ist traurig beim Drehen: «Wie seltsam, dass es so ist, lo. wie merkwürdig, dass es so ist!
-Wohlan, machen wir eine Dorfversammlung, wohlan, machen wir eine gemeinsame Versammlung! Alte»', meine Grossväter4, meine jüngeren3 Männer3,
+Söhne heiraten ein1, Töchter bleiben zu Hause.
+
+Es gab einen verständigen2 Mann1, es gab einen verständigen Mann3.
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:3
+# pgno = 107
+# text_orig = r>. Er flicht die Bastschuhe für seinen Aufbruch4, er dreht die Bastschuhschnuren für seine Einheirat.
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:3
+# pgno = 107
+# text_orig = Er weint beim Flechten, er ist traurig beim Drehen: «Wie seltsam, dass es so ist, lo. wie merkwürdig, dass es so ist!
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:3
+# pgno = 107
+# text_orig = 
+Wohlan, machen wir eine Dorfversammlung, wohlan, machen wir eine gemeinsame Versammlung!
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:3
+# pgno = 107
+# text_orig =
+Alte»', meine Grossväter4, meine jüngeren3 Männer3,
+
 iśt́a ḿeźeń tamašat 
 iśt́a ḿeźeń pŕičuda 
 ćorat moĺit́ ḿiŕďeńe 
