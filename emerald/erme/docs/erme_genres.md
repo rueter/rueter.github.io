@@ -7,7 +7,7 @@ This is a list of genres used in the ERME corpora accessible through ```https://
 |academic|академикань|akateeminen|x|академический|
 |biography|эрямодо_ставкс|elämänkerta|x|биографический|
 |blog|блог|blogi|x|блог|
-|childrens_literature|эйкакшонь_сёрмадст|lastenkirjallisuus|x|x|
+|childrens_literature|эйкакшнэнь_сёрмадст|lastenkirjallisuus|x|x|
 |crime_fiction|x|x|x|x|
 |fiction|мазы_сёрмадст|x|x|x|
 |general|эрьва_чинь|x|x|x|
