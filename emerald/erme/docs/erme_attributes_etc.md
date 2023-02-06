@@ -25,7 +25,7 @@
 |text/iso_lang |||||
 |text/timefrom |||||
 |text/timeto |||||
-|text/_geo_author_origin|authorʼs place of birth|tekijän syntymäpaikka|autors fõdelseort|место рождения автора|
+|text/_geo_author_origin|authorʼs place of birth|tekijän syntymäpaikka|autors födelseort|место рождения автора|
 |----|----|----|----|----|
 
 ## chap element
