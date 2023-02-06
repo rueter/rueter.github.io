@@ -1,13 +1,13 @@
 # ERME attribute values
 
 ## text element
-|----|----|----|----|----|
+
 |attr|eng|fin|swe|rus|
 |----|----|----|----|----|
 |text/id |||||
 |text/author |author|tekijä|||
 |text/genre |genre|tyylilaji|||
-|text/bibliog |||||
+|text/bibliog |bibliographic info|bibliograafinen tieto|||
 |text/publisher |publisher|julkaisija|||
 |text/publication_place |place of publication|julkaisupaikka|||
 |text/publication |publication|julkaisu|||
@@ -25,11 +25,11 @@
 |text/iso_lang |||||
 |text/timefrom |||||
 |text/timeto |||||
-|text/_geo_author_origin|birthplace of author|tekijän syntymäpaikka|||
+|text/_geo_author_origin|authorʼs place of birth|tekijän syntymäpaikka|autors fõdelseort|место рождения автора|
 |----|----|----|----|----|
 
 ## chap element
-|----|----|----|----|----|
+
 |attr|eng|fin|swe|rus|
 |----|----|----|----|----|
 |chap/storyid |||||
@@ -37,7 +37,7 @@
 |----|----|----|----|----|
 
 ## p = paragraph
-|----|----|----|----|----|
+
 |attr|eng|fin|swe|rus|
 |----|----|----|----|----|
 |p/storyid |||||
@@ -48,7 +48,7 @@
 
 ## sentence element
 
-|----|----|----|----|----|
+
 |attr|eng|fin|swe|rus|
 |----|----|----|----|----|
 |sentence/id |||||
@@ -58,30 +58,3 @@
 |sentence/text_fin |Finnish translation|suomennos|text på finska|текст по-фински|
 
 
-#####
-
-# European Parliament PLENARY
-https://www.europarl.europa.eu/plenary/en/debates-video.html
-
-Scroll down and find «Search Verbatim reports»
-
-# resulting page after search (this does not seem derivable)
-https://www.europarl.europa.eu/plenary/en/debates-video.html#sidesForm
-
-(this provides individual items to choose from)
-
-
-#Item five from 2023-01-19
-
-https://www.europarl.europa.eu/doceo/document/CRE-9-2023-01-19-ITM-005_EN.html
-
-#Audios
-(both playerStartTime and playerEndTime segments are required)
-##de:
-https://www.europarl.europa.eu/plenary/de/vod.html?mode=unit&vodLanguage=DE&playerStartTime=20230119-10:27:22&playerEndTime=20230119-10:29:42#
-
-##en:
-https://www.europarl.europa.eu/plenary/en/vod.html?mode=unit&vodLanguage=EN&playerStartTime=20230119-10:27:22&playerEndTime=20230119-10:29:42#
-
-##fi:
-https://www.europarl.europa.eu/plenary/fi/vod.html?mode=unit&vodLanguage=FI&playerStartTime=20230119-10:27:22&playerEndTime=20230119-10:29:42#
