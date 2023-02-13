@@ -4,8 +4,14 @@ Jack Michael Rueter
 
 ## 2022
 
+- Alnajjar, K., Hämäläinen, M., Partanen, N. & Rueter, J., 2022, Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages. Moeller, S., Anastasopoulos, A., Arppe, A., Chaudhary, A., Harrigan, A., Holden, J., Lachler, J., Palmer, A., Rijhwani, S. & Schwartz, L. (eds.). Stroudsburg: The Association for Computational Linguistics, p. 139-148 10 p.
+- Hämäläinen, M. (ed.), Alnajjar, K. (ed.), Partanen, N. (ed.) & Rueter, J. (ed.), 2022: Proceedings of the 2nd International Workshop on Natural Language Processing for Digital Humanities Stroudsburg: Association for Computational Linguistics (ACL).
+- Partanen, N., Blokland, R., Rießler, M. & Rueter, J., 2022, Proceedings of the 6th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB 2022). Berglund, K., La Mela, M. & Zwart, I. (eds.). Aachen: CEUR-WS.org, p. 370-380 11 p. (CEUR Workshop Proceedings; no. 3232).
+- Rueter, J., Partanen, N., Alnajjar, K. & Hämäläinen, M., 30 Aug 2022: Establishing a Role for Minority Source Language in Multilingual Facilitation In: Nordlyd. 46, 1, p. 231-240 10 p.
 - Rueter, J. 2022, Problems in Erzya subject-object-conjugation ambiguity. *The Journal of Brief Ideas*.  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6643877.svg)](https://doi.org/10.5281/zenodo.6643877)
+- Rueter, J. & Axelson, E., Jun 2022, Raamatun jakeita uralilaisille kielille: rinnakkaiskorpus, osittain lemmatisoitu ja jäsennetty Korp [tekstikorpus]. [Parallel Bible verses for Uralic language Studies.] (Partially lemmatized parallel text corpus with partial morphosyntactical analysis on https://korp.csc.fi PaBiVus)
 - Rueter, J., Partanen, N., Alnajjar, K., & Hämäläinen, M., 2022, Establishing a Role for Minority Source Language in Multilingual Facilitation. *Nordlyd, 46*(1), 231-240. https://doi.org/10.7557/12.6370
+- Zeman, Daniel; et al., 2022, *Universal Dependencies 2.11*, LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University,  http://hdl.handle.net/11234/1-4923.
 - Zeman, Daniel; et al., 2022, *Universal Dependencies 2.10*, LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University,  http://hdl.handle.net/11234/1-4758.
 
 
