@@ -17,7 +17,7 @@ These samples will be further enhanced with glosses and person tracking, i.e. po
 
 ## Sources
 
-Erzya and Moksha [pieces](https://rueter.github.io/emerald/erme/docs/erme_pieces.md) in the lemmatized and morphosyntactically parsed ERME-s-v2 corpus.
+Erzya and Moksha [pieces](https://rueter.github.io/emerald/erme/docs/erme_pieces.html) in the lemmatized and morphosyntactically parsed ERME-s-v2 corpus.
 
 
 ## Resources
