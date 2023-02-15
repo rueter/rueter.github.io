@@ -91,7 +91,7 @@ This is a list of the pieces published in erme-s-v2-korp on the CSC Korp server.
 |Sidorov, Viktor Ivanovič|Sulejtʹ|Erzya|Erzya|ёвтнема|Sulejtʹ|Mordovskoj knižnoj izdatelʹstvasʹ|1996|Saransk|87|22,272|135,766|6–87|Motalina, Tatʹâna 2000; Rueter, Jack 2023|MR_Sabančeevo;RU;54.585;46.28|
 |Tarasova, Marina Andreevna|Psakanʹ ëvkst|Erzya|Erzya|ёвтнема|Psakanʹ ëvkst|Mordovskoj knižnoj izdatelʹstvasʹ|1996|Saransk|105|13,881|81,556|_|Rueter, Jack 2010; 2023|MR_NTurdaki;RU;53.901833;45.353|
 |Terëškina, Evdokiâ Jakovlevna|Saj akša lišmosa|Moksha|Moksha|азкс|Saj akša lišmosa|Mordovskâj knižnaj izdatelʹstvasʹ|1991|Saransk|208|60,577|363,901|6–207|Naldina, Svetlana 2000; Rueter, Jack 2023|Som;RU;54.310946;43.893131|
-|Tâpaev, Anatolij Proxorovič|Sedʹ langsa tol|Moksha|Moksha|short_story:story:memoires|Sedʹ langsa tol|Мордовскяй книжнай издательствась|1994|Саранск|208|96,054|596,775|6–334|Tremaskina, Nataliâ 1999; Rueter, Jack 2023|Aleks;RU;54.016667;44.216667|
+|Tâpaev, Anatolij Proxorovič|Sedʹ langsa tol|Moksha|Moksha|short stories, stories, memoires|Sedʹ langsa tol|Мордовскяй книжнай издательствась|1994|Саранск|208|96,054|596,775|6–334|Tremaskina, Nataliâ 1999; Rueter, Jack 2023|Aleks;RU;54.016667;44.216667|
 |Unknown|Fkâ-fkânʹ marxta ladâj narottnenʹ|Moksha|Moksha|Unknown|Mokša 1980, №1|Mokša|1980|Saransk|7|2,413|19,174|5–11|Rueter, Jack 2023|J_Moksha;RU;54.183333;45.183333|
 |Unknown|Literaturnaj èrâfonʹ xronika|Moksha|Moksha|chronicle|Mokša 1980, №1|Mokša|1980|Saransk|1|238|1,924|11|Rueter, Jack 2023|J_Moksha;RU;54.183333;45.183333|
 |Unknown|Literaturnaj èrâfonʹ xronika|Moksha|Moksha|chronicle|Mokša 1980, №1|Mokša|1980|Saransk|1|238|1,924|46|Rueter, Jack 2023|J_Moksha;RU;54.183333;45.183333|
