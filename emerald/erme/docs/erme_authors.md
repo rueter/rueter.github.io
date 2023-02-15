@@ -1,6 +1,6 @@
 # ERME authors
 
-
+This is a growing data set providing information on the authors of pieces now available in the CSC [Korp search engine](https://korp.csc.fi/korp/?mode=other_languages#?cqp=%5B%5D&corpus=erme_mdf,erme_myv)
 
 |author,|author_transliteration,|lang,|geo,|erme_geo,|birth_date,|geo_author_orig,|comment|
 |---|---|---|---|---|---|---|---|
