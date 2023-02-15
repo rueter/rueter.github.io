@@ -1,7 +1,7 @@
 # ERME authors
 
 
-|---|---|---|---|---|---|---|---|
+
 |author,|author_transliteration,|lang,|geo,|erme_geo,|birth_date,|geo_author_orig,|comment|
 |---|---|---|---|---|---|---|---|
 |"Абрамов, Кузьма Григориевич",|,|myv,|с. Старый Найман_Большеберезниковский район,|Myv:MR_StNajmany,|19141112_20080804,|,|,|
