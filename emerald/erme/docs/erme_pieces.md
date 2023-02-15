@@ -1,6 +1,6 @@
 # ERME Pieces
 
-This is a list of the pieces published in erme-s-v2-korp on the CSC Korp server. The pieces are in Erzya and Moksha.
+This is a list of the pieces published in erme-s-v2-korp on the CSC Korp server. There are 107 pieces in Erzya and Moksha.
 
 |Author|Piece|Language|Original|Genre|Publication|Publisher|Year of publication|Place|Number of pages|word count|character count|page range|e-correctors|Author Geo|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
