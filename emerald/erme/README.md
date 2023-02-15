@@ -17,13 +17,7 @@ These samples will be further enhanced with glosses and person tracking, i.e. po
 
 ## Sources
 
-| File | Language | Original | Author | Publication name | Year of Publication |
-|------------|------------|-----------|------------|---------|----------|
-| myv_BryzhinskijMixail_Kirdazht_manu_Chap1_erme_01.erme| Erzya | Erzya | Брыжинский Михаил И. | Кирдажт | 2000 |
-| myv_ChetvergovJevgenij_Velenj-vajgeljtj_1992_erme_01.erme | Erzya | Erzya | Четвергов Евгений | Велень вайгельть | 1992 |
-| myv_DunjashinAlex_Pidsi-palakst_1930_erme_01.erme | Erzya | Erzya | Дуняшин Александр | Пици палакст | 1930 |
-| myv_KutorkinAndrej_LazhnicyaSuraII_1976_Part1-Chap1_erme_01.erme | Erzya | Erzya | Куторкин Андрей Д. | Лажныця Сура II | 1976 |
-| mdf_MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39_erme_01.erme | Moksha | Moksha | Мишанина Валентина | Лиендень очконяса | 1972 |
+Erzya and Moksha [pieces](https://rueter.github.io/emerald/erme/docs/erme_pieces.md) in the lemmatized and morphosyntactically parsed ERME-s-v2 corpus.
 
 
 ## Resources
