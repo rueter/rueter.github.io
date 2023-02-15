@@ -11,7 +11,7 @@ This is a list of the pieces published in erme-s-v2-korp on the CSC Korp server.
 |Beban, Maksim|Tundanʹ narmottʹ|Moksha|Moksha|роман|Monʹ kelʹgoma knigane|Mordovskâj knižnaj izdatelʹstvasʹ|1995|Saransk|212|59,834|364,458|1–212|Kovajkina, Svetlana 1999|Ker;RU;54.179856;43.748996|
 |Bryžinskij, Ivan Sergeevič|Kazne|Erzya|Erzya|повесть|Kazne|Mordovskoj knižnoj izdatelʹstvasʹ|1955|Saransk|136|26,352|167,399|1–48|Rueter, Jack 2023|MR_NTurdaki;RU;53.901833;45.353000|
 |Bryžinskij, Ivan|Vasence purgondavkst|Erzya|Erzya|повесть|Vasence purgondavkst|Mordovskoj knižnoj izdatelʹstvasʹ|1960|Saransk|48|13,914|85,337|1–48|Rueter, Jack 2023|MR_NTurdaki;RU;53.901833;45.353000|
-|Bryžinskij, Mixail Ivanovič|Kirdažt|Erzya|Erzya|этнофантастикань_повесть|Kirdažt|Mordovskoj knižnoj izdatelʹstvasʹ|2008|Saransk|144|87,297|593,467|_|Rueter, Jack 2022|MR_NTurdaki;RU;53.901833;45.353000|
+|Bryžinskij, Mixail Ivanovič|Kirdažt|Erzya|Erzya|этнофантастикань повесть|Kirdažt|Mordovskoj knižnoj izdatelʹstvasʹ|2008|Saransk|144|87,297|593,467|_|Rueter, Jack 2022|MR_NTurdaki;RU;53.901833;45.353000|
 |Bryžinskij, Mixail Ivanovič|Polovt|Erzya|Erzya|повесть|Polovt|Mordovskoj knižnoj izdatelʹstvasʹ|1983|Saransk|148|38,411|233,775|_|Četvergova, Oksana 1999; Rueter, Jack 2023|MR_NTurdaki;RU;53.901833;45.353000|
 |Bryžinskij, Mixail Ivanovič|Ěrâmodo nadobiâ|Erzya|Erzya|повесть|Ěrâmodo nadobiâ|Mordovskoj knižnoj izdatelʹstvasʹ|1991|Saransk|165|49,718|302,053|_|Četvergova, Oksana 1999; Rueter, Jack 2023|MR_NTurdaki;RU;53.901833;45.353000|
 |Devin, Ilʹâ Maksimovič|Nardiše|Moksha|Moksha|роман|Nardiše|Mordovskâj knižnaj izdatelʹstvasʹ|1991|Saransk|365|108,141|642,980|1–365|Naldina, Svetlana 2000; Rueter, Jack 2023|Ter;RU;54.258617;44.534025|
