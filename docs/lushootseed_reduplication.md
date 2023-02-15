@@ -1,7 +1,15 @@
 # Lushootseed reduplication
 
 Lushootseed reduplication is fascinating.
-According to Bates, Hess and Hilbert (1994: xvii; Hess and Hilbert 1977; Bates 1986), there are seven different types of reduplication.
+According to Bates, Hess and Hilbert (1994: xvii; Hess and Hilbert 1977; Bates 1986), there are seven different types of reduplication in Lushootseed. This assessment is associated with morphological and semantic phenomena observed in verb and nominal derivation.
+In this paper, I will take an entirely morphophonological approach to what I have observed in the limited data available. My point of departure is based on three statements:
+(1) reduplication in Lushootseed is associated with a three-letter reduplication segment;
+(2) reduplication can involve the first two, all three or the last two letters of the reduplication segment;
+(3) simultaneous reduplication can be observed.
+A large set of subtags are established for desriptive analyses of the phenomena involved in Lushootseed reduplication. The tags +Der/Dimin and +Der/Distr are used as links between two general semantic concepts and specific reduplication patterns in the data. Arabic numerals pertaining to position in the reduplication segment illustrate deduplication patterns with the help of suppletive letters and consonants. Thus, the tag +Der/Dimin_1i123 indicates the reduplication in bədaʔ 'child' >  bi-bədaʔ 'small child', and +Der/Distr_123123 the reduplication in pišpiš 'cat' > piš-pišpiš 'cats'.
+Research questions include diminutive vs distributive heirarchy and pattern compatibility in wordclasses.
+
+
 
 Reduplication one (red1) is described as CV+ with variants in Ci+, CVʔ+, Ciʔ+ smallness, diminished action, endearment [diminutive reduplication; the root vowel is oftern lost or reduced to ə. Several stems irregularly have Cə+ fo the diminutive.]
 
