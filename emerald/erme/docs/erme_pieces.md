@@ -18,7 +18,7 @@ This is a list of the pieces published in erme-s-v2-korp on the CSC Korp server.
 |Doronin, Aleksandr Makarovič|Baâganʹ sulejtʹ|Erzya|Erzya|novel|Baâganʹ sulejtʹ|Mordovskoj knižnoj izdatelʹstvasʹ|1996|Saransk|480|134,532|876,259|5–384|Chetvergova, Oksana 1999; Rueter, Jack 2023|MR_Petrovka;RU;54.973333;45.484167|
 |Doronin, Aleksandr Makarovič|Kočkodykesʹ – paksânʹ narmunʹ|Erzya|Erzya|novel|Kočkodykesʹ – paksânʹ narmunʹ|Mordovskoj knižnoj izdatelʹstvasʹ|1993|Saransk|384|108,006|679,432|5–384|Motalina, Tatʹâna 1999; Rueter, Jack 2009; 2023|MR_Petrovka;RU;54.973333;45.484167|
 |Doronin, Aleksandr Makarovič|Kuzʹma Alekseev|Erzya|Erzya|novel|Kuzʹma Alekseev|Mordovskoj knižnoj izdatelʹstvasʹ|2001|Saransk|397|108,980|701,276|5–397|Rueter, Jack 2009; 2023|MR_Petrovka;RU;54.973333;45.484167|
-|Dömin, Vasilij|Ojme valdo|Erzya|Erzya|essay|Cëkanʹka|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|3|972|6,375|5–7|Rueter, Jack 1998; 2023|MR_Šug;RU;54.266111;46.093333|
+|Dëmin, Vasilij|Ojme valdo|Erzya|Erzya|essay|Cëkanʹka|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|3|972|6,375|5–7|Rueter, Jack 1998; 2023|MR_Šug;RU;54.266111;46.093333|
 |Grigorij Pinâsov|Izʹ udala|Moksha|Moksha|Ûmoreska|Mokša 1980, №1|Mokša|1980|Saransk|2|413|2,473|79–80|Rueter, Jack 2023|Poljana;RU;53.954166;42.825999|
 |Kirdâškin, Timofej Andreevič|Keli Mokša|Moksha|Moksha|novel|Keli Mokša|Mordovskâj Gosudarstvennaj Izdatelʹstvasʹ|1953|Saransk|386|78,457|454,973|3–386|Naldina, Svetlana 2000|Mamangino;RU;54.187333;43.653500|
 |Kirillov, Pëtr Semënovič|Kočkazʹ sočineniât: Kolmo tomso. Omboce tomosʹ|Erzya|Erzya|повесть|Kočkazʹ sočineniât: Kolmo tomso. Omboce tomosʹ|Mordovskoj knižnoj izdatelʹstvasʹ|1987|Saransk|312|80,415|488,389|4–312|Četvergova, Oksana 1999; Rueter, Jack 2022|MalyjTolkaj;RU;53.65;52.133333|
@@ -67,23 +67,23 @@ This is a list of the pieces published in erme-s-v2-korp on the CSC Korp server.
 |Kutorkin, Andrej Dmitrievič|Lažnycâ Sura III|Erzya|Erzya|novel|Lažnycâ Sura III|Mordovskoj knižnoj izdatelʹstvasʹ|1987|Saransk|391|101,779|621,944|5–391|Kosolapova, Tatʹâna 2001; Averʹânova, Rimma 2001; Rueter, Jack 2010|Napolʹnoe;RU;55.125833;46.353056|
 |Kutorkin, Andrej Dmitrievič|Lažnycâ Sura II|Erzya|Erzya|novel|Lažnycâ Sura II|Mordovskoj knižnoj izdatelʹstvasʹ|1976|Saransk|408|98,080|582,267|1–408|Rueter, Jack 2009|Napolʹnoe;RU;55.125833;46.353056|
 |Kutorkin, Andrej Dmitrievič|Lažnycâ Sura I|Erzya|Erzya|novel|Lažnycâ Sura I / Vasence kniga valdaevtʹ|Mordovskoj knižnoj izdatelʹstvasʹ|1969|Saransk|480|95,701|580,194|1–480|Rueter, Jack 2023|Napolʹnoe;RU;55.125833;46.353056|
-|L. Tingaeva|Mokšèrzânʹ kulʹturatʹ unksonza|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|2|1,000|7,298|67–68|Rueter, Jack 2023|Unknown;RU;;|
-|Mixail Byčkov|Pčkaftozʹ|Moksha|Moksha|басня|Mokša 1980, №1|Mokša|1980|Saransk|1|63|355|80|Rueter, Jack 2023|Kul;RU;54.064763;44.552953|
+|Tingaeva, L.|Mokšèrzânʹ kulʹturatʹ unksonza|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|2|1,000|7,298|67–68|Rueter, Jack 2023|Unknown;RU;;|
+|Byčkov, Mixail|Pčkaftozʹ|Moksha|Moksha|басня|Mokša 1980, №1|Mokša|1980|Saransk|1|63|355|80|Rueter, Jack 2023|Kul;RU;54.064763;44.552953|
 |Mokšoni, Aleksej|Moncenʹ ânoze|Moksha|Moksha|повесть|Monʹ kelʹgoma knigane|Mordovskâj knižnaj izdatelʹstvasʹ. Monʹ kelʹgoma knigane|1998|Saransk|365|11,077|68,541|96–132|Kovajkina, Svetlana 2000; Rueter, Jack 2023|Lopatino;RU;54.001333;43.109833|
 |Motorkin, Mixail|Varma kovol|Erzya|Erzya|повесть|Varma kovol|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|152|42,818|263,434|1–157|Četvergova, Oksana 2000; Rueter, Jack 2023|MR_Pilesevo;RU;54.712778,45.946111|
-|Nikolaj Cilikin|Sedisʹ tokasy seditʹ|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|2|542|3,357|53–54|Rueter, Jack 2023|Zajcevo;RU;54.271333;43.671|
-|Nikolaj Učvatov|Srgozema|Moksha|Moksha|novel|Mokša 1980, №1|Mokša|1980|Saransk|34|13,498|79,379|13–46|Rueter, Jack 2023|Levši;RU;54.084532;45.00953|
+|Cilikin, Nikolaj|Sedisʹ tokasy seditʹ|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|2|542|3,357|53–54|Rueter, Jack 2023|Zajcevo;RU;54.271333;43.671|
+|Učvatov, Nikolaj|Srgozema|Moksha|Moksha|novel|Mokša 1980, №1|Mokša|1980|Saransk|34|13,498|79,379|13–46|Rueter, Jack 2023|Levši;RU;54.084532;45.00953|
 |Nuânʹ Vidâz (Četvergov, Evgenij Vladimirovič)|Ienʹ tûst|Erzya|Erzya|ёвтнема|Ienʹ tûst|Mordovskoj knižnoj izdatelʹstvasʹ|2003|Saransk|160|40,721|259,229|1–160|Rueter, Jack 2023|MR_Ardatova;RU;54.404722;46.321111|
-|Osip Kuzʹmič|Kisʹ rajti|Moksha|Moksha|Ëfks|Mokša 1980, №1|Mokša|1980|Saransk|2|640|3,611|77–78|Rueter, Jack 2023|Unknown;RU;;|
+|Kuzʹmič, Osip|Kisʹ rajti|Moksha|Moksha|Ëfks|Mokša 1980, №1|Mokša|1980|Saransk|2|640|3,611|77–78|Rueter, Jack 2023|Unknown;RU;;|
 |Palʹtin, Jurij|Ocër|Erzya|Erzya|ёвтнема|Ocër|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|112|6,705|40,866|1–39|Četvergova, Oksana 2000; Rueter, Jack 2023|MR_Povodimovo;RU;54.466667;46.316667|
 |Pinâsov, Grigorij Ilʹič|Èšterʹ tucât|Moksha|Moksha|азкс|Èšterʹ tucât|Mordovskâj knižnaj izdatelʹstvasʹ|1998|Saransk|238|66,617|415,888|6–238|Naldina, Svetlana 2000; Rueter, Jack 2023|Poljana;RU;53.954166;42.825999|
 |Polina Rodʹkina|Od kudonʹ poza|Moksha|Moksha|essay|Mokša 1980, №1|Mokša|1980|Saransk|4|118|871|49–52|Rueter, Jack 2023|StPichury;RU;54.003;43.471|
-|R. Kirûškina|Mezʹsa lomantʹ pavazoc|Moksha|Moksha|Recenziâ|Mokša 1980, №1|Mokša|1980|Saransk|4|2,742|17,822|69–72|Rueter, Jack 2023|Unknown;RU;;|
+|Kirûškina, R.|Mezʹsa lomantʹ pavazoc|Moksha|Moksha|Recenziâ|Mokša 1980, №1|Mokša|1980|Saransk|4|2,742|17,822|69–72|Rueter, Jack 2023|Unknown;RU;;|
 |Radaev, Vasilij Kuzʹmič|Šošma leentʹ čiresè|Erzya|Erzya|ёвтнема|Šošma leentʹ čiresè|Mordovskoj knižnoj izdatelʹstvasʹ|1967|Saransk|64|12,796|79,077|3–67|Rueter, Jack 2009; 2023|BolʹšojTolkaj;RU;53.476333;51.951|
 |Raptanov, Timofej|Chixan pando alo|Erzya|Erzya|novel|Chixan pando alo|Mordovskoj knižnoj izdatelʹstvasʹ|1980|Saransk|209|54,611|334,761|14–209|Klementʹeva, Lena 1999; Chetvergova, Oksana|BolʹšojTolkaj;RU;53.476333;51.951|
 |Rodʹkina, Polina Egorovna|Tolgaftoma atëkš|Moksha|Moksha|азкс|Tolgaftoma atëkš|Mordovskâj knižnaj izdatelʹstvasʹ|1995|Saransk|93|17,437|106,044|6–93|Naldina, Svetlana 2000; Rueter, Jack 2023|StPichury;RU;54.003;43.471|
-|Roman Fedʹkin|Vasʹkaftovsʹ|Moksha|Moksha|басня|Mokša 1980, №1|Mokša|1980|Saransk|1|69|411|80|Rueter, Jack 2023|MR_Kolenovo;RU;54.333333;43.416667|
-|S. Lipatov|Mokšenʹ orofoèpiâsa i orfografiâsa staka slučajxne|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|3|2,041|12,398|73–75|Rueter, Jack 2023|Unknown;RU;;|
+|Fedʹkin, Roman|Vasʹkaftovsʹ|Moksha|Moksha|басня|Mokša 1980, №1|Mokša|1980|Saransk|1|69|411|80|Rueter, Jack 2023|MR_Kolenovo;RU;54.333333;43.416667|
+|Lipatov, S.|Mokšenʹ orofoèpiâsa i orfografiâsa staka slučajxne|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|3|2,041|12,398|73–75|Rueter, Jack 2023|Unknown;RU;;|
 |Sedojkin, Leonid Pavlovič|Avanʹ morozo|Erzya|Erzya|ёвтнема|Avanʹ morozo|Mordovskoj knižnoj izdatelʹstvasʹ|1991|Saransk|104|19,312|120,412|5–104|Četvergova, Oksana 2000|Kob;RU;54.525698;46.474162|
 |Shcheglov, Aleksandr Sergeevič|Kavkstʹ čačozʹ|Erzya|Erzya|novel|Kavkstʹ čačozʹ|Mordovskoj knižnoj izdatelʹstvasʹ|1980|Saransk|360|101,386|579,894|_|Gavrilova, Tatʹâna 2000|MR_Čindânovo;RU;54.463889;46.393333|
 |Shcheglov, Aleksandr Sergeevič|Svadʹbado ikele|Erzya|Erzya|повесть|Svadʹbado ikele|Mordovskoj knižnoj izdatelʹstvasʹ|1974|Saransk|108|22,304|130,905|_|Motalina, Tatʹâna 2000; Rueter, Jack 2023|MR_Čindânovo;RU;54.463889;46.393333|
@@ -97,18 +97,18 @@ This is a list of the pieces published in erme-s-v2-korp on the CSC Korp server.
 |Unknown|Literaturnaj èrâfonʹ xronika|Moksha|Moksha|chronicle|Mokša 1980, №1|Mokša|1980|Saransk|1|238|1,924|46|Rueter, Jack 2023|J_Moksha;RU;54.183333;45.183333|
 |Unknown|Meze nâftsʹ konkurssʹ|Moksha|Moksha|Palaks|Mokša 1980, №1|Mokša|1980|Saransk|1|114|837|81|Rueter, Jack 2023|J_Moksha;RU;54.183333;45.183333|
 |Unknown|SSSR-nʹ Verxovnaj Sovettʹ Prezidiumonc ukazoc|Moksha|Moksha|decree|Mokša 1980, №1|Mokša|1980|Saransk|1|58|503|3|Rueter, Jack 2023|J_Moksha;RU;54.183333;45.183333|
-|V. Obʺedkin|Èrâvsʹ maksf narodti|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|3|1,461|10,417|64–66|Rueter, Jack 2023|J_Moksha;RU;54.183333;45.183333|
-|V. Pešonova|Mokšenʹ poèziâtʹ ušedyec|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|4|1,088|7,420|58–61|Rueter, Jack 2023|Unknown;RU;;|
-|V. Zaxarov|Revolûcioner, istorik, publicist|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|4|1,088|7,420|61–64|Rueter, Jack 2023|J_Moksha;RU;54.183333;45.183333|
-|Vasilij Rodʹkin|Kosta mums stama valxt?|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|92|526|47|Rueter, Jack 2023|MR_Krasnyj;RU;54.418056;44.47|
-|Vasilij Rodʹkin|Pizembačk|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|118|871|48|Rueter, Jack 2023|MR_Krasnyj;RU;54.418056;44.47|
-|Vasilij Rodʹkin|Veleze|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|182|1,055|47|Rueter, Jack 2023|MR_Krasnyj;RU;54.418056;44.47|
-|Vasilâj Krigin|Pâškalʹ|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|77|464|12|Rueter, Jack 2023|MR_Junki;RU;54.146111;43.460278|
-|Vasilâj Krigin|Tucâv ilâdʹ|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|63|297|12|Rueter, Jack 2023|MR_Junki;RU;54.146111;43.460278|
-|Vasilâj Krigin|Vatok narmonʹ!|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|60|413|12|Rueter, Jack 2023|MR_Junki;RU;54.146111;43.460278|
-|Vasilâj Krigin|Šačema šizendi|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|37|234|12|Rueter, Jack 2023|MR_Junki;RU;54.146111;43.460278|
-|È. N. Tarakina|Èrek lixtibrâ|Moksha|Moksha|Unknown|Mokša 1980, №1|Mokša|1980|Saransk|2|381|2,405|76–77|Rueter, Jack 2023|Unknown;RU;;|
-|Û. Kožurin|Mestnaj sovettne i velenʹ xozâjstvatʹ viiâftomac|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|3|1,699|13,229|55–57|Rueter, Jack 2023|J_Moksha;RU;54.183333;45.183333|
+|Obʺedkin, V.|Èrâvsʹ maksf narodti|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|3|1,461|10,417|64–66|Rueter, Jack 2023|J_Moksha;RU;54.183333;45.183333|
+|Pešonova, V.|Mokšenʹ poèziâtʹ ušedyec|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|4|1,088|7,420|58–61|Rueter, Jack 2023|Unknown;RU;;|
+|Zaxarov, V.|Revolûcioner, istorik, publicist|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|4|1,088|7,420|61–64|Rueter, Jack 2023|J_Moksha;RU;54.183333;45.183333|
+|Rodʹkin, Vasilij|Kosta mums stama valxt?|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|92|526|47|Rueter, Jack 2023|MR_Krasnyj;RU;54.418056;44.47|
+|Rodʹkin, Vasilij|Pizembačk|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|118|871|48|Rueter, Jack 2023|MR_Krasnyj;RU;54.418056;44.47|
+|Rodʹkin, Vasilij|Veleze|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|182|1,055|47|Rueter, Jack 2023|MR_Krasnyj;RU;54.418056;44.47|
+|Krigin, Vasilâj|Pâškalʹ|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|77|464|12|Rueter, Jack 2023|MR_Junki;RU;54.146111;43.460278|
+|Krigin, Vasilâj|Tucâv ilâdʹ|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|63|297|12|Rueter, Jack 2023|MR_Junki;RU;54.146111;43.460278|
+|Krigin, Vasilâj|Vatok narmonʹ!|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|60|413|12|Rueter, Jack 2023|MR_Junki;RU;54.146111;43.460278|
+|Krigin, Vasilâj|Šačema šizendi|Moksha|Moksha|poem|Mokša 1980, №1|Mokša|1980|Saransk|1|37|234|12|Rueter, Jack 2023|MR_Junki;RU;54.146111;43.460278|
+|Tarakina, È. N.|Èrek lixtibrâ|Moksha|Moksha|Unknown|Mokša 1980, №1|Mokša|1980|Saransk|2|381|2,405|76–77|Rueter, Jack 2023|Unknown;RU;;|
+|Kožurin, Û.|Mestnaj sovettne i velenʹ xozâjstvatʹ viiâftomac|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|3|1,699|13,229|55–57|Rueter, Jack 2023|J_Moksha;RU;54.183333;45.183333|
 |Četvergov, Evgenij|Velenʹ vajgelʹtʹ|Erzya|Erzya|ёвтнема|Velenʹ vajgelʹtʹ|Mordovskoj knižnoj izdatelʹstvasʹ|1992|Saransk|160|33,747|210,975|1–160|Četvergova, Oksana 2000; Rueter, Jack 2023|MR_Ardatova;RU;54.404722;46.321111|
 |Мишанина, Валентина Ивановна|Ozks tumotʹ taradonza|Moksha|Moksha|novel|Ozks tumotʹ taradonza|Мордовскяй Государственнай издательствась|1993|Саранск|271|63,628|387,221|5–271|Naldina, Svetlana 2000; Rueter, Jack 2023|Adaš;RU;53.946710;44.319669|
 
