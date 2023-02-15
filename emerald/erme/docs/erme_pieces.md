@@ -68,7 +68,7 @@ This is a list of the pieces published in erme-s-v2-korp on the CSC Korp server.
 |Kutorkin, Andrej Dmitrievič|Lažnycâ Sura II|Erzya|Erzya|роман|Lažnycâ Sura II|Mordovskoj knižnoj izdatelʹstvasʹ|1976|Saransk|408|98,080|582,267|1–408|Rueter, Jack 2009|Napolʹnoe;RU;55.125833;46.353056|
 |Kutorkin, Andrej Dmitrievič|Lažnycâ Sura I|Erzya|Erzya|роман|Lažnycâ Sura I / Vasence kniga valdaevtʹ|Mordovskoj knižnoj izdatelʹstvasʹ|1969|Saransk|480|95,701|580,194|1–480|Rueter, Jack 2023|Napolʹnoe;RU;55.125833;46.353056|
 |L. Tingaeva|Mokšèrzânʹ kulʹturatʹ unksonza|Moksha|Moksha|article|Mokša 1980, №1|Mokša|1980|Saransk|2|1,000|7,298|67–68|Rueter, Jack 2023|Unknown;RU;;|
-|Mixail Byčkov|Pčkaftozʹ|Moksha|Moksha|fable|Mokša 1980, №1|Mokša|1980|Saransk|1|63|355|80|Rueter, Jack 2023|Kul;RU;54.064763;44.552953|
+|Mixail Byčkov|Pčkaftozʹ|Moksha|Moksha|басня|Mokša 1980, №1|Mokša|1980|Saransk|1|63|355|80|Rueter, Jack 2023|Kul;RU;54.064763;44.552953|
 |Mokšoni, Aleksej|Moncenʹ ânoze|Moksha|Moksha|повесть|Monʹ kelʹgoma knigane|Mordovskâj knižnaj izdatelʹstvasʹ. Monʹ kelʹgoma knigane|1998|Saransk|365|11,077|68,541|96–132|Kovajkina, Svetlana 2000; Rueter, Jack 2023|Lopatino;RU;54.001333;43.109833|
 |Motorkin, Mixail|Varma kovol|Erzya|Erzya|повесть|Varma kovol|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|152|42,818|263,434|1–157|Četvergova, Oksana 2000; Rueter, Jack 2023|MR_Pilesevo;RU;54.712778,45.946111|
 |Nikolaj Cilikin|Sedisʹ tokasy seditʹ|Moksha|Moksha|poetry|Mokša 1980, №1|Mokša|1980|Saransk|2|542|3,357|53–54|Rueter, Jack 2023|Zajcevo;RU;54.271333;43.671|
@@ -82,8 +82,8 @@ This is a list of the pieces published in erme-s-v2-korp on the CSC Korp server.
 |Radaev, Vasilij Kuzʹmič|Šošma leentʹ čiresè|Erzya|Erzya|ёвтнема|Šošma leentʹ čiresè|Mordovskoj knižnoj izdatelʹstvasʹ|1967|Saransk|64|12,796|79,077|3–67|Rueter, Jack 2009; 2023|BolʹšojTolkaj;RU;53.476333;51.951|
 |Raptanov, Timofej|Chixan pando alo|Erzya|Erzya|роман|Chixan pando alo|Mordovskoj knižnoj izdatelʹstvasʹ|1980|Saransk|209|54,611|334,761|14–209|Klementʹeva, Lena 1999; Chetvergova, Oksana|BolʹšojTolkaj;RU;53.476333;51.951|
 |Rodʹkina, Polina Egorovna|Tolgaftoma atëkš|Moksha|Moksha|азкс|Tolgaftoma atëkš|Mordovskâj knižnaj izdatelʹstvasʹ|1995|Saransk|93|17,437|106,044|6–93|Naldina, Svetlana 2000; Rueter, Jack 2023|StPichury;RU;54.003;43.471|
-|Roman Fedʹkin|Vasʹkaftovsʹ|Moksha|Moksha|fable|Mokša 1980, №1|Mokša|1980|Saransk|1|69|411|80|Rueter, Jack 2023|MR_Kolenovo;RU;54.333333;43.416667|
-|S. Lipatov|Mokšenʹ orofoèpiâsa i orfografiâsa staka slučajxne|Moksha|Moksha|statʹâ|Mokša 1980, №1|Mokša|1980|Saransk|3|2,041|12,398|73–75|Rueter, Jack 2023|Unknown;RU;;|
+|Roman Fedʹkin|Vasʹkaftovsʹ|Moksha|Moksha|басня|Mokša 1980, №1|Mokša|1980|Saransk|1|69|411|80|Rueter, Jack 2023|MR_Kolenovo;RU;54.333333;43.416667|
+|S. Lipatov|Mokšenʹ orofoèpiâsa i orfografiâsa staka slučajxne|Moksha|Moksha|статья|Mokša 1980, №1|Mokša|1980|Saransk|3|2,041|12,398|73–75|Rueter, Jack 2023|Unknown;RU;;|
 |Sedojkin, Leonid Pavlovič|Avanʹ morozo|Erzya|Erzya|ёвтнема|Avanʹ morozo|Mordovskoj knižnoj izdatelʹstvasʹ|1991|Saransk|104|19,312|120,412|5–104|Četvergova, Oksana 2000|Kob;RU;54.525698;46.474162|
 |Shcheglov, Aleksandr Sergeevič|Kavkstʹ čačozʹ|Erzya|Erzya|роман|Kavkstʹ čačozʹ|Mordovskoj knižnoj izdatelʹstvasʹ|1980|Saransk|360|101,386|579,894|_|Gavrilova, Tatʹâna 2000|MR_Čindânovo;RU;54.463889;46.393333|
 |Shcheglov, Aleksandr Sergeevič|Svadʹbado ikele|Erzya|Erzya|повесть|Svadʹbado ikele|Mordovskoj knižnoj izdatelʹstvasʹ|1974|Saransk|108|22,304|130,905|_|Motalina, Tatʹâna 2000; Rueter, Jack 2023|MR_Čindânovo;RU;54.463889;46.393333|
