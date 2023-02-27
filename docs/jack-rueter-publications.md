@@ -2,6 +2,10 @@
 
 Jack Michael Rueter
 
+## 2023
+
+- Rueter, J. & Erina, O. 2023, ERME (Electronic Resource for Moksha and Erzya) Extended Corpora. Meta-Share http://urn.fi/urn:nbn:fi:lb-2023021601, Location http://urn.fi/urn:nbn:fi:lb-2023021602 
+
 ## 2022
 
 - Alnajjar, K., Hämäläinen, M., Partanen, N. & Rueter, J., 2022, Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages. Moeller, S., Anastasopoulos, A., Arppe, A., Chaudhary, A., Harrigan, A., Holden, J., Lachler, J., Palmer, A., Rijhwani, S. & Schwartz, L. (eds.). Stroudsburg: The Association for Computational Linguistics, p. 139-148 10 p.
