@@ -4,6 +4,8 @@ Jack Michael Rueter
 
 ## 2023
 
+
+
 - Rueter, J. & Erina, O. 2023, ERME (Electronic Resource for Moksha and Erzya) Extended Corpora. Meta-Share http://urn.fi/urn:nbn:fi:lb-2023021601, Location http://urn.fi/urn:nbn:fi:lb-2023021602 
 
 ## 2022
@@ -32,6 +34,7 @@ Jack Michael Rueter
 - Rueter, J., Partanen, N., Hämäläinen, M. & Trosterud, T., 2021, Overview of Open-Source Morphology Development for the Komi-Zyrian Language: Past and Future. In Proceedings of the *Seventh International Workshop on Computational Linguistics of Uralic Languages*. Stroudsburg: The Association for Computational Linguistics, p. 62–72 11 p. [Online](https://www.researchgate.net/publication/354762931_Overview_of_Open-Source_Morphology_Development_for_the_Komi-Zyrian_Language_Past_and_Future)
 - Rueter, J., Pereira de Freitas, M. F., Facundes, S., Hämäläinen, M. & Partanen, N., 2021, Apurinã Universal Dependencies Treebank. In *Proceedings of the First Workshop on Natural Language Processing for Indigenous Languages of the Americas.* Mager, M., Oncevay, A., Rios, A., Meza Ruiz, I. V., Palmer, A., Neubig, G. & Kann, K. (eds.). Stroudsburg: The Association for Computational Linguistics, p. 28-33 6 p. [Online](https://www.researchgate.net/publication/351812359_Apurina_Universal_Dependencies_Treebank)
 - Zeman, Daniel; et al., 2021, *Universal Dependencies 2.8.1*, LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University, http://hdl.handle.net/11234/1-3687. 
+- Zeman, Daniel; et al., 2021, *Universal Dependencies 2.9*, LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University,  http://hdl.handle.net/11234/1-4611.
 
 
 ## 2020
