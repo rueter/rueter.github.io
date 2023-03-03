@@ -1,34 +1,34 @@
 <!-- text element attributes shared in erme, sus, pabivus -->
-attr	eng	fin	swe	rus	used in
-----	----	----	----	----	----
-text/id	_	_	_	_	erme;sus
-text/author	author	tekijä	_	_	erme;sus
-text/interviewer	interviewer	haastattelija	_	_	sus
-text/genre	genre	tyylilaji	_	_	erme;sus
-text/genre_deu	genre in German	tyylilaji saksaksi	_	_	erme;sus
-text/bibliog	bibliographic info	bibliograafinen tieto	_	_	erme
-text/publisher	publisher	julkaisija	_	_	erme;sus
-text/publication_place	place of publication	julkaisupaikka	_	_	erme;sus
-text/publication	publication	julkaisu	_	_	erme;sus
-text/publication_year	year of publication	julkaisuvuosi	_	_	erme;sus
-text/no_of_pages	number of pages	sivumäärä	_	_	erme;sus
-text/word_count	word count	sanemäärä	_	_	erme;sus
-text/character_count	character count	lyöntimäärä	_	_	erme;sus
-text/corrector	corrector	tarkistaja	_	_	erme;sus
-text/e_corrector	e-publication corrector	sähkömuodon tarkistaja	_	_	erme;sus
-text/page_range	page range	sivu??	_	_	erme;sus
-text/isbn	_	_	_	_	erme
-text/issn	_	_	_	_	_
-text/datefrom	_	_	_	_	erme;sus
-text/dateto	_	_	_	_	erme;sus
-text/iso_lang	_	_	_	_	erme;sus
-text/_geo_author_origin	authorʼs place of birth	tekijän syntymäpaikka	autors födelseort	место рождения автора	erme;sus
-text/storyid	_	_	_	_	sus
-text/storyid_deu	_	_	_	_	sus
-text/collection	_	_	_	_	sus
-text/e_correction_year	_	_	_	_	sus
-text/timefrom	_	_	_	_	erme;sus
-text/timeto	_	_	_	_	erme;sus
-text/translator_deu	_	_	_	_	sus
-text/editor	_	_	_	_	sus
-----	----	----	----	----	----
+attr	deu	eng	fin	rus	swe	used in
+----	----	----	----	----	----	----
+text/id	_	_	_	_	_	erme;sus
+text/author	Autor	author	tekijä	_	_	erme;sus
+text/interviewer	_	interviewer	haastattelija	_	_	sus
+text/genre	_	genre	tyylilaji	_	_	erme;sus
+text/genre_deu	_	genre in German	tyylilaji saksaksi	_	_	erme;sus
+text/bibliog	_	bibliographic info	bibliograafinen tieto	_	_	erme
+text/publisher	_	publisher	julkaisija	_	_	erme;sus
+text/publication_place	_	place of publication	julkaisupaikka	_	_	erme;sus
+text/publication	_	publication	julkaisu	_	_	erme;sus
+text/publication_year	_	year of publication	julkaisuvuosi	_	_	erme;sus
+text/no_of_pages	_	page count	sivumäärä	_	_	erme;sus
+text/word_count	_	word count	sanemäärä	_	_	erme;sus
+text/character_count	_	character count	lyöntimäärä	_	_	erme;sus
+text/corrector	_	corrector	tarkistija	_	_	erme;sus
+text/e_corrector	_	e-publication corrector	sähkömuodon tarkistija	_	_	erme;sus
+text/page_range	_	page range	sivu??	_	_	erme;sus
+text/isbn	_	_	_	_	_	erme
+text/issn	_	_	_	_	_	_
+text/datefrom	_	_	_	_	_	erme;sus
+text/dateto	_	_	_	_	_	erme;sus
+text/iso_lang	_	_	_	_	_	erme;sus
+text/_geo_author_origin	_	authorʼs place of birth	tekijän syntymäpaikka	место рождения автора	autors födelseort	erme;sus
+text/storyid	_	story title	_	_	_	sus
+text/storyid_deu	_	story title in German	nimike saksaksi	_	_	sus
+text/collection	_	colleciton	kokoelma	_	_	sus
+text/e_correction_year	_	_	_	_	_	sus
+text/timefrom	_	_	_	_	_	erme;sus
+text/timeto	_	_	_	_	_	erme;sus
+text/translator_deu	_	German translator	saksantaja	_	_	sus
+text/editor	_	editor	toimittaja	_	_	sus
+----	_	----	----	----	----	----
