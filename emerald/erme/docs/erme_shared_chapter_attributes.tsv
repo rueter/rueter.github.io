@@ -1,0 +1,34 @@
+<!-- chapter element attributes shared in erme, sus, pabivus -->
+
+attr	eng	fin	swe	rus	used in
+----	----	----	----	----	----
+chap/storyid	_	_	_	_	erme
+chap/chapid	_	_	_	_	erme
+----	----	----	----	----	----
+
+## p = paragraph
+
+attr	eng	fin	swe	rus	used in
+----	----	----	----	----	----
+p/storyid	_	_	_	_	erme
+p/chapid	_	_	_	_	erme
+p/pid	_	_	_	_	erme
+p/genre	_	_	_	_	erme
+p/iso_lang	_	_	_	_	erme
+----	----	----	----	----	----
+
+## sentence element
+
+
+attr	eng	fin	swe	rus	used in
+----	----	----	----	----	----
+sentence/id	_	_	_	_	erme;sus
+sentence/pgno	page number	sivunumero	sidanumret	страница	erme;sus
+sentence/text	text	teksti	texten	текст	erme;sus
+sentence/text_deu	German translation	saksannos	text på tyska	текст по-немецски	sus
+sentence/text_eng	English translation	englanninnos	text på engelska	текст по-английски	erme
+sentence/text_fin	Finnish translation	suomennos	text på finska	текст по-фински	erme
+sentence/text_rus	Russian translation	venäjännös	text på ryska	текст по-русски	sus
+----	----	----	----	----	----
+
+

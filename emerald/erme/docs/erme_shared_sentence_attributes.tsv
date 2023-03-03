@@ -1,0 +1,13 @@
+<!-- sentence element attributes shared in erme, sus, pabivus -->
+attr	eng	fin	swe	rus	used in
+----	----	----	----	----	----
+sentence/id	_	_	_	_	erme;sus
+sentence/pgno	page number	sivunumero	sidanumret	страница	erme;sus
+sentence/text	text	teksti	texten	текст	erme;sus
+sentence/text_deu	German translation	saksannos	text på tyska	текст по-немецски	sus
+sentence/text_eng	English translation	englanninnos	text på engelska	текст по-английски	erme
+sentence/text_fin	Finnish translation	suomennos	text på finska	текст по-фински	erme
+sentence/text_rus	Russian translation	venäjännös	text på ryska	текст по-русски	sus
+----	----	----	----	----	----
+
+
