@@ -17,6 +17,8 @@
 
 - Ahlqvist, August Engelbrekt 1859: *Läran om Verbet i Mordvinskans Mokscha-dialekt.* Akademisk Afhandling, som med den vidtberömda Historisk-Filologiska Fakultetens vid Kejserliga Alexanders-Universitetet i Finland samtycke till offentlig granskning framställes af August Engelbrekt Ahlqvist, Hist.-Fil. Magister. Uti hist.-filol. lärosalen den 28 Maj 1859 p. v. t. f. m. Helsingfors, tryckt hos J. C. Frenckell &amp; Son, 1859.
 
+- Ahlquist, August 1861: Versuch einer mokscha-mordwinischen grammatik nebst texten und wörterverzeichnis. St. Petersburg: Kaiserlichen akademie der wissenschaften. [e-editing](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/ahlquist_august_versuch_einer_mokschanischen_mordwinischen_grammatik_1861.html)
+
 - Alëškina R. A. (Алёшкина, Р. А.) 1973: Односоставные глагольные предложения в мордовских языках / Р. А. Алешкина // Вопросы синтаксиса мордовских языков. - Саранск : Мордов. кн. изд-во, 1973. - Вып. 46. - С. 3-8.
 
 - Alëškina R. A. (Алёшкина, Р. А.) 1981: *Состояние и пути развития синтаксиса мордовских языков* / Р. А. Алешкина, И. С. Бузаков // В братской семье. - Саранск : Мордов. кн. изд-во, 1981. - С. 327-328.
