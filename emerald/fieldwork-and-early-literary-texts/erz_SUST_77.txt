@@ -3623,7 +3623,7 @@ Balladenartige Lieder der Ersänen
 </text>
 
 <text type="fieldwork" iso_lang="myv" collection="Suomalais-Ugrilaien Seura" name_of_publication="Mordwinische Volksdichtung, I Band. SUST LXXVII" publication_place="Turku" publisher="Suomalais-Ugrilainen Seura" publication_year="1938" issue_number="77">
-<chap title_myv="Васоло вирьсэ толнэ палы" title_deu="" genre_deu="Balladenartige Lieder der Ersänen" comment_deu="Die Reinigung der Erde mit Feuer und Wasser" author="Unknown" author_geo="Од Суркина::od-surkina" datefrom="UND" dateto="UND" interviewer="Heikki Paasonen" page_range="103–104" text_number="26">
+<chap title_myv="Васоло вирьсэ толнэ палы" title_deu="" genre_deu="Balladenartige Lieder der Ersänen: laut Diktat" comment_deu="Die Reinigung der Erde mit Feuer und Wasser" author="Unknown" author_geo="Од Суркина::od-surkina" datefrom="UND" dateto="UND" interviewer="Heikki Paasonen" page_range="103–104" text_number="26">
 # sent_id = SUST-77-26-pp103-104_Od-Surkina:1
 # pgno = 103
 # text_orig = vasolo v́iŕce͔ tolne͔ pali͔ 
@@ -3663,14 +3663,14 @@ Balladenartige Lieder der Ersänen
 # sent_id = SUST-77-26-pp103-104_Od-Surkina:7
 # pgno = 104
 # text_orig = ux a j avakaj ďirińem / ux a j avakaj vani͔ńem / vaj lomań pŕado mon šar a ḿeŕan / lomań v́eŕďe mon čuďeŕks noldan. 
-/ loma lovažań mon se͔ďńe ťejan 
-/ i to mon ḱanca vaj ťaťań čińende͔ 
-/ i to mon ḱanca vaj ťaťan kojńende͔.
 # text =  
 # text_de_lines = ”Oh, Mutter, meine Ernährerin, / oh, Mutter, meine Betreuerin, / aus Menschenköpfen lasse ich Kugeln machen, / von Menschenblut lasse ich Bäche strömen,
-/ Brücken baue ich aus Menschenknochen,
-/ so werde ich den Rang meines Vaters halten,
-/ so werde ich meines Vaters Stellung halten.”
+
+# sent_id = SUST-77-26-pp103-104_Od-Surkina:8
+# pgno = 104
+# text_orig = loma lovažań mon se͔ďńe ťejan / i to mon ḱanca vaj ťaťań čińende͔ / i to mon ḱanca vaj ťaťan kojńende͔.
+# text =
+# text_de_lines = Brücken baue ich aus Menschenknochen, / so werde ich den Rang meines Vaters halten, / so werde ich meines Vaters Stellung halten.”
 
 od-surkina, (laut Diktat)
 
@@ -3681,91 +3681,61 @@ od-surkina, (laut Diktat)
 <chap title_myv="Вай покшинень покш ульнесь покш пакся" title_deu="" genre_deu="Balladenartige Lieder der Ersänen" comment_deu="" author="anna zoŕina" author_geo="večkanovo" datefrom="18980901" dateto="18980930" interviewer="Heikki Paasonen" page_range="104-106" text_number="27">
 # sent_id = SUST-77-27-pp104-106_Anna-Zorina-Vechkanova:1
 # pgno = 104
-# text_orig = vaj pokšińeń pokš uĺneś pokš pakśa . 
-/ pokš pakśińese͔ńť pokš guboŕ ṕiŕa
-/ gubor ṕiŕasońť raužo v́iŕńe 
-/ v́iŕeńť kunčkaso a pokš poĺana
+# text_orig = vaj pokšińeń pokš uĺneś pokš pakśa / pokš pakśińese͔ńť pokš guboŕ ṕiŕa / gubor ṕiŕasońť raužo v́iŕńe / v́iŕeńť kunčkaso a pokš poĺana
 # text =  
-# text_de_lines = Es gab eine sehr grosse, eine grosse Feldmark,
-/ in der grossen Feldmark (liegt) ein grosser Hügel,
-/ auf dem Hügel ein schwarzer Wald,
-/ mitten im Walde eine grosse Wiese. 
+# text_de_lines = Es gab eine sehr grosse, eine grosse Feldmark, / in der grossen Feldmark (liegt) ein grosser Hügel, / auf dem Hügel ein schwarzer Wald, / mitten im Walde eine grosse Wiese. 
 
 # sent_id = SUST-77-27-pp104-106_Anna-Zorina-Vechkanova:2
-# pgno = 104
-# text_orig = śe poĺanasońť pai͔ tol bali͔
-/ tolne͔ze͔ pali͔ son sasti͔neste͔
-/ kačamzo ĺiśi son tusti͔ńeste͔ 
+# pgno = 104–105
+# text_orig = śe poĺanasońť pali͔ tol bali͔ / tolne͔ze͔ pali͔ son sasti͔neste͔ / kačamzo ĺiśi son tusti͔ńeste͔ 
 # text =  
-# text_de_lines = Auf der Wiese brennt ein brennendes Feuer,
-/ das Feuer brennt still,
-/ der Rauch steigt dicht empor.
+# text_de_lines = Auf der Wiese brennt ein brennendes Feuer, / das Feuer brennt still, / der Rauch steigt dicht empor.
 
 # sent_id = SUST-77-27-pp104-106_Anna-Zorina-Vechkanova:3
 # pgno = 105
-# text_orig = śe tolońť krugom saldat v́ij ašťi 
-/ saldat v́ij ašti gornaďersḱoj polk 
+# text_orig = śe tolońť krugom saldat v́ij ašťi / saldat v́ij ašti gornaďersḱoj polk 
 # text =  
-# text_de_lines = Rings um das Feuer weilt ein Heer Soldaten,
-/ weilt ein Heer Soldaten, ein Grenadierregiment.
+# text_de_lines = Rings um das Feuer weilt ein Heer Soldaten, / weilt ein Heer Soldaten, ein Grenadierregiment.
 
 # sent_id = SUST-77-27-pp104-106_Anna-Zorina-Vechkanova:4
 # pgno = 105
-# text_orig = iḱeĺgast jaḱi od ińazorost
-/ paul petrov́ič pŕanzo čins v́eši 
-/ pŕanzo čins v́eši ḱojńes putofti͔
+# text_orig = iḱeĺgast jaḱi od ińazorost / paul petrov́ič pŕanzo čins v́eši / pŕanzo čins v́eši ḱojńes putofti͔
 # text =  
-# text_de_lines = Ihr neuer Kaiser geht ihnen voran,
-/ Paul Petrovitsch fordert den Rang für sich,
-/ fordert den Rang für sich, sucht in die Stellung zu kommen.
+# text_de_lines = Ihr neuer Kaiser geht ihnen voran, / Paul Petrovitsch fordert den Rang für sich, / fordert den Rang für sich, sucht in die Stellung zu kommen.
 
 # sent_id = SUST-77-27-pp104-106_Anna-Zorina-Vechkanova:5
 # pgno = 105
-# text_orig = oxaj avakaj a moń ťiŕińem 
-/ oxaj avakaj a moń vani͔ńem
-/ putomaka moń ťeťań čińeńťe 
-/ baslavamaka ťeťań kojńeńťe
+# text_orig = oxaj avakaj a moń ťiŕińem / oxaj avakaj a moń vani͔ńem / putomaka moń ťeťań čińeńťe / baslavamaka ťeťań kojńeńťe
 # text =  
-# text_de_lines = «Oh, Mutter, meine Ernährerin, 
-/ Mutter, meine Betreuerin, 
-/ setze mich in den Rang meines Vaters ein, 
-/ segne mich für meines Vaters Stellung!» 
+# text_de_lines = «Oh, Mutter, meine Ernährerin, / Mutter, meine Betreuerin, / setze mich in den Rang meines Vaters ein, / segne mich für meines Vaters Stellung!» 
 
 # sent_id = SUST-77-27-pp104-106_Anna-Zorina-Vechkanova:6
 # pgno = 105
-# text_orig = vaj ťakaj ťakaj paul petrov́ić 
-/ a ḱiŕďev́i ťeťat činne͔ze͔ 
-/ a v́eťav́i ťeťat kojńeze͔
+# text_orig = vaj ťakaj ťakaj paul petrov́ić / a ḱiŕďev́i ťeťat činne͔ze͔ / a v́eťav́i ťeťat kojńeze͔
 # text =  
-# text_de_lines = «Ach, Kind, Kind, Paul Petrovitsch, 
-/ du wirst den Rang deines Vaters nicht halten können, 
-/ du wirst die Stellung deines Vaters nicht versehen können.» 
+# text_de_lines = «Ach, Kind, Kind, Paul Petrovitsch, / du wirst den Rang deines Vaters nicht halten können, / du wirst die Stellung deines Vaters nicht versehen können.» 
 
 # sent_id = SUST-77-27-pp104-106_Anna-Zorina-Vechkanova:7
 # pgno = 105
-# text_orig = ḱiŕca avakaj ťeťań činne͔nze͔
-/ noldan sali͔se͔ noldan koli͔se͔
-/ noldan ṕečkise͔ noldan ḱeŕise͔. 
+# text_orig = ḱiŕca avakaj ťeťań činne͔nze͔ / noldan sali͔se͔ noldan koli͔se͔ / noldan ṕečkise͔ noldan ḱeŕise͔. 
 # text =  
-# text_de_lines = «Ich werde, Mutter, den Rang meines Vaters halten,
-/ ich schicke Diebe, ich schicke Missetäter, 
-/ ich schicke Henker, ich schicke Mörder. 
+# text_de_lines = «Ich werde, Mutter, den Rang meines Vaters halten, / ich schicke Diebe, ich schicke Missetäter, / ich schicke Henker, ich schicke Mörder. 
 
 # sent_id = SUST-77-27-pp104-106_Anna-Zorina-Vechkanova:8
 # pgno = 106
-# text_orig = mon v́eŕńest ejste͔ čuďi v́eď noldan
-/ si͔v́eĺńest ejste͔ mon bruďńe bruďan
-/ lovažast ejste͔ mon se͔ďńe se͔ďan 
-/ iŕďikse͔st ejste͔ baĺasa ťejan
-/ baĺasa pŕava lomań pŕat śťafńan. 
-/ śe se͔ďńeńť laŋga saldat v́ij noldan.
+# text_orig = mon v́eŕńest ejste͔ čuďi v́eď noldan / si͔v́eĺńest ejste͔ mon bruďńe bruďan / lovažast ejste͔ mon se͔ďńe se͔ďan / iŕďikse͔st ejste͔ baĺasa ťejan / baĺasa pŕava lomań pŕat śťafńan. 
 # text =  
 # text_de_lines = Ich lasse einen Strom von ihrem Blute fliessen, 
 / ich baue einen Damm aus ihrem Fleische, 
 / ich baue eine Brücke aus ihren Knochen, 
 / ich mache Geländer aus ihren Rippen, 
 / auf die Geländerenden werde ich Menschenköpfe spiessen, 
-/ über die Brücke werde ich ein Heer Soldaten senden.»
+
+# sent_id = SUST-77-27-pp104-106_Anna-Zorina-Vechkanova:9
+# pgno = 106
+# text_orig =  śe se͔ďńeńť laŋga saldat v́ij noldan.
+# text =
+# text_de_lines = über die Brücke werde ich ein Heer Soldaten senden.»
 
 
 anna zoŕina, večkanovo, 18 /9 98.
@@ -3777,98 +3747,164 @@ anna zoŕina, večkanovo, 18 /9 98.
 <chap title_myv="Кезэрень коесь кодамо" title_deu="" genre_deu="Balladenartige Lieder der Ersänen" comment_deu="" author="ivan" author_geo="kozlofka" datefrom="18981210" dateto="18981220" interviewer="Heikki Paasonen" page_range="106–110" text_number="28">
 # sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:1
 # pgno = 106
-# text_orig = ḱeze͔ŕeń kojeś kodamo 
-/ 10. ḱeze͔ŕeń v́eraś kodamo? 
+# text_orig = ḱeze͔ŕeń kojeś kodamo / ḱeze͔ŕeń v́eraś kodamo? 
 # text =
-# text_de_lines = Welches ist die alte Volkssitte, 10. welches ist der alte Brauch?
+# text_de_lines = Welches ist die alte Volkssitte, / welches ist der alte Brauch?
 
 # sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:2
 # pgno = 106
 # text_orig = ḱeze͔ŕeń kojeś iśt́amo / ḱeze͔ŕeń v́eraś iśt́amo:
 # text =
-# text_de_lines = Die alte Volkssitte ist diese, der alte Brauch ist dieser:
+# text_de_lines = Die alte Volkssitte ist diese, / der alte Brauch ist dieser:
 
 # sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:3
 # pgno = 107
 # text_orig = ćorat moĺit́ ḿiŕďeńe / t́ejt́eŕt́ ašt́it́ kudoso
 # text =
+# text_de_lines = Söhne heiraten ein1, / Töchter bleiben zu Hause.
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:4
+# pgno = 107
+# text_orig = v́ejḱe ulńeś dogat ćori͔ńe / v́ejḱe utlńeś dogat alińe 
+# text =
+# text_de_lines = Es gab einen verständigen2 Mann1, / es gab einen verständigen Mann3.
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:5
+# pgno = 107
+# text_orig = kodi͔ tumo-kaŕce͔nʒe͔ / poni͔ maksmo-kaŕkse͔nʒe͔
+# text =
+# text_de_lines =  Er flicht die Bastschuhe für seinen Aufbruch4, / er dreht die Bastschuhschnuren für seine Einheirat.
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:6
+# pgno = 107
+# text_orig = vaj kuva kodi͔ avaŕďi / son kuva poni͔ ḿeĺafti͔ 
+# text =
+# text_de_lines = Er weint beim Flechten, / er ist traurig beim Drehen:
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:7
+# pgno = 107
+# text_orig = iśt́a ḿeźeń tamaša / iśt́a ḿeźeń pŕičuda
+# text =
+# text_de_lines = «Wie seltsam, dass es so ist, / wie merkwürdig, dass es so ist!
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:8
+# pgno = 107
+# text_orig = dajt́e t́ejďan v́eĺeń promks / dajt́e t́ejďan v́e soglas
+# text =
+# text_de_lines = Wohlan, machen wir eine Dorfversammlung, / wohlan, machen wir eine gemeinsame Versammlung!
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:9
+# pgno = 107–108
+# text_orig = vaj si͔ŕe at́at pokšt́ińeń / śeďe oďne͔t́ aĺińeń / iśt́a ḿeźeń tamašat / iśt́a ḿeźeń pŕičuda 
+# text =
+# text_de_lines = Alte»5, meine Grossväter4, / meine jüngeren3 Männer3, / wie seltsam, dass es so ist, / wie merkwürdig, dass es so ist:
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:10
+# pgno = 108
+# text_orig = ćorat moĺit́ ḿiŕďeńe / t́ejt́eŕt́ ašt́it́ kudoso
+# text =
+# text_de_lines = Söhne heiraten ein, Töchter bleiben zu Hause!
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:11
+# pgno = 108
+# text_orig = sud́ado at́at sud́ado / ŕeďado at́at ŕeďado
+# text =
+# text_de_lines = Urteilt, Alte, urteilt, / richtet, Alte, richtet!
+<!-- THIS FAR -->
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:12
+# pgno = 108
+# text_orig = ćorat ašt́eśt́ kudoso  / t́ejt́eŕt́ moĺest ḿiŕďeńe 
+# text =
+# text_de_lines = Söhne sollen zu Hause bleiben, / Töchter sollen einheiraten.
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:
+# pgno = 108
+# text_orig = 
+ḿeźe t́ejt́eŕeń kudoso doĺeze͔
+/ 10. ḿeźe t́ejt́eŕeń pajeze͔
+# text =
 # text_de_lines =
 
 # sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:
-# pgno = 107
-# text_orig = v́ejḱe ulńeś dogat ćori͔ńe / v́ejḱe utlńeś dogat alińe 
-5. kodi͔ tumo-kaŕce͔nʒe͔
-poni͔ maksmo-kaŕkse͔nʒe͔ 
-vaj kuva kodi͔ avaŕďi
-son kuva poni͔ ḿeĺafti͔ 
-iśt́a ḿeźeń tamaša
-10. iśt́a ḿeźeń pŕičuda
-dajt́e t́ejďan v́eĺeń promks
-dajt́e t́ejďan v́e soglas
-vaj si͔ŕe at́at pokšt́ińeń 
-śeďe oďne͔t́ aĺińeń
-
-Söhne heiraten ein1, Töchter bleiben zu Hause.
-
-Es gab einen verständigen2 Mann1, es gab einen verständigen Mann3.
-
-# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:3
-# pgno = 107
-# text_orig = r>. Er flicht die Bastschuhe für seinen Aufbruch4, er dreht die Bastschuhschnuren für seine Einheirat.
-
-# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:3
-# pgno = 107
-# text_orig = Er weint beim Flechten, er ist traurig beim Drehen: «Wie seltsam, dass es so ist, lo. wie merkwürdig, dass es so ist!
-
-# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:3
-# pgno = 107
-# text_orig = 
-Wohlan, machen wir eine Dorfversammlung, wohlan, machen wir eine gemeinsame Versammlung!
-
-# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:3
-# pgno = 107
+# pgno = 108
 # text_orig =
-Alte»', meine Grossväter4, meine jüngeren3 Männer3,
-
-iśt́a ḿeźeń tamašat 
-iśt́a ḿeźeń pŕičuda 
-ćorat moĺit́ ḿiŕďeńe 
-t́ejt́eŕt́ ašt́it́ kudoso
-5. sud́ado at́at sud́ado 
-ŕeďado at́at ŕeďado
-ćorat ašt́eśt́ kudoso 
-t́ejt́eŕt́ moĺest ḿiŕďeńe 
-ḿeźe t́ejt́eŕeń kudoso doĺeze͔
-10. ḿeźe t́ejt́eŕeń pajeze͔
 valdo vaĺmalks doĺeze͔ 
-pona kuvamks pajeze͔
+/ pona kuvamks pajeze͔
+# text =
+# text_de_lines =
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:
+# pgno = 108
+# text_orig =
 kardajse͔ ḿeźe pajeze͔ 
-kardajse͔ ḿeźe doĺeze͔?
+/ kardajse͔ ḿeźe doĺeze͔?
+# text =
+# text_de_lines =
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:
+# pgno = 108
+# text_orig =
 15. kardajse͔ sonʒo pajeze͔ 
-t́oĺko v́ejḱe ŕev́eze͔
+/ t́oĺko v́ejḱe ŕev́eze͔
+# text =
+# text_de_lines =
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:12
+# pgno = 109
+# text_orig =
 ṕiŕese͔ sonʒo pajeze͔ 
-ṕiŕese͔ sonʒo doĺeze͔ 
-ṕiŕese͔ v́ejḱe vašińe 
-śeńgaḱ v́ejḱe śeĺḿeze͔
+/ ṕiŕese͔ sonʒo doĺeze͔ 
+/ ṕiŕese͔ v́ejḱe vašińe 
+/ śeńgaḱ v́ejḱe śeĺḿeze͔
+# text =
+# text_de_lines =
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:12
+# pgno = 109
+# text_orig =
 5. pskśaso ḿeźe pajeze͔ 
-pakśaso ḿeźe doĺeze͔?
+/ pakśaso ḿeźe doĺeze͔?
+# text =
+# text_de_lines =
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:12
+# pgno = 109
+# text_orig =
 kolmo ĺexat muškozo 
-śiśem komorot paźeze͔
-v́ejkse͔ komorot kańćt́eze͔
+/ śiśem komorot paźeze͔
+/ v́ejkse͔ komorot kańćt́eze͔
+# text =
+# text_de_lines =
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:12
+# pgno = 109
+# text_orig =
 10. śe t́ejt́eŕeńt́ pajeze͔  
-śe t́ejt́eŕeńt́ doĺeze͔. 
+/ śe t́ejt́eŕeńt́ doĺeze͔. 
+# text =
+# text_de_lines =
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:12
+# pgno = 109
+# text_orig =
 t́ejt́et́ moĺeśt́ ḿiŕďeńe 
-ćorat ašt́est kudoso 
-t́ejt́eŕt́ uŕńest avaŕď est
+/ ćorat ašt́est kudoso 
+/ t́ejt́eŕt́ uŕńest avaŕď est
+# text =
+# text_de_lines =
+
+# sent_id = SUST-77-28-pp106–110_Ivan-Kozlofka:12
+# pgno = 109–110
+# text_orig =
 15. ćorat ḱišt́est si͔ń morast
-ćorań kadov''i pakśas pajeze͔
+/ ćorań kadov''i pakśas pajeze͔
+/ v́eĺes kadovi kajavksso
+/ kaŕdajs ( < -ď) kadov́i t́et́azo
+/ kudos kadov́i avazo.
 
 Im Gehege gehört ihr, im Gehege gehört ihr, im Gehege ein einziges Füllen1, es hat nur ein einziges Auge. 5. Was gehört ihr auf dem Felde, was gehört ihr auf dem Felde? Drei Lechas2 hat sie wachsenden Hanf, sieben Bündel hat sie Hänfling, neun Bündel hat sie Hanf, lo. Das gehört der Tochter, das gehört der Tochter. Töchter sollen einheiraten, Söhne sollen zu Hause bleiben, Töchter sollen klagen und weinen, 15. Söhne sollen tanzen und singen.
 Der Anteil des Sohnes bleibt auf dem Felde,
 — 110 —
-v́eĺes kadovi kajavksso
-kaŕdajs ( < -ď) kadov́i t́et́azo
-kudos kadov́i avazo.
 
 ivan,
 kozlofka, Mitte Dez. 1898.
