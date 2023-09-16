@@ -35,4 +35,5 @@
 # 34
 
 
-# кудонь [«кудо» валонть невтемавтомо генитив парцунозо](https://rueter.github.io/emerald/dictionaries/docs/myv_erzjanj_valks.html#кудо)
+# кудонь
+[«кудо» валонть невтемавтомо генитивень парцунозо](https://rueter.github.io/emerald/dictionaries/docs/myv_erzjanj_valks.html#кудо)
