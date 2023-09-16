@@ -35,4 +35,4 @@
 # 34
 
 
-# кудонь [«кудо» валонть невтемавтомо генитив парцунозо](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/myv_erzjanj_valks.md#кудо)
+# кудонь [«кудо» валонть невтемавтомо генитив парцунозо](https://rueter.github.io/emerald/dictionaries/docs/myv_erzjanj_valks.md#кудо)
