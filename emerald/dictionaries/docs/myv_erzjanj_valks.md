@@ -96,7 +96,9 @@
 
 
 ## кудонь
-   «[кудо](/myv_erzjanj_valks.html#кудо)» валонть невтемавтомо генитивень парцунозо
+   «[кудо](/myv_erzjanj_valks.html#кудо)» валонть невтемавтомо генитивень парцунозо.
+   [ведь](../docs/myv_erzjanj_valks.html#ведь)
+   [велс](myv_erzjanj_valks.html#велс)
 
 ## кудыне
 
