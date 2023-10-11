@@ -295,6 +295,8 @@
 
 - Ornatovʺ, Pavelʺ (Ортановъ, Павелъ) 1838: *Мордовская грамматика* /составленная на нарѣчій мордвы мокши Тамбовской семинаріи профессоромъ, магистромъ, Павломъ Орнатовымъo. Москва: Въ Сѵнодальной типографіи, 1838.-106 с.
 
+- Paasonen, Heikki 1891: *Proben der mordwinischen Volkslitteratur*. Gesammelt von H. Paasonen. Erster Band. Erzyanischer Theil. Finnisch-Ugrischer Gesellschaft. Suomalais-Ugrilaisen Seuran aikakauskirja. Journal de la Sociêtê finno-ougrienne. IX. Helsingissä. Suomalaisen Kirjallisuuden Seuran kirjapainossa. 1891.
+
 - Paasonen, Heikki 1897: Die türkischen Lehnwörter im Mordwinischen. *SUSA XV/2.* 1&ndash;64  (In Erzya, German)
 
 - Paasonen, Heikki 1893: *Mordvinische Lautlehre.*. Akademishe  Abhandlung.  Helsingfors, 1893.  Mordwinische Lautlehre. MSFOu XXII. Helsingfors: Société Finno-Ougrienne, 1903. 123 p. (In Erzya, German)
