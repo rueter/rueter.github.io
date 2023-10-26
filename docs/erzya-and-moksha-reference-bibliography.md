@@ -206,6 +206,8 @@
 
 - Keresztes, Lázló 2011: *Bevezetés a mordvin nyelvészetbe*. Debreceni Egyetemi Kiadó. Debrecen University Press. 
 
+- Kholodilova, Maria. 2016: “Moksha Non-verbal predication.” In *Mordvin Language in the Field*, edited by Ksenia Shagal and Heini Arjava, 229–259. Helsinki: University of helsinki.
+
 - Klement'eva, E.F. (Клементьева, Е.Ф.) 2004: *Категория собирательности в эрзянском языке:* Учеб. пособие. Саранск: Тип. «Крас. Окт.», 2004. — 80 с.<!-- ISBN 5—7493—0661—5 -->
 
 
