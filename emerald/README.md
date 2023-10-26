@@ -17,8 +17,8 @@ the description of Erzya, Moksha and other closely related Mordvin language form
 * [UD_Erzya-JR = Erzya language project in Universal Dependencies since 2018](https://github.com/UniversalDependencies/UD_Erzya-JR/tree/master) This includes original Erzya-language sentences from literary publications, grammars and research outcomes. The sentences have been automatically annotated with Constraint Grammar descriptions written partially by Jack Rueter and then manually validated.
 
 
-* Here is a list of what Jack Rueter has [published](https://multilingualfacilitation.com/docs/jack-rueter-publications.md)
-* Here is a list of what Olga Erina has [published](https://multilingualfacilitation.com/docs/olga-erina-publications.md)
+* Here is a list of what Jack Rueter has [published](https://multilingualfacilitation.com/docs/jack-rueter-publications.html)
+* Here is a list of what Olga Erina has [published](https://multilingualfacilitation.com/docs/olga-erina-publications.html)
 
 # Cite
 
