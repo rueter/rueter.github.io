@@ -138,7 +138,7 @@
 
 - Estill, Denis 2004: *Diachronic change in Erzya word stress.* Suomalais-Ugrilaisen Seuran Toimituksia. 246 Helsinki: Suomalais-Ugrilainen Seura.
 
-- Evsev'ev (Евсевьев, М. Е.) [1928-29]/1963 *Мордовская грамматика.* (Избранные труды 4. Москва 1963) [Online]
+- Evsev'ev (Евсевьев, М. Е.) [1928-29]/1963 *Мордовская грамматика.* (Избранные труды 4. Москва 1963) [Online](https://rueter.github.io/emerald/historical-mordvin-grammars/docs/evsevjev_makar_e_erzjanj_grammatika_1928_29.html)
 
 - Feoktistov, A. P. (Феоктистов А.П.) 1960: Мордовские языки и их диалекты. In *Вопросы этнической истории мордовского народа*, 63&ndash;82. Москва.
 
