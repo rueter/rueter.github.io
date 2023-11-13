@@ -55,7 +55,7 @@ This is a list of the pieces published in erme-s-v2-korp on the CSC Korp server.
 |Klûčagin, Pëtr Andreevič|Sy škanʹ prezident|Erzya|Erzya|ёвтнема|Cëkanʹka|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|2|512|3,240|104–105|Rueter, Jack 1998|MR_Kulâsovo;RU;54.563611;46.066944|
 |Klûčagin, Pëtr Andreevič|Sëksenʹ kelʹmevkst|Erzya|Erzya|ёвтнема|Cëkanʹka|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|8|2,459|15,689|36–43|Rueter, Jack 1998; 2023|MR_Kulâsovo;RU;54.563611;46.066944|
 |Klûčagin, Pëtr Andreevič|Sëksenʹ varma, meks ton urnat|Erzya|Erzya|валморо|Cëkanʹka|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|1|65|382|48|Rueter, Jack 1998|MR_Kulâsovo;RU;54.563611;46.066944|
-|Klûčagin, Pëtr Andreevič|Sëksʹ|Erzya|Erzya|poetyry|Cëkanʹka|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|1|68|344|35|Rueter, Jack 1998|MR_Kulâsovo;RU;54.563611;46.066944|
+|Klûčagin, Pëtr Andreevič|Sëksʹ|Erzya|Erzya|poetry|Cëkanʹka|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|1|68|344|35|Rueter, Jack 1998|MR_Kulâsovo;RU;54.563611;46.066944|
 |Klûčagin, Pëtr Andreevič|Tašto šinelʹ|Erzya|Erzya|ёвтнема|Cëkanʹka|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|2|334|2,197|50–51|Rueter, Jack 1998|MR_Kulâsovo;RU;54.563611;46.066944|
 |Klûčagin, Pëtr Andreevič|Te ulʹnesʹ Pičegajsè|Erzya|Erzya|ёвтнема|Cëkanʹka|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|3|939|5,788|77–80|Rueter, Jack 1998|MR_Kulâsovo;RU;54.563611;46.066944|
 |Klûčagin, Pëtr Andreevič|Tejterenʹ moro|Erzya|Erzya|валморо|Cëkanʹka|Mordovskoj knižnoj izdatelʹstvasʹ|1997|Saransk|1|84|437|18|Rueter, Jack 1998|MR_Kulâsovo;RU;54.563611;46.066944|
