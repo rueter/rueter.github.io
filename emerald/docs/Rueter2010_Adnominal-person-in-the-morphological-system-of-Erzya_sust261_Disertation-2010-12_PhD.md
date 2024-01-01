@@ -1590,10 +1590,10 @@ between them, see table 1.1.
 <td rowspan="2">
 Entries
 </td>
-<td colspan="2">
+<td align="center" colspan="2">
 Erzya
 </td>
-<td colspan="2">
+<td align="center" colspan="2">
 Moksha
 </td>
 <td align="center" colspan="3">
