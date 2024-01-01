@@ -2029,7 +2029,7 @@ with no distinction for number in 1PL indexing.
 
 Inﬁnitive forms of the three renditions of the inﬁnitive ‘to take’ in (1) demonstrate
 word forms that, according to MW, would encompass most dialect variation of today,
-from the Shoksha areas of the west where the verb has a %ź% in its stem, to the %mks
+from the Shoksha areas of the west where the verb has a %ź% in its stem, to the *-mks*
 translative inﬁnitive of certain Alatyr' subdialects, and ﬁnally to the form familiar from
 the literary standard sajems ‘to take’. The conjugation forms in (2), according to dialect
 variation shown by Keresztes (1999: 214) would appear to represent language variant
@@ -2635,8 +2635,8 @@ obligatory that both the possessor and the possessum be marked, see below.
 The deﬁnite declension consists of morphemes for two numbers marking nouns
 and non-ﬁnites. All items marked plural bear double marking for number, i.e. the word
 skal ‘cow’, when rendered in the indeﬁnite nominative plural skal+t ‘cows’, receives
-one marker, the %T, and when it is rendered with the deﬁnite plural as in the nominative
-skal+t+ne ‘the/those/these cows’, an additional %Ne marker +DEF.PL.NOM is present.
+one marker, the *-T*, and when it is rendered with the deﬁnite plural as in the nominative
+skal+t+ne ‘the/those/these cows’, an additional *-Ne* marker +DEF.PL.NOM is present.
 
 <pgNo>19</pgNo>
 
@@ -3321,8 +3321,7 @@ normally viewed as independent words. Following from this adherence to consisten
 with “normal view” Siewierska therefore opts to make the dependent versus independent split at the morphophonological level. This is a well-merited choice, but even the
 relatively simple personal system of English attests certain discrepancies with regard to <pgNo>30</pgNo> the concept of independent forms, let us observe the reﬂexive pronouns, for instance,
 myself, yourself, himself, herself, itself, ourselves, yourselves and themselves. While
-most educated native speakers might be familiar with additional forms, such as, his%
-self and theirselves, these forms are most likely to be rejected as non-standard forms.
+most educated native speakers might be familiar with additional forms, such as, his-self and theirselves, these forms are most likely to be rejected as non-standard forms.
 There are, however, situations in the English grammar where these very “non-standard”
 forms are the only ones eligible for grammatically acceptable constructions, see (23–24),
 where the former is a quotation from Agatha Christie, and the latter an excerpt from a
@@ -3465,8 +3464,7 @@ PL
 (dein) Haus
 (euer) Haus
 
-(hans/hen%
-nes/dess)
+(hans/hennes/dess)
 hus
 
 (sein/ihr)
@@ -3527,7 +3525,7 @@ s’adyúm’ə gâam’a
 (26)
 
 Dependent marking
-loem%an k’orni
+loem-an k’orni
 lion-GEN baby.animal
 ‘lion cub’, ‘lion's cub’ (lit. ‘of-lion cub’)
 [Chechen (Nichols, own data)]
@@ -3535,7 +3533,7 @@ lion-GEN baby.animal
 (27)
 
 Double marking
-cuku%ŋ hu:ki%ʔ%hy:
+cuku-ŋ hu:ki-ʔ-hy:
 dog-GEN tail-3SG
 ‘dog's tail’ (lit. ‘of-dog its-tail’)
 [Southern Sierra Miwok (Miwok-Costanoan; California; Broadbent 1964: 133) ]
@@ -3559,7 +3557,7 @@ he chooses to disregard are nominal strategies used to express locality, see (29
 resulting deﬁnition of adposition appears to indicate lexemes without noun correlates.
 (29)
 
-ya nai%sa
+ya nai-sa
 1SG rib-LOC
 ‘beside me’ [Tauya (MacDonald 1990: 283) ]
 
@@ -3669,7 +3667,7 @@ two means for the indication of adnominal person, which are AFFIXES and INDEPEND
 PERSONAL PRONOUNS, the former of which is the focus of this treatise.
 Within the range of morphological adnominal-person marking there are ﬁve major
 clusters that may be identiﬁed as targets: (i) NOUN PHRASES; (ii) QUANTIFIERS; (iii) PERSONAL
-PRONOUNS; (iv) ADPOSITIONAL PHRASES, and (v) NON-FINITE PHRASES in %Om. Noun and nonﬁnite phrases exhibit variation in adnominal person marking with strategies allowing for
+PRONOUNS; (iv) ADPOSITIONAL PHRASES, and (v) NON-FINITE PHRASES in *-Om*. Noun and nonﬁnite phrases exhibit variation in adnominal person marking with strategies allowing for
 lexical, afﬁxal or both types simultaneously. Quantiﬁers attest to an obligatory afﬁxal
 marking of the controller/possessor and disallow lexical marking of cross-referential adnominal person. Personal pronouns disallow afﬁxal marking in the nominative, whereas in
 the oblique cases the standard language attests obligatory adnominal-person afﬁxes. And
