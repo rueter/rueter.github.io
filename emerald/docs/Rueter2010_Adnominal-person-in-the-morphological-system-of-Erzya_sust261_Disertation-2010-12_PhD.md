@@ -1560,7 +1560,7 @@ language variant was contributed by the ethnographer, historian, enlightener, Ev
 a native Erzya and Chuvash speaker, originally from Malye Karmaly, Chuvashia, in
 1928–29. In the 1930s, however, the Kozlovka-Mokshalei (Central-dialect) base of the
 language was broadened to include more features from the Insar or Western dialect,
-which meant development away from the Alatyr' or Northwestern dialect, familiar in
+which meant development away from the Alatyrʹ or Northwestern dialect, familiar in
 the Erzya literature of the nineteenth century (see more on dialects below). In the late
 1980s, when, at the end of the Soviet Era, new efforts were made to translate the Bible,
 an attempt was made to develop a mutual vocabulary for the two languages to be used in
@@ -1837,10 +1837,10 @@ population is settled. Hence, comparative linguistics dealing with the developme
 a literary language and its representation of phenomena attestable in the greater Erzya
 language is profoundly limited.
 The division of Erzya dialects according to Bubrix distinguishes five basic dialect types. The dialects can be presented as: (1) the Central or Kozlovka-Mokshalei
-dialects; (2) the Western or Insar dialects; (3) the Northwestern or Alatyr' dialects; (4) the
+dialects; (2) the Western or Insar dialects; (3) the Northwestern or Alatyrʹ dialects; (4) the
 Southeastern or Sura dialects, and (5) the mixed or Drakino-Shoksha dialects (see Feoktistov 1990: XXXIV-XLII; Cygankin 2000b: 19–40; Ermuškin 2004: 5–10, as well as
-individual treatises: Davydov 1963: 118–233 (Bol'she-Ignatovski dialect – Alatyr'); Markov 1961: 7–99 (Prialatyrski dialect – Alatyr'); Nadʹkin 1968: 3–198 (Nizhnep'yanski –
-Alatyr') ; Obʺedkin 1961: 100–196 (Staro-Turdakovski dialect – Insar); Cygankin 1961:
+individual treatises: Davydov 1963: 118–233 (Bol'she-Ignatovski dialect – Alatyrʹ); Markov 1961: 7–99 (Prialatyrski dialect – Alatyrʹ); Nadʹkin 1968: 3–198 (Nizhnep'yanski –
+Alatyrʹ) ; Obʺedkin 1961: 100–196 (Staro-Turdakovski dialect – Insar); Cygankin 1961:
 294–395 (Shugurova dialect – Sura); Âkuškin 1961: 197–293 (Drakinski dialect –
 Drakino-Shoksha)). The problem is that this set of dialect types is little more than a
 depiction of the phonetic characteristics of the various Erzya dialects on the territory of
@@ -2007,38 +2007,49 @@ renditions in the text, however, would indicate that several forms of the langua
 represented, and therefore one might assume the participation of several people in this
 first translation of the Gospel, see examples below.
 
-`
-(1)
+
+(1a)
 
 саземсъ saźems ‘to take’ (Mark 3: 20) ~ MW: Kad, Kal, Kažl, Šir (Shoksha)
-саймексъ sajmeks ‘to take’ (John 5: 10) ~ MW: VVr (Alatyr' dialect)
-саемсъ
-sajems ‘to take’ (John 11: 57) ~ MW: Ba, Bugur, Hl, Jeg, Mar, NSurk,
-SŠant, Večk (Elsewhere)
-`
 
-(2)
+(1b)
+
+саймексъ sajmeks ‘to take’ (John 5: 10) ~ MW: VVr (Alatyrʹ dialect)
+
+(1c)
+
+саемсъ sajems ‘to take’ (John 11: 57) ~ MW: Ba, Bugur, Hl, Jeg, Mar, NSurk,
+SŠant, Večk (Elsewhere)
+
+
+(2a)
 
 нейсы ńej+si͔ see_V+IND.PRES.PRED-2SG>3PL ‘you see them’ (Mark 13: 2) ~ Keresztes
 1999: 214 (NW and NE dialects)
+
+(2b)
+
 нейсамискь ńej+samiśk see_V+IND.PRES.PRED-2>1P ‘you see me/us (at least one of the
 arguments is not in the singular)’ (John 14: 19) ~ Keresztes 1999: 245 (S dialect)
 
-(3)
+(3a)
 
-тятямокъ t́ät́a+mok father_N+POSS-3SG>NOM.SG ‘our father’ (Luke 3: 8, 11: 2) ~ Kozlovka (Bubrix 1930); Alatyr' (cf. Davydov 1963; Nadʹkin 1968)
+тятямокъ t́ät́a+mok father_N+POSS-3SG>NOM.SG ‘our father’ (Luke 3: 8, 11: 2) ~ Kozlovka (Bubrix 1930); Alatyrʹ (cf. Davydov 1963; Nadʹkin 1968)
+
+(3b)
+
 Тятянокъ t́ät́a+nok father_N+POSS-3SG>NOM.PL ‘our fathers’ (John 4: 20) ~ dialects
 with no distinction for number in 1PL indexing.
 
 Infinitive forms of the three renditions of the infinitive ‘to take’ in (1) demonstrate
 word forms that, according to MW, would encompass most dialect variation of today,
 from the Shoksha areas of the west where the verb has a *-ź-* in its stem, to the *-mks*
-translative infinitive of certain Alatyr' subdialects, and finally to the form familiar from
+translative infinitive of certain Alatyrʹ subdialects, and finally to the form familiar from
 the literary standard sajems ‘to take’. The conjugation forms in (2), according to dialect
 variation shown by Keresztes (1999: 214) would appear to represent language variant
 from opposite ends of the dialect continuum. And finally the differentiation of singular
 and plural possessa of the first person plural possessor as demonstrated in (3) would
-correlate to Alatyr'-dialect paradigms and the tendencies in some parts of the KozlovkaMokshalei dialect.
+correlate to Alatyrʹ-dialect paradigms and the tendencies in some parts of the Kozlovka–Mokshalei dialect.
 
 <pgNo>14</pgNo>
 
@@ -4848,9 +4859,6 @@ of the written language, e.g. vowel harmony, palatal harmony, devoicing, voicing
 of affix-initial v, stem-final vowel loss.
 
 <pgNo>49</pgNo>
-METHODOLOGY AND CORPORA
-
-49
 
 ### 2.3. Morpho-semantic evaluation of stems and affixes
 
@@ -4980,9 +4988,6 @@ Derivation of nominative-case predicate-person patterns
 ##
 
 <pgNo>51</pgNo>
-METHODOLOGY AND CORPORA
-
-51
 
 2PL = (а|я|о|ё|е|э|и|ы|у|ю)нк(|ак|как|ан(|гак)|ат(|ак|как)|та(н|д)о(|як)|(о|е)
 линь(|гак)|(о|е)лит(ь|як|ькак)|(о|е)ль(|гак)|(о|е)линек(|ак|как)|(о|е)лиде(|як)|(о|е)
@@ -5007,6 +5012,7 @@ can be reduced to T representation (cf. Abondolo 1987: 219-233).) These two ambi
 for example, automatic parsing strategies involving other persons.
 
 ### 2.5. The semi-automatic parser
+
 In a morphological analysis of the Erzya language one must bear in mind the extent of
 synchronic inﬂectional mechanisms utilized by the collective of speakers and writers of
 the language. By defining DECLINABLE WORDS as words that can take case marking in the
@@ -5121,15 +5127,15 @@ t́eń
 to/for_ PRON-DAT.POSS-1SG
 this_PRON-DEM-SG.GEN
 
-### 2.6. Sublexicon-case alignments and variation
-in adnominal person
+### 2.6. Sublexicon-case alignments and variation in adnominal person
+
 The sublexica distinguished in section 2.4. will be used in the inspection of case and adnominal person compatibility in the majority and minority corpora. Here the words attested for high statistic frequency with POSSESSIVE DECLENSION, that is, case and adnominal
 person compatibility, will be inspected for compatibility with lexical adnominal person.
 Thus claims made of free variation in adnominal-person form might be afforded statistical data for more extensive understanding of the phenomena involved, and parallels may
 be drawn between same-case inﬂections of word forms in different parts of speech.
 
-### 2.7. Defectivity in the genitive slot of the possessive
-declension
+### 2.7. Defectivity in the genitive slot of the possessive declension
+
 Defectivity as discussed in Karlsson (2000) is a phenomenon that is not specific to the
 Finnish language. In fact, defectivity in Erzya is not unknown; Keresztes (1999: 128-130)
 comments on the apparently artificial optative paradigms of Wiedemann and Budenz,
@@ -5153,7 +5159,7 @@ CASES.) When we address the matter of functions attributed to the genitive, see 
 in section 4.2.1.1. CORE CASES, we will note that it can be associated with the functions
 of POSSESSOR, ADPOSITION COMPLEMENT and FINITE-VERB ARGUMENT form with person agreement in the object conjugation, and therefore we can attest a presence of genitive forms
 for the grammatical categories of person and number, albeit only the 3SG marker offers
-indisputable proof for this, and then only with singular possessa. Thus the special markers for the 1SG and 2SG genitive slots of kin terms are additions to the six or seven genitive forms already present, i.e. some variants of the language, especially Alatyr'-dialect
+indisputable proof for this, and then only with singular possessa. Thus the special markers for the 1SG and 2SG genitive slots of kin terms are additions to the six or seven genitive forms already present, i.e. some variants of the language, especially Alatyrʹ-dialect
 types, distinguish number in the 1SG genitive, as well as 2SG, 1PL and even 3PL. The
 dative, however, does not attest to an underlying set of six adnominal-person markers,
 instead there are only three markers that are frequently quoted in the grammars of the
@@ -5172,6 +5178,7 @@ as well.
 
 
 ### 2.8. Secondary declension
+
 Secondary declension is a phenomenon of the noun phrase, and may best be described
 as the contextual dropping of a predictable head noun, such that, one of its modifiers
 becomes the main item of the NP, and thus we can speak of MWN (modifiers without
@@ -5190,6 +5197,7 @@ Our understanding of form is readily developed by considering: (1) phonemes in E
 transliteration, and (2) phonetic phenomena behind allomorphic variation.
 
 ### 3.1. Phonemes in Erzya transliteration
+
 The discussion of Erzya phonetics will be limited to the phenomena attested in the written corpora, a subset of all Erzya language publications since 1821 (see corpora, 2.1.),
 that have a bearing on allophonic and allomorphic variation in word forms where adnominal-type cross-referential person marking can occur. For this reason special attention may be afforded items which, otherwise, are foregone in grammars of the language.
 According to the most recent treatise of Erzya phonetics “Неень шкань эрзянь
@@ -5275,7 +5283,7 @@ The only conﬂict between these two enumerations of phonemes is found in the tw
 the fact that the written standard of modern Erzya is based on a non-extended Cyrillic
 alphabet, which has no marking for a velar nasal. Imajkina appears to totally ignore the
 existence of a velar nasal phoneme, and Bartens provides the explanation that ŋ appears
-in a very small area in the Northwestern (Alatyr') dialect type (see Bartens 1999: 27).
+in a very small area in the Northwestern (Alatyrʹ) dialect type (see Bartens 1999: 27).
 Virtually all velar nasals in the Erzya literary language occur in the coda followed by a
 velar plosive. Elsewhere the velar nasal of the Northwest dialect type has assimilated
 to the velar-labial and palatal glides. Hence the contention is that the phonetic velar
@@ -5690,11 +5698,13 @@ non-Erzya on the basis of this criterion (cf. also Abondolo 1987).
 <pgNo>62</pgNo>
 
 ### 3.2. Phonetic phenomena behind allomorphic variation
+
 Allomorphic variation in Erzya can readily be attributed to vowel harmony, palatal
 harmony, devoicing, voicing, loss of affix-initial V of the abessive, and stem-final vowel
 loss.
 
 #### 3.2.1. Vowel harmony
+
 Vowel harmony in Erzya is front/back harmony affecting the mid vowels, represented
 orthographically in Erzya by э, е and о. In the standard language this harmony is basically triggered by the preceding vowel or consonant qualities, such that, palatalized
 alveolars, the palatal glide and front vowels co-occur with subsequent front vowels э
@@ -5861,6 +5871,7 @@ Stand-alone
 <pgNo>64</pgNo>
 
 #### 3.2.2. Palatal harmony
+
 Palatal harmony in Erzya affects the alveolar stops in affix onset, i.e. orthographically
 the neutral plosives T and D, as well as the nasal N are realized with subsequent palatal
 marking in ь, е and я. Since there are other affixes ending in %Онь ‘GEN; POSS-1SG>GEN
@@ -6049,6 +6060,7 @@ c. miŕd́e+OT
 husband_N+POSS-2SG>NOM ~ husband_N+POSS-2SG>GEN
 
 #### 3.2.3. Devoicing
+
 In the modern Erzya standard, synchronic devoicing affects the voiced alveolar plosive d
 and the voiced velar plosive g in affix onset position. The term “synchronic devoicing”
 is used to illustrate the fact that in intervocalic position the reﬂex of these plosives is
@@ -6092,6 +6104,7 @@ The range of the devoicing phenomenon is also minimal, whereas it involves the
 morphemes: ablative %DO and prolative %Ga.
 
 #### 3.2.4. Voicing
+
 In colloquial speech and especially in older texts, there is also a voicing phenomenon
 affecting the T of the predicate markers -Tano ‘PRES.PRED-1PL’, %Tado ‘PRES.PRED-2PL’,
 %Tan ‘PRES.PRED-1SG>2SG’, %Tanzat ‘PRES.PRED-3SG>2SG’ and %Tadi͔ź ‘PRES.PRED-X>2P’.
@@ -6102,18 +6115,20 @@ oral and literary language, as it is attested at the boundary of stem and conjug
 inﬂections, free morph + free morph lexemes, as well as syntactic collocations.
 
 #### 3.2.5. Loss of affix-initial V
+
 The loss of affix-initial V affects the abessive morpheme %VTOmO, such that V is lost
 when the preceding stem ends in a consonant.
 
 <pgNo>68</pgNo>
 
 #### 3.2.6. Stem-final vowel loss
+
 Stem-final vowel loss affects affix-final and root-final vowels alike. It can be observed
 in two different ranges:
 (a) Stem and affix-final vowels are dropped in contemporary Erzya when followed by the
 present predicate cross-reference markers for the first and second persons singular, e.g.
 vadŕa+at vadŕat ‘you are nice’, which is the rendering of vadŕa ‘fine/nice’ and -at
-‘PRES.PRED-2SG’. (See folklore, old literary, and Alatyr' subdialects vadŕajat)
+‘PRES.PRED-2SG’. (See folklore, old literary, and Alatyrʹ subdialects vadŕajat)
 (b) There are three nominal stem types in Erzya, of which one can be recognized by
 synonymous variation in the presence or absence of a stem-final mid vowel before the
 voiceless-onset affixes plural -T, inessive -sO, elative -stO and illative -s, see nominal
@@ -6152,6 +6167,7 @@ ERZYA POSSESSOR INDEXING inspects the status of 1SG and 2SG genitive marking wit
 to the KIN TERM parameter. And section (4.5.) ADNOMINAL SYNTAX AND SECONDARY DECLENSION describes the compatibility of adnominal person with secondary declension.
 
 ### 4.1. Nominal-type word-stem morphology
+
 When establishing nominal-type word stems, it might occur to one to follow the threevowel split system observed for verbs in the Finnish and apparently the Estonian Schools
 of Mordvin studies (cf. Ravila 1929: 104-105; Pall 1996: 22; Bartens 1999: 122; Hamari
 2007: 66). The verbs, it is maintained, can be divided into three groups on the basis of
@@ -6546,6 +6562,7 @@ type stem NOUNS2 that consonant-cluster delimitations might be concentrated on.
 <pgNo>74</pgNo>
 
 ### 4.2. Affixes
+
 Affixes here are a subset of all morphemes attested in the word forms set as the range
 of adnominal-type cross-referential person, i.e. affixes might be contrasted with stems.
 Stems, it must be remembered, comprise not only the stereo-typical headword stems,
@@ -6567,6 +6584,7 @@ followed by ZERO or deictic marker (Dx) is the strategy of the remaining cases.
 [ Nx + Cx | CDx | Cx + Dx ]
 
 #### 4.2.1. Case
+
 The term case is often associated with noun phrases and the marking of syntactic
 arguments, e.g. subject, direct object and indirect objects. In Finno-Ugrian languages,
 however, there is an extension for including local cases, and some others as well. In the
@@ -6614,6 +6632,7 @@ a given inﬂectional item, i.e. the translative can indeed appear in the defini
 declension (EKM 2000).
 
 ##### 4.2.1.1. Core cases
+
 In the Erzya grammar tradition, four case names are mentioned in association with the
 core cases: nominative, genitive, dative and ablative. Thus the inessive, in %sO, is
 foregone here despite the fact that in the adpositional form ejse ‘in’ it is, without doubt,
@@ -7306,7 +7325,7 @@ eŕźań paz ‘Kuz'ka the Erzyan God’ 2008) we can attest a second person plu
 %Onsteŋk. This form can readily be analyzed as an analogous construction that might
 be parsed +Onste+ŋk +POSS-3.DAT+POSS-2PL. Dëmin's use of this form would clearly
 indicate the feasibility of the construction in the spoken language of Ses'kina, perhaps
-not too far removed from the Alatyr' sub-dialects of Glukhov and Kutorkin.
+not too far removed from the Alatyrʹ sub-dialects of Glukhov and Kutorkin.
 (7)
 
 meŕ+ed́e
@@ -7424,6 +7443,7 @@ the nominative is used as well. (See Rueter “On Quantification in the Erzya la
 forthcoming);
 
 ##### 4.2.1.2. Local cases
+
 Local cases in Erzya comprise a selection of eight spatio-temporal affixes with targets
 in the range noun-phrase head, quantifiers, adverb/adposition and non-finite in %Om.
 Nuances commonly conveyed by these cases include orientation, i.e. source, location
@@ -7736,7 +7756,7 @@ t́iŋg+t́+ńe+s ~ t́iŋge+t́+ńe+s
 
 The illative is not compatible with the definite singular declension. Information to the
 contrary is provided by Râbov (1935) kudo+zońt́ house_N+ILL.DEF.SG ‘into the house’,
-but perhaps this is merely a hypercorrect form of the Alatyr'-dialect 2SG possessor index,
+but perhaps this is merely a hypercorrect form of the Alatyrʹ-dialect 2SG possessor index,
 which would be kudo+z+ont house_N+ILL+POSS- 2SG ‘into your house’ (note the absence
 of palatalization on the 2SG marker).
 Table 4.13
@@ -7885,7 +7905,7 @@ fallen upon their own oppressors.’
 
 In addition to incompatibility with definite singular marking, this case is not attested for
 non-finites. Synonymous constructions are attested from various writers for the deverbalnoun versus non-finite forms of the verb ĺed́ems ‘to mow’. Compare the two examples
-in (15), where Kutorkin, on the one hand, uses a typically Alatyr'-dialect deverbal-noun
+in (15), where Kutorkin, on the one hand, uses a typically Alatyrʹ-dialect deverbal-noun
 form in ĺed́ma (lit. ĺed́ema) and declines it in the indefinite lative, whereas Abramov
 employs the non-finite locative form in ĺed́eme. (For disambiguation and discussion see
 4.3.5.)
@@ -7910,13 +7930,13 @@ purna+śt́
 rator
 ĺej
 čire+v
-get-ready-to-go_V+IND.PRETI.PRED-3PL Alatyr'_PRP.ABS river_N.ABS edge_POP+LAT
+get-ready-to-go_V+IND.PRETI.PRED-3PL Alatyrʹ_PRP.ABS river_N.ABS edge_POP+LAT
 bojar+neń
 t́ikše
 ĺed́+em+e.
 boyar_N+DAT hay_N.NOM.SG mow_V+INF+LOC.
 (Abramov 1973: 174) ‘Mikai and his father were getting ready to got to the banks of
-the Alatyr' to make hay for the Boyar.’
+the Alatyrʹ to make hay for the Boyar.’
 
 Lative-case phrases are attested at both the NP and clausal levels.
 
@@ -8186,6 +8206,7 @@ when you have Nuzha's Palaga sitting in your lap.’
 <pgNo>94</pgNo>
 
 ##### 4.2.1.3. Attributive Cases
+
 The attributive cases comprise the “mixed-bag” set of cases that are neither spatiotemporal nor used in core-case functions: the translative, comparative, abessive and
 comitative. The first three enumerated can be used as subject complements while the
 last is, in fact, a peripheral modifier.
@@ -8351,11 +8372,11 @@ mordovija+ń
 rator
 ĺejńe+ška+ńt, ́
 avoĺ
-Mordovia_PRP+GEN Alatyr'_N.ABS little-river_N+COMP+DEF.SG, not_PRT-NEG-CONTR
+Mordovia_PRP+GEN Alatyrʹ_N.ABS little-river_N+COMP+DEF.SG, not_PRT-NEG-CONTR
 śe+d́e
 pokš.
 that_PRON-DEF+ABL big_A.NOM. SG
-(Doronin 1994: 106) ‘The size of the little Alatyr' River in Mordovia, not any bigger.’
+(Doronin 1994: 106) ‘The size of the little Alatyrʹ River in Mordovia, not any bigger.’
 
 (26)
 
@@ -8521,7 +8542,7 @@ pize+t́+ńe+ńek
 
 The main function of the comitative is the marking of universal quantification + with.
 This case is subject or object oriented. Nadʹkin (1968: 51, 57) also attests this case in the
-definite plural declension of some of the Alatyr' subdialects.
+definite plural declension of some of the Alatyrʹ subdialects.
 Ambiguity is attested with the adnominal cross-referential person marker %ONOk,
 for more specifics, see (4.2.3.1.1.) FIRST PERSON.
 
@@ -9552,6 +9573,7 @@ the non-core-case allomorphs, where there would be 26 phonetic, and 27 Cyrillic 
 subcategories of case.
 
 #### 4.2.2. Number
+
 The grammatical category of number in Erzya is represented both morphologically and
 lexically. While verbal conjugations feature morphological agreement strategies for
 cross-referenced entities, it is the NPs that feature both morphological and lexical means
@@ -9721,6 +9743,7 @@ Finally, it is maintained that the grammatical number of the possessor/controlle
 may be utilized to distinguish between generations in household contexts, proprietorship, and mutual plural versus singulative possessor/controller reference.
 
 #### 4.2.3. Deictic markers
+
 In this treatment of the Erzya language the possessive and definite declensions will be
 grouped under the hyponym deictic markers. The term “deictic markers” is a cover
 term for the inﬂectional morphemes contrasted with the ZERO of the indefinite declension. Thus the possessive declension comprises manifestations of personal deixis, which
@@ -9741,12 +9764,9 @@ referents, hence it allows for notions of inferentiality and can be applied to r
 definite and indefinite. Notions associated with individual person and number combinations will be dealt with in the appropriate subsections.
 
 <pgNo>109</pgNo>
-MORPHOLOGY
 
-109
+##### 4.2.3.1. Possessor-index markers Adnominal cross-referential person marking
 
-##### 4.2.3.1. Possessor-index markers
-Adnominal cross-referential person marking
 The possessor-index markers, or the cross-referential adnominal-person markers of the
 possessive declension, are attested in a large range of the parts of speech with varied
 functions. For this reason I have occasionally used the longer term ADNOMINAL-TYPE
@@ -10189,6 +10209,7 @@ that we illustrate the forms and basic uses of the adnominal-person affixes in t
 of person 1–3.
 
 ###### 4.2.3.1.1. First person
+
 In the first translation of the Gospel and subsequently the first grammar of the Erzya
 language there is evidence for at least a partial distinction for number in the possessor/
 controller and target-possessum. In the modern literary language, however, only the
@@ -10425,7 +10446,7 @@ Elsewhere (other cases and number), there is dialect variation between the use o
 affixes %ON versus %Om. Some dialects consistently mark all possessa with the %Om affix
 regardless of number or case of the possessum concerned, and hence there are writers
 who make no distinction at all for number in the possessa (especially speakers of the Sura
-and Insar dialects). Other dialects (especially the Alatyr' dialects) differentiate number
+and Insar dialects). Other dialects (especially the Alatyrʹ dialects) differentiate number
 in the nominative and genitive where the %Om specifically indicates singular while %ON
 is retained for default, i.e. nominative and genitive plural as well as other cases. A third
 
@@ -10435,7 +10456,7 @@ is retained for default, i.e. nominative and genitive plural as well as other ca
 ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 strategy involves the marking of singular possessa with %Om in all but the dative case
-and using %ON to mark plural possessa (a subdialect of the Alatyr' type, cf. GMYa 1962 I:
+and using %ON to mark plural possessa (a subdialect of the Alatyrʹ type, cf. GMYa 1962 I:
 94; Bartens 1999: 104–105). The dative and genitive cases can be distinguished from all
 the others in that they introduce the use of affixes homonymous to those of the indefinite
 declension, such that certain kin terms are compatible with indefinite-identical genitive
@@ -10580,16 +10601,17 @@ field, but the children [will be] in the empty house alone.’
 <pgNo>116</pgNo>
 
 ###### 4.2.3.1.2. Second person
+
 In the second person a distinction is made for number in the possessor/controller of
 the possessive construction. Thus the partial distinction for number in the nominativecase target-possessum apparent in the first and second persons of the literary language
-only has relevance in the Alatyr' dialect type (Nadʹkin 1968; Feoktistow 1990: XXXVIXXXVIII; Ermuškin 2004).
+only has relevance in the Alatyrʹ dialect type (Nadʹkin 1968; Feoktistow 1990: XXXVIXXXVIII; Ermuškin 2004).
 
 Second person singular
 Although some treatises of the Erzya language make reference to an %n% constituent
 preceding the final %T of the singular possessor/controller index slots of the paradigm
 other than the nominative singular, this is not a characteristic of the modern literary
 language (cf. Paasonen 1953). The %ONT allomorph of the literary %OT marker is
-characteristic of the Alatyr' dialect type, and there it is manifest in all but the nominative
+characteristic of the Alatyrʹ dialect type, and there it is manifest in all but the nominative
 singular slot of the 2SG possessive paradigm, where the n%less form %OT is used. In
 addition to the %OT form used in all slots of the paradigm for 2SG possessor/controller
 indexing, special %Ot́ genitive and %Ot́en dative forms are forwarded in most modern
@@ -10855,10 +10877,11 @@ no_V-PROH+2SG>3SG open_V+CONNEG
 other's property.)’
 
 ###### 4.2.3.1.3. Third person
+
 In the third person a distinction is made for number in the possessor/controller of the
 possessive construction. Although there is evidence of a distinction in the category of
 number for the nominative-case target-possessum for both singular and plural possessor/
-controller indices in the Alatyr' dialect type, only the 3SG possessor/controller index
+controller indices in the Alatyrʹ dialect type, only the 3SG possessor/controller index
 maintains this difference in the literary language (cf. Paasonen 1953; Nadʹkin 1968;
 Feoktistow 1990: XXXVI-XXXVIII; Aduškina 2000; Ermuškin 2004).
 
@@ -11747,16 +11770,17 @@ allomorphs and 54 Cyrillic allomorphs, which can then be added to the unique 36 
 All told there are ninety-two phonetic, and one hundred and twelve Cyrillic allomorphs associated with the seventeen subcategories of possessive person.
 
 ##### 4.2.3.2. Definite markers
+
 The definite markers of the standard Erzya literary language can be divided into sets by
 number and case. In the definite singular declension there are two separate markers: one
 for the nominative in %Oś and the other for the oblique cases in %Ońt́. In the plural, the
 definite plural marker in %Ne is always preceded by a separate %T plural marker familiar
 from both the indefinite nominative plural and the 3PL of the verbal an adnominal conjugations (see also 4.2.2.).
-In the older literary language and especially the Northwestern or Alatyr' dialects
+In the older literary language and especially the Northwestern or Alatyrʹ dialects
 the nominative singular marker can be represented by the shorter %ś, lacking a linking vowel in combination with consonant-final stems, and the oblique singular cases
 are represented by the marker %śt́. Hence one might immediately observe morpheme
 ambiguity with the indicative preterit I 3SG and 3PL forms of the verbal conjugation, i.e.
-in consonant-final stems of noun declension the Alatyr'-type dialects attest to a linkingvowel strategy whose contextual motivation lies in the varied incompatibility of adjacent
+in consonant-final stems of noun declension the Alatyrʹ-type dialects attest to a linkingvowel strategy whose contextual motivation lies in the varied incompatibility of adjacent
 voiceless s(h)ibilants at the stem-affix juncture, see table (4.38).
 Table 4.38
 
@@ -12008,6 +12032,7 @@ NA
 Dialect
 
 #### 4.2.4. Nominal conjugation markers
+
 The next position in the concatenation of affixes involves the predicate-person paradigm.
 The predicate-person paradigm or NOMINAL CONJUGATION MARKERS are morphologically
 representative of the same elements attested in the indicative present and preterit II
@@ -12554,6 +12579,7 @@ or is not.
 <pgNo>134</pgNo>
 
 ### 4.3. Adnominal-type person in parts of speech
+
 ADNOMINAL-TYPE PERSON here is the cover-term used to represent what elsewhere might
 be referred to as possessor/controller indexing, cross-referential adnominal-person
 marking, possessive declension, etc. Thus it is implied that the phenomenon might be
@@ -12654,8 +12680,8 @@ The parts of speech attested as compatible with adnominal-person marking will
 then be further inspected for compatibility with nominal conjugation and clitic marking
 (with or without nominal conjugation).
 
-#### 4.3.1. Possessive declension compatibility for distinguishing
-parts of speech
+#### 4.3.1. Possessive declension compatibility for distinguishing parts of speech
+
 In this section possessive declension case will be utilized to identify various sublexica.
 (See 1.1 THE INALIENABILITY HIERARCHY, above.) The names of these subgroups of the
 Erzya lexicon will be given in order of highest frequency for first attested member in
@@ -13430,6 +13456,7 @@ to speaker-oriented demonstrative derivation, and therefore cannot be dealt with
 (see section 4.5. ADNOMINAL SYNTAX AND SECONDARY DECLENSION).
 
 #### 4.3.2. Attested parts of speech and sublexica
+
 In the previous section (4.3.1. POSSESSIVE DECLENSION COMPATIBILITY FOR DISTINGUISHING
 PARTS OF SPEECH), we have introduced various sublexica displaying compatibility with
 possessive declension in the thirteen cases attested for possessive declension in section
@@ -14210,6 +14237,7 @@ meźest
 NA
 
 #### 4.3.3. Drawing conclusions
+
 The parts of speech associated with the possessive declension can be broken into groups
 on the basis of case compatibility. Some cases appear to have nearly exclusive association with various parts of speech, i.e. the nominative coding and noun, comparative,
 translative and abessive with personal pronouns and reﬂexive pronouns, comitative and
@@ -15640,7 +15668,10 @@ examples.
 
 <pgNo>164</pgNo>
 
-### 4.4. Paradigm defectivity in Erzya possessor indexing 4.4.1. Background
+### 4.4. Paradigm defectivity in Erzya possessor indexing
+
+#### 4.4.1. Background
+
 Erzya grammarians of the past century have used the notion KIN TERM to help explain the
 special marking used on genitive and dative-case possessa in contexts where 1SG and 2SG
 cross-referential morphemes would be expected, see special forms below. Typologically
@@ -15698,7 +15729,7 @@ descriptions of the language, although there is some variation in its attestatio
 associated/related to the speaker in conjunction with the genitive-case possessa of the
 1SG possessor, but leaves the 2SG marking open to all nouns. This would imply that
 the well-travelled Evsevʹev, originally from a Chuvash-Erzya home in Malye Karmaly
-in present Chuvashia (Erzya: ćarmun) where an Alatyr'-type dialect is spoken, cf.
+in present Chuvashia (Erzya: ćarmun) where an Alatyrʹ-type dialect is spoken, cf.
 Keresztes 1999: 23, would have been familiar with both forms to some extent and that he
 would have recognized the alleged 2SG forms as consistent with definite markers. Thus
 Evsevʹev includes the form ĺišme+t́eń with the contextual gloss horse_N+POSS-2SG>DAT,
@@ -15719,11 +15750,12 @@ and dative possessive declensions of the literary language might be homonymous w
 corresponding forms of the definite declension can be attested in the Shugurova dialect (a
 Sura-dialect, cf. Cygankin 1961: 294–395) and the Drakinski dialect (Drakino-Shoksha,
 cf. Âkuškin 1961: 197–293). At this time, it will serve us well to familiarize ourselves
-with a well documented variant of an Alatyr' dialect spoken in Nizhnep’yanski.
+with a well documented variant of an Alatyrʹ dialect spoken in Nizhnep’yanski.
 
 <pgNo>166</pgNo>
 
 #### 4.4.2. A dialect attesting [±NUMBER] and [±KIN] parameters
+
 The Nizhnep’yanski dialect attests parametric features in its possessive declension
 including [±NB] and [±KIN] (cf. Nadʹkin 1968: 3–198). Nadʹkin describes a dialect in
 which all singular persons share a possessive declension distinction observed in 3SG of
@@ -15896,8 +15928,8 @@ two-argument noun, such as those found in deverbal ACTOR NAMES, one might readil
 conclude that genitive forms, which are identical to those in the indefinite declension,
 actually are indefinite declension forms.
 
-#### 4.4.3. Distinct common-noun referents indefinite genitive forms
-in literature
+#### 4.4.3. Distinct common-noun referents indefinite genitive forms in literature
+
 Hypothetically, one would need to find contexts in which the possessum referent is high
 on the animacy hierarchy and distinct. One would, preferably, also hope to find contexts
 which were not1SG-oriented. In the language of Erzya literature such contexts can be
@@ -15967,6 +15999,7 @@ In both examples indefinite genitive forms are used on nouns indicating kin[+DIS
 referents, which contextually would have been possessa eliciting 3SG controller/possessor indexing. So what were the bases for Šaxmatovʺ's hypothesis?
 
 #### 4.4.4. Orkino
+
 Šaxmatovʺ (1910) introduced a [±KIN] parameter for distinguishing the semantics
 involved in morphological variation attested for kin-term possessa. In the subdialect
 spoken in Orkino, definite genitive singular marking in the oblique cases involves the
@@ -16199,11 +16232,10 @@ MORPHOLOGY
 171
 
 mother_N-KIN-ELDER.DIM+POSS-1SG>DAT, and t́at́ka+ńiń father_N-KIN-ELDER.DIM+POSS1SG>DAT. Hence, in Orkino the 1SG markers for kin terms with the feature [+ELDER-THANPOSSESSOR] in both genitive and dative are attested as being the homonymous with those
-of the indefinite genitive and dative respectively, see discussion in section 4.2.1.1. CORE
-CASES.
+of the indefinite genitive and dative respectively, see discussion in section 4.2.1.1. CORE CASES.
 
-#### 4.4.5. Recent grammatical presentation
-of the possessive declension
+#### 4.4.5. Recent grammatical presentation of the possessive declension
+
 In the most recent morphology of the Erzya language, Aduškina (2000: 89–102)
 provides a description of the possessive declension. She provides possessive declension
 charts for all persons (here I will cite only three), which indicate an absence of genitive
@@ -16412,7 +16444,7 @@ and possessa, e.g. t́et́a+ń marto ‘with [my] father’ 51 hits, t́et́a+ń
 of [my] father’ 20 hits, there are only 3 hits for the sequence t́et́a+m marto ‘with my
 father’, which is the highest attestation of a nominative-equivalent form with a function
 attributed to the genitive. Interestingly enough these three hits come in publications
-written by speakers of Alatyr'-type dialects (Doronin 1993; Bargova 1997). Could these
+written by speakers of Alatyrʹ-type dialects (Doronin 1993; Bargova 1997). Could these
 be instances of over-zealous proof-readers with different dialect backgrounds, or should
 they be considered hypercorrect forms attributed to the authors themselves? The special
 2SG genitive form in t́et́a+t́ has a slightly lower attestation, e.g. t́et́a+t́ marto ‘with your/
@@ -16441,6 +16473,7 @@ we have noted, is not attested in all the same language variants as those where 
 1SG marking obtains.
 
 ### 4.5. Adnominal syntax and secondary declension
+
 This section describes the morphological phenomena involved in Erzya secondary declension. The discussion developed sets out to illustrate that, whereas various modifiers can become main items in an NP when the contextually predictable head noun is
 dropped, there are two basic strategies for marking MWN (modifiers without nouns): (i)
 ZERO marking, and (ii) SOD (Speaker-Oriented Demonstrative) marking. Grammars of
@@ -16458,6 +16491,7 @@ of the genitive-form personal and reﬂexive/intensive pronouns as rendered in M
 secondary-declension forms.
 
 #### 4.5.1. Background
+
 In my article ON QUANTIFICATION IN THE ERZYA LANGUAGE (Rueter, forthcoming), I have
 noted that Erzya nominal-syntax structure entails symmetric marking of case. Case
 marking in turn requires the choice of one declension type from a selection of three,
@@ -17038,7 +17072,7 @@ MORPHOLOGY
 By aligning the two types of secondary declension with the union of all modifier types
 demonstrated here, adjectives, quantifiers, spatial modifiers, determiners and genitive
 forms, we can arrive at the description in table (4.66). In discussions with speakers
-of some Sura dialects and the Alatyr'-Kozlovka-Mokshalei vernacular of Batushevo, I
+of some Sura dialects and the Alatyrʹ-Kozlovka-Mokshalei vernacular of Batushevo, I
 have attested both strategies of secondary declension marking in adjectives and spatial
 modifiers alike (personal information, 1997–2009.)
 Table 4.66
@@ -17206,6 +17240,7 @@ personal pronoun paradigms as provided by Agafonova (2000: 143–145) and Evsev�
 ambiguity between reﬂexive/intensive and demonstrative derivation forms.
 
 #### 4.5.2. Compatibility of ZERO marking and adnominal-person
+
 In this section we will focus our attention on the question: which modifier types can
 be subjected to contextual secondary declension with adnominal-person marking. This
 means we will be asking ourselves what variety of adjective, quantifier, determiner, spatial
@@ -17365,12 +17400,9 @@ contextual secondary declension of modifiers with a ZERO marking strategy and
 adnominal-person marking.
 
 <pgNo>191</pgNo>
-MORPHOLOGY
 
-191
+#### 4.5.3. Compatibility of possessive-declension modifiers with ZERO marking strategy
 
-#### 4.5.3. Compatibility of possessive-declension modifiers
-with ZERO marking strategy
 In this section our attention will be focused on the question: which modifier types can
 be marked for adnominal person and subsequently subjected to contextual secondary
 declension. This means we will be asking ourselves what variety of adjective, quantifier,
@@ -17445,12 +17477,9 @@ alone_Q-MIN+POSS-3SG:N+NOM.DEF.SG be-left_V+IND.PRES.PRED-3SG right_A+TRNSL
 (Bryzhinski 1991: 38) ‘And frequently, it turns out, this loner comes out right.’
 
 <pgNo>193</pgNo>
-193
 
-MORPHOLOGY
+#### 4.5.4. Personal and reflexive/intensive pronouns and secondary declension
 
-#### 4.5.4. Personal and reflexive/intensive pronouns
-and secondary declension
 According to Agafonova (2000: 143–145) the genitive forms of the personal pronouns
 and reﬂexive/intensive personal pronouns are used in the role of possessive pronouns.
 This statement can be augmented to contain both reﬂexive/intensive stem and reﬂexive/
@@ -19237,20 +19266,17 @@ a. ava+T
 => avat
 mother_N+PL.NOM
 b. ava+at
-=> avat (folklore, old literary, and Alatyr' subdialects avajat)
+=> avat (folklore, old literary, and Alatyrʹ subdialects avajat)
 mother_N+IND.PRES.PRED-2SG
 
 (2)
 
 a. ćora+ON => ćoran
 son_N+POSS-1SG>PL.NOM
-b. ćora+an => ćoran (folklore, old literary, and Alatyr' subdialects ćorajan)
+b. ćora+an => ćoran (folklore, old literary, and Alatyrʹ subdialects ćorajan)
 son_N+IND.PRES.PRED-1SG
 
 <pgNo>209</pgNo>
-CONCLUSIONS
-
-209
 
 Morphology
 Morphology saw the establishment of four separate inﬂectional levels: the word stem,
@@ -19333,11 +19359,8 @@ a smaller group of referents than that of the 2SG-genitive form %Ot́, namely, 1
 seemed to occur only with blood-kin term indicating distinct referent elder than the 1SG.
 
 <pgNo>211</pgNo>
-CONCLUSIONS
 
-211
-
-Comparison with dialect information from Alatyr' dialect (one with parameters for
+Comparison with dialect information from Alatyrʹ dialect (one with parameters for
 kin and number), provided insight into the importance of the feature “distinct”, whereas
 subsequently evidence from the majority corpus provided examples of distinct kin terms
 used in contexts where a 3SG interpretation would be expected. Hence it was assumed
