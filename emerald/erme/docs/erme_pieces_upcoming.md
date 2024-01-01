@@ -11,6 +11,8 @@ This is a list of the pieces under construction not found in erme-s-v2-korp on t
 |Abramov, Kuzʹma Grigorʹevič|Kačamonʹ pačk|Erzya|Erzya|novel|Kačamonʹ pačk|Mordovskoj knižnoj izdatelʹstvasʹ|1964|Saransk|555|140,482|844,919|5–555|Motalina, Tatâna 1999; Rueter, Jack 2000|MR_StNajmany;RU;54.266667;45.933333|
 |Arapov, Aleksandr Vasilivič| Vajgelʹ|Erzya|Erzya|валморо|Vajgelʹ|Mordovskoj knižnoj izdatelʹstvasʹ|1990|Saransk|XXX|XXX|XXX|XXX|Rueter, Jack 2000|MR_Čindânovo;RU;54.463889;46.357667|
 |Arapov, Vasilij Pavlovič|Lutazʹ tešte|Erzya|Erzya|ёвтнема|Lutazʹ tešte|Mordovskoj knižnoj izdatelʹstvasʹ|1999|Saransk|XXX|XXX|XXX|XXX|Rueter, Jack 2000|MR_Morga;RU;54.403333;46.443333|
+|Kalinkin, Ivan Alekseevič |Kiskanʹ èrâmo|Erzya|Erzya|повесть|Kiskanʹ èrâmo|Mordovskoj knižnoj izdatelʹstvasʹ|1999|Saransk|XXX|XXX|XXX|X–XX|Abramova, Elena 2002; Rueter, Jack 2023|Ulj_Čej;RU;54.158333;46.432778|
+
 |Radaev, Vasilij Kuzʹmič|Večkeviks sodaviksènʹ|Erzya|Erzya|ёвтнема|Večkeviks sodaviksènʹ|Mordovskoj knižnoj izdatelʹstvasʹ|1964|Saransk|60|XXX|XXX|3–63|Motalina, Tatâna 2000; Rueter, Jack 2009; 2023|BolʹšojTolkaj;RU;53.476333;51.951|
 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
