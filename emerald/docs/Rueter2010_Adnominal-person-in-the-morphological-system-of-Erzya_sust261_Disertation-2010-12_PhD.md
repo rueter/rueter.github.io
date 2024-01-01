@@ -1629,6 +1629,7 @@ development over 200 years (the Norwegian policy for a mutual “samnorsk” was
 between them, see table 1.1.
 
 <table>
+<caption><b>Table 1.1</b> Statistics on headword entries in Mordwinisches Wörterbuch I–IV</caption>
 <tr>
 <td colspan="2">
 Erzya
@@ -1848,7 +1849,6 @@ total
 24.6%
 </td>
 </tr>
-<caption><b>Table 1.1</b> Statistics on headword entries in Mordwinisches Wörterbuch I–IV</caption>
 </table>
 
 
