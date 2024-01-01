@@ -831,7 +831,7 @@ Table 4.43
 
 Table 4.44
 
-Morphematic representation of the %Gak enclitic
+Morphematic representation of the *-Gak* enclitic
 
 133
 
@@ -839,14 +839,13 @@ Table 4.45
 
 Reﬂexive stem declension with independent case
 forms whereas the nominative-case form is suppletive
-and the eś form is a dependent absolutive form
+and the *eś* form is a dependent absolutive form
 
 139
 
 Table 4.46
 
-Minimalizing quantifier śkamo% and the comitative
-case in possessive declension
+Minimalizing quantifier *śkamo-* and the comitative case in possessive declension
 
 147
 
@@ -995,14 +994,14 @@ declension (preliminary)
 Table 4.61
 
 The 2SG possessor and kin terms in Orkino
-according to Šaxmatov
+according to Šaxmatovʺ
 
 169
 
 Table 4.62
 
 The 1SG possessor and kin terms in Orkino
-according to Šaxmatov
+according to Šaxmatovʺ
 
 170
 
@@ -1263,7 +1262,7 @@ Imperative
 Indicative
 Indefinite
 Inessive
-Non-finite in %Om
+Non-finite in *-Om*
 Interrogative
 Interjection
 Irrelevant
@@ -1309,7 +1308,7 @@ Proximal
 Proper noun
 Particle
 Past participle, Gerund
-in %Oź
+in *-Oź*
 Possessum/possessa
 Quantifier
 Reﬂexive/Intensive
@@ -1383,7 +1382,7 @@ Phonology)
 Erzya grammars. (See specifics in 4. MORPHOLOGY)
 – Provide attestation and statistics for adnominal and adnominal-type person, both
 morphological and lexical, in the Erzya noun phrase, quantifiers, adpositional phrase
-and non-finite constructions in %Om.
+and non-finite constructions in *-Om*.
 – Investigate controversy in grammatical descriptions and phenomena attested in the
 research corpora, for example, the bearing of kin-term (high-animacy two-argument)
 semantics on the defectivity of the genitive paradigm in the possessive declension. (See
@@ -1434,7 +1433,7 @@ central vowel e͔, which lacks attestation as a phoneme, is not (see Chapter 3).
 <pgNo>3</pgNo>
 ## 1. Introduction
 
-1.1. Introduction to Erzya
+### 1.1. Introduction to Erzya
 Location
 The Erzya [eŕźa] are one of the two prominent “Mordvin” nations settled in what today is
 known as the Volga Region. The exonym and rather pejorative term “Mordvin” is used
@@ -1555,7 +1554,7 @@ Moksha, who inadvertently retained two literary languages, the Moksha language b
 on the Krasnoslobodsk dialect, and the Erzya language based on the dialect spoken in
 Kozlovka, i.e. the Kozlovka of today's Atyashevo raion in the Republic of Mordovia.
 Initial documentation of this Erzya dialect was provided by the Russian linguist Bubrix,
-a student of Šaxmatov, in 1930, and an extensive grammar including reference to this
+a student of Šaxmatovʺ, in 1930, and an extensive grammar including reference to this
 language variant was contributed by the ethnographer, historian, enlightener, Evsevʹev,
 a native Erzya and Chuvash speaker, originally from Malye Karmaly, Chuvashia, in
 1928–29. In the 1930s, however, the Kozlovka-Mokshalei (Central-dialect) base of the
@@ -2029,7 +2028,7 @@ with no distinction for number in 1PL indexing.
 
 Infinitive forms of the three renditions of the infinitive ‘to take’ in (1) demonstrate
 word forms that, according to MW, would encompass most dialect variation of today,
-from the Shoksha areas of the west where the verb has a %ź% in its stem, to the *-mks*
+from the Shoksha areas of the west where the verb has a *-ź-* in its stem, to the *-mks*
 translative infinitive of certain Alatyr' subdialects, and finally to the form familiar from
 the literary standard sajems ‘to take’. The conjugation forms in (2), according to dialect
 variation shown by Keresztes (1999: 214) would appear to represent language variant
@@ -2041,13 +2040,13 @@ correlate to Alatyr'-dialect paradigms and the tendencies in some parts of the K
 
 Subsequent descriptions of the Erzya language demonstrate higher proficiency
 of the writers in the language. F. J. Wiedemann published a second grammar of the Erzya language in 1865, where he was able to extrapolate upon the findings of Gabelentz
-(1839), the Moksha grammar of Ornatov (1838) and Ahlquist (1861), as well as to utilize
+(1839), the Moksha grammar of Ornatovʺ (1838) and Ahlquist (1861), as well as to utilize
 native-language informants living in Estonia. This Erzya grammar and short vocabulary
 (approx. 3,650 Erzya headwords and 6300 German) along with that of Ahlqvist's Moksha grammar were then the basis of a grammar of the Mordvin languages by Budenz
 (1869). In 1903 came the study of Mordvin phonetics by Paasonen, a second edition to
 his dissertation of 1983, followed by a chrestomathy (1909). The following year saw the
 appearance of a very extensive collection of folklore with a grammar section dedicated
-to a small dialect area by Šaxmatov (1910). The first grammar written by a native
+to a small dialect area by Šaxmatovʺ (1910). The first grammar written by a native
 speaker was completed for print in 1928 by M. E. Evsevʹev.
 After the death of Evsevʹev in 1931, work in grammar has continued to this very
 day. Important native authors include: A. P. Râbov; M. N. Kolâdënkov; A. P. Feoktistov; D. V. Cygankin; G. I. Ermushkin; N. S. Alyamkin; L. P. Vodyasova, N. Aasmäe
@@ -2875,7 +2874,7 @@ Erzya features two conjugation paradigms for its finite verbs: a subject conjuga
 a definite/perfect-aspect object conjugation. Hence the indicative present paradigm of
 the verb palams ‘to kiss’, preferred initially in the Moksha verb paradigms of Ahlqvist
 (1859: 24–43) to the macabre frequentative forms of the verb kalmams ‘to bury’ utilized
-by Ornatov (1838: 32–51), comprises 21 separate word forms: six from the subject
+by Ornatovʺ (1838: 32–51), comprises 21 separate word forms: six from the subject
 conjugation, nine from the third person object category, and three each from the first
 and second person object categories (cf. Keresztes 1999; Trosterud 2006: 253–258).
 As might be observed below (example (21) of the introduction) in the presentation of
@@ -3223,7 +3222,7 @@ variation, inﬂectional deictic marking varying between neutral/definite and pe
 well as, a relatively free word order. All of these serve to indicate the feasibility of the
 Erzya language as an object of cross-referential person studies, among many others.
 
-1.2. Introduction to person
+### 1.2. Introduction to person
 The notion of person in linguistics is generally perceived as a grammatical category, and
 as such, it might be given equal attention as are given the grammatical categories and notions of gender, number, case, tense, definiteness, etc. Person distinguishes between the
 speaker, the addressee and the one spoken of. This is, of course, an oversimplification,
@@ -3659,7 +3658,7 @@ There are hierarchies applicable to marking strategies with regard to alienabili
 a possessum, salience of a discourse referent and scale of accessibility prominence
 correlating to minimal marking strategies.
 
-1.3. Research in the Erzya category of adnominal person
+### 1.3. Research in the Erzya category of adnominal person
 Research in the Erzya category of adnominal person is based on descriptive grammars
 of the language, as well as, various treatises of possession, non-finites, argument agreement, and secondary declension, spanning the time from the publication of the first
 grammar of Erzya (Gabelentz 1839) to the present. This tradition has long established
@@ -3676,7 +3675,7 @@ tendency towards either affixal marking or lexical indication of a complement, b
 genitive-case personal pronoun or a complement NP – in either the absolutive (nominative
 singular equivalent form) or the genitive (indefinite, definite singular or definite plural).
 
-1.3.1. Background
+#### 1.3.1. Background
 Affixal marking of adnominal person, elsewhere referred to as controller/possessor
 indexing or adnominal-type cross-referential marking (due to a range that cannot be
 delimited with simple parts-of-speech categorization), is held by this author to be one of
@@ -3717,19 +3716,19 @@ NOM
 
 OBL
 
-%Om
-%NOk ~ %mOk
-%OT
-%Oŋk
-%OzO ~ %OnzO
-%Ost
+*-Om*
+*-NOk* ~ *-mOk*
+*-OT*
+*-Oŋk*
+*-OzO* ~ *-OnzO*
+*-Ost*
 
-%ON
-%NOk
-%OT
-%Oŋk
-%OnzO
-%Ost
+*-ON*
+*-NOk*
+*-OT*
+*-Oŋk*
+*-OnzO*
+*-Ost*
 
 Case forms specifically attested by Gabelentz
 NOM
@@ -3824,18 +3823,18 @@ the first and third persons, whereas other persons have not been specified, and 
 the nominative/oblique orientation in the table has been assumed by this author on the
 basis of tables and examples provided in Gabelentz (1839). The dative, naturally, must
 not be overlooked, as Gabelentz has also discerned a dative form of the 3SG possessor
-index, which directly correlates to %Onsteń of the modern literary language.
+index, which directly correlates to *-Onsteń* of the modern literary language.
 While Gabelentz limited his studies specifically to the linguistic phenomena found
 in the Gospel, Wiedemann had no qualms of producing full-ﬂedged, hypothetical paradigms where modern knowledge of the language would call for at least some restraint
 (see also Keresztes 1999: 128, where Keresztes remarks on the seemingly artificial optative paradigm according to Wiedemann (1865: 75).) Wiedemann claims (1865: 52–53)
 what appear to be regularly formulated dative forms in the possessive declension for
-all six persons, respectively, -nen, %nent, %nenze, %nenek, %nenk, %nenst. In addition,
-in parentheses, the 2SG %ten and 3SG %nsten forms are given, which actually correspond
+all six persons, respectively, *-nen*, *-nent*, *-nenze*, *-nenek*, *-nenk*, *-nenst*. In addition,
+in parentheses, the 2SG *-ten* and 3SG *-nsten* forms are given, which actually correspond
 to dative forms attested in the possessive paradigms of the modern Erzya language. In
 fact if we augment these two parenthetical forms to the 1SG of Wiedemann's six-member
-paradigm forms %nen, we will arrive at the three singular person dative forms provided in
+paradigm forms *-nen*, we will arrive at the three singular person dative forms provided in
 the most recent Erzya grammar (2000: 6, 95–100) for nouns; these can be represented in
-the morphophonemic notations 1SG %Neń, 2SG %Teń, and 3SG %Onsteń. (See section 4.4.
+the morphophonemic notations 1SG *-Neń*, 2SG *-Teń*, and 3SG *-Onsteń*. (See section 4.4.
 PARADIGM DEFECTIVITY IN ERZYA POSSESSOR INDEXING.) The six-member paradigm, however, should not be entirely overlooked; it appears to derive from the personal-pronoun
 paradigm, although it fails to appear elsewhere in the language. (See table (1.16), below)
 The next grammar of descriptive import is the Mordwinische Chrestomathie
@@ -3881,23 +3880,23 @@ Dial
 
 Dial
 
-%Om
-%NOk
-%Ot
+*-Om*
+*-NOk*
+*-Ot*
 
-%mOk
+*-mOk*
 
-%On
-%NOk
+*-On*
+*-NOk*
 
-%Om
-%mOk
-%Ont,
-%Ot
+*-Om*
+*-mOk*
+*-Ont*,
+*-Ot*
 
-%Oŋk
-%OzO
-%Ost
+*-Oŋk*
+*-OzO*
+*-Ost*
 
 GEN
 
@@ -3905,11 +3904,11 @@ DAT
 
 INE
 
-%On [%Oń]
+*-On* [*-Oń*]
 
-%Ońe(ń)
+*-Ońe(ń)*
 
-%sO%m[%n]
+*-sO-m[-n]*
 
 NA
 
@@ -3921,35 +3920,35 @@ PL
 
 NA
 
-%Oŋk
-%OnzO
-[%OnzOk]
-%Ost
+*-Oŋk*
+*-OnzO*
+[*-OnzOk*]
+*-Ost*
 
-%Ot́ [%Ońt́, %Ot,
-%Ont]
+*-Ot́* [*-Ońt́*, *-Ot*,
+*-Ont*]
 
-%Ot́e(ń), %Ot́et́
+*-Ot́e(ń)*, *-Ot́et́*
 
-%so%t
-
-NA
+*-so-t*
 
 NA
 
 NA
 
-%OnzO
+NA
 
-%On(t)ste(ń)
+*-OnzO*
 
-%so%nzo
+*-On(t)ste(ń)*
 
-%Ost [%Onst]
+*-so-nzo*
+
+*-Ost* [*-Onst*]
 
 NA
 
-%so%st
+*-so-st*
 
 The scholar of Erzya and even Finno-Ugrian languages will note the dearth of N in the
 nominative singular forms and its abundance in nominative plural and genitive forms
@@ -3962,11 +3961,11 @@ attention to the fact that Paasonen has recognized dative forms for the singular
 indices very much aligned with those set off in parentheses by Wiedemann and held as
 standard forms in modern grammars of the language today.
 It is interesting to note that Paasonen employs the word ćora glossing it ‘son’,
-namely, this might be construed as a kin term, and, in fact, kin terms were recognized as having a bearing on genitive and dative forms in Šaxmatov's Мордовскій
+namely, this might be construed as a kin term, and, in fact, kin terms were recognized as having a bearing on genitive and dative forms in Šaxmatovʺ's Мордовскій
 этнографическій сборникъ ‘Mordvin ethnographic collection’, based on the Erzya
 sub-dialect spoken in Orkino (1910: 797–798). The notion KIN TERM is first forwarded to
 explain variation in the choice of genitive and dative forms of the possessa marked with
-1SG and 2SG cross-referential morphemes, such that, Šaxmatov provides a minimal
+1SG and 2SG cross-referential morphemes, such that, Šaxmatovʺ provides a minimal
 pair cross-referential marking strategy for the word ava ‘lady; mother’, by which the
 object-marked possessum with 2SG cross-referential marking varies in form according to
 the parametric feature [±KIN] of the referent, see (31).
@@ -3974,7 +3973,7 @@ the parametric feature [±KIN] of the referent, see (31).
 večk+sa
 ava+t
 I_PRON-PERS-1SG.NOM love_V+IND.PRES.PRED-1SG>3SG lady_N+POSS-2SG
-(Šaxmatov 1910: 798) ‘I love your old lady.’
+(Šaxmatovʺ 1910: 798) ‘I love your old lady.’
 
 <pgNo>38</pgNo>
 
@@ -3982,9 +3981,9 @@ b. mon
 večk+sa
 ava+t́
 I_PRON-PERS-1SG.NOM love_V+IND.PRES.PRED-1SG>3SG mother_N+POSS-2SG>[KIN]GEN
-(Šaxmatov 1910: 798) ‘I love your mother.’
+(Šaxmatovʺ 1910: 798) ‘I love your mother.’
 
-Upon establishing the parametric distinction [±KIN], Šaxmatov then exhibits a set
+Upon establishing the parametric distinction [±KIN], Šaxmatovʺ then exhibits a set
 of kin terms featuring special genitive and dative forms in the cross-referential person
 markers of the 1SG and 2SG. This parametric distinction has been retained in subsequent
 descriptions of the language, although there is some variation in its attestation. Evsevʹev
@@ -3997,13 +3996,13 @@ Evsevʹev identifies several declension types which can be directly associated w
 NP head dropping and the contextual secondary declension of modifiers, these include the
 definite declension of adjectives, cardinal numerals, indefinite genitive, translative, inessive and comparative, as well as, genitive-case personal pronouns, (cf. Evsevʹev 1963:
 51, 101–103, 126, 129–132, 134–135, 162). Morphologically, the indefinite-genitive
-forms require a distal-demonstrative element %śe% before subsequent declension, and
+forms require a distal-demonstrative element *-śe* before subsequent declension, and
 this appears to the same strategy Evsevʹev applies to his definite “possessive pronouns”,
 which are best described as a concatenation GENITIVE-CASE PERSONAL PRONOUN + DISTAL
 DEMONSTRATIVE PRONOUN + SECONDARY DECLENSION.
 
-1.3.2. The category of adnominal person
-in contemporary grammars of Erzya
+#### 1.3.2. The category of adnominal person in contemporary grammars of Erzya
+
 The category of adnominal person in the most recent grammar of Erzya, Eŕźań keĺ,
 morfologija ‘The Erzya language, morphology’, henceforth (EKM 2000), is addressed
 in association with five different parts of speech. This is due to the scope of adnominaltype person, namely, noun phrases, non-finite phrases and adpositional phrases. Hence
@@ -4647,7 +4646,7 @@ In practice, these steps are not disjoint, but are necessarily overlapping to so
 In the following sections I will discuss the choices made in this methodology in greater
 detail.
 
-2.1. Corpora
+### 2.1. Corpora
 In order to facilitate a representative illustration of the Erzya language, there are certain
 facets of the language that can be best attested on the basis of a majority corpus. This
 means that morphological and orthographical practices of the language should be documented on the basis of positive evidence, i.e. the presence of morphological forms, as
@@ -4827,7 +4826,7 @@ Total words
 
 815,534
 
-2.2. Phonological phenomena of modern Erzya
+### 2.2. Phonological phenomena of modern Erzya
 This portion will include the establishment of a set of phonemes in the Erzya language,
 and a description of their interaction in the phonetic processes. First, attestations of
 phoneme status will be made for one additional vowel and consonant in the modern
@@ -4843,7 +4842,7 @@ METHODOLOGY AND CORPORA
 
 49
 
-2.3. Morpho-semantic evaluation of stems and affixes
+### 2.3. Morpho-semantic evaluation of stems and affixes
 The morpho-semantic description of stems and affixes comprises the establishment of
 three noun-stem types and the inspection of affixes used in the three layers of noun
 inﬂection. Three noun-stem types can be derived from declension notations provided
@@ -4852,7 +4851,7 @@ Case forms, definitions and attestation involve work with several grammars of th
 Erzya language, and majority-corpus attestation of data is provided, where possible, for
 morphemes with refuted or dubious attestation in grammars.
 
-2.4. Compatibility of case and
+### 2.4. Compatibility of case and
 adnominal-person morphology
 The majority corpus will be searched for co-occurrences of case and adnominal-person
 marking. This is achieved by counting unique word forms in the corpus, and then
@@ -4999,7 +4998,7 @@ the reading PL for -ть/-т <= -T can be contrasted with the readings POSS-2SG 
 can be reduced to T representation (cf. Abondolo 1987: 219-233).) These two ambiguous sets also illustrate limitations in “egrep” strategy attestation and provide an indication as to why certain strategies of avoiding 1SG and 2SG morphemes might be merited,
 for example, automatic parsing strategies involving other persons.
 
-2.5. The semi-automatic parser
+### 2.5. The semi-automatic parser
 In a morphological analysis of the Erzya language one must bear in mind the extent of
 synchronic inﬂectional mechanisms utilized by the collective of speakers and writers of
 the language. By defining DECLINABLE WORDS as words that can take case marking in the
@@ -5114,14 +5113,14 @@ t́eń
 to/for_ PRON-DAT.POSS-1SG
 this_PRON-DEM-SG.GEN
 
-2.6. Sublexicon-case alignments and variation
+### 2.6. Sublexicon-case alignments and variation
 in adnominal person
 The sublexica distinguished in section 2.4. will be used in the inspection of case and adnominal person compatibility in the majority and minority corpora. Here the words attested for high statistic frequency with POSSESSIVE DECLENSION, that is, case and adnominal
 person compatibility, will be inspected for compatibility with lexical adnominal person.
 Thus claims made of free variation in adnominal-person form might be afforded statistical data for more extensive understanding of the phenomena involved, and parallels may
 be drawn between same-case inﬂections of word forms in different parts of speech.
 
-2.7. Defectivity in the genitive slot of the possessive
+### 2.7. Defectivity in the genitive slot of the possessive
 declension
 Defectivity as discussed in Karlsson (2000) is a phenomenon that is not specific to the
 Finnish language. In fact, defectivity in Erzya is not unknown; Keresztes (1999: 128-130)
@@ -5151,7 +5150,7 @@ types, distinguish number in the 1SG genitive, as well as 2SG, 1PL and even 3PL.
 dative, however, does not attest to an underlying set of six adnominal-person markers,
 instead there are only three markers that are frequently quoted in the grammars of the
 language. Hence the dative case of the possessive declension attests to a dearth of markers, as opposed to the surplus attested for the genitive case. Upon closer inspection of
-the Šaxmatov's attestation of 1SG and 2SG kin terms, it becomes apparent that 1SG kin
+the Šaxmatovʺ's attestation of 1SG and 2SG kin terms, it becomes apparent that 1SG kin
 terms indicate distinct, singular referents – usually elder than ego – and 2SG kin terms indicate shared-information referents that could be interpreted with little ambiguity by the
 merits of 2SG possessive declension or definite declension. Finally, whereas 1SG special
 genitive marking appears wide-spread, the 2SG kin-term strategies are less so. Hence, it
@@ -5163,7 +5162,8 @@ enhance the picture provided in grammars of the language and the majority corpus
 will, where possible, attempt to illuminate the workings of dative paradigm defectivity,
 as well.
 
-2.8. Secondary declension
+
+### 2.8. Secondary declension
 Secondary declension is a phenomenon of the noun phrase, and may best be described
 as the contextual dropping of a predictable head noun, such that, one of its modifiers
 becomes the main item of the NP, and thus we can speak of MWN (modifiers without
@@ -5181,7 +5181,7 @@ compatibility with secondary declension of any form, on the other.
 Our understanding of form is readily developed by considering: (1) phonemes in Erzya
 transliteration, and (2) phonetic phenomena behind allomorphic variation.
 
-3.1. Phonemes in Erzya transliteration
+### 3.1. Phonemes in Erzya transliteration
 The discussion of Erzya phonetics will be limited to the phenomena attested in the written corpora, a subset of all Erzya language publications since 1821 (see corpora, 2.1.),
 that have a bearing on allophonic and allomorphic variation in word forms where adnominal-type cross-referential person marking can occur. For this reason special attention may be afforded items which, otherwise, are foregone in grammars of the language.
 According to the most recent treatise of Erzya phonetics “Неень шкань эрзянь
@@ -5680,16 +5680,13 @@ presence of a non-palatal alveolar stop in a front-vowel context virtually alway
 non-Erzya on the basis of this criterion (cf. also Abondolo 1987).
 
 <pgNo>62</pgNo>
-62
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-3.2. Phonetic phenomena behind allomorphic variation
+### 3.2. Phonetic phenomena behind allomorphic variation
 Allomorphic variation in Erzya can readily be attributed to vowel harmony, palatal
 harmony, devoicing, voicing, loss of affix-initial V of the abessive, and stem-final vowel
 loss.
 
-3.2.1. Vowel harmony
+#### 3.2.1. Vowel harmony
 Vowel harmony in Erzya is front/back harmony affecting the mid vowels, represented
 orthographically in Erzya by э, е and о. In the standard language this harmony is basically triggered by the preceding vowel or consonant qualities, such that, palatalized
 alveolars, the palatal glide and front vowels co-occur with subsequent front vowels э
@@ -5854,11 +5851,8 @@ Stand-alone
 +
 
 <pgNo>64</pgNo>
-64
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-3.2.2. Palatal harmony
+#### 3.2.2. Palatal harmony
 Palatal harmony in Erzya affects the alveolar stops in affix onset, i.e. orthographically
 the neutral plosives T and D, as well as the nasal N are realized with subsequent palatal
 marking in ь, е and я. Since there are other affixes ending in %Онь ‘GEN; POSS-1SG>GEN
@@ -6046,7 +6040,7 @@ c. miŕd́e+OT
 => miŕd́et́
 husband_N+POSS-2SG>NOM ~ husband_N+POSS-2SG>GEN
 
-3.2.3. Devoicing
+#### 3.2.3. Devoicing
 In the modern Erzya standard, synchronic devoicing affects the voiced alveolar plosive d
 and the voiced velar plosive g in affix onset position. The term “synchronic devoicing”
 is used to illustrate the fact that in intervocalic position the reﬂex of these plosives is
@@ -6089,7 +6083,7 @@ the following two statements:
 The range of the devoicing phenomenon is also minimal, whereas it involves the
 morphemes: ablative %DO and prolative %Ga.
 
-3.2.4. Voicing
+#### 3.2.4. Voicing
 In colloquial speech and especially in older texts, there is also a voicing phenomenon
 affecting the T of the predicate markers -Tano ‘PRES.PRED-1PL’, %Tado ‘PRES.PRED-2PL’,
 %Tan ‘PRES.PRED-1SG>2SG’, %Tanzat ‘PRES.PRED-3SG>2SG’ and %Tadi͔ź ‘PRES.PRED-X>2P’.
@@ -6099,16 +6093,13 @@ the left context. Hence, the literary moĺ+t́ano go_V+IND.PRES.PRED-1PL is pron
 oral and literary language, as it is attested at the boundary of stem and conjugational
 inﬂections, free morph + free morph lexemes, as well as syntactic collocations.
 
-3.2.5. Loss of affix-initial V
+#### 3.2.5. Loss of affix-initial V
 The loss of affix-initial V affects the abessive morpheme %VTOmO, such that V is lost
 when the preceding stem ends in a consonant.
 
 <pgNo>68</pgNo>
-68
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-3.2.6. Stem-final vowel loss
+#### 3.2.6. Stem-final vowel loss
 Stem-final vowel loss affects affix-final and root-final vowels alike. It can be observed
 in two different ranges:
 (a) Stem and affix-final vowels are dropped in contemporary Erzya when followed by the
@@ -6152,7 +6143,7 @@ AND SUBLEXICA; (4.3.3.) DRAWING CONCLUSIONS. Section (4.4.) PARADIGM DEFECTIVITY
 ERZYA POSSESSOR INDEXING inspects the status of 1SG and 2SG genitive marking with regard
 to the KIN TERM parameter. And section (4.5.) ADNOMINAL SYNTAX AND SECONDARY DECLENSION describes the compatibility of adnominal person with secondary declension.
 
-4.1. Nominal-type word-stem morphology
+### 4.1. Nominal-type word-stem morphology
 When establishing nominal-type word stems, it might occur to one to follow the threevowel split system observed for verbs in the Finnish and apparently the Estonian Schools
 of Mordvin studies (cf. Ravila 1929: 104-105; Pall 1996: 22; Bartens 1999: 122; Hamari
 2007: 66). The verbs, it is maintained, can be divided into three groups on the basis of
@@ -6545,11 +6536,8 @@ cold; to freeze’ do not necessarily follow identical patterns. And thus it is 
 type stem NOUNS2 that consonant-cluster delimitations might be concentrated on.
 
 <pgNo>74</pgNo>
-74
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-4.2. Affixes
+### 4.2. Affixes
 Affixes here are a subset of all morphemes attested in the word forms set as the range
 of adnominal-type cross-referential person, i.e. affixes might be contrasted with stems.
 Stems, it must be remembered, comprise not only the stereo-typical headword stems,
@@ -6570,7 +6558,7 @@ of simple affixation strategies by definition, while concatenation of case marke
 followed by ZERO or deictic marker (Dx) is the strategy of the remaining cases.
 [ Nx + Cx | CDx | Cx + Dx ]
 
-4.2.1. Case
+#### 4.2.1. Case
 The term case is often associated with noun phrases and the marking of syntactic
 arguments, e.g. subject, direct object and indirect objects. In Finno-Ugrian languages,
 however, there is an extension for including local cases, and some others as well. In the
@@ -6580,7 +6568,7 @@ syntactic-semantic relations, such as those of arguments or adjuncts. The term �
 has been used sparingly of only some of the morphologically dependent markers, whereas
 the term “case-like adverbial markers” has been applied to other markers with little if
 any argumentation. Evsevʹev, apparently unable to deal with inﬂectional homonymy,
-interprets the lative case -Ov of Ahlquist (1861), Paasonen (1909) and Šaxmatov
+interprets the lative case -Ov of Ahlquist (1861), Paasonen (1909) and Šaxmatovʺ
 (1910) as synonymous with the denominal derivation morpheme for adjectives %Ov,
 
 <pgNo>75</pgNo>
@@ -6617,7 +6605,7 @@ genitive. In other instances, grammars have neglected or questioned the pertinen
 a given inﬂectional item, i.e. the translative can indeed appear in the definite singular
 declension (EKM 2000).
 
-4.2.1.1. Core cases
+##### 4.2.1.1. Core cases
 In the Erzya grammar tradition, four case names are mentioned in association with the
 core cases: nominative, genitive, dative and ablative. Thus the inessive, in %sO, is
 foregone here despite the fact that in the adpositional form ejse ‘in’ it is, without doubt,
@@ -7427,7 +7415,7 @@ i.e. eating, drinking, breathing, seeing, and (vii) the subject of quantificatio
 the nominative is used as well. (See Rueter “On Quantification in the Erzya language”,
 forthcoming);
 
-4.2.1.2. Local cases
+##### 4.2.1.2. Local cases
 Local cases in Erzya comprise a selection of eight spatio-temporal affixes with targets
 in the range noun-phrase head, quantifiers, adverb/adposition and non-finite in %Om.
 Nuances commonly conveyed by these cases include orientation, i.e. source, location
@@ -8188,11 +8176,8 @@ crackling freezing weather like this, you should be wrapped up in a sheepskin co
 when you have Nuzha's Palaga sitting in your lap.’
 
 <pgNo>94</pgNo>
-94
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-4.2.1.3. Attributive Cases
+##### 4.2.1.3. Attributive Cases
 The attributive cases comprise the “mixed-bag” set of cases that are neither spatiotemporal nor used in core-case functions: the translative, comparative, abessive and
 comitative. The first three enumerated can be used as subject complements while the
 last is, in fact, a peripheral modifier.
@@ -9558,7 +9543,7 @@ and illative allomorphs, where there are 103 phonetic, and 129 Cyrillic allomorp
 the non-core-case allomorphs, where there would be 26 phonetic, and 27 Cyrillic allomorphs for a total of 141 phonetic and 168 Cyrillic allomorphs in a total of 13 attested
 subcategories of case.
 
-4.2.2. Number
+#### 4.2.2. Number
 The grammatical category of number in Erzya is represented both morphologically and
 lexically. While verbal conjugations feature morphological agreement strategies for
 cross-referenced entities, it is the NPs that feature both morphological and lexical means
@@ -9727,7 +9712,7 @@ such that, it is still a topic of discussion among professional users of the lan
 Finally, it is maintained that the grammatical number of the possessor/controller
 may be utilized to distinguish between generations in household contexts, proprietorship, and mutual plural versus singulative possessor/controller reference.
 
-4.2.3. Deictic markers
+#### 4.2.3. Deictic markers
 In this treatment of the Erzya language the possessive and definite declensions will be
 grouped under the hyponym deictic markers. The term “deictic markers” is a cover
 term for the inﬂectional morphemes contrasted with the ZERO of the indefinite declension. Thus the possessive declension comprises manifestations of personal deixis, which
@@ -9752,7 +9737,7 @@ MORPHOLOGY
 
 109
 
-4.2.3.1. Possessor-index markers
+##### 4.2.3.1. Possessor-index markers
 Adnominal cross-referential person marking
 The possessor-index markers, or the cross-referential adnominal-person markers of the
 possessive declension, are attested in a large range of the parts of speech with varied
@@ -10195,7 +10180,7 @@ OF SPEECH, and 4.4. PARADIGM DEFECTIVITY IN ERZYA POSSESSOR INDEXING. Let it suf
 that we illustrate the forms and basic uses of the adnominal-person affixes in the order
 of person 1–3.
 
-4.2.3.1.1. First person
+###### 4.2.3.1.1. First person
 In the first translation of the Gospel and subsequently the first grammar of the Erzya
 language there is evidence for at least a partial distinction for number in the possessor/
 controller and target-possessum. In the modern literary language, however, only the
@@ -10585,11 +10570,8 @@ empty_A.ABS house_N+INE alone_PRON-PERS-Q+POSS-3PL
 field, but the children [will be] in the empty house alone.’
 
 <pgNo>116</pgNo>
-116
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-4.2.3.1.2. Second person
+###### 4.2.3.1.2. Second person
 In the second person a distinction is made for number in the possessor/controller of
 the possessive construction. Thus the partial distinction for number in the nominativecase target-possessum apparent in the first and second persons of the literary language
 only has relevance in the Alatyr' dialect type (Nadʹkin 1968; Feoktistow 1990: XXXVIXXXVIII; Ermuškin 2004).
@@ -10864,7 +10846,7 @@ no_V-PROH+2SG>3SG open_V+CONNEG
 (Tixonova 1980: 186) ‘Don't covet another's property. (lit. don't open your mouth for
 other's property.)’
 
-4.2.3.1.3. Third person
+###### 4.2.3.1.3. Third person
 In the third person a distinction is made for number in the possessor/controller of the
 possessive construction. Although there is evidence of a distinction in the category of
 number for the nominative-case target-possessum for both singular and plural possessor/
@@ -11660,7 +11642,7 @@ that the stem of the POSS-3SG>DAT -Onste%, consisting of a possessor-index marke
 and that the dative morpheme in %Te, is used in the derivation of the two specifically plural person forms %Onsteŋk POSS-2PL>DAT and %Onstenst POSS-3PL>DAT, to name but two.
 Some of the dialects and supposedly the literary norm distinguish kin terms with
 first and second person singular possessive markers in combination with the genitive
-(see Šaxmatov 1910: 798; Aduškina 2000: 97 and 94). The peculiarity of this affix is
+(see Šaxmatovʺ 1910: 798; Aduškina 2000: 97 and 94). The peculiarity of this affix is
 that both alveolars are palatal regardless of the preceding back vowel, i.e. in back vowel
 context this ending forms a minimal pair with a non-palatal form sazor+on ‘my younger
 sisters’.
@@ -11756,7 +11738,7 @@ allomorphs and 54 Cyrillic allomorphs, which can then be added to the unique 36 
 96 Cyrillic allomorphs total.
 All told there are ninety-two phonetic, and one hundred and twelve Cyrillic allomorphs associated with the seventeen subcategories of possessive person.
 
-4.2.3.2. Definite markers
+##### 4.2.3.2. Definite markers
 The definite markers of the standard Erzya literary language can be divided into sets by
 number and case. In the definite singular declension there are two separate markers: one
 for the nominative in %Oś and the other for the oblique cases in %Ońt́. In the plural, the
@@ -12017,7 +11999,7 @@ NA
 +
 Dialect
 
-4.2.4. Nominal conjugation markers
+#### 4.2.4. Nominal conjugation markers
 The next position in the concatenation of affixes involves the predicate-person paradigm.
 The predicate-person paradigm or NOMINAL CONJUGATION MARKERS are morphologically
 representative of the same elements attested in the indicative present and preterit II
@@ -12428,11 +12410,9 @@ Total
 21
 
 <pgNo>132</pgNo>
-132
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
+#### 4.2.5. The clitic *-Gak*
 
-4.2.5. The clitic -Gak
 The clitic -Gak in Erzya is represented by the allomorphs %gak, %kak, %jak, and %ak. The
 last being not only an allegro form following a word-final velar plosive, i.e. some writers
 and proof-readers prefer single to double consonants, but the initial stop of the clitic is
@@ -12564,11 +12544,8 @@ Enclitic marking comprises a simple dichotomy, in which either the enclitic is p
 or is not.
 
 <pgNo>134</pgNo>
-134
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-4.3. Adnominal-type person in parts of speech
+### 4.3. Adnominal-type person in parts of speech
 ADNOMINAL-TYPE PERSON here is the cover-term used to represent what elsewhere might
 be referred to as possessor/controller indexing, cross-referential adnominal-person
 marking, possessive declension, etc. Thus it is implied that the phenomenon might be
@@ -12669,7 +12646,7 @@ The parts of speech attested as compatible with adnominal-person marking will
 then be further inspected for compatibility with nominal conjugation and clitic marking
 (with or without nominal conjugation).
 
-4.3.1. Possessive declension compatibility for distinguishing
+#### 4.3.1. Possessive declension compatibility for distinguishing
 parts of speech
 In this section possessive declension case will be utilized to identify various sublexica.
 (See 1.1 THE INALIENABILITY HIERARCHY, above.) The names of these subgroups of the
@@ -13444,7 +13421,7 @@ Hamari 2007: 53). In the topic, however, these genitive modifiers are generally 
 to speaker-oriented demonstrative derivation, and therefore cannot be dealt with here
 (see section 4.5. ADNOMINAL SYNTAX AND SECONDARY DECLENSION).
 
-4.3.2. Attested parts of speech and sublexica
+#### 4.3.2. Attested parts of speech and sublexica
 In the previous section (4.3.1. POSSESSIVE DECLENSION COMPATIBILITY FOR DISTINGUISHING
 PARTS OF SPEECH), we have introduced various sublexica displaying compatibility with
 possessive declension in the thirteen cases attested for possessive declension in section
@@ -14224,7 +14201,7 @@ meźest
 38
 NA
 
-4.3.3. Drawing conclusions
+#### 4.3.3. Drawing conclusions
 The parts of speech associated with the possessive declension can be broken into groups
 on the basis of case compatibility. Some cases appear to have nearly exclusive association with various parts of speech, i.e. the nominative coding and noun, comparative,
 translative and abessive with personal pronouns and reﬂexive pronouns, comitative and
@@ -15654,12 +15631,8 @@ for variation (consult table 4.59), otherwise refer to listing of sublexica with
 examples.
 
 <pgNo>164</pgNo>
-164
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-4.4. Paradigm defectivity in Erzya possessor indexing
-4.4.1. Background
+### 4.4. Paradigm defectivity in Erzya possessor indexing 4.4.1. Background
 Erzya grammarians of the past century have used the notion KIN TERM to help explain the
 special marking used on genitive and dative-case possessa in contexts where 1SG and 2SG
 cross-referential morphemes would be expected, see special forms below. Typologically
@@ -15686,11 +15659,11 @@ than what they appear to be. Is there any reason that a possessum representing a
 from the top of the animacy hierarchy (kin term) might be allowed to go unmarked when
 its controller/possessor is from even higher on the same hierarchy, i.e. the pronouns are
 higher up on the hierarchy than nouns, and it is the 1SG and 2SG we are talking of here.
-In the Erzya sub-dialect spoken in Orkino, originally documented in Šaxmatov's
-collection of folklore and grammatical description, the notion of KIN TERM (Šaxmatov
+In the Erzya sub-dialect spoken in Orkino, originally documented in Šaxmatovʺ's
+collection of folklore and grammatical description, the notion of KIN TERM (Šaxmatovʺ
 1910: 797–798) is first forwarded to explain variation in the choice of genitive and
 dative forms of the possessa marked with 1SG and 2SG cross-referential morphemes.
-Šaxmatov provides a minimal pair cross-referential marking strategy for the word ava
+Šaxmatovʺ provides a minimal pair cross-referential marking strategy for the word ava
 ‘lady; mother’, by which the object-marked possessum with 2SG cross-referential marking varies in form according to the parametric feature [±KIN] of the referent, see (55a-b).
 
 <pgNo>165</pgNo>
@@ -15702,14 +15675,14 @@ MORPHOLOGY
 večk+sa
 ava+t
 I_PRON-PERS-1SG.NOM love_V+IND.PRES.PRED-1SG>3SG lady_N+POSS-2SG
-(Šaxmatov 1910: 798) ‘I love your old lady.’
+(Šaxmatovʺ 1910: 798) ‘I love your old lady.’
 b. mon
 večk+sa
 ava+t ́
 I_PRON-PERS-1SG.NOM love_V+IND.PRES.PRED-1SG>3SG mother_N+POSS-2SG>[KIN]GEN
-(Šaxmatov 1910: 798) ‘I love your mother.’
+(Šaxmatovʺ 1910: 798) ‘I love your mother.’
 
-Upon establishing the parametric distinction [±KIN], Šaxmatov then exhibits a set
+Upon establishing the parametric distinction [±KIN], Šaxmatovʺ then exhibits a set
 of kin terms featuring special genitive and dative forms in the cross-referential person
 markers of the 1SG and 2SG. This parametric distinction has been retained in subsequent
 descriptions of the language, although there is some variation in its attestation. Evsevʹev
@@ -15741,11 +15714,8 @@ cf. Âkuškin 1961: 197–293). At this time, it will serve us well to familiari
 with a well documented variant of an Alatyr' dialect spoken in Nizhnep’yanski.
 
 <pgNo>166</pgNo>
-166
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-4.4.2. A dialect attesting [±NUMBER] and [±KIN] parameters
+#### 4.4.2. A dialect attesting [±NUMBER] and [±KIN] parameters
 The Nizhnep’yanski dialect attests parametric features in its possessive declension
 including [±NB] and [±KIN] (cf. Nadʹkin 1968: 3–198). Nadʹkin describes a dialect in
 which all singular persons share a possessive declension distinction observed in 3SG of
@@ -15918,7 +15888,7 @@ two-argument noun, such as those found in deverbal ACTOR NAMES, one might readil
 conclude that genitive forms, which are identical to those in the indefinite declension,
 actually are indefinite declension forms.
 
-4.4.3. Distinct common-noun referents indefinite genitive forms
+#### 4.4.3. Distinct common-noun referents indefinite genitive forms
 in literature
 Hypothetically, one would need to find contexts in which the possessum referent is high
 on the animacy hierarchy and distinct. One would, preferably, also hope to find contexts
@@ -15986,14 +15956,14 @@ little-sister_N+GEN daughter_N+NOM.DEF.SG Frosya_PRP.NOM.SG.
 came from the neighboring village to stay with the Markins.’
 
 In both examples indefinite genitive forms are used on nouns indicating kin[+DISTINCT]
-referents, which contextually would have been possessa eliciting 3SG controller/possessor indexing. So what were the bases for Šaxmatov's hypothesis?
+referents, which contextually would have been possessa eliciting 3SG controller/possessor indexing. So what were the bases for Šaxmatovʺ's hypothesis?
 
-4.4.4. Orkino
-Šaxmatov (1910) introduced a [±KIN] parameter for distinguishing the semantics
+#### 4.4.4. Orkino
+Šaxmatovʺ (1910) introduced a [±KIN] parameter for distinguishing the semantics
 involved in morphological variation attested for kin-term possessa. In the subdialect
 spoken in Orkino, definite genitive singular marking in the oblique cases involves the
 morpheme %Ońt́ and, in addition to that, there are also %Ot́ markers attested for the
-2SG possessor-index genitive form of kin terms. Šaxmatov was able to enumerate
+2SG possessor-index genitive form of kin terms. Šaxmatovʺ was able to enumerate
 several genitive-form possessa of 2SG possessors, e.g. avat́ ‘your mother's’, t́at́at́ ‘your
 father's’, pat́at́ ‘your elder sister's’, suvaxat́ ‘your match-maker's’, sazyryt́ ‘your little
 sister's’, sazyrnyt́ ‘your little sister's’, ĺaĺat́ ‘your elder bother's’, mačkat́ ‘your motherin-law's’, bat́kat́ ‘your father-in-law's’, but the ones actually indicated in context are
@@ -16003,7 +15973,7 @@ the finite verb, adposition complement and marker of the possessor.
 Table 4.61
 Gloss
 
-The 2SG possessor and kin terms in Orkino according to Šaxmatov
+The 2SG possessor and kin terms in Orkino according to Šaxmatovʺ
 NOM.SG
 GEN.SG (object)
 GEN.SG (adposition
@@ -16050,7 +16020,7 @@ NA
 NA
 NA
 ĺaĺat́
-(cf Šaxmatov 1910: 797–798)
+(cf Šaxmatovʺ 1910: 797–798)
 
 <pgNo>170</pgNo>
 170
@@ -16059,19 +16029,19 @@ ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 The two tables provide deviant illustrations of the [±KIN] parameter. The illustration
 of the 2SG table (4.61) gives one the impression that there actually might be evidence
-in support of Šaxmatov's proposal for a [±KIN] parameter. The enumeration for kin
+in support of Šaxmatovʺ's proposal for a [±KIN] parameter. The enumeration for kin
 terms with 2SG marking seems to provide a maximal variety, but the same cannot be
 said of the 1SG enumeration. The 1SG enumeration as seen in table (4.62) may be further
 delimited with a parameter indicating either [+ELDER-THAN-1SG] or [+DISTINCT], which
 would parallel the findings of Nadʹkin in the Nizhnep’yanski dialect. Thus the question
-to be answered is do so-called kin-term distinctions attested by Šaxmatov for 2SG
-genitive marking strategies correlate to those of 1SG. Contexts provided by Šaxmatov
+to be answered is do so-called kin-term distinctions attested by Šaxmatovʺ for 2SG
+genitive marking strategies correlate to those of 1SG. Contexts provided by Šaxmatovʺ
 do exemplify patterns for the three functions of the genitive, but there is no reference
 made to possessa, i.e. all instances given are inadvertently singular.
 Table 4.62
 Gloss
 
-The 1SG possessor and kin terms in Orkino according to Šaxmatov
+The 1SG possessor and kin terms in Orkino according to Šaxmatovʺ
 NOM.SG
 GEN.SG
 GEN.SG
@@ -16204,13 +16174,13 @@ NA
 
 na
 
-Šaxmatov indicates that the genitive forms of some kin-term possessa with 1SG crossreference marking are homonymous with that of the indefinite genitive forms of the same
+Šaxmatovʺ indicates that the genitive forms of some kin-term possessa with 1SG crossreference marking are homonymous with that of the indefinite genitive forms of the same
 words. In the table it will be observed that such a statement only applies to referents
 with an [+ELDER-THAN-1SG/DISTINCT] feature in the role of object, whereas the syntactic
 role of adpositional complement appears to be volatile with regard to this parameter, and
 the role of possessor is fully unattested.
 Inspection of the dative forms indicates that they can be given parallel treatment,
-i.e. 2SG forms in %t́ij, as indicated by Šaxmatov, have no [±ELDER-THAN-POSSESSOR] parameter. Thus we observe t́at́a+t́ij father_N-KIN+POSS-2SG>DAT ‘to your father’, ava+t́ij
+i.e. 2SG forms in %t́ij, as indicated by Šaxmatovʺ, have no [±ELDER-THAN-POSSESSOR] parameter. Thus we observe t́at́a+t́ij father_N-KIN+POSS-2SG>DAT ‘to your father’, ava+t́ij
 mother_N-KIN+POSS-2SG>DAT, suvaxa+t́ij match-maker/mother-in-law_N-KIN+POSS2SG>DAT, and sazyr+yt́ij little-sister_N-KIN+POSS-2SG>DAT. In the presentation of 1SG
 possessa, it will be noted, the word forms quoted are taken from the kin terms adhering
 to the [+ELDER-THAN-POSSESSOR] /[+SINGULAR/DISTINCT] parameter, e.g. ava+ńiń mother_NKIN-ELDER+POSS-1SG>DAT, pat́a+ńiń elder-sister_N-KIN-ELDER+POSS-1SG>DAT, afka+ńiń
@@ -16224,7 +16194,7 @@ mother_N-KIN-ELDER.DIM+POSS-1SG>DAT, and t́at́ka+ńiń father_N-KIN-ELDER.DIM+
 of the indefinite genitive and dative respectively, see discussion in section 4.2.1.1. CORE
 CASES.
 
-4.4.5. Recent grammatical presentation
+#### 4.4.5. Recent grammatical presentation
 of the possessive declension
 In the most recent morphology of the Erzya language, Aduškina (2000: 89–102)
 provides a description of the possessive declension. She provides possessive declension
@@ -16444,7 +16414,7 @@ who, in this instance, would be using the forms of his own dialect, which do not
 a special 2SG form.
 
 In conclusion
-The [±KIN] parameter, hypothesized by Šaxmatov in 1910 in his treatise of the
+The [±KIN] parameter, hypothesized by Šaxmatovʺ in 1910 in his treatise of the
 Orkino dialect, is still attested in grammar writing of today. Whereas both 1SG and 2SG
 marking can be readily associated with indefinite and dialect-form definite declensions,
 respectively, there are still matters to be researched. To what extent can nouns indicating
@@ -16462,7 +16432,7 @@ can these differences/similarities in distribution be compared to those of 2SG, 
 we have noted, is not attested in all the same language variants as those where special
 1SG marking obtains.
 
-4.5. Adnominal syntax and secondary declension
+### 4.5. Adnominal syntax and secondary declension
 This section describes the morphological phenomena involved in Erzya secondary declension. The discussion developed sets out to illustrate that, whereas various modifiers can become main items in an NP when the contextually predictable head noun is
 dropped, there are two basic strategies for marking MWN (modifiers without nouns): (i)
 ZERO marking, and (ii) SOD (Speaker-Oriented Demonstrative) marking. Grammars of
@@ -16479,7 +16449,7 @@ types with secondary declension. And this I follow up with a morphological inspe
 of the genitive-form personal and reﬂexive/intensive pronouns as rendered in MWN or
 secondary-declension forms.
 
-4.5.1. Background
+#### 4.5.1. Background
 In my article ON QUANTIFICATION IN THE ERZYA LANGUAGE (Rueter, forthcoming), I have
 noted that Erzya nominal-syntax structure entails symmetric marking of case. Case
 marking in turn requires the choice of one declension type from a selection of three,
@@ -17227,7 +17197,7 @@ personal pronoun paradigms as provided by Agafonova (2000: 143–145) and Evsev�
 (1963: 153–154, 162) in contrast with Zaicz (2006: 196–197) are indicative of possible
 ambiguity between reﬂexive/intensive and demonstrative derivation forms.
 
-4.5.2. Compatibility of ZERO marking and adnominal-person
+#### 4.5.2. Compatibility of ZERO marking and adnominal-person
 In this section we will focus our attention on the question: which modifier types can
 be subjected to contextual secondary declension with adnominal-person marking. This
 means we will be asking ourselves what variety of adjective, quantifier, determiner, spatial
@@ -17391,7 +17361,7 @@ MORPHOLOGY
 
 191
 
-4.5.3. Compatibility of possessive-declension modifiers
+#### 4.5.3. Compatibility of possessive-declension modifiers
 with ZERO marking strategy
 In this section our attention will be focused on the question: which modifier types can
 be marked for adnominal person and subsequently subjected to contextual secondary
@@ -17471,7 +17441,7 @@ alone_Q-MIN+POSS-3SG:N+NOM.DEF.SG be-left_V+IND.PRES.PRED-3SG right_A+TRNSL
 
 MORPHOLOGY
 
-4.5.4. Personal and reflexive/intensive pronouns
+#### 4.5.4. Personal and reflexive/intensive pronouns
 and secondary declension
 According to Agafonova (2000: 143–145) the genitive forms of the personal pronouns
 and reﬂexive/intensive personal pronouns are used in the role of possessive pronouns.
@@ -19319,9 +19289,6 @@ that the dative adposition t́e%, with obligatory adnominal-person marking, does
 4.49b.)
 
 <pgNo>210</pgNo>
-210
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 Possessive declension compatibility
 The unique word forms of the majority corpus were filtered for possessive declension
@@ -19353,7 +19320,7 @@ The investigation of paradigm defectivity attempted to ascertain the phenomena i
 in the paradigm defectivity observable in the genitive slot of the possessive declension.
 (See specifics in (4.4.) PARADIGM DEFECTIVITY IN ERZYA POSSESSOR INDEXING.) It became
 apparent that the notion KIN-TERM is used inconsistently with regard to the two persons,
-1SG and 2SG, involved in this defectivity. On the one hand, the indefinite-declension homonymic 1SG-genitive form in %Oń was observed in Šaxmatov's materials to appear with
+1SG and 2SG, involved in this defectivity. On the one hand, the indefinite-declension homonymic 1SG-genitive form in %Oń was observed in Šaxmatovʺ's materials to appear with
 a smaller group of referents than that of the 2SG-genitive form %Ot́, namely, 1SG-genitive
 seemed to occur only with blood-kin term indicating distinct referent elder than the 1SG.
 
@@ -20052,28 +20019,15 @@ IMDI-data files
 <pgNo>225</pgNo>
 ## Reference Bibliography
 
-- Aasmäe, Niina 2007:
-Rhythm Related Effects in Erzya.
-In: LINGUISTICA URALICA XLIII: 4, 268–282.
+- Aasmäe, Niina 2007: Rhythm Related Effects in Erzya. In: LINGUISTICA URALICA XLIII: 4, 268–282.
 
--Abondolo, D. 1987:
-Segments and prosodies in Erzya Mordvinian.
-In: K. Rédei (ed.), Studia Uralica, 219–233.
-Vienna: Verband d. Wiss. Ges. Österreichs.
+- Abondolo, D. 1987: Segments and prosodies in Erzya Mordvinian. In: K. Rédei (ed.), Studia Uralica, 219–233. Vienna: Verband d. Wiss. Ges. Österreichs.
 
--Aduškina 2000 = Адушкина, Н. С. 2000:
-Азорксчинь категориясь, Азорксчинь невтиця суффикстнэнь тевс нолдамост,
-Азорксчинь категориянть невтемань китне-янтнэ, Азорксчинь полавтнемасонть
-падеженть лувось.
-EKM, 89—102.
+- Aduškina 2000 = Адушкина, Н. С. 2000: Азорксчинь категориясь, Азорксчинь невтиця суффикстнэнь тевс нолдамост, Азорксчинь категориянть невтемань китне-янтнэ, Азорксчинь полавтнемасонть падеженть лувось. EKM, 89—102.
 
-- Agafonova 2000 = Агафонова, Н. А. 2000:
-Местоимениясь.
-EKM, 124—145.
+- Agafonova 2000 = Агафонова, Н. А. 2000: Местоимениясь. EKM, 124—145.
 
-- Ahlquist, August. 1861:
-Versuch einer mokscha%mordwinischen Grammatik nebst Texten und Wörterverzeichniss.
-St. Petersburg: Eggers et Comp.
+- Ahlquist, August. 1861: Versuch einer mokscha%mordwinischen Grammatik nebst Texten und Wörterverzeichniss. St. Petersburg: Eggers et Comp.
 
 - Ahlqvist, August Engelbrekt 1859:
 Läran om Verbet i Mordvinskans Mokscha%dialekt.
@@ -20092,74 +20046,38 @@ Suomalais%ersäläinen sanakirja.
 Turun yliopiston suomalaisen ja yleisen kielitieteen laitoksen julkaisuja 64.
 Turku: Turun yliopiston suomalaisen ja yleisen kielitieteen laitos.
 
-- Alëškina 2000 = Алёшкина 2000:
-Деепричастиясь.
-EKM, 222–227.
+- Alëškina, R. A. 2000 = Алёшкина 2000: Деепричастиясь. EKM, 222–227.
 
 - Bakker, Dik WALS Online:
 Person Marking on Adpositions.
 WALS Online, chap 48.
 <http://wals.info/feature/48> (2010)
 
-- Bartens, Raija 1970:
-On the Temporal Forms in Mordvin.
-FUF XXXVIII, 247–256.
+- Bartens, Raija 1970: On the Temporal Forms in Mordvin. FUF XXXVIII, 247–256.
 
-- Bartens, Raija 1979:
-Mordvan, tšeremissin ja votjakin konjugaation infiniittisten muotojen syntaksi.
-Suomalais-Ugrilaisen Seuran Toimituksia 170.
-Helsinki: Suomalais-Ugrilainen Seura.
+- Bartens, Raija 1979: Mordvan, tšeremissin ja votjakin konjugaation infiniittisten muotojen syntaksi. Suomalais-Ugrilaisen Seuran Toimituksia 170. Helsinki: Suomalais-Ugrilainen Seura.
 
 <pgNo>226</pgNo>
 
-- Bartens, Raija 1999:
-Mordvalaiskielten rakenne ja kehitys.
-Suomalais-Ugrilaisen Seuran Toimituksia 232.
-Helsinki: Suomalais-Ugrilainen Seura.
+- Bartens, Raija 1999: Mordvalaiskielten rakenne ja kehitys. Suomalais-Ugrilaisen Seuran Toimituksia 232. Helsinki: Suomalais-Ugrilainen Seura.
 
-- Bickel, Balthasar & Johanna Nichols WALS Online:
-Locus of Marking in Possessive Noun Phrases.
-Obligatory Possessive Inﬂection.
-In: WALS Online, chaps 24, 58.
-<http://wals.info/feature/24> (2010)
-<http://wals.info/feature/58> (2010)
-- Bubrix 1930 = Бубрих, Д. В. 1930:
-Звуки и формы эрзянской речи по говору с. Козловки.
-Москва: Центральное издательство народов СССР.
+- Bickel, Balthasar & Johanna Nichols WALS Online: Locus of Marking in Possessive Noun Phrases. Obligatory Possessive Inﬂection. In: WALS Online, chaps 24, 58. <http://wals.info/feature/24> (2010) <http://wals.info/feature/58> (2010)
 
-- Bubrix 1947 = Бубрих, Д. В. 1947:
-Эрзя%мордовская грамматика % минимум (Пособие для вузов).
-Саранск.
+- Bubrix 1930 = Бубрих, Д. В. 1930: Звуки и формы эрзянской речи по говору с. Козловки. Москва: Центральное издательство народов СССР.
 
-- Bubrix 1953 = Бубрих, Д. В. 1953:
-Историческая грамматика эрзянского языка.
-Саранск.
+- Bubrix 1947 = Бубрих, Д. В. 1947: Эрзя%мордовская грамматика % минимум (Пособие для вузов). Саранск.
 
-- Budenz, Józhef 1869:
-Moksa% és erza%mordvin nyelvtan.
-Budapest: A M. T. Akadémia könyvkiadó-hivatalában.
+- Bubrix 1953 = Бубрих, Д. В. 1953: Историческая грамматика эрзянского языка. Саранск.
 
-- Buzakova 2000 = Бузакова, Р. Н. 2000:
-Падежтнень смустест, Аволь падежень формась, Валмельгаксось.
-EKM, 82–87, 87–89, 249–254.
+- Budenz, Józhef 1869: Moksa- és erza-mordvin nyelvtan. Budapest: A M. T. Akadémia könyvkiadó-hivatalában.
 
-- Collinder, Björn 1969 [1957]:
-Survey of the Uralic languages.
-Compiled by Björn Collinder in collaboration with other scholars. 2nd rev. ed.
-Stockholm: Almqvist & Wiksell.
+- Buzakova 2000 = Бузакова, Р. Н. 2000: Падежтнень смустест, Аволь падежень формась, Валмельгаксось. EKM, 82–87, 87–89, 249–254.
 
-- Comrie, Bernard 1981:
-The languages of the Soviet Union.
-Cambridge: Cambridge University Press.
+- Collinder, Björn 1969 [1957]: *Survey of the Uralic languages* / compiled by Björn Collinder in collaboration with other scholars. 2nd rev. (ed.) Stockholm : Almqvist &amp; Wiksell.
 
-- Damaskin, Rudnev 1785 = Дамаскин, Руднев 1785:
-Словарь IAзыковъ разныхъ народовъ, въ Нижегородской Епархіи обитающихъ,
-имянно: Россіянъ, Татаръ, Чювашей, Мордвы, и Черемисъ: по высочайшему
-соизволенію и повелѣнію Ея Імператорскаго величества премудрой Государыни,
-Екатерины Алексѣевны, императрицы и Самодержицы всероссійской, По алфавиту
-Россійскихъ словъ Расположенной; и въ нижегородской Семінаріи отъ знающихъ онъія
-языки священниковъ и Семінаристовъ, подъ присмотрамъ Преізсвященнаго Дамаскина
-Епископа нижегородскаго и Алаторскаго, сочиненнои 1785 года.
+- Comrie, Bernard 1981: *The languages of the Soviet Union.* Cambridge: Cambridge University Press.
+
+- Damaskin, Rudnev 1785 = Дамаскин, Руднев 1785: *Словарь IAзыковъ разныхъ народовъ, въ Нижегородской Епархіи обитающихъ, имянно: Россіянъ, Татаръ, Чювашей, Мордвы, и Черемисъ: по высочайшему соизволенію и повелѣнію Ея Імператорскаго величества премудрой Государыни, Екатерины Алексѣевны, императрицы и Самодержицы всероссійской, По алфавиту Россійскихъ словъ Расположенной; и въ нижегородской Семінаріи отъ знающихъ онъія языки священниковъ и Семінаристовъ, подъ присмотрамъ Преізсвященнаго Дамаскина Епископа нижегородскаго и Алаторскаго*, сочиненнои 1785 года.
 
 - Danilov, Viktor 1969 = Данилов, Виктор 1969:
 К вопросу о комитативе в эрзянском языке.
@@ -20170,21 +20088,13 @@ Cambridge: Cambridge University Press.
 Советское финно%угроведение (3), 185–194.
 
 <pgNo>227</pgNo>
-- Davydov, M. M. 1963 = Давыдов, М. М. 1963:
-Больше-Игнатовский диалект эрзя-мордовского языка.
-OMD II, 118–233.
+- Davydov, M. M. 1963 = Давыдов, М. М. 1963: Больше-Игнатовский диалект эрзя-мордовского языка. OMD II, 118–233.
 
-- Dëmin, V. 2001 = Дёмин, В. 2001:
-Комическое в мордовской литературе (этапы эволюции).
-Тип. «Рузаевский печатник». — 260 с.
+- Dëmin, V. 2001 = Дёмин, В. 2001: *Комическое в мордовской литературе (этапы эволюции)*. Тип. «Рузаевский печатник». — 260 с.
 
-- Egorova, A. S. 1976 = Егорова, А.С. 1976:
-О принципах выделения категории определения в эрзянском языке.
-Советское финно%угроведение (2), 81–89.
+- Egorova, A. S. 1976 = Егорова, А.С. 1976: О принципах выделения категории определения в эрзянском языке. *Советское финно-угроведение* (2), 81–89.
 
-- EKM 2000 = Эрзянь кель, морфология 2000:
-Эрзянь кель, морфемика, валонь теевема ды морфология.
-Вузонь эрзянь ды финнэнь отделениянь тонавтницятнень туртов
+- EKM 2000 = Эрзянь кель, морфология 2000: *Эрзянь кель, морфемика, валонь теевема ды морфология.* Вузонь эрзянь ды финнэнь отделениянь тонавтницятнень туртов
 Редколлегиясь: Д.В. Цыганкин (отв. ред., Н. А. Агафонова, М. Д. Имайкина ды лият. ― Саранск: Тип. «Крас. Окт.». ― 280 с. ― Мордов.-эрзя яз.
 
 - ERV 1993 = ЭРВ 1993:
@@ -20193,7 +20103,7 @@ OMD II, 118–233.
 под ред. Серебренникова Б. А., Бузаковой Р. Н., Мосина М. В.
 ― М.: Рус. яз., Дигора. 803 с.
 
-- Erina, Ol'ga 1997 = Ерина, Ольга 1997:
+- Erina, Olʹga 1997 = Ерина, Ольга 1997:
 Частицы в мордовских языках.
 Dissertationes philologiae uralicae universitatis Tartuensis, 1.
 Tartu: Tartu ülikooli kirjastus.
@@ -20272,6 +20182,7 @@ In: WALS Online, chap 61.
 Грамматика мордовских языков.
 Под.ред. проф. Д.В.Цыганкина.
 Саранск.
+
 - Grebneva 2000 = Гребнева, А. М. 2000:
 Существительноесь, Падежень лувось, Аволь невтемачинь полавтнемась, Невтемачинь
 категориясь.- EKM, 73–75, 76–77, 78–82, 102–105.
@@ -20408,9 +20319,7 @@ OMD, 7–99.
 
 <pgNo>231</pgNo>
 
-- Mészáros, Edit 1999 = Месарош, Эдит 1999:
-Словообразовательные суффиксы глагола в эрзянском языке.
-Studia Uralo%Altaica 42.
+- Mészáros, Edit 1999 = Месарош, Эдит 1999: *Словообразовательные суффиксы глагола в эрзянском языке.* Studia Uralo-Altaica 42.
 
 - Mosin 2000 = Мосин, М. В. 2000:
 Прилагательноесь. EKM, 108–115.
@@ -20469,7 +20378,7 @@ Helsinki: Suomalais-Ugrilainen Seura & Kotimaisten kielten tutkimuskeskus.
 OMD, 3–198.
 
 - Niemi, Jaana & Mihail Mosin 1995:
-Ersäläis%suomalainen sanakirja
+Ersäläis-suomalainen sanakirja
 Turun yliopiston suomalaisen ja yleisen kielitieteen laitoksen julkaisuja 48.
 Turku: Turun yliopiston suomalaisen ja yleisen kielitieteen laitos.
 
@@ -20509,19 +20418,14 @@ OMD, 100–196.
 Совете Министров Мордовской АССР.
 Саранск: Мордовское книжное издательство.
 
-- Ornatov, Pavel 1838 = Ортановъ, Павелъ 1838:
+- Ornatovʺ, Pavelʺ 1838 = Ортановъ, Павелъ 1838:
 Мордовская грамматика.
 Составленная на наречий мордвы мокши Павломъ Орнатовымъ.
 Москва: Въ Синодальной тип.
 
-- Paasonen, Heikki 1897:
-Die türkischen Lehnwörter im Mordwinischen.
-Suomalais%Ugrilaisen Seuran Aikakauskirja XV, 2, 1–64
+- Paasonen, Heikki 1897: Die türkischen Lehnwörter im Mordwinischen. Suomalais%Ugrilaisen Seuran Aikakauskirja XV, 2, 1–64
 
-- Paasonen, Heikki 1903:
-Mordvinische Lautlehre.
-Suomalais-Ugrilaisen Seuran Toimituksia XX.
-Helsinki: Suomalais-Ugrilainen Seura.
+- Paasonen, Heikki 1903: Mordvinische Lautlehre. Suomalais-Ugrilaisen Seuran Toimituksia XX. Helsinki: Suomalais-Ugrilainen Seura.
 
 <pgNo>233</pgNo>
 
@@ -20547,9 +20451,7 @@ Linguarum totius orbis vocabularia comparativa.
 
 - Polâkov, O. E. & J. Rueter 2004 = Поляков, О. Е. & J. Rueter 2004:
 Мокшень и эрзянь кяльхнень фкякс% и аф фкяксшисна. Синь валлувкссна.
-Эрзянь ды мокшонь кельтнень вейкекс% ды аволь вейкексчист. Сынст валлувост. /
-
-- О. Е. Поляков, J. Rueter; Н.П. Огаревонь лемса Мордовскяй государственнай
+Эрзянь ды мокшонь кельтнень вейкекс% ды аволь вейкексчист. Сынст валлувост. / О. Е. Поляков, J. Rueter; Н.П. Огаревонь лемса Мордовскяй государственнай
 университетсь.
 Саранск: «Красный Октябрь» типографиясь.
 
@@ -20598,18 +20500,11 @@ On quantification in Erzya.
 In: Typology of Quantification: On quantification in Finnish and languages spoken in the
 Volga–Kama Region.
 
-- Râbov, A. = Рябов, А. 1931:
-Русско%эрзянский словарь.
-Москва: Центриздат.
+- Râbov, A. = Рябов, А. 1931: *Русско-эрзянский словарь.* Москва: Центриздат.
 
-- Râbov, Anatoli P. = Рябов, Анатолий П. 1935:
-Эрзянь морфологиянь грамматика.
-Саранск.
+- Râbov, Anatoli P. = Рябов, Анатолий П. 1935: *Эрзянь морфологиянь грамматика.* Саранск.
 
-- Salo, Merja (Forthcoming):
-Mordvin t derivates – semantic equivalent for impersonal.
-In: Dybo, A. V. & Yu. V. Normanskaya (eds.), Ural%Altaic Studies, Scientific Journal, 2:
-Moscow.
+- Salo, Merja (Forthcoming): Mordvin *t* derivates – semantic equivalent for impersonal. In: Dybo, A. V. & Yu. V. Normanskaya (eds.), *Ural-Altaic Studies*, Scientific Journal, 2: Moscow.
 
 - Sarv, Heno 2002:
 Indigenous Europeans East of Moscow.
@@ -20626,19 +20521,19 @@ Cambridge University Press.
 Nominal inﬂection and the nature of functional categories.
 Journal of Linguistics 28, 313–41.
 
-- Šaxmatov, A. A. 1910 = Шахматовъ, А. А. 1910:
+- Šaxmatovʺ, A. A. 1910 = Шахматовъ, А. А. 1910:
 Мордовскій этнографическій сборникъ.
 С.-Петербургъ.
 
 - Philip Johan von Strahlenberg 1730:
-Das Nord% und Östliche Theil von Europa und Asia, in so weit solches das gantze
+Das Nord- und Östliche Theil von Europa und Asia, in so weit solches das gantze
 Russische Reich mit Sibirien und der grossen Tatarey in sich begriffet.
 In Verlegung des Autoris.
 Stockholm.
 
 - Tixonova, T. M. 1966 = Tichonova, T. M. 1966:
 Expression of definiteness and indefiniteness of the direct object in the Mordvin languages.
-Советское финно%угроведение (4), 241–245.
+Советское финно-угроведение (4), 241–245.
 
 <pgNo>235</pgNo>
 
