@@ -1145,7 +1145,8 @@ Mordva 3SG pronouns á la Zaicz (2006: 197)
 206
 
 <pgNo>XV</pgNo>
-Abbreviations
+## Abbreviations
+
 1P
 1PL
 1SG
@@ -1626,108 +1627,230 @@ and Moksha, but he offers little concrete data to verify this closeness. Gheno (
 a quantity of 1062 glosses. This percentage, might be promising for planned language
 development over 200 years (the Norwegian policy for a mutual “samnorsk” was abandoned December 13, 2002), but a glance at the mutual vocabularies of Erzya and Moksha indicated by larger dictionaries of the languages appear to show much less cohesion
 between them, see table 1.1.
-Statistics on headword entries in Mordwinisches Wörterbuch I–IV
+
+<table>
+<tr>
+<td colspan="2">
 Erzya
+</td>
+<td colspan="2">
 Moksha
+</td>
+<td colspan="3">
 Mutual
+</td>
+</tr>
+<tr>
+<td rowspan="2">
 Entries
-Figures %
-Figures %
-Gross total Figures
-Headwords
-22,620 61.6%
-18,271 49.8%
-36,689
-4,202
-First headwords of 4,470 64.3%
-2,911 41.9%
-6,955
-456
-root articles
-
-Table 1.1
-
+</td>
+<td>
+Figures
+</td>
+<td>
 %
+</td>
+<td>
+Figures
+</td>
+<td>
+%
+</td>
+<td>
+Gross total
+</td>
+<td>
+Figures
+</td>
+<td>
+%
+</td>
+</tr>
+<tr>
+Headwords
+</td>
+<td>
+22,620
+</td>
+<td>
+61.6%
+</td>
+<td>
+18,271
+</td>
+<td>
+49.8%
+</td>
+<td>
+36,689
+</td>
+<td>
+4,202
+</td>
+<td>
 11.5%
-6.5%
-
-Mutual roots
-Mutual roots less
-Russian cognates
-
-5,100
-3,011
-
-73.3%
-69.4%
-
-4,592
-3,108
-
-66%
-71.6%
-
-6,955
-4,338
-
-2916
-1,781
-
+</td>
+</tr>
+<tr>
+First headwords of root articles
+</td>
+<td>
+4,470
+</td>
+<td>
+64.3%
+</td>
+<td>
+2,911
+</td>
+<td>
 41.9%
-41%
-
-Mutual roots less
-Tatar cognates
-
-5,021
-
-75.4%
-
-4,485
-
-67.3%
-
-6,659
-
-2,847
-
-42.8%
-
+</td>
+<td>
+6,955
+</td>
+<td>
+456
+</td>
+<td>
+6.5%
+</td>
+</tr>
+<tr>
+<td>
 Mutual roots
-without Russian
-or Tatar cognates
-
+</td>
+<td>
+5,100
+</td>
+<td>
+73.3%
+</td>
+<td>
+4,592
+</td>
+<td>
+66%
+</td>
+<td>
+6,955
+</td>
+<td>
+2916
+</td>
+<td>
+41.9%
+</td>
+</tr>
+<tr>
+<td>
+Mutual roots less Russian cognates
+</td>
+<td>
+3,011
+</td>
+<td>
+69.4%
+</td>
+<td>
+3,108
+</td>
+<td>
+71.6%
+</td>
+<td>
+4,338
+</td>
+<td>
+1,781
+</td>
+<td>
+41%
+</td>
+</tr>
+<tr>
+<td>
+Mutual roots less Tatar cognates
+</td>
+<td>
+5,021
+</td>
+<td>
+75.4%
+</td>
+<td>
+4,485
+</td>
+<td>
+67.3%
+</td>
+<td>
+6,659
+</td>
+<td>
+2,847
+</td>
+<td>
+42.8%
+</td>
+</tr>
+<tr>
+<td>
+Mutual roots without Russian or Tatar cognates
+</td>
+<td>
 2,934
-
+</td>
+<td>
 69.5%
-
+</td>
+<td>
 3,003
-
+</td>
+<td>
 71.1%
-
+</td>
+<td>
 4,223
-
+</td>
+<td>
 1,714
-
+</td>
+<td>
 40.6%
-
+</td>
+</tr>
+<tr>
+<td>
 Minimal mutual
 roots ratio to root
 total
-
+</td>
+<td>
 2,934
-
+</td>
+<td>
 42.2%
-
+</td>
+<td>
 3,003
-
+</td>
+<td>
 43.2%
-
+</td>
+<td>
 4,223
-
+</td>
+<td>
 1,714
-
+</td>
+<td>
 24.6%
+</td>
+</tr>
+<caption><b>Table 1.1</b> Statistics on headword entries in Mordwinisches Wörterbuch I–IV</caption>
+</table>
+
 
 The Mordwinisches Wörterbuch (a dialect dictionary of the Erzya and Moksha languages (1990–1996), based on the extensive collections of Heikki Paasonen; henceforth
 “MW”) contains over 2700 pages of dialect representations from the two languages in
