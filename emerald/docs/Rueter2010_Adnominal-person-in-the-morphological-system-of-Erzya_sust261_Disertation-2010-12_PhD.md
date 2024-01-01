@@ -1434,8 +1434,8 @@ central vowel e͔, which lacks attestation as a phoneme, is not (see Chapter 3).
 <pgNo>3</pgNo>
 ## 1. Introduction
 
-### 1.1. Introduction to Erzya
-Location
+### 1.1. Introduction to Erzya Location
+
 The Erzya [eŕźa] are one of the two prominent “Mordvin” nations settled in what today is
 known as the Volga Region. The exonym and rather pejorative term “Mordvin” is used
 in the majority Russian language and by Russian authorities when making reference to
@@ -2006,6 +2006,8 @@ language variants spoken in the Mordovian Republic of today. Certain orthographi
 renditions in the text, however, would indicate that several forms of the language are
 represented, and therefore one might assume the participation of several people in this
 first translation of the Gospel, see examples below.
+
+`
 (1)
 
 саземсъ saźems ‘to take’ (Mark 3: 20) ~ MW: Kad, Kal, Kažl, Šir (Shoksha)
@@ -2013,6 +2015,7 @@ first translation of the Gospel, see examples below.
 саемсъ
 sajems ‘to take’ (John 11: 57) ~ MW: Ba, Bugur, Hl, Jeg, Mar, NSurk,
 SŠant, Večk (Elsewhere)
+`
 
 (2)
 
@@ -2080,9 +2083,9 @@ Phonology
 The standard Erzya language is written with an unmodified Cyrillic alphabet, and this
 leads scholars to enumerate twenty-seven consonant phonemes instead of twenty-eight
 and five vowels instead of six (cf. Zaicz 1998: 185; Bartens 1999: 27; Imajkina 2008).
-These figures include the phonemes f, x and i͔ (attested in the dialects to various extents
-are typical of loanwords), and ŋ, which is indigenous and forms some minimal pairs with
-n and ń before velar plosives (see major consonant and vowel allophones below, and also
+These figures include the phonemes *f*, *x* and *i͔* (attested in the dialects to various extents
+are typical of loanwords), and *ŋ*, which is indigenous and forms some minimal pairs with
+*n* and *ń* before velar plosives (see major consonant and vowel allophones below, and also
 section 3.1.)
 
 <table class="better-table">
@@ -3225,6 +3228,7 @@ well as, a relatively free word order. All of these serve to indicate the feasib
 Erzya language as an object of cross-referential person studies, among many others.
 
 ### 1.2. Introduction to person
+
 The notion of person in linguistics is generally perceived as a grammatical category, and
 as such, it might be given equal attention as are given the grammatical categories and notions of gender, number, case, tense, definiteness, etc. Person distinguishes between the
 speaker, the addressee and the one spoken of. This is, of course, an oversimplification,
@@ -3661,6 +3665,7 @@ a possessum, salience of a discourse referent and scale of accessibility promine
 correlating to minimal marking strategies.
 
 ### 1.3. Research in the Erzya category of adnominal person
+
 Research in the Erzya category of adnominal person is based on descriptive grammars
 of the language, as well as, various treatises of possession, non-finites, argument agreement, and secondary declension, spanning the time from the publication of the first
 grammar of Erzya (Gabelentz 1839) to the present. This tradition has long established
@@ -3678,6 +3683,7 @@ genitive-case personal pronoun or a complement NP – in either the absolutive (
 singular equivalent form) or the genitive (indefinite, definite singular or definite plural).
 
 #### 1.3.1. Background
+
 Affixal marking of adnominal person, elsewhere referred to as controller/possessor
 indexing or adnominal-type cross-referential marking (due to a range that cannot be
 delimited with simple parts-of-speech categorization), is held by this author to be one of
@@ -4649,6 +4655,7 @@ In the following sections I will discuss the choices made in this methodology in
 detail.
 
 ### 2.1. Corpora
+
 In order to facilitate a representative illustration of the Erzya language, there are certain
 facets of the language that can be best attested on the basis of a majority corpus. This
 means that morphological and orthographical practices of the language should be documented on the basis of positive evidence, i.e. the presence of morphological forms, as
@@ -4829,6 +4836,7 @@ Total words
 815,534
 
 ### 2.2. Phonological phenomena of modern Erzya
+
 This portion will include the establishment of a set of phonemes in the Erzya language,
 and a description of their interaction in the phonetic processes. First, attestations of
 phoneme status will be made for one additional vowel and consonant in the modern
@@ -4845,6 +4853,7 @@ METHODOLOGY AND CORPORA
 49
 
 ### 2.3. Morpho-semantic evaluation of stems and affixes
+
 The morpho-semantic description of stems and affixes comprises the establishment of
 three noun-stem types and the inspection of affixes used in the three layers of noun
 inﬂection. Three noun-stem types can be derived from declension notations provided
@@ -4853,8 +4862,8 @@ Case forms, definitions and attestation involve work with several grammars of th
 Erzya language, and majority-corpus attestation of data is provided, where possible, for
 morphemes with refuted or dubious attestation in grammars.
 
-### 2.4. Compatibility of case and
-adnominal-person morphology
+### 2.4. Compatibility of case and adnominal-person morphology
+
 The majority corpus will be searched for co-occurrences of case and adnominal-person
 marking. This is achieved by counting unique word forms in the corpus, and then
 filtering for those forms with morphological case and person marking. A list of unique
@@ -4927,9 +4936,6 @@ son
 he/she/it_PRON-PERS-3SG.NOM
 
 <pgNo>50</pgNo>
-50
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 In table (2.2) it will be noted that the 3SG personal pronoun appears in both line 3 and
 line 10. The upper-case form of this personal pronoun in line (10) indicates that the word
