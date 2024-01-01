@@ -178,9 +178,6 @@ Phonology
 55
 
 <pgNo>VIII</pgNo>
-VIII
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 4.
 
@@ -385,9 +382,6 @@ from Paasonen (1953: 04-05)
 37
 
 <pgNo>X</pgNo>
-X
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 Table 1.16
 
@@ -535,7 +529,6 @@ Table 1.19
 <pgNo>XI</pgNo>
 LIST OF TABLES AND HIERARCHIES
 
-XI
 
 Table 3.11
 
@@ -711,9 +704,6 @@ Possessive declension for genitive possessa
 102
 
 <pgNo>XII</pgNo>
-XII
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 Table 4.25c
 
@@ -1004,9 +994,6 @@ declension (preliminary)
 166
 
 <pgNo>XIV</pgNo>
-XIV
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 Table 4.61
 
@@ -1414,8 +1401,6 @@ adpositional and non-ﬁnite syntax.
 
 <pgNo>2</pgNo>
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
 0.1. General outline
 This treatise of adnominal person in the morphological system of Erzya approaches
 the problem from a morphological, compositional point of departure. Chapter 2 will
@@ -1450,9 +1435,7 @@ the velar nasal ŋ are are mechanically rendered in all positions while the unro
 central vowel e͔, which lacks attestation as a phoneme, is not (see Chapter 3).
 
 <pgNo>3</pgNo>
-1.
-
-Introduction
+## 1. Introduction
 
 1.1. Introduction to Erzya
 Location
@@ -1485,13 +1468,7 @@ a native-speakers’ ﬁgure estimated on the basis of the “Mordvin” populat
 1,153,516 in the 1989 census (cf. Lallukka 1992; Bartens 1999: 10; Estill 2004: 21). A
 slightly higher ﬁgure is provided by the Ethnologue report online with a world-wide
 Erzya population of 696,630. On the basis of these ﬁgures, we can hypothesize drastic
-mortality rates, language change, or change in social climate, which would be cause for
-
-<pgNo>4</pgNo>
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-non-disclosure of ethnic background. The Erzya population is scattered, such that, while
+mortality rates, language change, or change in social climate, which would be cause for <pgNo>4</pgNo> non-disclosure of ethnic background. The Erzya population is scattered, such that, while
 the Republic of Mordovia attests to a relative density of Erzya settlements, they only
 comprise about one sixth of the Republic population; the Republic is the home of less
 than thirty percent of the population subsumed by the term “Mordvin”, and that population makes up only one third of the Republic population. In the Mordovian Republic, the
@@ -1526,14 +1503,7 @@ only be registered as “Tatar” (The Russian Federation is the home of approxi
 water, whereas the other was humored by both the twist of the story and his colleague's
 reaction. But, perhaps, there was some logic to the choice of Tatar or the closely related
 Bashkir, namely, they embody a formidable presence opposing a monolithic, centraloriented Russian Federation and, where there are two self-aware cultural-lingual groups,
-e.g. Bashkortostan, third-tier ethnic groups are more tolerated. Erzya-speaking settle-
-
-<pgNo>5</pgNo>
-INTRODUCTION
-
-5
-
-ments can be located throughout the Volga Region, but ofﬁcially they might be difﬁcult
+e.g. Bashkortostan, third-tier ethnic groups are more tolerated. Erzya-speaking settlements <pgNo>5</pgNo> can be located throughout the Volga Region, but ofﬁcially they might be difﬁcult
 to locate or enumerate; in the majority Russian language and most census statistics there
 have nearly always been ﬁgures for the pejorative, cumulative Mordvin while the autonyms Erzya, Moksha, Shoksha, Teryukhan and Qaratay receive little mention.
 Traditionally, the “Mordvins” have gained their wealth in the forests and fertile
@@ -1568,14 +1538,7 @@ closely related kindred in Moksha and the geographically closely situated but mo
 and Moksha settlements, there are few settlements where the two languages are used as
 a means of mutual communication, and such places are invariably beyond the reaches
 of the Republic of Mordovia (D. Tsygankin, p.c., 1997). According to popular belief,
-the Moksha language attests a high percentage of Turkic loanwords not found in the
-
-<pgNo>6</pgNo>
-6
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-Erzya language, and the Erzya language has a higher percentage of Russian loanwords.
+the Moksha language attests a high percentage of Turkic loanwords not found in the <pgNo>6</pgNo> Erzya language, and the Erzya language has a higher percentage of Russian loanwords.
 While the former claim might readily be observed in texts, e.g. Paasonen (SUSA XV,2
 1897: 1–64) indicates 193 glosses of Turkic origin from which nearly 60% are attested
 in Erzya and over 85% in Moksha, the question of Slavic versus Russian-language inﬂuence and interaction with ﬁrst-nation languages from a diachronic perspective has yet to
@@ -1611,14 +1574,7 @@ related for such an undertaking, a mutual vocabulary would only estrange the rea
 Presently there are measures being taken in Saransk, the capital of Mordovia, to
 manufacture an artiﬁcial “Mordvin” language. This initiative is not one made by the
 Writers' Union, nor is it tailored by native school teachers, rather it is one of people
-who do not themselves actively contribute to the literatures of either language, but do
-
-<pgNo>7</pgNo>
-7
-
-INTRODUCTION
-
-have a strong sway in the inﬂuence of publication ﬁnances. They profess an attitude
+who do not themselves actively contribute to the literatures of either language, but do <pgNo>7</pgNo> have a strong sway in the inﬂuence of publication ﬁnances. They profess an attitude
 aligned with the thinkings of a young Feoktistov (1960: 63–82), who alluded to an extremely high percentage of mutual comprehensible language material in the Erzya novel
 “Lavginov” by Kolomasov, and the sympathies of some linguistic thinking in Hungary.
 Keresztes (e.g. 1990, 1995: 47–55) outlines a closeness between the languages of Erzya
@@ -1861,14 +1817,7 @@ forms and 49.8% exhibit Moksha attestations. Since the word articles are written
 etymological cohesion between the two languages, we should expect a high percentage
 of mutual intelligibility, but only about 11.5% of the word articles contain attestation
 from both languages. Inspection for alignment of ﬁrst headwords in stem entries indicates only 6.5% of mutual vocabulary, but if we assume mutually comprehensible morphology for the two languages and count root articles attesting headword articles from
-both languages, we will arrive at a mutual vocabulary of only 41.9%. In reducing the
-
-<pgNo>8</pgNo>
-8
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-number of roots by the number of Russian cognates we ﬁnd a nearly one percent drop
+both languages, we will arrive at a mutual vocabulary of only 41.9%. In reducing the <pgNo>8</pgNo> number of roots by the number of Russian cognates we ﬁnd a nearly one percent drop
 in mutual vocabulary, whereas an analogous removal of Tatar cognates renders a one
 percent rise. Finally, if we remove all roots with either Russian or Tatar cognates the
 mutual vocabulary drops to 40.6%, which, in fact, only represents 24.6% of the 6,955
@@ -1904,9 +1853,6 @@ settled, and it has little to offer for the task of differentiating between the 
 the Erzya language on the basis of morphology (cf. Tsygankin 2000: 21).
 
 <pgNo>9</pgNo>
-INTRODUCTION
-
-9
 
 Erzya-language in publications and its development
 as a literary language
@@ -1944,9 +1890,6 @@ standard, they seldom have any actual knowledge of the variety of language spoke
 there.
 
 <pgNo>10</pgNo>
-10
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 From the late 1930s with the purges of 1937–38 to the end of the Stalin Era a reorientation towards a centralized, Russian majority-oriented society is established. This
 can be observed in orthographic and lexical developments, on the one hand, and the
@@ -1982,9 +1925,6 @@ the Erzya language. Although very few of these books were actually printed – p
 2000–3000 each, their mere existence provides the language with esteem that is necessary for establishing its value as a medium of cultural cohesion.
 
 <pgNo>11</pgNo>
-INTRODUCTION
-
-11
 
 Only recently (2009), a four-year project has received support from the Republic
 of Mordovia to concoct a mutual Mordvin language for the internationally recognized
@@ -2021,9 +1961,6 @@ burden of information disseminated to the contrary, let's take a look at what Ga
 actually wrote (cf. Evsev'ev 1963: 316 citing [Ahlqvist 1861]).
 
 <pgNo>12</pgNo>
-12
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 “Noch muss ich der Quelle erwähnen, aus welcher ich geschöpft habe: es ist dies die
 mordwinische Uebersetzung der vier Evangelien, welche im J. 1821 in St. Petersburg auf
@@ -2059,14 +1996,7 @@ be allowed. He has shown little concern for the purity of the language, and even
 he has had several good Mordvinian phrases to choose from, he has carelessly mixed in
 Russian words, which may well have slipped into the text from everyday vernacular usage, or, perhaps, he has just found it difﬁcult to replace a purely biblical word with the
 corresponding native words. And even if one were to allow for these shortcomings, it is
-still untolerable that such an amount of particles have been directly borrowed from the
-
-<pgNo>13</pgNo>
-INTRODUCTION
-
-13
-
-Russian. Anyone who even has the slightest knowledge of what peculiarities are presented by the use, or rather non-use of particles in the Finno-Tatar languages can imagine
+still untolerable that such an amount of particles have been directly borrowed from the <pgNo>13</pgNo> Russian. Anyone who even has the slightest knowledge of what peculiarities are presented by the use, or rather non-use of particles in the Finno-Tatar languages can imagine
 how to do away with these Russian strangers here, and can comprehend what effect their
 use might have on the construction and style. And even if it were the case – strange as
 it may seem – that these Russian particles have actually been incorporated into the vernacular, the proper stance of the translator would be to remove them from the Scriptures.
@@ -2112,9 +2042,6 @@ and plural possessa of the ﬁrst person plural possessor as demonstrated in (3)
 correlate to Alatyr'-dialect paradigms and the tendencies in some parts of the KozlovkaMokshalei dialect.
 
 <pgNo>14</pgNo>
-14
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 Subsequent descriptions of the Erzya language demonstrate higher proﬁciency
 of the writers in the language. F. J. Wiedemann published a second grammar of the Erzya language in 1865, where he was able to extrapolate upon the ﬁndings of Gabelentz
@@ -2152,9 +2079,6 @@ Erzya has always presented a problem due to its variation, this problem seems to
 rooted in strategies involving inﬂectional marking, NP presence and discourse function.
 
 <pgNo>15</pgNo>
-15
-
-INTRODUCTION
 
 Phonology
 The standard Erzya language is written with an unmodiﬁed Cyrillic alphabet, and this
@@ -2267,14 +2191,7 @@ have determined that the linking vowel, a phonetically dependent segment, should
 separated from both the stem and the afﬁxes. (Cf. Keresztes 1990: 75, and Hamari 2007:
 54: ŕiveźe%ńt́ ‘fox_N+GEN.DEF.SG, whereas this author would attach the linking vowel to
 the afﬁx ŕiveź+eńt́, and the Saransk School would advocate a rendition in ŕiveź%e%ńt́).)
-The archiphoneme A has reﬂexes in a and o according to a progressive dissimilatory mid/
-
-<pgNo>16</pgNo>
-16
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-low harmony. Finally, the N, T and D archiphonemes all have reﬂexes in palatalized/nonpalatalized forms determined by vowel and palatal-harmony context, whereas it will be
+The archiphoneme A has reﬂexes in a and o according to a progressive dissimilatory mid/low <pgNo>16</pgNo> harmony. Finally, the N, T and D archiphonemes all have reﬂexes in palatalized/nonpalatalized forms determined by vowel and palatal-harmony context, whereas it will be
 noted that there exist surface-level palatalized ń and t́ phonemes without non-palatalized
 counterparts. (There are no archiphonemes R, L and S in this treatise, whereas liquids tend
 to retain a distinction palatalized/non-palatalized in inﬂection (cf. Imaikina 2008: 185)
@@ -2326,9 +2243,6 @@ can be attested without preceding alveolars, e.g. pi͔xad́ems ‘to puff’, se
 chapter 3.
 
 <pgNo>17</pgNo>
-17
-
-INTRODUCTION
 
 Morphology
 Declension
@@ -2429,14 +2343,7 @@ deﬁnite. If the controller of the possessor-indexed head appears in the same N
 dependent, then it will be marked in the genitive, hence the language is seen as a manifestation of double-marked possessive constructions, which means that the type value
 given ignores the presence of NON-DEFINITE CONTROLLERS, on the one hand, and the possessive constructions with DEFINITE-MARKED HEADS, on the other. The cross-referential
 adnominal-person markers can be polyexponential. While they indicate three persons
-and two numbers of the controller/possessor in the marking of possessa, quantiﬁers,
-
-<pgNo>18</pgNo>
-18
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-adverbial/adpositions and non-ﬁnites, some of the cross-referential markers can also indicate grammatical number of the nominative-case possessum, see table (1.5).
+and two numbers of the controller/possessor in the marking of possessa, quantiﬁers, <pgNo>18</pgNo> adverbial/adpositions and non-ﬁnites, some of the cross-referential markers can also indicate grammatical number of the nominative-case possessum, see table (1.5).
 Table 1.5
 
 POR
@@ -2589,7 +2496,6 @@ one marker, the %T, and when it is rendered with the deﬁnite plural as in the 
 skal+t+ne ‘the/those/these cows’, an additional %Ne marker +DEF.PL.NOM is present.
 
 <pgNo>19</pgNo>
-INTRODUCTION
 
 (4)
 
@@ -2628,14 +2534,7 @@ it is only the head of the NP that declines in the various cases. In grammatical
 however, a determiner can also be marked (see Rueter ON QUANTIFICATION IN THE ERZYA
 LANGUAGE, forthcoming). Once the head of the NP has been declined, which may involve
 case, number and deﬁnite or cross-referential person marking, it is still possible for a
-given word form to be augmented through further afﬁxation, e.g. secondary declension,
-
-<pgNo>20</pgNo>
-20
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-nominal conjugation with or without subsequent enclitic marking. A noun declined in
+given word form to be augmented through further afﬁxation, e.g. secondary declension, <pgNo>20</pgNo> nominal conjugation with or without subsequent enclitic marking. A noun declined in
 the inessive case, for example, can appear in the position of spatial modiﬁer in a NP or in
 the position of predication target at the clausal level, e.g. pŕa+so+nzo head_N+INE+POSS3SG ‘on his/her head’, pŕa+so+nzo+ĺt́ head_N+INE+POSS-3SG+PRETII.PRED-3PL ‘they were
 on his/her mind’ (Bargova 1997: Вечкемань усият 30). Another alternative that presents itself stems from the tendency to drop predictable head nouns, which results in the
@@ -2681,7 +2580,6 @@ b. pakśa+so
 ‘the [one] in the ﬁeld’
 
 <pgNo>21</pgNo>
-INTRODUCTION
 
 (8)
 
@@ -2707,9 +2605,6 @@ possible candidates for secondary-declension main items. Table (1.7) provides a 
 indeﬁnite case forms which can be attested in both NP-modiﬁer and predicate position.
 
 <pgNo>22</pgNo>
-22
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 Table 1.7
 Indeﬁnite declension cases attested in modiﬁer vs. complement position
@@ -2831,9 +2726,6 @@ new_A.ABS house/home_N+TRNSL
 ‘he/she/it bought logs for [b.] a new house’
 
 <pgNo>23</pgNo>
-23
-
-INTRODUCTION
 
 Conjugation
 Erzya features two conjugation paradigms for its ﬁnite verbs: a subject conjugation and
@@ -2950,9 +2842,6 @@ verb, Erzya provides a number of opportunities. Nominal-conjugation marking can 
 attested with any number of targets including the nominative of nouns (all three declensions) (9–11), modiﬁer adjectives and pronouns (12–13), some local and modiﬁer cases
 
 <pgNo>24</pgNo>
-24
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 (14–15), the same predication marking can be attested for some non-ﬁnites (16) and
 quantiﬁers (17) (cf. Evsev'ev 1963: 115–125, 137–138, 148–149, 156, 190, 292, 294,
@@ -3031,9 +2920,6 @@ you_PRON-PERS-2SG.NOM+CLT now_ADV like-that_PRON-A.NOM.SG+IND.PRES.PRED-2SG
 (Motorkin 1997: 151) ‘Do you see how dirty I am, now you are like that too.’
 
 <pgNo>25</pgNo>
-INTRODUCTION
-
-25
 
 (14)
 
@@ -3100,9 +2986,6 @@ variation and regular afﬁx-meaning cumulation, which might promote discussions
 deﬁnition of derivation versus declension and conjugation.
 
 <pgNo>26</pgNo>
-26
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 Word order
 Syntactically, Erzya appears to use grammatical and oblique case marking to indicate
@@ -3160,9 +3043,6 @@ guest_N+GEN.DEF.SG provide-with-drink_V+IND.PRETI.PRED-3PL>3P liqour_N+ABL
 (Ermuškin 2004: 155) ‘The guest was given liquor to drink.’
 
 <pgNo>27</pgNo>
-INTRODUCTION
-
-27
 
 Erzya is very context-oriented, i.e. the statement about the wolf stealing a sheep in the
 SVO order would serve as an answer to the question: “What happened while I was away?”
@@ -3208,14 +3088,7 @@ because we can perceive, if not identify, a difference between whether reference
 made to the speaker by means of a noun or an adnominal-person marker (personal pronoun, cross-referential adnominal-person marker). When using nouns, and especially
 proper nouns, to indicate the SPEAKER, ADDRESSEE or OBJECT OF DISCOURSE, a superﬁcial
 familiarity with the context will reveal the identity of each. Use of personal pronouns
-or cross-referential markers, however, requires a deeper contextual awareness, which al-
-
-<pgNo>28</pgNo>
-28
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-lows the listener to identify the actual referents indicated by the shifting discourse roles
+or cross-referential markers, however, requires a deeper contextual awareness, which allows <pgNo>28</pgNo> the listener to identify the actual referents indicated by the shifting discourse roles
 of these person markers. Depending on the language in question, this might entail two
 active participants, the speaker and the addressee, or these same active participants plus
 the NON-PARTICIPANT ROLE, who is neither speaker nor addressee, of whom the participants
@@ -3259,9 +3132,6 @@ b.
 (Siewierska 2004: 17 [(2)])
 
 <pgNo>29</pgNo>
-INTRODUCTION
-
-29
 
 While Siewierska has not explicitly indicated that the object and subject functions are
 attributed to the same single-word forms, the adjacency of her two tables illustrating
@@ -3306,14 +3176,7 @@ Mine.
 In her typology of person, Siewierska adheres to the importance of how pronouns are
 normally viewed as independent words. Following from this adherence to consistency
 with “normal view” Siewierska therefore opts to make the dependent versus independent split at the morphophonological level. This is a well-merited choice, but even the
-relatively simple personal system of English attests certain discrepancies with regard to
-
-<pgNo>30</pgNo>
-30
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
-
-the concept of independent forms, let us observe the reﬂexive pronouns, for instance,
+relatively simple personal system of English attests certain discrepancies with regard to <pgNo>30</pgNo> the concept of independent forms, let us observe the reﬂexive pronouns, for instance,
 myself, yourself, himself, herself, itself, ourselves, yourselves and themselves. While
 most educated native speakers might be familiar with additional forms, such as, his%
 self and theirselves, these forms are most likely to be rejected as non-standard forms.
@@ -3409,9 +3272,6 @@ PL
 (he/ne) ovat
 
 <pgNo>31</pgNo>
-31
-
-INTRODUCTION
 
 Within the conﬁnes of the European continent alone, variations exist between strategies of
 person marking at the clause level, whereas some languages allow for cross-referencing
@@ -3520,9 +3380,6 @@ s’adyúm’ə gâam’a
 [Acoma (Keresan; New Mexico; Miller 1965: 177)]
 
 <pgNo>32</pgNo>
-32
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 (26)
 
@@ -3571,9 +3428,6 @@ reconstructibility, the adjective remains as the main lexical item within the no
 denoting the understood object, see (30b).
 
 <pgNo>33</pgNo>
-INTRODUCTION
-
-33
 
 (30) a. I want the red apple. (Gil WALS feature/chapter 61)
 b. I want the red one. (Gil WALS feature/chapter 61)
@@ -3614,9 +3468,6 @@ In some interpretations accessibility is shown to depend upon a range of hierarc
 saliency is affected by the knowledge of the discourse participants or interlocutors –
 
 <pgNo>34</pgNo>
-34
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 their personal experiences, affections, etc., and discourse saliency is sensitive to levels
 of importance, frequency, newness, etc. of the referential constituent, see hierarchies in
@@ -3658,9 +3509,6 @@ in distribution strategies in accordance with whether they are predicate-functio
 clausal-argument cross-reference, or they have a possessive-construction orientation.
 
 <pgNo>35</pgNo>
-INTRODUCTION
-
-35
 
 (ii) There are many interpretations of what an adposition is, and therefore certain
 delimitations might be observed in the inspection of person-marking compatibility with
@@ -3698,9 +3546,6 @@ phrase, the traditionally perceived range of case marking. As early as the ﬁrs
 of the Erzya language Versuch einer Mordwinischen Grammatik ‘Attempt at a Mordvin
 
 <pgNo>36</pgNo>
-36
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 Grammar’ (Gabelentz 1839) controller/possessor indices for three persons and two
 numbers of the possessor with occasional distinction nominative singular vs. nominative
@@ -3860,9 +3705,7 @@ forms for the plural persons, and (iii) an absence of genitive forms for the pos
 the 1PL and 2PL.
 
 <pgNo>37</pgNo>
-37
 
-INTRODUCTION
 Table 1.15
 P
 
@@ -3993,9 +3836,7 @@ I_PRON-PERS-1SG.NOM love_V+IND.PRES.PRED-1SG>3SG lady_N+POSS-2SG
 (Shakhmatov 1910: 798) ‘I love your old lady.’
 
 <pgNo>38</pgNo>
-38
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 b. mon
 večk+sa
 ava+t́
@@ -4036,9 +3877,6 @@ adnominal person in Erzya attests to three persons in two numbers, with no indic
 inclusive-exclusive semantics.
 
 <pgNo>39</pgNo>
-39
-
-INTRODUCTION
 
 Personal pronouns
 The extension of personal pronouns distinguishes a class of six stems adhering to mutually
@@ -4167,9 +4005,6 @@ NOM.PL
 %Ost
 
 <pgNo>40</pgNo>
-40
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 The genitive and dative cases of the possessa introduce further peculiarities into the
 possessive declension. Adushkina (2000: 96–98) implies that there are, in fact, no
@@ -4264,9 +4099,6 @@ therefore one might reformulate this table in the following paradigm (see table 
 The implicit absence of genitive forms in Adushkina's presentation of the possessive
 
 <pgNo>41</pgNo>
-41
-
-INTRODUCTION
 
 declension is echoed in Pall's brief discussion of the possessive declension, as well (Pall
 1996: 13-14). With the exception of the 3SG and possibly 1SG forms there is no formal
@@ -4392,9 +4224,6 @@ REFLEXIVE/INTENSIVE PERSONAL PRONOUN + SECONDARY DECLENSION, cf. Evsev'ev (1963:
 the 1SG and 2SG personal pronouns are marked palatalized ń.)
 
 <pgNo>42</pgNo>
-42
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 Table 1.22
 
@@ -4490,9 +4319,7 @@ son, she too was very good at working with bees, she had helped her old man [whe
 was around].’
 
 <pgNo>43</pgNo>
-INTRODUCTION
 
-43
 
 (33)
 
@@ -4582,9 +4409,6 @@ and_CONJ length_N+POSS-3SG>NOM.SG begin_V+IND.PRES.PRED-3SG be_V+INF+LOC
 this is my job. Just tell [me] how wide and long it is going to be.’
 
 <pgNo>44</pgNo>
-44
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 Controller/possessor indexing is not limited to the semantics of possession rather this
 indexing strategy is used with contextually unique target referents, as well, which have
@@ -4638,9 +4462,7 @@ the possessive declension, and the disparity of concatenation in secondary decle
 strategies.
 
 <pgNo>45</pgNo>
-2.
-
-Methodology and Corpora
+## 2. Methodology and Corpora
 
 Outline of methodology
 This chapter will describe the methodology followed in the study of adnominal person
@@ -4676,9 +4498,6 @@ Statistics will be given for variations in the compatibility of sublexicon-case 
 data from both corpora.
 
 <pgNo>46</pgNo>
-46
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 VII An inspection will be made of defectivity focusing on the genitive slot of the possessive declension.
 VIII An inspection will be made of adnominal-person marking and its compatibility
@@ -4714,9 +4533,6 @@ In an effort to establish variants of the written language similar or adjacent t
 represented in interactional communication, i.e. dialogue as conceived by an individual
 
 <pgNo>47</pgNo>
-METHODOLOGY AND CORPORA
-
-47
 
 native speaker, we will give a preference to manuscripts, as representative of original
 but possibly revised renditions of an individual language user's conception of language
@@ -5223,9 +5039,7 @@ compatibility with secondary declension of any form, on the other.
 
 <pgNo>56</pgNo>
 <pgNo>57</pgNo>
-3.
-
-Phonology
+## 3. Phonology
 
 Our understanding of form is readily developed by considering: (1) phonemes in Erzya
 transliteration, and (2) phonetic phenomena behind allomorphic variation.
@@ -6181,9 +5995,7 @@ vowel harmony, (2) palatal harmony, (3) devoicing, (4) voicing, (5) loss of af�
 V and (6) stem-ﬁnal vowel loss.
 
 <pgNo>69</pgNo>
-4.
-
-Morphology
+## 4. Morphology
 
 Our understanding of form is readily developed by considering: (i) allomorphic variation in nominal-type word stems and declensions; (ii) linear ordering of inﬂectional
 markers, and (iii) co-occurrence.
@@ -19249,9 +19061,7 @@ proven fruitless, and I would be denied the opportunity to correct these miscons
 the Erzya language used in literature.
 
 <pgNo>207</pgNo>
-5.
-
-Conclusions
+## 5. Conclusions
 
 In the introduction I have discussed the prominent issues of Erzyan languagehood, where
 it is spoken and its use as a medium of literary communication. I have provided examples
