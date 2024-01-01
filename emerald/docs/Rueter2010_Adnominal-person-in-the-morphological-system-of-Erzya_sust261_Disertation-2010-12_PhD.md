@@ -2322,42 +2322,43 @@ r
 </tr>
 </table>
 
-In the discussion of allophonic variation in the framework of this thesis the uppercase letters O, A; N, T and D are used to indicate archiphonemes whose reﬂexes on
+In the discussion of allophonic variation in the framework of this thesis the uppercase letters *O*, *A*; *N*, *T* and *D* are used to indicate archiphonemes whose reﬂexes on
 the surface level are determined by their phonetic contexts. In afﬁx-initial position the
-archiphoneme O has a reﬂex in 0 when the preceding stem ends in a vowel, whereas it
+archiphoneme *O* has a reﬂex in *0* when the preceding stem ends in a vowel, whereas it
 appears as a mid vowel with front/back harmony qualities determined by the preceding
 phonetic context if the stem ends in a consonant. (This archiphonic choice is in contrast
 with the encoding used by some Western scholars, who would include the linking vowel
 as a part of the stem – perhaps an etymological solution –, and the Saransk scholars, who
 have determined that the linking vowel, a phonetically dependent segment, should be
 separated from both the stem and the afﬁxes. (Cf. Keresztes 1990: 75, and Hamari 2007:
-54: ŕiveźe%ńt́ ‘fox_N+GEN.DEF.SG, whereas this author would attach the linking vowel to
-the afﬁx ŕiveź+eńt́, and the Saransk School would advocate a rendition in ŕiveź%e%ńt́).)
-The archiphoneme A has reﬂexes in a and o according to a progressive dissimilatory mid/low <pgNo>16</pgNo> harmony. Finally, the N, T and D archiphonemes all have reﬂexes in palatalized/nonpalatalized forms determined by vowel and palatal-harmony context, whereas it will be
+54: *ŕiveźe-ńt́* ‘fox_N+GEN.DEF.SG, whereas this author would attach the linking vowel to
+the afﬁx *ŕiveź+eńt́*, and the Saransk School would advocate a rendition in *ŕiveź-e-ńt́*).)
+The archiphoneme A has reﬂexes in a and o according to a progressive dissimilatory mid/low <pgNo>16</pgNo> harmony. Finally, the *N*, *T* and *D* archiphonemes all have reﬂexes in palatalized/nonpalatalized forms determined by vowel and palatal-harmony context, whereas it will be
 noted that there exist surface-level palatalized ń and t́ phonemes without non-palatalized
-counterparts. (There are no archiphonemes R, L and S in this treatise, whereas liquids tend
+counterparts. (There are no archiphonemes *R*, *L* and *S* in this treatise, whereas liquids tend
 to retain a distinction palatalized/non-palatalized in inﬂection (cf. Imaikina 2008: 185)
 and the alveolar fricative alone appears to have retained its proto-language palatalized/
 non-palatalized distinction. (See table 3.6 and preceding discussion, cf. Abondolo 1987:
 219-233.)
 Allophonic variation can be attributed to several features. These include: palatal
 harmony and progressive voicing. Although the phonematic distinction n versus ń is
-attested in word-initial position, e.g. naka ‘here you go!’ ńaka ‘doll’, it is quite marginal.
+attested in word-initial position, e.g. *naka* ‘here you go!’ *ńaka* ‘doll’, it is quite marginal.
 There appears to be a greater presence of back/front allomorphs, such as those found
-in the 1SG possessor index -ON, e.g. skalon ‘my cows’ and ĺišmeń ‘my horses’. The
-indeﬁnite genitive in %Oń, having no allomorphic variation, renders forms, such as
-skaloń ‘of a cow; of cows’ and ĺišmeń ‘of a horse; of horses’. Thus we are provided
-with attestation for separate nasal phonemes: n/ń <= N and ń. This attestation of
-allophonic variation, generally limited to stops (N, T, D), leaves a phonetic gap, namely,
-non-palatalized alveolar stops in front-vowel contexts, where the presence of a nonpalatalized stop would indicate a recent Russian loan word, e.g. fen ‘fan’, kit ‘whale’,
-and šved ‘Swede’. The notion of progressive voicing affects onset consonants both
+in the 1SG possessor index -ON, e.g. *skalon* ‘my cows’ and *ĺišmeń* ‘my horses’. The
+indeﬁnite genitive in -Oń, having no allomorphic variation, renders forms, such as
+*skaloń* ‘of a cow; of cows’ and *ĺišmeń* ‘of a horse; of horses’. Thus we are provided
+with attestation for separate nasal phonemes: *n/ń* <= *N* and *ń*. This attestation of
+allophonic variation, generally limited to stops (*N*, *T*, *D*), leaves a phonetic gap, namely,
+non-palatalized alveolar stops in front-vowel contexts, where the presence of a nonpalatalized stop would indicate a recent Russian loan word, e.g. *fen* ‘fan’, *kit* ‘whale’,
+and *šved* ‘Swede’. The notion of progressive voicing affects onset consonants both
 word-initially and internally, such that, at the beginning of a word voicing of plosives,
-affricates and fricative is either indicative of loanword origin, as in, d́źudo ‘judo’ or
+affricates and fricative is either indicative of loanword origin, as in, *d́źudo* ‘judo’ or
 the presence of a preceding voiced consonant, not necessarily in the same phrase, e.g.
-[kudow zi͔t́] home_N.LAT arrive_V.IND.PRETI.PRED-2SG ‘are you back home’. Here the
-voiced [z] is the result of progressive voicing. Finally the polemics of [w] versus [v] can
+[*kudow zi͔t́*] home_N.LAT arrive_V.IND.PRETI.PRED-2SG ‘are you back home’. Here the
+voiced [*z*] is the result of progressive voicing. Finally the polemics of [*w*] versus [*v*] can
 be observed in the fact that the pronunciation of labiodentals in native words is limited
-to onset position, before non-labial vowels, in the rime the tendency is to use [w].
+to onset position, before non-labial vowels, in the rime the tendency is to use [*w*].
+
 Table 1.3
 High
 Mid
