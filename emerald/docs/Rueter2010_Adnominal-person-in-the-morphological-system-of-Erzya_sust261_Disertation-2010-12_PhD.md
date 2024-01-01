@@ -1596,7 +1596,7 @@ Erzya
 <td colspan="2">
 Moksha
 </td>
-<td colspan="3">
+<td align="center" colspan="3">
 Mutual
 </td>
 </tr>
