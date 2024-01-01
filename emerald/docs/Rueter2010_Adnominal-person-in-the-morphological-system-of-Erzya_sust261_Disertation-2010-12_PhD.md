@@ -1668,6 +1668,7 @@ Figures
 </td>
 </tr>
 <tr>
+<td>
 Headwords
 </td>
 <td>
@@ -1693,6 +1694,7 @@ Headwords
 </td>
 </tr>
 <tr>
+<td>
 First headwords of root articles
 </td>
 <td>
