@@ -1631,6 +1631,9 @@ between them, see table 1.1.
 <table>
 <caption><b>Table 1.1</b> Statistics on headword entries in Mordwinisches Wörterbuch I–IV</caption>
 <tr>
+<td rowspan="2">
+Entries
+</td>
 <td colspan="2">
 Erzya
 </td>
@@ -1642,9 +1645,6 @@ Mutual
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-Entries
-</td>
 <td>
 Figures
 </td>
