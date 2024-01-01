@@ -110,23 +110,18 @@ VI
 IX
 XV
 
-0.
-
-Purpose
+0. Purpose
 0.1. General outline
 
 1
 2
 
-1.
-
-Introduction
+1. Introduction
 1.1. Introduction to Erzya
 1.2. Introduction to person
 1.3. Research in the Erzya category of adnominal person
 1.3.1. Background
-1.3.2. The category of adnominal person
-in contemporary grammars of Erzya
+1.3.2. The category of adnominal person in contemporary grammars of Erzya
 
 3
 3
@@ -185,9 +180,7 @@ Phonology
 
 <pgNo>VIII</pgNo>
 
-4.
-
-Morphology
+4. Morphology
 69
 4.1. Nominal-type word-stem morphology
 69
@@ -253,9 +246,7 @@ with ZERO marking strategy
 and secondary declension
 193
 
-5.
-
-Conclusions
+5. Conclusions
 
 Erzya Source Literature (Corpora)
 Reference Bibliography
@@ -1407,7 +1398,7 @@ adpositional and non-ﬁnite syntax.
 
 <pgNo>2</pgNo>
 
-0.1. General outline
+### 0.1. General outline
 This treatise of adnominal person in the morphological system of Erzya approaches
 the problem from a morphological, compositional point of departure. Chapter 2 will
 establish a database to serve as the empirical basis of the study and source of word
@@ -2093,97 +2084,243 @@ These ﬁgures include the phonemes f, x and i͔ (attested in the dialects to va
 are typical of loanwords), and ŋ, which is indigenous and forms some minimal pairs with
 n and ń before velar plosives (see major consonant and vowel allophones below, and also
 section 3.1.)
-Table 1.2
-
+<table>
+<caption><b>Table 1.2</b> Major consonant allophones in the Erzya language</caption> 
+<tr>
+<td colspan="3" rowspan="2"></td>
+<td colspan="2">Labial</td>
+<td colspan="2">Coronal</td>
+<td colspan="2">Dorsal</td>
+</tr>
+<tr>
+<td>Bilabial</td>
+<td>Labio- dental</td>
+<td>Alveolar</td>
+<td>Post- Alveolar</td>
+<td>Palatal</td>
+<td>Velar</td>
+</tr>
+<tr>
+<td rowspan="3">
 Stops
-
-Major consonant allophones in the Erzya language
-Labial
-Coronal
-Bilabial Labio- Alveolar
-Postdental
-Alveolar
+</td>
+<td colspan="2">
 Nasals
-Plosives
-
+</td>
+<td>
 m
-p
-
+</td>
+<td>
+</td>
+<td>
 n
-t
-
-b
-
-d
-c
-
+</td>
+<td>
+</td>
+<td>
 ń
-t́
-
+</td>
+<td>
 ŋ
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+Plosives
+</td>
+<td>
+Voiceless
+</td>
+<td>
+p
+</td>
+<td>
+</td>
+<td>
+t
+</td>
+<td>
+</td>
+<td>
+t́
+</td>
+<td>
 k
-
-č
-
+</td>
+</tr>
+<tr>
+<td>
+Voiced
+</td>
+<td>
+b
+</td>
+<td>
+</td>
+<td>
+d
+</td>
+<td>
+</td>
+<td>
 d́
-ć
-
+</td>
+<td>
 g
-
+</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">
 Affricates
-
-Voiced
+</td>
+<td>
 Voiceless
-
-Fricatives
-
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+c
+</td>
+<td>
+č
+</td>
+<td>
+ć
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
 Voiced
-Voiceless
-
-f
-
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
 dz
-s
-
+</td>
+<td>
 dž
-š
-
+</td>
+<td>
 d́ź
-ś
-
-Voiced
-
-v
-
-z
-
-ž
-
-ź
-j
-
-Approximants
-Liquids
-
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">
+Fricatives
+</td>
+<td>
 Voiceless
-
-Dorsal
-Palatal Velar
-
-Laterals
-Trills
-
-w
-ʙ
-
-l
-r
-
+</td>
+<td>
+</td>
+<td>
+f
+</td>
+<td>
+s
+</td>
+<td>
+š
+</td>
+<td>
+ś
+</td>
+<td>
 x
+</td>
+</tr>
+<tr>
+<td>
+Voiced
+</td>
+<td>
+</td>
+<td>
+v
+</td>
+<td>
+z
+</td>
+<td>
+ž
+</td>
+<td>
+ź
+</td>
+<td>
 ɣ
-
+</td>
+</tr>
+<tr>
+<td colspan="3">
+Approximants
+</td>
+<td>
+w
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+j
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+Liquids
+</td>
+<td>
+Laterals
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+l
+</td>
+<td>
+</td>
+<td>
 ĺ
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Trills
+</td>
+<td>
+ʙ
+</td>
+<td>
+</td>
+<td>
+r
+</td>
+<td>
+</td>
+<td>
 ŕ
+</td>
+<td>
+</td>
+</tr>
+</table>
 
 In the discussion of allophonic variation in the framework of this thesis the uppercase letters O, A; N, T and D are used to indicate archiphonemes whose reﬂexes on
 the surface level are determined by their phonetic contexts. In afﬁx-initial position the
@@ -4535,11 +4672,7 @@ strategy and stylistic instruction. Furthermore, translated literature might be 
 domain attesting genres depictive of user targeted (dogmatic), user oriented (access)
 literature in the original language.
 In an effort to establish variants of the written language similar or adjacent to those
-represented in interactional communication, i.e. dialogue as conceived by an individual
-
-<pgNo>47</pgNo>
-
-native speaker, we will give a preference to manuscripts, as representative of original
+represented in interactional communication, i.e. dialogue as conceived by an individual <pgNo>47</pgNo> native speaker, we will give a preference to manuscripts, as representative of original
 but possibly revised renditions of an individual language user's conception of language
 in context. The language found in this ﬁrst phase of the writing process would presumably differ from that found in edited versions, where the written product is subject to the
 coordinated efforts of at least two individuals, whereas revised versions of published
