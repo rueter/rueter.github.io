@@ -4,6 +4,7 @@
  pgNo {
   color: #b30000;
 }
+.better-table caption {  caption-side: bottom; }
 </style>
 
 <pgNo>II</pgNo>
@@ -1579,7 +1580,7 @@ a quantity of 1062 glosses. This percentage, might be promising for planned lang
 development over 200 years (the Norwegian policy for a mutual “samnorsk” was abandoned December 13, 2002), but a glance at the mutual vocabularies of Erzya and Moksha indicated by larger dictionaries of the languages appear to show much less cohesion
 between them, see table 1.1.
 
-<table>
+<table class="better-table">
 <caption><b>Table 1.1</b> Statistics on headword entries in Mordwinisches Wörterbuch I–IV</caption>
 <tr>
 <td rowspan="2">
@@ -2083,7 +2084,8 @@ These figures include the phonemes f, x and i͔ (attested in the dialects to var
 are typical of loanwords), and ŋ, which is indigenous and forms some minimal pairs with
 n and ń before velar plosives (see major consonant and vowel allophones below, and also
 section 3.1.)
-<table>
+
+<table class="better-table">
 <caption><b>Table 1.2</b> Major consonant allophones in the Erzya language</caption> 
 <tr>
 <td colspan="3" rowspan="2"></td>
