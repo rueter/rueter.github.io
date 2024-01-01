@@ -2374,6 +2374,7 @@ voiced [*z*] is the result of progressive voicing. Finally the polemics of [*w*]
 be observed in the fact that the pronunciation of labiodentals in native words is limited
 to onset position, before non-labial vowels, in the rime the tendency is to use [*w*].
 
+<table>
 Table 1.3
 High
 Mid
@@ -2391,6 +2392,7 @@ a
 Back
 u
 o
+</table>
 
 Consideration of the Erzya vowel allophones involves the two separate questions of the
 high central vowel and the mid central vowel. While the mid central vowel e͔ might be
@@ -2407,6 +2409,8 @@ Declension
 A set of at least fifteen different morphemes can be attested as co-occurring with complex
 NPs in grammatical (subject, direct object, indirect object and complement), local and
 modifier functions, see table 1.4.
+
+<table>
 Table 1.4
 Indefinite declension table for complex NP heads kudo ‘house; home’
 Label Example
@@ -2487,6 +2491,7 @@ Modifier
 +
 +
 +
+</table>
 
 Erzya has three different declension types. All three types can be used in the marking
 of definite referents to different degrees. There are (i) the indefinite declension, used
@@ -2502,6 +2507,8 @@ dependent, then it will be marked in the genitive, hence the language is seen as
 given ignores the presence of NON-DEFINITE CONTROLLERS, on the one hand, and the possessive constructions with DEFINITE-MARKED HEADS, on the other. The cross-referential
 adnominal-person markers can be polyexponential. While they indicate three persons
 and two numbers of the controller/possessor in the marking of possessa, quantifiers, <pgNo>18</pgNo> adverbial/adpositions and non-finites, some of the cross-referential markers can also indicate grammatical number of the nominative-case possessum, see table (1.5).
+
+<table>
 Table 1.5
 
 POR
@@ -2555,12 +2562,16 @@ t́ev+et́
 t́ev+eŋk
 t́ev+enze
 t́ev+est
+</table>
+
 
 These same adnominal cross-referential markers can be attested word forms with
 case affixes, see table (1.6). In the non-core cases, the adnominal-person affixes are
 monoexponential, i.e. in these cases the literary language makes no distinction for the
 grammatical number of the possessum, and the adnominal-person markers are readily
 distinguished from both stem and other concatenative affixes.
+
+<table>
 Table 1.6
 
 Varied parts of speech with adnominal cross-referential person marking
@@ -2642,6 +2653,7 @@ sa+m+oz+ot
 sa+m+oz+oŋk
 sa+m+oz+onzo
 sa+m+oz+ost
+</table>
 
 Of the parts of speech mentioned above, certain ones of them appear in contexts where
 instead of dependent marking of the possessor, it is also possible to use independent
@@ -2765,6 +2777,7 @@ indefinite case forms which can be attested in both NP-modifier and predicate po
 
 <pgNo>22</pgNo>
 
+<table>
 Table 1.7
 Indefinite declension cases attested in modifier vs. complement position
 Case Premodifier
@@ -2883,6 +2896,7 @@ od
 kudo+ks
 new_A.ABS house/home_N+TRNSL
 ‘he/she/it bought logs for [b.] a new house’
+</table>
 
 <pgNo>23</pgNo>
 
@@ -2904,6 +2918,8 @@ individuated argument-semantics of the singulative forms: 1SG>2SG, 2SG>1SG, 3SG>
 and 3SG>2SG. Hence the notations PRED-X>1P and PRED-X>2P will be used to indicate
 default first and second person object conjugation where ARG1, ARG2 or both ARG1 and
 ARG2 have plural referents.
+
+<table>
 Table 1.8
 ARG1
 
@@ -2995,6 +3011,7 @@ pala+si͔ńźe
 3PL
 
 pala+si͔ź
+</table>
 
 For those who like intransitive clauses with marking on elements other than a finite
 verb, Erzya provides a number of opportunities. Nominal-conjugation marking can be
@@ -3286,6 +3303,8 @@ It should also be noted, however, that it is the object and not subject personal
 in English that can be used in this fashion, thus a single-word elliptic question with
 a personal pronoun coreferencing the subject, see tables (1.9) and (1.10), would, in a
 descriptive grammar of the English language, actually employ an object pronoun.
+
+<table>
 Table 1.9
 Single-word elliptic question with object pronoun in subject function
 a.
@@ -3293,6 +3312,7 @@ He said that he would do it?
 b.
 (Who) him?
 (Siewierska 2004: 17 [(2)])
+</table>
 
 <pgNo>29</pgNo>
 
@@ -3300,6 +3320,8 @@ While Siewierska has not explicitly indicated that the object and subject functi
 attributed to the same single-word forms, the adjacency of her two tables illustrating
 subject-function compatibility, as seen in (1.9, line b), and subject-form incompatibility,
 as seen in (1.10, line b), draws an implicit connection.
+
+<table>
 Table 1.10 Single-word elliptic answer with object pronoun in subject function
 a.
 Who wrote that?
@@ -3310,6 +3332,7 @@ I did. / He did. / We did.
 d.
 Me. / ? Him. / ? Us.
 (cf. Siewierska 2004: 17 (4))
+</table>
 
 Siewierska notes that an isolated subject pronoun, such as those found in (table 1.10, line
 b), would not suffice for an answer, but instead if the subject pronoun were to be used,
