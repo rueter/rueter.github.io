@@ -2701,6 +2701,7 @@ ADJECTIVES WITHOUT NOUNS). Since most modifiers can stand alone when a predictab
 head noun is dropped, and word forms correlating to several of the cases can function as
 modifiers – we might choose to decline the modifiers (cf. Evsevʹev 1963: 101–103; Collinder 1969: 231; Egorova 1976; Keresztes 2005; Rueter On Modifiers without Nouns in
 Erzya, forthcoming). (See also section 4.5.)
+
 (5)
 
 a. ašo
@@ -3004,6 +3005,7 @@ attested with any number of targets including the nominative of nouns (all three
 (14–15), the same predication marking can be attested for some non-finites (16) and
 quantifiers (17) (cf. Evsevʹev 1963: 115–125, 137–138, 148–149, 156, 190, 292, 294,
 303; Bartens 1999: 169).
+
 (9)
 
 a. ton
@@ -3168,6 +3170,7 @@ definite topical subject precedes the verb so does the definite object, and in t
 of a subject the definite topical object also precedes the finite verb. This account of Erzya word order can readily be applied to other spoken variants of the language as well,
 although definiteness is not the only grounds for a noun or pronoun to be placed left of
 the finite verb.
+
 (18)
 
 veŕgiz+eś
@@ -3210,6 +3213,7 @@ setting is given and both the subject and object are included in the new informa
 Here, where there is no marking to differentiate the subject and object, it appears that
 word order takes over and S is required to precede O while the finite verb is still allowed
 freedom of movement, see (22).
+
 (22) a. viŕ
 udal+o
 pakśa+so+ńt́
@@ -3528,6 +3532,7 @@ In the World Atlas of Language Structure (henceforth WALS), Bickel and Nichols d
 a typology for LOCUS OF MARKING IN POSSESSIVE NOUN PHRASES (WALS feature/chapter
 24), wherein four strategies are presented: (i) head marking; (ii) dependent marking;
 (iii) double marking, and (iv) no marking, see (25–28).
+
 (25)
 
 Head marking
@@ -3988,6 +3993,7 @@ explain variation in the choice of genitive and dative forms of the possessa mar
 pair cross-referential marking strategy for the word ava ‘lady; mother’, by which the
 object-marked possessum with 2SG cross-referential marking varies in form according to
 the parametric feature [±KIN] of the referent, see (31).
+
 (31) a. mon
 večk+sa
 ava+t
@@ -4447,6 +4453,7 @@ various phenomena ascribed to activities of the human organism (35), and (v) nou
 designating measurements and other qualities of objects (36) (cf. Tixonova 1980: 183–
 187). (For other reading in Erzya possession, see Feoktistov 1963, Tixonova 1974,
 Cygankin 1978 and Kudašova 2002.)
+
 (32)
 
 ava+zo+jak,
@@ -4575,6 +4582,7 @@ been addressed as items unique to a given situation or the universe. This unique
 or high physical salience, is perhaps parallel to the very same deictic marking strategy
 found in the indication of book prices, see (37), when the price of a book is given in Erzya on the cover of the book, we find the word followed subsequently by the price value,
 ‘price’ is an integral attribute or dimension of the referent ‘book’.
+
 (37)
 
 pit́ńe+ze
@@ -4583,8 +4591,8 @@ price_N+POSS-3SG>NOM.SG
 
 In a parallel to the high physical salience attested in (37), we will note that an integral
 part of a stream, may well be the temperature of the water in it – where high physical
-salience is especially well perceived if the water is exceptionally cold, see (38). (See
-discussion in section 4.2.3.1.3. THIRD PERSON.)
+salience is especially well perceived if the water is exceptionally cold, see (38). (See discussion in section 4.2.3.1.3. THIRD PERSON.)
+
 (38)
 
 koda
@@ -6014,10 +6022,9 @@ the realization of the 2SG possessive declension kin-term genitive %Ot́ and som
 nominative plural in %T, see (3–4).
 
 <pgNo>66</pgNo>
-66
+
 (1)
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 a. ćora+ON
 => ćoran
 son_N+POSS-1SG>NOM.PL ~ son_N+POSS-1SG>GEN.PL
@@ -6047,6 +6054,7 @@ son_N+POSS-2SG>[KIN]GEN
 c. ćora+OT
 => ćorat
 son_N+POSS-2SG>NOM ~ son_N+POSS-2SG>GEN
+
 (4)
 
 a. miŕd́e+T
@@ -6598,9 +6606,6 @@ interprets the lative case -Ov of Ahlquist (1861), Paasonen (1909) and Šaxmatov
 (1910) as synonymous with the denominal derivation morpheme for adjectives %Ov,
 
 <pgNo>75</pgNo>
-MORPHOLOGY
-
-75
 
 and therefore speaks of adverbial markers (see Evsevʹev 1963: 55). Since the modern
 tradition (cf. Bartens 1999; Grebneva 2000) makes a division between core cases, local
@@ -6636,13 +6641,9 @@ declension (EKM 2000).
 In the Erzya grammar tradition, four case names are mentioned in association with the
 core cases: nominative, genitive, dative and ablative. Thus the inessive, in %sO, is
 foregone here despite the fact that in the adpositional form ejse ‘in’ it is, without doubt,
-frequently used as a marker of the imperfect direct object, see inessive in subsection
-(4.2.1.2.) LOCAL CASES.
+frequently used as a marker of the imperfect direct object, see inessive in subsection (4.2.1.2.) LOCAL CASES.
 
 <pgNo>76</pgNo>
-76
-
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 Nominative
 The NOMINATIVE case in Erzya, which in the indefinite declension is marked with the socalled ZERO morpheme, can be detected through the presence of other morphemes as well.
@@ -6829,6 +6830,7 @@ The main functions of the nominative are the marking of: (i) the subject (in all
 declensions); (ii) The subject complement; (iii) The direct object (indefinite declension
 only), referred to by Bubrix (1947: 13) as the accusative, which can also be used in the
 expression of measure, see (1).
+
 (1)
 
 moĺ+em+s
@@ -7062,6 +7064,7 @@ to whole) (3e), and holonymy (whole to part) (2f), which in Erzya are used in sy
 constructions analytic to those used with possessor referents (3g). Compare examples
 (3a-g), where the indefinite genitive is used as a modifier, more pertinent discussion will
 be found in section 4.5.
+
 (3)
 
 a. večkića+ń
@@ -7254,6 +7257,7 @@ and plural possessors, %Onstenze and %Onstest, respectively, see examples (4–5
 from Glukhov (Malye Karmaly, Chuvashia, Erzya: ćarmun) and Kutorkin (Studenets,
 Chuvashia). Although these forms will certainly be considered by some to be dialect
 forms with secondary possessor marking, see examples below.
+
 (4)
 
 paĺko
@@ -7326,6 +7330,7 @@ eŕźań paz ‘Kuz'ka the Erzyan God’ 2008) we can attest a second person plu
 be parsed +Onste+ŋk +POSS-3.DAT+POSS-2PL. Dëmin's use of this form would clearly
 indicate the feasibility of the construction in the spoken language of Ses'kina, perhaps
 not too far removed from the Alatyrʹ sub-dialects of Glukhov and Kutorkin.
+
 (7)
 
 meŕ+ed́e
@@ -7616,6 +7621,7 @@ location. Semantic source can be attested for the spatio-temporal notions of (i)
 source (8), (ii) abstract space, capacity (10), (iii) material (11), (iv) spatio-temporal
 source in origin-point strategy for indicating span/duration – used in conjunction with
 illative form (12), and (v) semantic location is attested for temporal notions (13).
+
 (8)
 
 a. kudo+sto+ńt́
@@ -7657,6 +7663,7 @@ b. śokśe+ste
 tundo+s
 autumn_N+ELA spring_N+ILL
 ‘from autumn to spring’
+
 (13) a. eŕva
 či͔+ste
 every_Q.ABS day_N+ELA
@@ -7873,6 +7880,7 @@ The Erzya language has an adnominal derivational morpheme for deriving adjective
 the discussion of the lative, although there seems little semantics to support the unification of a general-directional marker kudo+v home_N+LAT ‘home(ward)’ and a denominal
 lopa+v leaf_N+DENOMINAL-ADJ ‘[covered with | full of] leaves’ (cf. Evsevʹev 1963: 55;
 Ermuškin 2004:79–80).
+
 (14)
 
 di͔
@@ -7996,6 +8004,7 @@ MORPHOLOGY
 
 The main functions of the prolative are the marking of:
 (i) Distributional spatial locative for use with themes in motion and stationary:
+
 (16) a. t́eĺ+ńa+t
 veŕgiz+t
 či͔jń+it́
@@ -8013,6 +8022,7 @@ now_ADV-TEMP go/move_V+IND.PRES.PRED-1SG father_N+GEN house_N+PROL
 (cf. Ermuškin 2004: 76–77) ‘Now I’m walking around in [my] father's house.’
 
 (ii) Transitional point in space:
+
 (17)
 
 t́et́a+ń
@@ -8028,6 +8038,7 @@ foot/leg_N.DIM+POSS-1SG>NOM.SG break_V+OPT.PRED-3SG
 break.’
 
 (iii) Distributional spatial goal:
+
 (18)
 
 lovco+ńt́
@@ -8037,6 +8048,7 @@ milk_N+GEN.DEF.SG crock_N+PROL fill_V+IMP.PRED-2SG>3SG
 (Evsevʹev 1963: 66) ‘Pour the milk in crocks.’
 
 (iv) Approximate spatial termination point:
+
 (19)
 
 meź+d́e
@@ -8066,6 +8078,7 @@ dark_N+PROL set-out-for_V+IND.PRETI.PRED-3SG forest_N+LAT
 (cf. Evsevʹev 1963: 66) ‘In the darkness [before sun-up], he/she set out for the forest.’
 
 (vi) Causative, purpose:
+
 (21)
 
 miń
@@ -8079,6 +8092,7 @@ seven_NUM-CARD.ABS son_N+GEN be-born_V+INF-PROL
 (Evsevʹev 1963: 66) ‘We rang (the bell) for living, for the birth of seven sons.’
 
 (vii) Material measured:
+
 (22)
 
 avoĺ
@@ -8171,6 +8185,7 @@ Maśt́a+ńe
 piźeme+ńe
 
 Its main function is the marking of temporal location.
+
 (23)
 
 umok
@@ -8217,6 +8232,7 @@ The TRANSLATIVE case in Erzya can be represented by the allomorphs %ks, %oks, -e
 be associated with stem-affix alignment. In the most recent Erzya grammar (2000) the
 translative definite singular has been left out of the declension tables, but this apparently
 has to do with the mere infrequency of this case usage, see (24).
+
 (24)
 
 ĺiś+ś
@@ -8366,6 +8382,7 @@ ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 
 where the standard of equal comparison can, in fact, appear in the definite singular declension when no generic interpretation is intended, see (25) and (26) with a possessive
 declension.
+
 (25)
 
 mordovija+ń
@@ -9652,6 +9669,7 @@ of one or more explicitly identifiable referents (see also ASSOCIATIVE ELDER NOU
 It will also be noted that the plural morpheme %T familiar from the indefinite and
 definite declensions appears in the 3PL of both the verbal and nominal conjugations and
 the readings adnominal versus verbal plural are difficult to distinguish, see examples.
+
 (27)
 
 sońenze
@@ -10552,6 +10570,7 @@ forms are attested with possessor indexing (cf. Wiedemann 1865: 45; Tixonova 198
 186; Ermuškin 2004: 81). Although Tixonova wrote of use with kin terms, her own
 examples indicate no such limitations, see (28). Empathy is simultaneously indicated by
 the presence of a diminutive morpheme, as well.
+
 (28) a. ton,
 nud́ejne+m,
 śed́a+k
@@ -10570,6 +10589,7 @@ Ambiguity
 Ambiguity is attested with the adnominal-type cross-referential person marker %ONOk in
 front-vowel contexts, see ambiguities found in Danilov's treatise of the Erzya comitative
 (1969).
+
 (29)
 
 vejke+ńek
@@ -10771,6 +10791,7 @@ in today's Erzya literature. While written literature bears witness to the varia
 web, and with them has come an Erzya version of Skype, which attests to an interesting
 2SG dative form in %Onste+t́, see (31). This form, it would appear, is analogically based
 on the third person dative form in %Onsteń, %Onste+nze, and %Onste+st, see below.
+
 (31)
 
 jovĺe+k
@@ -10863,6 +10884,7 @@ Special usage
 In addition to possessor/controller indexing strategies associated with the second person singular and plural, the second person singular can be used in Erzya to indicate an
 entity whose identity is extractible from shared knowledge of a more general situation
 (N. Agafonova, p.c., n.d.). Along this same vein we will observe the use of 2SG in generalizations, for example (32).
+
 (32)
 
 lomań+eń
@@ -11062,6 +11084,7 @@ can draw upon personal experience in which my wife was busy doing something in o
 room while the baby and I were in the other. I was writing something when the baby
 suddenly cried out and my wife, seizing the moment of deixis, addressed me as t́et́a+zo
 father_N+POSS-3SG>NOM.SG (lit. ‘his/her/its father’), see (33).
+
 (33)
 
 t́et́a+zo,
@@ -11079,6 +11102,7 @@ big sister!’. Hence, should one encounter an elderly woman while walking down 
 in an Erzyan village (Kabayevo, Erzya: Kobaĺe), the unabrupt form of address baba+zo
 ‘his/her grandmother’ involving the 3SG possessor index would indicate familiarity of
 the speaker with a grandchild of the addressee and therefore impart a soft rhematic introduction ‘It's so and so's grandma’, see (34–35) from Markov, as well.
+
 (34)
 
 baba+zo,
@@ -11114,6 +11138,7 @@ some in reference to universally unique items or phenomena, we will encounter wh
 superficially would be treated as the definite function of the possessor index. In this
 function the affix is attested with nouns indicating natural phenomena and divisions in
 time, such as ‘the sun’, ‘time’, ‘the moon’, see (36–38).
+
 (36)
 
 či͔ +ze
@@ -11183,6 +11208,7 @@ Ermuškin (2004: 81) defines the definite use of the third-person-singular marke
 as indicative of the state of an object at a given moment. Thus instead of reading a narrative, we are presented with circumstances in which speaker and listener, alike, are
 simultaneously observing the same phenomenon, the prominent deictic circumstances
 involved in the price printed on the a book cover, see (39–43).
+
 (39)
 
 či͔+ze
@@ -11751,6 +11777,7 @@ In front vowel contexts no minimal pair is attested, and even Aduškina's own ex
 form is homonymous for the singular and plural of kin terms, such that t́ejt́eŕe+ń would
 gloss as both ‘my daughter's’ and ‘my daughters'’, but as evidenced from Aduškina's
 own example, adherence to this norm falters.
+
 (44)
 
 t́ejt́eŕe+m
@@ -12483,6 +12510,7 @@ example exhibits an indefinite pronoun derived from an interrogative pronoun wit
 clitic %Gak, and although the affix ordering is the same, one might contend that this
 citation form does not, in fact, have a clitic (for clitics in Erzya and Moksha, see Erina
 1997).
+
 (45)
 
 di͔
@@ -12627,6 +12655,7 @@ Thus where the word for “father” t́et́a may, according to context and sema
 with or without cross-referential marking, there are words that are obligatorily targets of
 adnominal-person marking, on the one end of the spectrum, and others that may never be
 targets of adnominal-person marking, at the other extreme, see (46–50).
+
 (46) a. t́et́+id́e+nze
 father_N-KIN-ELDER+ASSOC+POSS-3SG
 (cf. Bartens 1999: 107; Cygankin 1961: 357; Evsevʹev 1963: 40) ‘his/her/its father and
@@ -12634,6 +12663,7 @@ others with him’
 *b. t́et́+id́e
 father_N-KIN-ELDER+ASSOC
 ‘father and others with him’
+
 (47) a. ejste+de+nze
 from_POP.ELA+ABL+POSS-3SG
 ‘from him/her/it’
@@ -12641,6 +12671,7 @@ from_POP.ELA+ABL+POSS-3SG
 ejste+de
 he/she/it_PRON-PERS-3SG.GEN.POSS-3SG from_POP.ELA+ABL
 ‘from him/her/it’
+
 (48) a. ńiĺe+ńe+st
 four_NUM+ASSOC-COLL+POSS-3PL
 ‘the four of them’
@@ -12648,6 +12679,7 @@ four_NUM+ASSOC-COLL+POSS-3PL
 ńiĺe+ńe
 they_PRON-PERS-3PL.GEN.POSS-3PL four_NUM+ASSOC-COLL
 ‘the four of them’
+
 *(49) a. pačk+onzo
 through_POP+POSS-3SG
 ‘through it/him/her’
@@ -12944,10 +12976,9 @@ eśeškanzo
 eśt́emenze
 
 <pgNo>140</pgNo>
-140
+
 (51)
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 azd+an,
 ki+ks
 not-know_V+IND.PRES.PRED-1SG, who_PRON-REL+TRNSL
@@ -13590,6 +13621,7 @@ ska ‘past’; udaldo ‘from behind’, trokska ‘across’, vaĺmalga ‘at 
 Non-finites
 The non-finite morpheme is subject to limited declension, as indicated by the attestation
 of a 7-slot paradigm represented in (52).
+
 (52)
 
 +Om+s, +Om+O, +Om+dO, +Om+sO, +Om+stO, +Om+ga,
@@ -13600,6 +13632,7 @@ Due to the defectivity of the inﬂectional paradigm of this derivation type and
 conformity with relative-space adverb/adposition paradigm patterns, i.e. the dearth
 of core-case slots versus abundance of local-case slots, see (53–54), and the syntactic
 functions these two word types share, a parallel might be drawn between them.
+
 (53)
 
 al+ov,
@@ -15734,6 +15767,7 @@ Keresztes 1999: 23, would have been familiar with both forms to some extent and 
 would have recognized the alleged 2SG forms as consistent with definite markers. Thus
 Evsevʹev includes the form ĺišme+t́eń with the contextual gloss horse_N+POSS-2SG>DAT,
 even though a second gloss horse_N+ DAT.DEF.SG would have well suited it in sentenceinitial topic position.
+
 (56)
 
 ĺišme+t́eń
@@ -15888,6 +15922,7 @@ possessor. Whereas the explicit marking of the forms pat́a+ń older-sister_N+PO
 object cross-referencing on the verbs, grammatical number in the possessa of the 2SG
 and 3SG is implicit and disambiguation is dependent upon the object cross-referencing
 strategy on the finite verbs, see (60–62).
+
 (60) a. večk+sak
 pat́a+ń
 love_V+IND.PRES.PRED-2SG>3SG older-sister_N+POSS-1SG>[KIN]GEN.SG
@@ -15896,6 +15931,7 @@ b. večk+si͔
 pat́a+n
 love_V+IND.PRES.PRED-2SG>3PL older-sister_N+POSS-1SG>GEN.PL
 (Nadʹkin 1968: 61) ‘you love my older sister’
+
 (61) a. večk+sazo
 pat́a+nt
 love_V+IND.PRES.PRED-3SG>3SG older-sister_N+POSS-2SG>GEN
@@ -15904,6 +15940,7 @@ b. večk+si͔ńźe
 pat́a+ nt
 love_V+IND.PRES.PRED-3SG>3PL older-sister_N+POSS-2SG>GEN
 (Nadʹkin 1968: 61) ‘he loves your older sisters’
+
 (62) a. večk+sak
 pat́a+nzo
 love_V+IND.PRES.PRED-2SG>3SG older-sister_N+POSS-3SG>GEN
@@ -15934,6 +15971,7 @@ Hypothetically, one would need to find contexts in which the possessum referent 
 on the animacy hierarchy and distinct. One would, preferably, also hope to find contexts
 which were not1SG-oriented. In the language of Erzya literature such contexts can be
 attested, see (63–64).
+
 (63)
 
 vit́ste
@@ -16515,6 +16553,7 @@ house/home_N+NOM.DEF.SG
 Head nouns can be preceded by single modifiers representing adjectives, quantifiers,
 spatial modifiers and determiners.
 Adjective + Noun + Cx
+
 (66)
 
 pokš
@@ -16560,10 +16599,9 @@ this_PRO-DEM-PROX.ABS house/home_N+NOM.DEF.SG
 ‘this house’
 
 <pgNo>176</pgNo>
-176
+
 (72)
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 ńe
 kudo+t́+ńe
 this_PRO-DEM-PROX.ABS house/home_N+PL+DEF.PL.NOM
@@ -16588,6 +16626,7 @@ NP = N, A + N, Q + N, SPATIAL + N, DET + N and GEN-ATTR + N
 
 Alternate ordering of head and modifier(s) will induce the addressee to perceive a complete sentence, although in context NP looking sequences can also be interpreted as complete sentences. Hence the upper-case letters in (76–77) indicate non-neutral, perhaps
 focus, predicate position.
+
 (74)
 
 kudo+ś
@@ -16626,6 +16665,7 @@ it will be observed that the adjective directly precedes the NP head, and that t
 modifier is also preposed in Erzya, preceding the adjective. The inessive marking in the
 locative modifier is indicative of an inessive NP ošso ‘in town’ that premodifies the noun
 phrase pokš kudoś ‘the big house’.
+
 (78)
 
 oš+so
@@ -16641,6 +16681,7 @@ to address a large portion of noun phrases in the Erzya corpora. Thus symmetry i
 expansion strategies goes generally uncompromised, i.e. the modified NPs can be further
 modified with quantifiers, determiners and even NPs or adpositional phrases in modifiercase forms (e.g. GEN, INE, ELA, PROL, COMP, ABE, TRNSL, LOC). Adjectives can co-occur with
 quantifiers or determiners or both, see (79–81).
+
 (79) a. kavto
 pokš
 kudo+so
@@ -16651,6 +16692,7 @@ pokš
 kudo+t́+ńe+se
 two_NUM-CARD.ABS big_A.ABS house/home_N+PL+DEF.PL+INE
 ‘in the/those/these two big houses’
+
 (80) a. t́e
 pokš
 kudo+so+ńt́
@@ -16661,6 +16703,7 @@ pokš
 kudo+t́+ńe+se
 these_PRON-DET-PL.ABS big_A.ABS house/home_N+PL+DEF.PL+INE
 ‘in these big houses’
+
 *(81) a. t́e
 kavto
 pokš
@@ -16693,6 +16736,7 @@ while the reverse ordering tumoń kośke ‘of oak, dry’ indicates that the he
 modifiers – an adjective kośke ‘dry’ and a preceding genitive attribute tumoń ‘of oak’
 NP. Let it suffice that we observe the following examples, derived from (Kolâdënkov
 1940: 24, 52; Bartens 1999: 111).
+
 (82)
 
 tumo+ń
@@ -16818,6 +16862,7 @@ Ermuškin 2004: 54; Keresztes 2005: 369–379; Zaicz 2006: 194–197 (who even m
 without example, tertiary declension); Gil WALS feature/chapter 61 ADJECTIVES WITHOUT
 NOUNS.)
 Adjective + Ø + Cx
+
 (88) a. pokš+oś
 big_A.ABS+N.NOM.DEF.SG
 (Bargova 1996: 68) ‘the/that/this big one’
@@ -16863,6 +16908,7 @@ The indefinite genitive modifiers, although unable to accommodate for this speci
 demonstrative pronoun śe ‘that’ before undergoing declension, which is not always demonstrative in type (cf. Ermuškin 2004: 57; Evsevʹev 1963: 126). (See also 89–92 and
 section 4.2.1.1. GENITIVE.)
 Genitive modifier + Pron-dem-dist + Ø + Cx
+
 (89)
 
 t́išaj+eń+śe+ś
@@ -16884,10 +16930,9 @@ hand_N+POSS-3SG>NOM.SG man_N+GEN+PRON-DEM-DIST+N.ABL heavy_A.NOM.SG
 (Abramov 1987: 41) ‘her [Maryusha's] hand was heavier than that of a man's (Maryusha hit Vasya unexpectedly hard)’
 
 <pgNo>182</pgNo>
-182
+
 (92)
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 paŕak,
 ńe+t́
 ĺed́śt́+ema+t́+ńe+d́e
@@ -16905,6 +16950,7 @@ spring [rain] to me’
 Rueter (2003: 165–166) provides an extensive enumeration of semantic properties associated with the target of genitive marking including: material, place, time, purpose, individual-to-group and group-to-inferable-capacity. This collection of semantic properties
 attributed to the target of genitive marking can be augmented with that of the animate
 possessor, as noted by Evsevʹev (1963: 126), see (93).
+
 (93)
 
 ki+ń
@@ -17114,6 +17160,7 @@ for clues. By searching for the 3SG adnominal cross-referential marker %OnzO wit
 subsequent declension marking, we immediately become aware of at least genitive
 and inessive forms of possessed nouns that allow for the simple-locus-shift variety of
 secondary declension, see (96–97).
+
 (96)
 
 čakš+oń
@@ -17142,10 +17189,9 @@ would make one like the ones his mother [made], and only when the rim was bent o
 did he see his container…’
 
 <pgNo>186</pgNo>
-186
+
 (97)
 
-ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
 śt́opa
 pškad́+ś
 alamo+s
@@ -17166,6 +17212,7 @@ Subsequent searches for distal-demonstrative secondary-declension derivations
 are perhaps less fruitful in the written corpora, see (98), but there are indications in
 descriptions of the language, and personal information on variants of the spoken language
 that would indicate a tangible presence of the demonstrative derivation type in Erzya.
+
 (98)
 
 – aźo
@@ -17198,6 +17245,7 @@ In addition to the spatial adverb demonstrated in (98), we will observe that Col
 abessive, comparative). Collinder shows hypostatization, another term to indicate the
 phenomenon of secondary declension, to be manifest in more elaborate word forms. The
 forms in context provide hypothetical formulations for scrutiny, see (99).
+
 (99) a. peĺ+an
 kudo+so+n+ʒ́e+de+ńt́
 peĺ+an
@@ -17298,6 +17346,7 @@ most prominent of these are the pronouns ĺija ‘another, the remainder’, eŕ
 iśt́amo ‘this/that kind of’ described by Agafonova (2000: 136–141). While Agafonova
 provides paradigms for these three determiners in eight morphological forms, the instances of these forms available in the Erzya majority corpus indicate that they are, in
 fact, manifestations of contextual secondary declension, see (100–101).
+
 (100)
 
 ` śe+jak
@@ -17340,6 +17389,7 @@ kind of [thing/car] – the thoughts in her head bubbled.’
 
 Additional determiners can be discerned in word forms derived with the morpheme -śe
 ~ %će, i.e. ordinal numerals and a limited number of other related words.
+
 (102)
 
 koda
@@ -17351,7 +17401,7 @@ give_V+IND.PRES.PRED-3SG
 (syatko 2003–9: ) ‘As they say, he [Kamil’] will give his last.’
 
 <pgNo>190</pgNo>
-190
+
 (103)
 
 ADNOMINAL PERSON IN THE MORPHOLOGICAL SYSTEM OF ERZYA
@@ -17425,6 +17475,7 @@ Genitive modifiers with adnominal-person marking are manifest in two parts of sp
 possessed nouns, e.g. ava+nzo+t́+ńe+ń mother_N+POSS-3SG.GEN+N.PL+DEF.PL+GEN, and the
 personal pronouns, which exhibit extended exponence in the marking of person and
 number in oblique case forms, see (104–105).
+
 (104) a. mińek+t́+ńe
 we_PRON-PERS-1PL.GEN.POSS-1PL:N+NOM.DEF.PL
 b. miń+śe+ńek+t́+ńe
@@ -17451,6 +17502,7 @@ the SOD marking strategy. Hypothetically, yet a third set might be rendered usin
 complex śet́e SOD pronoun, cf. (95). Curious enough, another form is also attested in
 the corpora with what appears to be a grammaticalization from the two separate %Oń+śe%
 morphemes to a single %Ońśe% morpheme head marker.
+
 (106)
 
 mińek+eń+śe+t́+ńe
@@ -17463,6 +17515,7 @@ This quantifier, like the associative-collective quantifiers with possible comit
 attestation, appears as a quantifier in apposition. As such it can also appear alone in
 context, and as a modifier of sorts. The corpora attest to one instance of secondary
 declension, see (107).
+
 (107)
 
 di͔
@@ -19260,6 +19313,7 @@ in the indicative present 2SG, see (1). Likewise, inﬂection involving the 1SG 
 declension nominative-plural or oblique morpheme in %ON is realized in a word form
 homonymous to a nominal conjugation form of that same stem in the indicative present
 1SG, see (2).
+
 (1)
 
 a. ava+T
