@@ -1,5 +1,11 @@
 # Adnominal Person in the Morphological System of Erzya
 
+<style>
+ pgNo {
+  color: #b30000;
+}
+</style>
+
 <pgNo>II</pgNo>
 <pgNo>III</pgNo>
 SUOMALAIS-UGRILAISEN SEURAN TOIMITUKSIA
@@ -1550,8 +1556,7 @@ languages such as Komi (cf. Kalima1910: 59))’.
 Since contact between the Erzya and Moksha languages is relatively limited, and
 their native speakers might resort to using a third, standardized language (Russian) for
 mutual communication with speakers of the other language, the concept of people speaking in “Mordvin” is close to that of a Dane and a Swede speaking at each other in their
-own respective languages, and having someone claim that they are speaking Skandi%
-naviska. But there actually are at least two schools of thought on the question of how
+own respective languages, and having someone claim that they are speaking Skandinaviska. But there actually are at least two schools of thought on the question of how
 many “Mordvin” languages there are, and the development of a mutually comprehensible Erzya-Moksha literary language is an interesting concept that has appeared and reappeared. Although the portions of the Bible have been translated into Erzya and Moksha,
 a tradition commenced at the beginning of the nineteenth century, plans were made in
 the 1920s (Bartens 1999: 22) to establish a mutual literary language for Erzya and Moksha alike. By 1928 two subcommittees had been established, one Erzya and the other
