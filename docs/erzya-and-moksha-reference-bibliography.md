@@ -270,6 +270,8 @@
 
 - Miestamo 2003: *Clausal Negation*, A Typogical Study. (Manuscript.) Accademic dissertation to be publicly discussed, by due permission of the Faculty of Arts at the University of Helsinki in auditorium XII, on the 25<sup>th</sup> of April, 2003 at 12 o'clock.
 
+- Molnár, Judit 2001: Avalente Verben im Erza-Mordwinischen. In *Zur (Morpho-)Syntax der uralischen Sprachen* [Specimina Sibirica 16]. J. Pusztay (ed.). Savarieae: Berzsényi Dániel tanárképző-főiskola.
+
 - Mosin, M. V. – N. S. Bajuškin 1983: *Ersämordvan oppikirja.* Apuneuvoja suomalais-ugrilaisten kielten opintoja varten VIII. Helsinki: Suomalais-Ugrilainen Seura.
 
 - Mosin, M. V. (Мосин М. В.) 2000: Прилагательноесь. *Эрзянь кель, морфемика, валонь теевема ды морфология*: Вузонь эрзянь ды финнэнь ожделениянь тонавтницятнень туртов /Редколлегиясь: Д.В. Цыганкин (отв. ред., Н. А. Агафонова, М. Д. Имайкина ды лият, 108&ndash;115. ― Саранск: Тип. «Крас. Окт.». 2000. ― 280 с. ― Мордов.-эрзя яз.
