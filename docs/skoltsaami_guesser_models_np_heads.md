@@ -37,16 +37,16 @@ Here the label *CONTEXTSETS* is used for positioning the pair symbol variation. 
 ```
 CONTEXTSETS1
 {âõe}:â =>
-.#. k u {âõe}:â {ʹØ}:0 {hi}:h {ʹØ}:0 t {tØ}:t {eØ}:0 a .#.     kueʹhtt+Num+Sg+Ill
-.#. k u {âõe}:â {ʹØ}:0 {hi}:i {ʹØ}:0 t {tØ}:0 {eØ}:0 l a ž .#. kueʹhtt+Num+Use/SpellNoSugg+Der+Der/lazh+A+Sg+Nom
+.#. k u _ {ʹØ}:0 {hi}:h {ʹØ}:0 t {tØ}:t {eØ}:0 a .#.     kueʹhtt+Num+Sg+Ill
+.#. k u _ {ʹØ}:0 {hi}:i {ʹØ}:0 t {tØ}:0 {eØ}:0 l a ž .#. kueʹhtt+Num+Use/SpellNoSugg+Der+Der/lazh+A+Sg+Nom
 {âõe}:õ =>
-.#. k u {âõe}:õ {ʹØ}:0 {hi}:i {ʹØ}:ʹ t {tØ}:0 {eØ}:0 i .#. kueʹhtt+Num+Pl+Gen
+.#. k u _ {ʹØ}:0 {hi}:i {ʹØ}:ʹ t {tØ}:0 {eØ}:0 i .#. kueʹhtt+Num+Pl+Gen
 {âõe}:e =>
-.#. k u {âõe}:e {ʹØ}:ʹ {hi}:h {ʹØ}:0 t {tØ}:t {eØ}:0 .#. kueʹhtt+Num+Sg+Nom
-.#. k u {âõe}:e {ʹØ}:ʹ {hi}:h {ʹØ}:0 t {tØ}:t {eØ}:0 .#. kueʹhtt+Num+Sg+Acc
-.#. k u {âõe}:e {ʹØ}:0 {hi}:i {ʹØ}:ʹ t {tØ}:0 {eØ}:0 .#.     kueʹhtt+Num+Sg+Gen
-.#. k u {âõe}:e {ʹØ}:0 {hi}:i {ʹØ}:ʹ t {tØ}:0 {eØ}:e s t .#.   kueʹhtt+Num+Sg+Loc
-.#. k u {âõe}:e {ʹØ}:ʹ {hi}:h {ʹØ}:0 t {tØ}:t {eØ}:e n .#.     kueʹhtt+Num+Sg+Ess
+.#. k u _ {ʹØ}:ʹ {hi}:h {ʹØ}:0 t {tØ}:t {eØ}:0 .#. kueʹhtt+Num+Sg+Nom
+.#. k u _ {ʹØ}:ʹ {hi}:h {ʹØ}:0 t {tØ}:t {eØ}:0 .#. kueʹhtt+Num+Sg+Acc
+.#. k u _ {ʹØ}:0 {hi}:i {ʹØ}:ʹ t {tØ}:0 {eØ}:0 .#.     kueʹhtt+Num+Sg+Gen
+.#. k u _ {ʹØ}:0 {hi}:i {ʹØ}:ʹ t {tØ}:0 {eØ}:e s t .#.   kueʹhtt+Num+Sg+Loc
+.#. k u _ {ʹØ}:ʹ {hi}:h {ʹØ}:0 t {tØ}:t {eØ}:e n .#.     kueʹhtt+Num+Sg+Ess
 
 CONTEXTSETS2
 {ʹØ}:ʹ =>
