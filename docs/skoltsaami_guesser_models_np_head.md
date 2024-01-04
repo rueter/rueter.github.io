@@ -1,6 +1,7 @@
 # Guesser for sms NP heads
 
-ID__NEXT__MPHON__COMMENT
+## ID__NEXT__MPHON__COMMENT
+
 `__NMN001E-Aa-VVCC__<Co* [õ:{õâ} õ:{õâØ}|u:{uo} u:{uoØ}|o:{oå} o:{oåØ}|a:{aä} a:{aäØ}|i:{iẹe} i:{iẹØ}] ʹ:{ʹØ} [đ đ:{đØ}|j j:{jØ}|l l:{lØ}|l l:{lØ} j|m m:{mØ}|n n:{nØ}|n n:{nØ} j|b b:{bØ}|d d:{dØ}|ʒ ʒ:{ʒØ}|ǯ ǯ:{ǯØ}|ŋ ŋ:{ŋØ}|r r:{rØ}|v v:{vØ}|z z:{zØ}] â d>__SAAĐĐÂD CÕÕJJÂD PÕÕLLÂD GROOMMÂD MÕÕNNÂD POONNJÂD IIŊŊÂD POORRÂD SIIVVÂD TUUZZÂD`
 
 `__NMN001E-Ab-VVCC__<Co* [õ:{õâ} õ:{õâØ}|u:{uo} u:{uoØ}|o:{oå} o:{oåØ}|a:{aä} a:{aäØ}|i:{iẹ} i:{iẹØ}] ʹ:{ʹØ} [p:v p:{pØ}|t:đ t:{tØ}] â d>__KOOPPÂD LOOTTÂD`
