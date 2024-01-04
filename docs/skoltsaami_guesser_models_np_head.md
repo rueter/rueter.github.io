@@ -29,7 +29,10 @@ k u {âõe}:â {ʹØ}:0 {hi}:i {ʹØ}:0 t {tØ}:0 {eØ}:0 l a ž     kueʹhtt+Nu
 ```
 
 RULES kueʹhtt 'two' (13 rules)
-# 406
+
+Here the label *CONTEXTSETS* is used for positioning the pair symbol variation. Pair symbols are enumerated left to right. If the same pair symbol occurs more than once in a given stem, these contexts will be made adjacent to ease inspection[^1].
+
+[^1]:The letters *v* and *h* may alternate with the vowels *u* and *i*. When this happens, the position of the softsign is always right of the last vowel.
 
 ```
 CONTEXTSETS1
