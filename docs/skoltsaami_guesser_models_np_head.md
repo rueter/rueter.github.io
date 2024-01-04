@@ -16,6 +16,7 @@
 `__NMN001E-Ae-VWhCC__<Co* [ i:{ie} e:{âäõ} | i:{ie} e:{eẹä} | u ä:{äeẹ} | u e:{õâe} ] ˈ:{ˈØ} ʹ:{ʹØ} h:{ʹØ} [t t:{tØ}] [0:{eØ}]>__`
 
 !!€gt-norm: kueʹhtt #
+`
 k u {âõe}:e {ʹØ}:ʹ {hi}:h {ʹØ}:0 t {tØ}:t {eØ}:0       kueʹhtt+Num+Sg+Nom
 k u {âõe}:e {ʹØ}:ʹ {hi}:h {ʹØ}:0 t {tØ}:t {eØ}:0       kueʹhtt+Num+Sg+Acc
 k u {âõe}:e {ʹØ}:0 {hi}:i {ʹØ}:ʹ t {tØ}:0 {eØ}:0       kueʹhtt+Num+Sg+Gen
@@ -24,10 +25,12 @@ k u {âõe}:e {ʹØ}:0 {hi}:i {ʹØ}:ʹ t {tØ}:0 {eØ}:e s t   kueʹhtt+Num+Sg+
 k u {âõe}:e {ʹØ}:ʹ {hi}:h {ʹØ}:0 t {tØ}:t {eØ}:e n     kueʹhtt+Num+Sg+Ess
 k u {âõe}:õ {ʹØ}:0 {hi}:i {ʹØ}:ʹ t {tØ}:0 {eØ}:0 i   kueʹhtt+Num+Pl+Gen
 k u {âõe}:â {ʹØ}:0 {hi}:i {ʹØ}:0 t {tØ}:0 {eØ}:0 l a ž     kueʹhtt+Num+Use/SpellNoSugg+Der+Der/lazh+A+Sg+Nom
+`
 
-
-RULES kueʹhtt 'two' (11 rules)
+RULES kueʹhtt 'two' (13 rules)
 # 406
+
+`
 CONTEXTSETS1
 {âõe}:â =>
 .#. k u {âõe}:â {ʹØ}:0 {hi}:h {ʹØ}:0 t {tØ}:t {eØ}:0 a .#.     kueʹhtt+Num+Sg+Ill
@@ -101,7 +104,7 @@ CONTEXTSETS6
 .#. k u {âõe}:â {ʹØ}:0 {hi}:h {ʹØ}:0 t {tØ}:t _ a .#.     kueʹhtt+Num+Sg+Ill
 .#. k u {âõe}:õ {ʹØ}:0 {hi}:i {ʹØ}:ʹ t {tØ}:0 _ i .#.     kueʹhtt+Num+Pl+Gen
 .#. k u {âõe}:â {ʹØ}:0 {hi}:i {ʹØ}:0 t {tØ}:0 _ l a ž .#. kueʹhtt+Num+Use/SpellNoSugg+Der+Der/lazh+A+Sg+Nom
-
+`
 
 
 RESOURCES:
