@@ -1,19 +1,20 @@
 # Erzya Grammar by Erina & Rueter
 
 
-- *m o r ^a^ > A:a n*
-- *m o r ^a^ > A:a t*
-- *m o r ^a^ > ɪ*
+- *m o r a̸ > A:a n*
+- *m o r a̸ > A:a t*
+- *m o r a̸ > ɪ*
 - *m o r a > t A:a n o*
 - *m o r a > t A:a d o*
-- *m o r ^a^ > ɪ t́*
+- *m o r a̸ > ɪ t́*
 
-- *mor^~~a~~^>A:an*
-- *mor^~~a~~^A:at*
-- *mor^~~a~~^>ɪ*
-- *m o r a > t A:a n o*
-- *m o r a > t A:a d o*
-- *mor^~~a~~^ɪt́*
+- *мораО̸мс*
+- *мора̸>A:an*
+- *мора̸>A:at*
+- *мора̸>ɪ*
+- *мора>тА:ано*
+- *мора>тА:адо*
+- *мора̸>ɪt́*
 
 
 ## Ablative -TO
