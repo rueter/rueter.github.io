@@ -1,5 +1,19 @@
 # Erzya Grammar by Erina & Rueter
 
+*m o r ~~a~~ > A:a n*
+*m o r ~~a~~ > A:a t*
+*m o r ~~a~~ > ɪ*
+*m o r a > t A:a n o*
+*m o r a > t A:a d o*
+*m o r ~~a~~ > ɪ t́*
+
+*mor~~a~~>A:an*
+*mor~~a~~A:at*
+*mor~~a~~>ɪ*
+*m o r a > t A:a n o*
+*m o r a > t A:a d o*
+*mor~~a~~ɪt́*
+
 ## Ablative -TO
 ### standard of comparison
 Седе алов
@@ -106,3 +120,4 @@ mdf:(1)
 
 
 (Bartens, Raija 1999: 93–95)
+
