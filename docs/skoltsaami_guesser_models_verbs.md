@@ -32,7 +32,7 @@ p {oå}:å {oåØ}:0 {ʹØ}:0 r {rØ}:r {âØ}:0 > a z          poorrâd+V+Imprt
 ```
 
 RULES poorrâd 'eat' (11 rules)
-# 406
+
 
 ```
 CONTEXTSETS1
