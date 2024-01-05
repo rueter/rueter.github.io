@@ -1,6 +1,6 @@
 # Skolt Saami guesser consonants
 
-XYY compound consonant
+XYY consonant clusters
 
 |X|bb|cc|čč|ʒʒ|ǯǯ|dd|đđ|gg|ǧǧ|jj|kk|ǩǩ|ll|llj|mm|nn|nnj|ŋŋ|pp|rr|ss|šš|tt|vv|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
