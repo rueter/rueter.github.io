@@ -23,7 +23,7 @@ XYY consonant clusters
 |s|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|tiskk|veäʹsǩǩ|NA|NA|lõsmm|täʹsnn|NA|NA|pispp|NA|NA|NA|lõstt|tosvveei|
 |š|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|juškk|leʹšǩǩ|NA|NA|pašmm|võšnn|NA|NA|NA|NA|NA|NA|moštt|käʹšvv|
 |t|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|kotkk|mäʹtǩǩ|NA|NA|rytmm|pietnn|NA|NA|NA|NA|NA|NA|NA|NA|
-|u|bb|NA|NA|sauʒʒ|čeuʹǯǯ|čõuʹdd|đđ|reâugg|riuʹǧǧi|čåuʹjj|kk|tåuʹǩǩ|ll|llj|mm|käuʹnn|nnj|rouʹŋŋel|pp|jäuʹrr|ss|šš|tt|vv|
+|u|NA|NA|NA|sauʒʒ|čeuʹǯǯ|čõuʹdd|đđ|reâugg|riuʹǧǧi|čåuʹjj|kk|tåuʹǩǩ|läullad|NA|NA|käuʹnn|ǩeunnjad|rouʹŋŋel|kaupp|jäuʹrr|NA|NA|NA|åuvvad|
 |v|NA|NA|NA|muvʒʒi|čuvǯǯ|luʹvdd|livđđ|NA|juʹvǧǧeed|uvjj|lavkk|cuʹvǩǩeed|vuʹvll|NA|NA|tuʹvnn|NA|NA|NA|puʹvrr|NA|NA|tivtt|NA|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
