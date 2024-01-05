@@ -2,19 +2,62 @@
 
 ## ID__NEXT__MPHON__COMMENT
 
+`__NMN001_1Y-VCC__<Co* [{õâ}:õ {õâØ}:0 |{uo}:u {uoØ}:0 |{oå}:o {oåØ}:0|{aä}:a {aäØ}:0|{iẹe}:i {iẹØ}:0] {ʹØ}:0 [đ {đØ}:đ|j {jØ}:j|l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|z {zØ}:z] {âØ}:0>__PAPP`
+
+`__NMN001_1Y-VXYY__<Co* [{õâ}:õ {õâØ}:0 |{uo}:u {uoØ}:0 |{oå}:o {oåØ}:0|{aä}:a {aäØ}:0|{iẹe}:i {iẹØ}:0] {ʹØ}:0
+
+b = [đ {đØ}:đ|b j {jØ}:j|b l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|s {sØ}:s|š {šØ}:š| t {tØ}:t]
+
+c = [đ {đØ}:đ|j {jØ}:j|c {kǩ}:k {kǩØ}:k|l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|z {zØ}:z]
+
+g = [đ {đØ}:đ|j {jØ}:j|l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|g r {rØ}:r|v {vØ}:v|s {sØ}:s|t {tØ}:t]
+
+h = [đ {đØ}:đ|j {jØ}:j|h l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|s {sØ}:s|t {tØ}:t]
+
+k = [đ {đØ}:đ|j {jØ}:j|l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|k s {sØ}:s|k t {tØ}:t]
+
+l = [l b {bØ}:b| l d {dØ}:d|đ {đØ}:đ|l {gǧjǥ}:g {gǧ}:g |l j {jØ}:j|l {kǩ}:k {kǩØ}:k|l m {mØ}:m|n {nØ}:n|n {nØ}:n j|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|l s {sØ}:s|l t {tØ}:t|l v {vØ}:v|z {zØ}:z]
+
+m = [m b {bØ}:b| đ {đØ}:đ|j {jØ}:j|l {lØ}:l|l {lØ}:l j|m n {nØ}:n|n {nØ}:n j|m p {pØ}:p|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|z {zØ}:z]
+
+n = [n d {dØ}:d|đ {đØ}:đ|n j {jØ}:j|n {kǩ}:k {kǩØ}:k|l {lØ}:l|l {lØ}:l j|m {mØ}:m|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|n s {sØ}:s|n t {tØ}:t|v {vØ}:v|z {zØ}:z]
+
+ŋ = [đ {đØ}:đ|ŋ {gǥǧj}:g {gǧØ}:g|j {jØ}:j|ŋ {kǩ}:k {kǩØ}:k|l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|z {zØ}:z]
+
+p = [đ {đØ}:đ|j {jØ}:j|l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|p s {sØ}:s|p š {šØ}:š| p t {tØ}:t]
+
+r = [r b {bØ}:b|r c {cØ}:c|r d {dØ}:d|đ {đØ}:đ|r {gǥǧj}:g {gǧØ}:g|j {jØ}:j|r {kǩ}:k {kǩØ}:k|r k t {tØ}:t|l {lØ}:l|l {lØ}:l j|r m {mØ}:m|r n {nØ}:n|n {nØ}:n j|r ŋ {ŋØ}:ŋ|r p {pØ}:p|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r s {sØ}:s| r š {šØ}:š|r t {tØ}:t|r v {vØ}:v|z {zØ}:z]
+
+s = [đ {đØ}:đ|j {jØ}:j|s {kǩ}:k {kǩØ}:k|l {lØ}:l|l {lØ}:l j|s m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|s p {pØ}:p|s t {tØ}:t |v {vØ}:v|z {zØ}:z]
+
+š = [đ {đØ}:đ|j {jØ}:j|š {kǩ}:k {kǩØ}:k|l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|z {zØ}:z]
+
+t = [đ {đØ}:đ|j {jØ}:j|t {kǩ}:k {kǩØ}:k|l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|z {zØ}:z]
+
+v = [v đ {đØ}:đ|j {jØ}:j|l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|z {zØ}:z]
+
+
+[đ {đØ}:đ|j {jØ}:j|l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|z {zØ}:z]
+[đ {đØ}:đ|j {jØ}:j|l {lØ}:l|l {lØ}:l j|m {mØ}:m|n {nØ}:n|n {nØ}:n j|b {bØ}:b|d {dØ}:d|ʒ {ʒØ}:ʒ|ǯ {ǯØ}:ǯ|ŋ {ŋØ}:ŋ|r {rØ}:r|v {vØ}:v|z {zØ}:z]
+
+{âØ}:0>__ALGG`
+
+
+
+`__NMN001E-Ba-VCC__<Co* [õ:{õâ} õ:{õâØ}|u:{uo} u:{uoØ}|o:{oå} o:{oåØ}|a:{aä} a:{aäØ}|i:{iẹe} i:{iẹØ}] ʹ:{ʹØ} [đ đ:{đØ}|j j:{jØ}|l l:{lØ}|l l:{lØ} j|m m:{mØ}|n n:{nØ}|n n:{nØ} j|b b:{bØ}|d d:{dØ}|ʒ ʒ:{ʒØ}|ǯ ǯ:{ǯØ}|ŋ ŋ:{ŋØ}|r r:{rØ}|v v:{vØ}|z z:{zØ}] â:0>__PAPP`
+
 `__NMN001E-Aa-VVCC__<Co* [õ:{õâ} õ:{õâØ}|u:{uo} u:{uoØ}|o:{oå} o:{oåØ}|a:{aä} a:{aäØ}|i:{iẹe} i:{iẹØ}] ʹ:{ʹØ} [đ đ:{đØ}|j j:{jØ}|l l:{lØ}|l l:{lØ} j|m m:{mØ}|n n:{nØ}|n n:{nØ} j|b b:{bØ}|d d:{dØ}|ʒ ʒ:{ʒØ}|ǯ ǯ:{ǯØ}|ŋ ŋ:{ŋØ}|r r:{rØ}|v v:{vØ}|z z:{zØ}] â d>__SAAĐĐÂD CÕÕJJÂD PÕÕLLÂD GROOMMÂD MÕÕNNÂD POONNJÂD IIŊŊÂD POORRÂD SIIVVÂD TUUZZÂD`
 
 `__NMN001E-Ab-VVCC__<Co* [õ:{õâ} õ:{õâØ}|u:{uo} u:{uoØ}|o:{oå} o:{oåØ}|a:{aä} a:{aäØ}|i:{iẹ} i:{iẹØ}] ʹ:{ʹØ} [p:v p:{pØ}|t:đ t:{tØ}] â d>__KOOPPÂD LOOTTÂD`
 
 `__NMN001E-Ac-VVCC__<Co* [õ:{õâ} õ:{õâØ}|u:{uo} u:{uoØ}|o:{oå} o:{oåØ}|a:{aä} a:{aäØ}|i:{iẹe} i:{iẹØ}] ʹ:{ʹØ} [k:{kǩǥ} k:{kǩǥØ}|s:{sz} s:{szØ}|š:{šž} š:{šžØ}|č:{čj} č:{čjØ}|c:{cʒ} c:{cʒØ}] â d>__LÕÕCCÂD LÕÕČČÂD VIIKKÂD AASSÂD MAAŠŠÂD `
 
-`__NMN001E-Ba-VCC__<Co* [õ:{õâ} õ:{õâØ}|u:{uo} u:{uoØ}|o:{oå} o:{oåØ}|a:{aä} a:{aäØ}|i:{iẹe} i:{iẹØ}] ʹ:{ʹØ} [đ đ:{đØ}|j j:{jØ}|l l:{lØ}|l l:{lØ} j|m m:{mØ}|n n:{nØ}|n n:{nØ} j|b b:{bØ}|d d:{dØ}|ʒ ʒ:{ʒØ}|ǯ ǯ:{ǯØ}|ŋ ŋ:{ŋØ}|r r:{rØ}|v v:{vØ}|z z:{zØ}] â d>__njabbâd kõččâd koǯǯâd kõʒʒâd laddâd cõggâd cakkâd rõppâd cirrâd tissâd suttâd rõvvâd  `
-
 `__NMN001E-Ca-VWC3__<Co* [ i:{ie} â:{âeä} | i:{ie} õ:{õâä} | u å:{åäe} | u õ:{õâe} ] ˈ:{ˈØ} ʹ:{ʹØ} [đ ˈ:{ˈØ} đ:{đØ}|j ˈ:{ˈØ} j:{jØ}|l ˈ:{ˈØ} l:{lØ}|l ˈ:{ˈØ} l:{lØ} j|m ˈ:{ˈØ} m:{mØ}|n ˈ:{ˈØ} n:{nØ}|n ˈ:{ˈØ} n:{nØ} j|b ˈ:{ˈØ} b:{bØ}|d ˈ:{ˈØ} d:{dØ}|ʒ ˈ:{ˈØ} ʒ:{ʒØ}|ǯ ˈ:{ˈØ} ǯ:{ǯØ}|ŋ ˈ:{ˈØ} ŋ:{ŋØ}|r ˈ:{ˈØ} r:{rØ}|v ˈ:{ˈØ} v:{vØ}|z ˈ:{ˈØ} z:{zØ}] â d>__riâddâd čuõppâd`
 
 
 `__NMN001E-Ae-VWhCC__<Co* [ i:{ie} e:{âäõ} | i:{ie} e:{eẹä} | u ä:{äeẹ} | u e:{õâe} ] ˈ:{ˈØ} ʹ:{ʹØ} h:{ʹØ} [t t:{tØ}] [0:{eØ}]>__`
 
+# NMN001_1Y-VCC
 # Noun 'priest/pappi' - full paradigm .#.     Noun - papp â-stem 
 .#. p a {aØ}:0 {ʹØ}:0 p {pØ}:p {âØ}:0 .#.     papp+N+Sg+Nom
 .#. paapp .#.     papp+N+Sg+Gen
@@ -24,6 +67,209 @@
 .#. pappân .#.     papp+N+Ess
 .#. paappi .#.     papp+N+Pl+Gen
 
+# NMN001_1Y-VXYY
+# Noun 'beginning/alku' - full paradigm .#.     Noun - algg â-stem 
+.#. a {aØ}:0 l {gǧǥj}:g {gǧØ}:g {âØ}:0 .#.     algg+N+Sg+Nom
+.#. aalǥ .#.     algg+N+Sg+Gen
+.#. aʹlǧǧe .#.     algg+N+Sg+Ill
+.#. aalǥâst .#.     algg+N+Sg+Loc
+.#. [alǥstan, aalǥstan] .#.     algg+N+Sg+Loc+PxSg1
+.#. alggân .#.     algg+N+Ess
+.#. aalǥi .#.     algg+N+Pl+Gen
+
+
+# Noun 'river' - full paradigm .#.     Noun - jokk â-stem
+.#. j o {oØ}:0 {ʹØ}:0 {kǩjǥ}:k {kǩjǥØ}:k {âØ}:0 .#.     jokk+Hom1+N+Sg+Nom
+.#. jooǥǥ .#.     jokk+Hom1+N+Sg+Gen
+.#. joʹǩǩe .#.     jokk+Hom1+N+Sg+Ill
+.#. jooǥǥâst .#.     jokk+Hom1+N+Sg+Loc
+.#. joǥstes .#.     jokk+Hom1+N+Sg+Loc+PxSg3
+.#. jokkân .#.     jokk+Hom1+N+Ess
+.#. jooǥǥi .#.     jokk+Hom1+N+Pl+Gen
+.#. jooʹjje .#.     jokk+Hom1+N+Der/Dimin+N+Pl+Nom
+
+# Noun 'spring' - full paradigm .#.     Noun - ǩiđđ â-stem
+.#. ǩiđđ .#.     ǩiđđ+N+Sg+Nom
+.#. ǩiiđ .#.     ǩiđđ+N+Sg+Gen
+.#. ǩiiđ .#.     ǩiđđ+N+Sg+Acc
+.#. ǩiʹđđe .#.     ǩiđđ+N+Sg+Ill
+.#. ǩiiđâst .#.     ǩiđđ+N+Sg+Loc
+.#. ǩiiđin .#.     ǩiđđ+N+Sg+Com
+.#. ǩiđđân .#.     ǩiđđ+N+Ess
+.#. ǩiđđâd .#.     ǩiđđ+N+Par
+.#. [ǩiiđtaa, ǩiiđtää] .#.     ǩiđđ+N+Sg+Abe
+.#. ǩiiđ .#.     ǩiđđ+N+Pl+Nom
+.#. ǩiiđi .#.     ǩiđđ+N+Pl+Gen
+
+.#.# Noun - full paradigm.#.     Noun - luukk e-stem sipuli
+.#.luukk.#.     luukk+N+Sg+Nom
+.#.luukk.#.     luukk+N+Sg+Gen
+.#.luukk.#.     luukk+N+Sg+Acc
+.#.luuʹǩǩe.#.     luukk+N+Sg+Ill
+.#.luukkâst.#.     luukk+N+Sg+Loc
+.#.luukkin.#.     luukk+N+Sg+Com
+.#.luukkân.#.     luukk+N+Ess
+.#.luukkâd.#.     luukk+N+Par
+.#.[luukktaa, luukktää].#.     luukk+N+Sg+Abe
+.#.luukk.#.     luukk+N+Pl+Nom
+.#.luukki.#.     luukk+N+Pl+Gen
+
+.#.# Noun 'pari' - full paradigm.#.     Noun - paarr â-stem
+.#.paarr.#.     paarr+N+Sg+Nom
+.#.paar.#.     paarr+N+Sg+Gen
+.#.paar.#.     paarr+N+Sg+Acc
+.#.paʹrre.#.     paarr+N+Sg+Ill
+.#.paarâst.#.     paarr+N+Sg+Loc
+.#.paarin.#.     paarr+N+Sg+Com
+.#.paarrân.#.     paarr+N+Ess
+.#.paarrâd.#.     paarr+N+Par
+.#.[paartaa, paartää].#.     paarr+N+Sg+Abe
+.#.paar.#.     paarr+N+Pl+Nom
+.#.paari.#.     paarr+N+Pl+Gen
+
+.#.# Noun 'message' 1.1.1.1.1.1.2.1.3 - full paradigm.#.     Noun - saakk â-stem
+.#.167).#.     # 1. WORDS WITH SINGLE-SYLLABLE NOMINATIVE SINGULARS (2009
+# 1.1 Sg.Loc in -âst. â-stems (Sg.Loc, Ess, Par).
+# 1.1.1 Sg.Ill in ʹ-e
+# 1.1.1.1 Has Gradation
+# 1.1.1.1.1 Monophthong
+# 1.1.1.1.1.1 Homogenous Consonant
+# 1.1.1.1.1.1.2 Sg.Nom Strong Grade
+# 1.1.1.1.1.1.2.1.Sg.Gen Weak Grade
+# 1.1.1.1.1.1.2.1.3 Sg.Ill Extra Strong Grade
+
+.#.saakk.#.     saakk+N+Sg+Nom
+.#.saaǥǥ.#.     saakk+N+Sg+Gen
+.#.saaǥǥ.#.     saakk+N+Sg+Acc
+.#.saʹǩǩe.#.     saakk+N+Sg+Ill
+.#.saaǥǥâst.#.     saakk+N+Sg+Loc
+.#.saaǥǥin.#.     saakk+N+Sg+Com
+.#.saakkân.#.     saakk+N+Ess
+.#.saakkâd.#.     saakk+N+Par
+.#.[saaǥǥtaa, saaǥǥtää].#.     saakk+N+Sg+Abe
+.#.saaǥǥ.#.     saakk+N+Pl+Nom
+.#.saaǥǥi.#.     saakk+N+Pl+Gen
+
+.#.# Noun 'kaulaliina' - full paradigm.#.     Noun - šaarf â-stem
+.#.šaarf.#.     šaarf+N+Sg+Nom
+.#.šaarf.#.     šaarf+N+Sg+Gen
+.#.šaarf.#.     šaarf+N+Sg+Acc
+.#.šaaʹrfe.#.     šaarf+N+Sg+Ill
+.#.šaarfâst.#.     šaarf+N+Sg+Loc
+.#.šaarfin.#.     šaarf+N+Sg+Com
+.#.šaarfân.#.     šaarf+N+Ess
+.#.šaarfâd.#.     šaarf+N+Par
+.#.[šaarftaa, šaarftää].#.     šaarf+N+Sg+Abe
+.#.šaarf.#.     šaarf+N+Pl+Nom
+.#.šaarfi.#.     šaarf+N+Pl+Gen
+
+.#.# Noun 'village' - full paradigm.#.     Noun - sijdd
+.#.sijdd.#.     sijdd+N+Sg+Nom
+.#.siid.#.     sijdd+N+Sg+Gen
+.#.siid.#.     sijdd+N+Sg+Acc
+.#.siʹjdde.#.     sijdd+N+Sg+Ill
+.#.siidâst.#.     sijdd+N+Sg+Loc
+.#.siidin.#.     sijdd+N+Sg+Com
+.#.sijddân.#.     sijdd+N+Ess
+.#.sijddâd.#.     sijdd+N+Par
+.#.[siidtaa, siidtää].#.     sijdd+N+Sg+Abe
+.#.siid.#.     sijdd+N+Pl+Nom
+.#.siidi.#.     sijdd+N+Pl+Gen
+
+.#.# Noun 'embrace' - full paradigm.#.     Noun - sõll â-stem 
+.#.167).#.     # 1. WORDS WITH SINGLE-SYLLABLE NOMINATIVE SINGULARS (2009
+# 1.1 Sg.Loc in -âst. â-stems (Sg.Loc, Ess, Par).
+# 1.1.1 Sg.Ill in ʹ-e
+# 1.1.1.1 Has Gradation
+# 1.1.1.1.1 Monophthong
+# 1.1.1.1.1.1 Homogenous Consonant
+# 1.1.1.1.1.1.2 Sg.Nom Extra Strong Grade
+# 1.1.1.1.1.1.2.1.Sg.Gen Weak Grade
+# 1.1.1.1.1.1.2.1.3 Sg.Ill Extra Strong Grade
+.#.sõll.#.     sõll+N+Sg+Nom
+.#.sõõl.#.     sõll+N+Sg+Gen
+.#.sõõl.#.     sõll+N+Sg+Acc
+.#.sõʹlle.#.     sõll+N+Sg+Ill
+.#.sõõlâst.#.     sõll+N+Sg+Loc
+.#.sõõlin.#.     sõll+N+Sg+Com
+.#.sõllân.#.     sõll+N+Ess
+.#.sõllâd.#.     sõll+N+Par
+.#.[sõõltaa, sõõltää].#.     sõll+N+Sg+Abe
+.#.sõõl.#.     sõll+N+Pl+Nom
+.#.sõõli.#.     sõll+N+Pl+Gen
+
+.#.# Noun 'fire' - full paradigm.#.     Noun - toll â-stem 
+.#.toll.#.     toll+N+Sg+Nom
+.#.tool.#.     toll+N+Sg+Gen
+.#.tool.#.     toll+N+Sg+Acc
+.#.toʹlle.#.     toll+N+Sg+Ill
+.#.toolâst.#.     toll+N+Sg+Loc
+.#.toolin.#.     toll+N+Sg+Com
+.#.tollân.#.     toll+N+Ess
+.#.tollâd.#.     toll+N+Par
+.#.[tooltaa, tooltää].#.     toll+N+Sg+Abe
+.#.tool.#.     toll+N+Pl+Nom
+.#.tooli.#.     toll+N+Pl+Gen
+
+.#.# Noun 'blood/veri' - full paradigm.#.     Noun - võrr â-stem
+.#.võrr.#.     võrr+N+Sg+Nom
+.#.võõr.#.     võrr+N+Sg+Gen
+.#.võõr.#.     võrr+N+Sg+Acc
+.#.võʹrre.#.     võrr+N+Sg+Ill
+.#.võõrâst.#.     võrr+N+Sg+Loc
+.#.võõrin.#.     võrr+N+Sg+Com
+.#.võrrân.#.     võrr+N+Ess
+.#.võrrâd.#.     võrr+N+Par
+.#.[võõrtaa, võõrtää].#.     võrr+N+Sg+Abe
+.#.võõr.#.     võrr+N+Pl+Nom
+.#.võõri.#.     võrr+N+Pl+Gen
+
+
+# Noun e-stem "hand, arm/käsi" - full paradigm .#.     Noun - ǩiõtt
+.#. ǩiõtt .#.     ǩiõtt+N+Sg+Nom
+.#. ǩiõđ .#.     ǩiõtt+N+Sg+Gen
+.#. ǩiõđ .#.     ǩiõtt+N+Sg+Acc
+.#. ǩiõʹtte .#.     ǩiõtt+N+Sg+Ill
+.#. ǩiõđâst .#.     ǩiõtt+N+Sg+Loc
+.#. ǩiõđin .#.     ǩiõtt+N+Sg+Com
+.#. ǩiõttân .#.     ǩiõtt+N+Ess
+.#. ǩiõttâd .#.     ǩiõtt+N+Par
+.#. [ǩiõđtaa, ǩiõđtää] .#.     ǩiõtt+N+Sg+Abe
+.#. ǩiõđ .#.     ǩiõtt+N+Pl+Nom
+.#. ǩiõđi .#.     ǩiõtt+N+Pl+Gen
+.#. ǩiõtˈtnan .#.     ǩiõtt+N+Ess+PxSg1
+
+# Noun - full paradigm .#.     Noun - ǩiâpp e-stem verkkokäpy
+.#. ǩiâpp .#.     ǩiâpp+N+Sg+Nom
+.#. ǩiâv .#.     ǩiâpp+N+Sg+Gen
+.#. ǩiâv .#.     ǩiâpp+N+Sg+Acc
+.#. ǩieʹpˈpe .#.     ǩiâpp+N+Sg+Ill
+.#. ǩiâvâst .#.     ǩiâpp+N+Sg+Loc
+.#. ǩiâvin .#.     ǩiâpp+N+Sg+Com
+.#. ǩiâppân .#.     ǩiâpp+N+Ess
+.#. ǩiâppâd .#.     ǩiâpp+N+Par
+.#. [ǩiâvtaa, ǩiâvtää] .#.     ǩiâpp+N+Sg+Abe
+.#. ǩiâv .#.     ǩiâpp+N+Pl+Nom
+.#. ǩiâvi .#.     ǩiâpp+N+Pl+Gen
+
+# Noun - full paradigm .#.     Noun - miârr e-stem sea/meri
+.#. m i {âe}:â {ˈØ}:0 {ʹØ}:0 r {ˈØ}:0 {rØ}:r {âØ}:0 .#.     miârr+N+Sg+Nom
+.#. miâr .#.     miârr+N+Sg+Gen
+.#. mieʹrˈre .#.     miârr+N+Sg+Ill
+.#. miârâst .#.     miârr+N+Sg+Loc
+.#. miârrân .#.     miârr+N+Ess
+.#. miâri .#.     miârr+N+Pl+Gen
+
+# Noun - full paradigm .#.     Noun - muõrr e-stem puu
+.#. m u õ {ˈØ}:0 {ʹØ}:0 r {ˈØ}:0 {rØ}:r {âØ}:0 .#.     muõrr+N+Sg+Nom
+.#. muõr .#.     muõrr+N+Sg+Gen
+.#. muõʹrˈre .#.     muõrr+N+Sg+Ill
+.#. muõrâst .#.     muõrr+N+Sg+Loc
+.#. muõrrân .#.     muõrr+N+Ess
+.#. muõri .#.     muõrr+N+Pl+Gen
+.#. muõˈrstan .#.     muõrr+N+Sg+Loc+PxSg1
+.#. muõʹre .#.     muõrr+N+Der/Dimin+N+Sg+Gen
+
 # Noun 'car/auto' - full paradigm .#.     Noun - autt â-stem 
 .#. a {aØ}:0 {ʹØ}:0 u t {tØ}:t {âØ}:0 .#.     autt+N+Sg+Nom
 .#. aaut .#.     autt+N+Sg+Gen
@@ -31,6 +277,38 @@
 .#. aautâst .#.     autt+N+Sg+Loc
 .#. auttân .#.     autt+N+Ess
 .#. aauti .#.     autt+N+Pl+Gen
+
+!!
+# Noun 'kaulaliina' - full paradigm .#.     Noun - teâtt a-stem
+.#. teâtt .#.     teâtt+N+Sg+Nom
+.#. teâđ .#.     teâtt+N+Sg+Gen
+.#. teâđ .#.     teâtt+N+Sg+Acc
+.#. tiõtˈtu .#.     teâtt+N+Sg+Ill
+.#. teâđast .#.     teâtt+N+Sg+Loc
+.#. teâˈđstes .#.     teâtt+N+Sg+Loc+PxSg3
+.#. teâđain .#.     teâtt+N+Sg+Com
+.#. teâttan .#.     teâtt+N+Ess
+.#. teâttad .#.     teâtt+N+Par
+.#. [teâđtaa, teâđtää] .#.     teâtt+N+Sg+Abe
+.#. teâđ .#.     teâtt+N+Pl+Nom
+.#. teâđai .#.     teâtt+N+Pl+Gen
+
+# Noun 'kaulaliina' - full paradigm .#.     Noun - ruâkk a-stem
+.#. ruâkk .#.     ruâkk+N+Sg+Nom
+.#. ruâǥǥ .#.     ruâkk+N+Sg+Gen
+.#. ruõkˈku .#.     ruâkk+N+Sg+Ill
+.#. ruâǥǥast .#.     ruâkk+N+Sg+Loc
+.#. ruâǥǥain .#.     ruâkk+N+Sg+Com
+.#. ruâkkan .#.     ruâkk+N+Ess
+.#. ruâǥǥai .#.     ruâkk+N+Pl+Gen
+
+# Noun 'milk/maito' - full paradigm .#.     Noun - ǩeâlkk â-stem
+.#. ǩ {ei}:e {âõ}:â {ˈØ}:0 l k {kØ}:k {aØ}:0 .#.     ǩeâlkk+N+Sg+Nom
+.#. ǩeâlk .#.     ǩeâlkk+N+Sg+Gen
+.#. ǩiõlkku .#.     ǩeâlkk+N+Sg+Ill
+.#. ǩeâlkast .#.     ǩeâlkk+N+Sg+Loc
+.#. ǩeâlkkan .#.     ǩeâlkk+N+Ess
+.#. ǩeâlkai .#.     ǩeâlkk+N+Pl+Gen
 
 
 
@@ -155,15 +433,6 @@ CONTEXTSETS6
 .#. älddan .#.     äldd+N+Ess
 .#. ääldai .#.     äldd+N+Pl+Gen
 
-
-# Noun 'beginning/alku' - full paradigm .#.     Noun - algg â-stem 
-.#. a {aØ}:0 l {gǧǥj}:g {gǧØ}:g {âØ}:0 .#.     algg+N+Sg+Nom
-.#. aalǥ .#.     algg+N+Sg+Gen
-.#. aʹlǧǧe .#.     algg+N+Sg+Ill
-.#. aalǥâst .#.     algg+N+Sg+Loc
-.#. [alǥstan, aalǥstan] .#.     algg+N+Sg+Loc+PxSg1
-.#. alggân .#.     algg+N+Ess
-.#. aalǥi .#.     algg+N+Pl+Gen
 
 # Noun - full paradigm .#.     Noun - âʹlǧǧ a-stem poika
 .#. {âõ}:â {âõ}:0 {ʹØ}ʹ l {gǧj}:ǧ {gǧØ}:ǧ {eØ}:0 .#.     âʹlǧǧ+N+Sg+Nom
@@ -330,8 +599,9 @@ CONTEXTSETS6
 .#. j {ei}:e {äâ}:ä l {lØ}:l {aØ}:0 .#.     jeäll+N+Sg+Nom
 .#. jeäl .#.     jeäll+N+Sg+Gen
 .#. jeäl .#.     jeäll+N+Sg+Acc
-.#. jiâllu .#.     jeäll+N+Sg+Ill
+.#. jiâlˈlu .#.     jeäll+N+Sg+Ill
 .#. jeälast .#.     jeäll+N+Sg+Loc
+.#. jeäˈlstes .#.     jeäll+N+Sg+Loc+PxSg3
 .#. jeälain .#.     jeäll+N+Sg+Com
 .#. jeällan .#.     jeäll+N+Ess
 .#. jeällad .#.     jeäll+N+Par
@@ -339,16 +609,6 @@ CONTEXTSETS6
 .#. jeäl .#.     jeäll+N+Pl+Nom
 .#. jeälai .#.     jeäll+N+Pl+Gen
 
-
-# Noun 'river' - full paradigm .#.     Noun - jokk â-stem
-.#. j o {oØ}:0 {ʹØ}:0 {kǩjǥ}:k {kǩjǥØ}:k {âØ}:0 .#.     jokk+Hom1+N+Sg+Nom
-.#. jooǥǥ .#.     jokk+Hom1+N+Sg+Gen
-.#. joʹǩǩe .#.     jokk+Hom1+N+Sg+Ill
-.#. jooǥǥâst .#.     jokk+Hom1+N+Sg+Loc
-.#. joǥstes .#.     jokk+Hom1+N+Sg+Loc+PxSg3
-.#. jokkân .#.     jokk+Hom1+N+Ess
-.#. jooǥǥi .#.     jokk+Hom1+N+Pl+Gen
-.#. jooʹjje .#.     jokk+Hom1+N+Dim+Pl+Nom
 
 # Noun 'foot; leg/jalka' - full paradigm .#.     Noun - jueʹlǧǧ e-stem
 .#. j u {âeõ}:e {ˈØ}:0 {ʹØ}:ʹ l {gǧjǥ}:ǧ {gǧØ}:ǧ {eØ}:0 .#.     jueʹlǧǧ+N+Sg+Nom
@@ -402,14 +662,6 @@ CONTEXTSETS6
 .#. ǩeâlgglen .#.     ǩeâlǥal+N+Ess
 .#. ǩeâlggli .#.     ǩeâlǥal+N+Pl+Gen
 
-# Noun 'milk/maito' - full paradigm .#.     Noun - ǩeâlkk â-stem
-.#. ǩ {ei}:e {âõ}:â {ˈØ}:0 l k {kØ}:k {aØ}:0 .#.     ǩeâlkk+N+Sg+Nom
-.#. ǩeâlk .#.     ǩeâlkk+N+Sg+Gen
-.#. ǩiõlkku .#.     ǩeâlkk+N+Sg+Ill
-.#. ǩeâlkast .#.     ǩeâlkk+N+Sg+Loc
-.#. ǩeâlkkan .#.     ǩeâlkk+N+Ess
-.#. ǩeâlkai .#.     ǩeâlkk+N+Pl+Gen
-
 # Noun - full paradigm .#.     Noun - ǩeeʹles contract stem valehtelija
 .#. ǩ e {eâ}:e {ʹØ}:ʹ l {lØ}:0 {eaØ}:e {sz}:s .#.     ǩeeʹles+N+Sg+Nom
 .#. ǩeâllaz .#.     ǩeeʹles+N+Sg+Gen
@@ -443,28 +695,6 @@ CONTEXTSETS6
 .#. ǩeʹrrez .#.     ǩeʹrres+N+Pl+Nom
 .#. ǩeʹrrsi .#.     ǩeʹrres+N+Pl+Gen
 
-# Noun 'hand' - full paradigm .#.     Noun - ǩiđđ â-stem
-.#. 167) .#.     # 1. WORDS WITH SINGLE-SYLLABLE NOMINATIVE SINGULARS (2009
-# 1.1 Sg.Loc in -âst. â-stems (Sg.Loc, Ess, Par).
-# 1.1.1 Sg.Ill in ʹ-e
-# 1.1.1.1 Has Gradation
-# 1.1.1.1.1 Monophthong
-# 1.1.1.1.1.1 Homogenous Consonant
-# 1.1.1.1.1.1.2 Sg.Nom Extra Strong Grade
-# 1.1.1.1.1.1.2.1.Sg.Gen Weak Grade
-# 1.1.1.1.1.1.2.1.3 Sg.Ill Extra Strong Grade
-.#. ǩiđđ .#.     ǩiđđ+N+Sg+Nom
-.#. ǩiiđ .#.     ǩiđđ+N+Sg+Gen
-.#. ǩiiđ .#.     ǩiđđ+N+Sg+Acc
-.#. ǩiʹđđe .#.     ǩiđđ+N+Sg+Ill
-.#. ǩiiđâst .#.     ǩiđđ+N+Sg+Loc
-.#. ǩiiđin .#.     ǩiđđ+N+Sg+Com
-.#. ǩiđđân .#.     ǩiđđ+N+Ess
-.#. ǩiđđâd .#.     ǩiđđ+N+Par
-.#. [ǩiiđtaa, ǩiiđtää] .#.     ǩiđđ+N+Sg+Abe
-.#. ǩiiđ .#.     ǩiđđ+N+Pl+Nom
-.#. ǩiiđi .#.     ǩiđđ+N+Pl+Gen
-
 # Noun - full paradigm .#.     Noun - ǩiõrâč contract stem lukija
 .#. ǩiõrâč .#.     ǩiõrâč+N+Sg+Nom
 .#. ǩiõrâč .#.     ǩiõrâč+N+Sg+Gen
@@ -477,33 +707,6 @@ CONTEXTSETS6
 .#. [ǩiõrâčtaa, ǩiõrâčtää] .#.     ǩiõrâč+N+Sg+Abe
 .#. ǩiõrâč .#.     ǩiõrâč+N+Pl+Nom
 .#. ǩiõrči .#.     ǩiõrâč+N+Pl+Gen
-
-# Noun e-stem "hand, arm/käsi" - full paradigm .#.     Noun - ǩiõtt
-.#. ǩiõtt .#.     ǩiõtt+N+Sg+Nom
-.#. ǩiõđ .#.     ǩiõtt+N+Sg+Gen
-.#. ǩiõđ .#.     ǩiõtt+N+Sg+Acc
-.#. ǩiõʹtte .#.     ǩiõtt+N+Sg+Ill
-.#. ǩiõđâst .#.     ǩiõtt+N+Sg+Loc
-.#. ǩiõđin .#.     ǩiõtt+N+Sg+Com
-.#. ǩiõttân .#.     ǩiõtt+N+Ess
-.#. ǩiõttâd .#.     ǩiõtt+N+Par
-.#. [ǩiõđtaa, ǩiõđtää] .#.     ǩiõtt+N+Sg+Abe
-.#. ǩiõđ .#.     ǩiõtt+N+Pl+Nom
-.#. ǩiõđi .#.     ǩiõtt+N+Pl+Gen
-.#. ǩiõtˈtnan .#.     ǩiõtt+N+Ess+PxSg1
-
-# Noun - full paradigm .#.     Noun - ǩiâpp e-stem verkkokäpy
-.#. ǩiâpp .#.     ǩiâpp+N+Sg+Nom
-.#. ǩiâv .#.     ǩiâpp+N+Sg+Gen
-.#. ǩiâv .#.     ǩiâpp+N+Sg+Acc
-.#. ǩieʹpˈpe .#.     ǩiâpp+N+Sg+Ill
-.#. ǩiâvâst .#.     ǩiâpp+N+Sg+Loc
-.#. ǩiâvin .#.     ǩiâpp+N+Sg+Com
-.#. ǩiâppân .#.     ǩiâpp+N+Ess
-.#. ǩiâppâd .#.     ǩiâpp+N+Par
-.#. [ǩiâvtaa, ǩiâvtää] .#.     ǩiâpp+N+Sg+Abe
-.#. ǩiâv .#.     ǩiâpp+N+Pl+Nom
-.#. ǩiâvi .#.     ǩiâpp+N+Pl+Gen
 
 # Adjective e-stem "sewing/ompeleminen" - full paradigm .#.     Adjective - kuärram
 .#. kuärram .#.     kuärram+N+Sg+Nom
@@ -564,14 +767,6 @@ CONTEXTSETS6
 .#. miẹʹrren .#.     mieʹrr+N+Ess
 .#. mieʹri .#.     mieʹrr+N+Pl+Gen
 
-# Noun - full paradigm .#.     Noun - miârr e-stem sea/meri
-.#. m i {âe}:â {ˈØ}:0 {ʹØ}:0 r {ˈØ}:0 {rØ}:r {âØ}:0 .#.     miârr+N+Sg+Nom
-.#. miâr .#.     miârr+N+Sg+Gen
-.#. mieʹrˈre .#.     miârr+N+Sg+Ill
-.#. miârâst .#.     miârr+N+Sg+Loc
-.#. miârrân .#.     miârr+N+Ess
-.#. miâri .#.     miârr+N+Pl+Gen
-
 # Noun - full paradigm .#.     Noun - mueʹles contract stem kevätvesi
 .#. mueʹles .#.     mueʹles+N+Sg+Nom
 .#. muâlˈlaz .#.     mueʹles+N+Sg+Gen
@@ -584,16 +779,6 @@ CONTEXTSETS6
 .#. [muâlˈlaztaa, muâlˈlaztää] .#.     mueʹles+N+Sg+Abe
 .#. muâlˈlaz .#.     mueʹles+N+Pl+Nom
 .#. muâlˈlsi .#.     mueʹles+N+Pl+Gen
-
-# Noun - full paradigm .#.     Noun - muõrr e-stem puu
-.#. m u õ {ˈØ}:0 {ʹØ}:0 r {ˈØ}:0 {rØ}:r {âØ}:0 .#.     muõrr+N+Sg+Nom
-.#. muõr .#.     muõrr+N+Sg+Gen
-.#. muõʹrˈre .#.     muõrr+N+Sg+Ill
-.#. muõrâst .#.     muõrr+N+Sg+Loc
-.#. muõrrân .#.     muõrr+N+Ess
-.#. muõri .#.     muõrr+N+Pl+Gen
-.#. muõˈrstan .#.     muõrr+N+Sg+Loc+PxSg1
-.#. muõʹre .#.     muõrr+N+Der/Dimin+N+Sg+Gen
 
 # Noun - full paradigm .#.     Noun - njuäʹmmel contract stem jänis
 .#. n j u ä ʹ m ˈ m {eØ}:e l .#.     njuäʹmmel+N+Sg+Nom
@@ -630,15 +815,6 @@ CONTEXTSETS6
 .#. piẹˈʹzstes .#.     pieʹss+N+Sg+Loc+PxSg3
 .#. piẹʹssen .#.     pieʹss+N+Ess
 .#. pieʹzzi .#.     pieʹss+N+Pl+Gen
-
-# Noun 'kaulaliina' - full paradigm .#.     Noun - ruâkk a-stem
-.#. ruâkk .#.     ruâkk+N+Sg+Nom
-.#. ruâǥǥ .#.     ruâkk+N+Sg+Gen
-.#. ruõkˈku .#.     ruâkk+N+Sg+Ill
-.#. ruâǥǥast .#.     ruâkk+N+Sg+Loc
-.#. ruâǥǥain .#.     ruâkk+N+Sg+Com
-.#. ruâkkan .#.     ruâkk+N+Ess
-.#. ruâǥǥai .#.     ruâkk+N+Pl+Gen
 
 # Noun "speaker/puhuja"- full paradigm .#.     Noun - särnnai e-stem 
 .#. särnnai .#.     särnnai+N+Sg+Nom
@@ -686,20 +862,6 @@ CONTEXTSETS6
 .#. suẹʹǩǩen .#.     sueʹǩǩ+N+Ess
 .#. sueʹjji .#.     sueʹǩǩ+N+Pl+Gen
 .#. suäǥǥaž .#.     sueʹǩǩ+N+Der/Dim+N+Sg+Nom
-
-# Noun 'kaulaliina' - full paradigm .#.     Noun - teâtt a-stem
-.#. teâtt .#.     teâtt+N+Sg+Nom
-.#. teâđ .#.     teâtt+N+Sg+Gen
-.#. teâđ .#.     teâtt+N+Sg+Acc
-.#. tiõtˈtu .#.     teâtt+N+Sg+Ill
-.#. teâđast .#.     teâtt+N+Sg+Loc
-.#. teâˈđstes .#.     teâtt+N+Sg+Loc+PxSg3
-.#. teâđain .#.     teâtt+N+Sg+Com
-.#. teâttan .#.     teâtt+N+Ess
-.#. teâttad .#.     teâtt+N+Par
-.#. [teâđtaa, teâđtää] .#.     teâtt+N+Sg+Abe
-.#. teâđ .#.     teâtt+N+Pl+Nom
-.#. teâđai .#.     teâtt+N+Pl+Gen
 
 # Noun a-stem 'mother-in-law/anoppi' - full paradigm Sammallahti Moshnikoff 1991:156 .#.     Noun - vueʹn
 .#. vueʹn .#.     vueʹn+N+Sg+Nom
