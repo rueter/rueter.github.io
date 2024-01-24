@@ -205,6 +205,9 @@ CONTEXTSETS6
 ```
 
 
+!ǩeäˈsʼsted ij ǩeäsˈsast
+.#. t å {åØ}:0 p s {aØʼ}:ʼ s t e d .#. tåpsʼsted+V+Inf
+
 
 RESOURCES:
 Koskenniemi : https://aclanthology.org/W18-0206.pdf, 2018.

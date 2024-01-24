@@ -1,0 +1,14 @@
+https://github.com/UniversalDependencies/docs/issues/786#issuecomment-1837017398
+
+Language 	Lexemes 	Substitutive 	Partitive 	Gradable 	Degree Mod 	Post-Article 	Pred Quantity 	Agreement 	Tag
+English 	all, both, some 	+ 	+ 	- 	- 	- 	~ (That is all) 	N/A 	DET
+English 	much, many, more 	+ 	+ 	- 	very much/many, much more 	the many rooms 	~ (The exceptions/?books are many.) 	N/A 	?
+English 	few 	+ 	+ 	+ 	very few 	the few rooms 	~ (The exceptions/?books are few.) 	N/A 	?
+English 	numerous 	(-) 	- 	+ 	very numerous 	the numerous rooms 	+ 	N/A 	ADJ
+
+
+|Language | Lexeme | Substitutive | Partitive | Gradable | Degree Mod | Post-Article | Pred Quantity | Agreement | Tag | Comment|
+|----|----|----|----|----|----|----|----|----|----|----|----|
+| Erzya | весе | + |[весе эйстэст]|-|[малав весе]|N/A|[те весе]|||||
+|----|----|----|----|----|----|----|----|----|----|----|----|
+|----|----|----|----|----|----|----|----|----|----|----|----|

@@ -1,0 +1,197 @@
+#.#. k ū l d £õ
+
+.#. k ū l d .#.	V+Imprt+ConNeg+Sg2
+.#. k ū l d .#.	V+Imprt+Sg2
+.#. k ū l d .#.	V+Ind+ConNeg+Sg
+.#. k ū l d £i j i .#.	V+NomAg
+.#. k ū l d £i j i .#.	V+Quo+ConNeg+Sg
+.#. k ū l d £i j i .#.	V+Quo+Sg
+.#. k ū l d £i j i d .#.	V+Quo+ConNeg+Pl
+.#. k ū l d £i j i d .#.	V+Quo+Pl
+.#. k ū l d £i m i .#.	V+NomAct
+.#. k ū l d £i z .#.	V+Ind+Prt+Sg1
+.#. k ū l d £i z .#.	V+Ind+Prt+Sg3
+.#. k ū l d £i z m õ .#.	V+Ind+Prt+Pl1
+.#. k ū l d £i z t .#.	V+Ind+Prt+Sg2
+.#. k ū l d £i z t .#.	V+Ind+Prt+Pl2
+.#. k ū l d £i z t õ .#.	V+Ind+Prt+Pl2
+.#. k ū l d £i z t .#.	V+Ind+Prt+Pl3
+.#. k ū l d £i z t õ .#.	V+Ind+Prt+Pl3
+.#. k ū l d £t õ b .#.	V+Pss+PrsPrc
+.#. k ū l d £t õ d .#.	V+Pss+PrfPrc
+.#. k ū l d £õ .#.	V+Inf
+.#. k ū l d £õ b .#.	V+Ind+Prs+Sg1
+.#. k ū l d £õ b .#.	V+Ind+Prs+Sg3
+.#. k ū l d £õ b õ d .#.	V+Ind+Prs+Pl3
+.#. k ū l d £õ d .#.	V+Ind+Prs+Sg2
+.#. k ū l d £õ g .#.	V+Jus+ConNeg+Sg
+.#. k ū l d £õ g .#.	V+Jus+Sg
+.#. k ū l d £õ g i d .#.	V+Imprt+ConNeg+Pl2
+.#. k ū l d £õ g i d .#.	V+Imprt+Pl2
+.#. k ū l d £õ g õ d .#.	V+Jus+ConNeg+Pl
+.#. k ū l d £õ g õ d .#.	V+Jus+Pl
+.#. k ū l d £õ k s .#.	V+Cond+ConNeg+Sg
+.#. k ū l d £õ k s .#.	V+Cond+Sg1
+.#. k ū l d £õ k s .#.	V+Cond+Sg3
+.#. k ū l d £õ k s m õ .#.	V+Cond+ConNeg+Pl1
+.#. k ū l d £õ k s m õ .#.	V+Cond+Pl1
+.#. k ū l d £õ k s t .#.	V+Cond+Sg2
+.#. k ū l d £õ k s t õ .#.	V+Cond+ConNeg+Pl2
+.#. k ū l d £õ k s t õ .#.	V+Cond+ConNeg+Pl3
+.#. k ū l d £õ k s t õ .#.	V+Cond+Pl2
+.#. k ū l d £õ k s t õ .#.	V+Cond+Pl3
+.#. k ū l d £õ m .#.	V+Ind+ConNeg+Pl1
+.#. k ū l d £õ m .#.	V+Ind+Prs+Pl1
+.#. k ū l d £õ m .#.	V+Sup
+.#. k ū l d £õ m õ s t .#.	V+Deb
+.#. k ū l d £õ n .#.	V+Act+PrfPrc+Sg
+.#. k ū l d £õ n d .#.	V+Act+PrfPrc+Pl
+.#. k ū l d £õ s .#.	V+Ger
+.#. k ū l d £õ t .#.	V+Ind+ConNeg+Pl2
+.#. k ū l d £õ t .#.	V+Ind+ConNeg+Pl3
+.#. k ū l d £õ t .#.	V+Ind+Prs+Pl2
+
+
+'nest'
+piezā   N+Sg+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  n .#.    
+piezā   N+Sg+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  k s .#. 
+piezā   N+Sg+Par        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Sg+Ill        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Sg+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s .#.     
+piezā   N+Sg+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s t .#. 
+piezā   N+Pl+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#.
+piezā   N+Pl+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#. 
+piezā   N+Pl+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ n .#.
+piezā   N+Pl+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ k s .#.
+piezā   N+Pl+Par        .#. p {ie}:e {eØ}:0 {’Ø}:’ {zž}:ž {zØ}:0 {āõØ}:0 ḑ i .#.
+piezā   N+Pl+Ill        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī ž .#.
+piezā   N+Pl+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s .#. 
+piezā   N+Pl+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s t .#.
+
+#RULES1
+{ie}:i =>
+piezā   N+Sg+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  n .#.    
+piezā   N+Sg+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  k s .#. 
+piezā   N+Sg+Par        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Sg+Ill        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Sg+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s .#.     
+piezā   N+Sg+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s t .#. 
+piezā   N+Pl+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#.
+piezā   N+Pl+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#. 
+piezā   N+Pl+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ n .#.
+piezā   N+Pl+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ k s .#.
+piezā   N+Pl+Ill        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī ž .#.
+piezā   N+Pl+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s .#. 
+piezā   N+Pl+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s t .#.
+
+{ie}:2 =>
+piezā   N+Pl+Par        .#. p {ie}:e {eØ}:0 {’Ø}:’ {zž}:ž {zØ}:0 {āõØ}:0 ḑ i .#.
+
+
+#RULES2
+{eØ}:e => 
+piezā   N+Sg+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  n .#.    
+piezā   N+Sg+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  k s .#. 
+piezā   N+Sg+Par        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Sg+Ill        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Sg+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s .#.     
+piezā   N+Sg+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s t .#. 
+piezā   N+Pl+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#.
+piezā   N+Pl+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#. 
+piezā   N+Pl+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ n .#.
+piezā   N+Pl+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ k s .#.
+piezā   N+Pl+Ill        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī ž .#.
+piezā   N+Pl+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s .#. 
+piezā   N+Pl+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s t .#.
+{eØ}:0 => 
+piezā   N+Pl+Par        .#. p {ie}:e {eØ}:0 {’Ø}:’ {zž}:ž {zØ}:0 {āõØ}:0 ḑ i .#.
+
+#RULES3
+{’Ø}:0 =>
+piezā   N+Sg+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  n .#.    
+piezā   N+Sg+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  k s .#. 
+piezā   N+Sg+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s .#.     
+piezā   N+Sg+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s t .#. 
+piezā   N+Pl+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#.
+piezā   N+Pl+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#. 
+piezā   N+Pl+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ n .#.
+piezā   N+Pl+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ k s .#.
+piezā   N+Pl+Ill        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī ž .#.
+piezā   N+Pl+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s .#. 
+piezā   N+Pl+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s t .#.
+{’Ø}:’ =>
+piezā   N+Sg+Par        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Sg+Ill        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Pl+Par        .#. p {ie}:e {eØ}:0 {’Ø}:’ {zž}:ž {zØ}:0 {āõØ}:0 ḑ i .#.
+
+#RULES4
+{zž}:z =>
+piezā   N+Sg+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  n .#.    
+piezā   N+Sg+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  k s .#. 
+piezā   N+Sg+Par        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Sg+Ill        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Sg+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s .#.     
+piezā   N+Sg+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s t .#. 
+piezā   N+Pl+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#.
+piezā   N+Pl+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#. 
+piezā   N+Pl+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ n .#.
+piezā   N+Pl+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ k s .#.
+piezā   N+Pl+Ill        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī ž .#.
+piezā   N+Pl+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s .#. 
+piezā   N+Pl+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s t .#.
+{zž}:ž =>
+piezā   N+Pl+Par        .#. p {ie}:e {eØ}:0 {’Ø}:’ {zž}:ž {zØ}:0 {āõØ}:0 ḑ i .#.
+
+#RULES5
+{zØ}:0 =>
+piezā   N+Sg+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  n .#.    
+piezā   N+Sg+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  k s .#. 
+piezā   N+Sg+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s .#.     
+piezā   N+Sg+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s t .#. 
+piezā   N+Pl+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#.
+piezā   N+Pl+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#. 
+piezā   N+Pl+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ n .#.
+piezā   N+Pl+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ k s .#.
+piezā   N+Pl+Par        .#. p {ie}:e {eØ}:0 {’Ø}:’ {zž}:ž {zØ}:0 {āõØ}:0 ḑ i .#.
+piezā   N+Pl+Ill        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī ž .#.
+piezā   N+Pl+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s .#. 
+piezā   N+Pl+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s t .#.
+{zØ}:z =>
+piezā   N+Sg+Par        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Sg+Ill        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+
+#RULES6
+{āõØ}:ā =>
+piezā   N+Sg+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā .#.       
+piezā   N+Sg+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  n .#.    
+piezā   N+Sg+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā  k s .#. 
+piezā   N+Sg+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s .#.     
+piezā   N+Sg+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā s t .#. 
+piezā   N+Pl+Nom        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#.
+piezā   N+Pl+Gen        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d .#. 
+piezā   N+Pl+Dat        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ n .#.
+piezā   N+Pl+Tra        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:ā d õ k s .#.
+{āõØ}:õ =>
+piezā   N+Sg+Par        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Sg+Ill        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+{āõØ}:0 =>
+piezā   N+Sg+Par        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Sg+Ill        .#. p {ie}:i {eØ}:e {’Ø}:’ {zž}:z {zØ}:z {āõØ}:õ .#.
+piezā   N+Pl+Par        .#. p {ie}:e {eØ}:0 {’Ø}:’ {zž}:ž {zØ}:0 {āõØ}:0 ḑ i .#.
+piezā   N+Pl+Ill        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī ž .#.
+piezā   N+Pl+Ine        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s .#. 
+piezā   N+Pl+Ela        .#. p {ie}:i {eØ}:e {’Ø}:0 {zž}:z {zØ}:0 {āõØ}:0 ī s t .#.
+
