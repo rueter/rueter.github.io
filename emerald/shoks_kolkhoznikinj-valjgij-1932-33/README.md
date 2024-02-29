@@ -1,5 +1,5 @@
 # shoks_kolkhoznikinj-valjgij-1932-33
-Shoksha-languoid Kolkhoznikin' val'gij newspaper articles in pdf and proofread txt files for 16 issues.
+Shoksha-languoid Kolxoznikinʹ valʹgij newspaper articles in pdf and proofread txt files for 16 issues.
 
 The collection of .pdf copies comes from Kolxoz’nikin’ val’gij 1932 (7), 1933 (16). (https://fennougrica.kansalliskirjasto.fi/browse?value=fi %3DŠokša|en%3DShoksha|ru%3DШокшинский+язык|&type=language) (accessed 2017-09- 28)
 
