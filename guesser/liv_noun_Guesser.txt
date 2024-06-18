@@ -1313,69 +1313,69 @@ liestā    N+Pl+Ela    .#. l {iØ}:i e {sš}:s t {āØ}:0 > ī s t .#.
 
 #id="33a", ''
 #"N_33a":{"tips":"33a","vards":"lānga","vcount":"4","bloks":"N","loc":{
-lānga    N+Sg+Nom    .#. l ā n g a .#.
-lānga    N+Sg+Gen    .#. l ā n g a .#.
-lānga    N+Sg+Dat    .#. l ā n g a n .#.
-lānga    N+Sg+Par    .#. l a n g õ .#.
-lānga    N+Sg+Ins    .#. l ā n g a k s .#.
-lānga    N+Sg+Ill    .#. l a n g õ .#.
-lānga    N+Sg+Ine    .#. l ā n g a s .#.
-lānga    N+Sg+Ela    .#. l ā n g a s t .#.
-lānga    N+Pl+Nom    .#. l ā n g a d .#.
-lānga    N+Pl+Gen    .#. l ā n g a d .#.
-lānga    N+Pl+Dat    .#. l ā n g a d õ n .#.
-lānga    N+Pl+Par    .#. l a n g ḑ i .#.
-lānga    N+Pl+Ins    .#. l ā n g a d õ k s .#.
-lānga    N+Pl+Ill    .#. l a n g ž i .#.
-lānga    N+Pl+Ill    .#. l ā n g i ž .#.
-lānga    N+Pl+Ine    .#. l a n g š i .#.
-lānga    N+Pl+Ine    .#. l ā n g i s .#.
-lānga    N+Pl+Ela    .#. l a n g š t i .#.
-lānga    N+Pl+Ela    .#. l ā n g i s t .#.
+lānga    N+Sg+Nom    .#. l {āa}:ā n g {aØ}:a > .#.
+lānga    N+Sg+Gen    .#. l {āa}:ā n g {aØ}:a > .#.
+lānga    N+Sg+Dat    .#. l {āa}:ā n g {aØ}:a > n .#.
+lānga    N+Sg+Par    .#. l {āa}:a n g {aØ}:0 > õ .#.
+lānga    N+Sg+Ins    .#. l {āa}:ā n g {aØ}:a > k s .#.
+lānga    N+Sg+Ill    .#. l {āa}:a n g {aØ}:0 > õ .#.
+lānga    N+Sg+Ine    .#. l {āa}:ā n g {aØ}:a > s .#.
+lānga    N+Sg+Ela    .#. l {āa}:ā n g {aØ}:a > s t .#.
+lānga    N+Pl+Nom    .#. l {āa}:ā n g {aØ}:a > d .#.
+lānga    N+Pl+Gen    .#. l {āa}:ā n g {aØ}:a > d .#.
+lānga    N+Pl+Dat    .#. l {āa}:ā n g {aØ}:a > d õ n .#.
+lānga    N+Pl+Par    .#. l {āa}:a n g {aØ}:0 > ḑ i .#.
+lānga    N+Pl+Ins    .#. l {āa}:ā n g {aØ}:a > d õ k s .#.
+lānga    N+Pl+Ill    .#. l {āa}:a n g {aØ}:0 > ž i .#.
+lānga    N+Pl+Ill    .#. l {āa}:ā n g {aØ}:0 > i ž .#.
+lānga    N+Pl+Ine    .#. l {āa}:a n g {aØ}:0 > š i .#.
+lānga    N+Pl+Ine    .#. l {āa}:ā n g {aØ}:0 > i s .#.
+lānga    N+Pl+Ela    .#. l {āa}:a n g {aØ}:0 > š t i .#.
+lānga    N+Pl+Ela    .#. l {āa}:ā n g {aØ}:0 > i s t .#.
 
 #id="", ''
 #"N_34":{"tips":"34","vards":"sīlma","vcount":"31","bloks":"N","loc":{
-sīlma    N+Sg+Nom    .#. s ī l m a .#.
-sīlma    N+Sg+Gen    .#. s ī l m a .#.
-sīlma    N+Sg+Dat    .#. s ī l m a n .#.
-sīlma    N+Sg+Par    .#. s i l m õ .#.
-sīlma    N+Sg+Ins    .#. s ī l m a k s .#.
-sīlma    N+Sg+Ill    .#. s i l m õ .#.
-sīlma    N+Sg+Ine    .#. s ī l m a s .#.
-sīlma    N+Sg+Ela    .#. s ī l m a s t .#.
-sīlma    N+Pl+Nom    .#. s ī l m a d .#.
-sīlma    N+Pl+Gen    .#. s ī l m a d .#.
-sīlma    N+Pl+Dat    .#. s ī l m a d õ n .#.
-sīlma    N+Pl+Par    .#. s i ļ m i .#.
-sīlma    N+Pl+Ins    .#. s ī l m a d õ k s .#.
-sīlma    N+Pl+Ill    .#. s i ļ m ž i .#.
-sīlma    N+Pl+Ill    .#. s ī l m i ž .#.
-sīlma    N+Pl+Ine    .#. s i ļ m š i .#.
-sīlma    N+Pl+Ine    .#. s ī l m i s .#.
-sīlma    N+Pl+Ela    .#. s i ļ m š t i .#.
-sīlma    N+Pl+Ela    .#. s ī l m i s t .#.
+sīlma    N+Sg+Nom    .#. s {īi}:ī {lļ}:l m {aØ}:a > .#.
+sīlma    N+Sg+Gen    .#. s {īi}:ī {lļ}:l m {aØ}:a > .#.
+sīlma    N+Sg+Dat    .#. s {īi}:ī {lļ}:l m {aØ}:a > n .#.
+sīlma    N+Sg+Par    .#. s {īi}:i {lļ}:l m {aØ}:0 > õ .#.
+sīlma    N+Sg+Ins    .#. s {īi}:ī {lļ}:l m {aØ}:a > k s .#.
+sīlma    N+Sg+Ill    .#. s {īi}:i {lļ}:l m {aØ}:0 > õ .#.
+sīlma    N+Sg+Ine    .#. s {īi}:ī {lļ}:l m {aØ}:a > s .#.
+sīlma    N+Sg+Ela    .#. s {īi}:ī {lļ}:l m {aØ}:a > s t .#.
+sīlma    N+Pl+Nom    .#. s {īi}:ī {lļ}:l m {aØ}:a > d .#.
+sīlma    N+Pl+Gen    .#. s {īi}:ī {lļ}:l m {aØ}:a > d .#.
+sīlma    N+Pl+Dat    .#. s {īi}:ī {lļ}:l m {aØ}:a > d õ n .#.
+sīlma    N+Pl+Par    .#. s {īi}:i {lļ}:ļ m {aØ}:0 > i .#.
+sīlma    N+Pl+Ins    .#. s {īi}:ī {lļ}:l m {aØ}:a > d õ k s .#.
+sīlma    N+Pl+Ill    .#. s {īi}:i {lļ}:ļ m {aØ}:0 > ž i .#.
+sīlma    N+Pl+Ill    .#. s {īi}:ī {lļ}:l m {aØ}:0 > i ž .#.
+sīlma    N+Pl+Ine    .#. s {īi}:i {lļ}:ļ m {aØ}:0 > š i .#.
+sīlma    N+Pl+Ine    .#. s {īi}:ī {lļ}:l m {aØ}:0 > i s .#.
+sīlma    N+Pl+Ela    .#. s {īi}:i {lļ}:ļ m {aØ}:0 > š t i .#.
+sīlma    N+Pl+Ela    .#. s {īi}:ī {lļ}:l m {aØ}:0 > i s t .#.
 
 #id="", ''
 #"N_35":{"tips":"35","vards":"ǟrga","vcount":"12","bloks":"N","loc":{
-ǟrga    N+Sg+Nom    .#. {ǟe}:ǟ r g a .#.
-ǟrga    N+Sg+Gen    .#. {ǟe}:ǟ r g a .#.
-ǟrga    N+Sg+Dat    .#. {ǟe}:ǟ r g a n .#.
-ǟrga    N+Sg+Par    .#. {ǟe}:ä r g õ .#.
-ǟrga    N+Sg+Ins    .#. {ǟe}:ǟ r g a k s .#.
-ǟrga    N+Sg+Ill    .#. {ǟe}:ä r g õ .#.
-ǟrga    N+Sg+Ine    .#. {ǟe}:ǟ r g a s .#.
-ǟrga    N+Sg+Ela    .#. {ǟe}:ǟ r g a s t .#.
-ǟrga    N+Pl+Nom    .#. {ǟe}:ǟ r g a d .#.
-ǟrga    N+Pl+Gen    .#. {ǟe}:ǟ r g a d .#.
-ǟrga    N+Pl+Dat    .#. {ǟe}:ǟ r g a d õ n .#.
-ǟrga    N+Pl+Par    .#. {ǟe}:e ŗ g i .#.
-ǟrga    N+Pl+Ins    .#. {ǟe}:ǟ r g a d õ k s .#.
-ǟrga    N+Pl+Ill    .#. {ǟe}:e ŗ g ž i .#.
-ǟrga    N+Pl+Ill    .#. {ǟe}:ǟ r g i ž .#.
-ǟrga    N+Pl+Ine    .#. {ǟe}:e ŗ g š i .#.
-ǟrga    N+Pl+Ine    .#. {ǟe}:ǟ r g i s .#.
-ǟrga    N+Pl+Ela    .#. {ǟe}:e ŗ g š t i .#.
-ǟrga    N+Pl+Ela    .#. {ǟe}:ǟ r g i s t .#.
+ǟrga    N+Sg+Nom    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:a > .#.
+ǟrga    N+Sg+Gen    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:a > .#.
+ǟrga    N+Sg+Dat    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:a > n .#.
+ǟrga    N+Sg+Par    .#. {ǟe}:ä {rŗ}:r g {aØ}:0 > õ .#.
+ǟrga    N+Sg+Ins    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:a > k s .#.
+ǟrga    N+Sg+Ill    .#. {ǟe}:ä {rŗ}:r g {aØ}:0 > õ .#.
+ǟrga    N+Sg+Ine    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:a > s .#.
+ǟrga    N+Sg+Ela    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:a > s t .#.
+ǟrga    N+Pl+Nom    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:a > d .#.
+ǟrga    N+Pl+Gen    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:a > d .#.
+ǟrga    N+Pl+Dat    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:a > d õ n .#.
+ǟrga    N+Pl+Par    .#. {ǟe}:e {rŗ}:ŗ g {aØ}:0 > i .#.
+ǟrga    N+Pl+Ins    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:a > d õ k s .#.
+ǟrga    N+Pl+Ill    .#. {ǟe}:e {rŗ}:ŗ g {aØ}:0 > ž i .#.
+ǟrga    N+Pl+Ill    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:0 > i ž .#.
+ǟrga    N+Pl+Ine    .#. {ǟe}:e {rŗ}:ŗ g {aØ}:0 > š i .#.
+ǟrga    N+Pl+Ine    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:0 > i s .#.
+ǟrga    N+Pl+Ela    .#. {ǟe}:e {rŗ}:ŗ g {aØ}:0 > š t i .#.
+ǟrga    N+Pl+Ela    .#. {ǟe}:ǟ {rŗ}:r g {aØ}:0 > i s t .#.
 
 #id="", ''
 #"N_36":{"tips":"36","vards":"āina","vcount":"43","bloks":"N","loc":{
