@@ -1379,22 +1379,22 @@ sīlma    N+Pl+Ela    .#. s {īi}:ī {lļ}:l m {aØ}:0 > i s t .#.
 
 #id="", ''
 #"N_36":{"tips":"36","vards":"āina","vcount":"43","bloks":"N","loc":{
-āina    N+Sg+Nom    .#. {āa}:ā i n a .#.
-āina    N+Sg+Gen    .#. {āa}:ā i n a .#.
-āina    N+Sg+Dat    .#. {āa}:ā i n a n .#.
-āina    N+Sg+Par    .#. {āa}:a i n õ .#.
-āina    N+Sg+Ins    .#. {āa}:ā i n a k s .#.
-āina    N+Sg+Ill    .#. {āa}:a i n õ .#.
-āina    N+Sg+Ine    .#. {āa}:ā i n a s .#.
-āina    N+Sg+Ela    .#. {āa}:ā i n a s t .#.
-āina    N+Pl+Nom    .#. {āa}:ā i n a d .#.
-āina    N+Pl+Gen    .#. {āa}:ā i n a d .#.
-āina    N+Pl+Dat    .#. {āa}:ā i n a d õ n .#.
-āina    N+Pl+Par    .#. {āa}:a i ņ i .#.
-āina    N+Pl+Ins    .#. {āa}:ā i n a d õ k s .#.
-āina    N+Pl+Ill    .#. {āa}:ā i n i ž .#.
-āina    N+Pl+Ine    .#. {āa}:ā i n i s .#.
-āina    N+Pl+Ela    .#. {āa}:ā i n i s t .#.
+āina    N+Sg+Nom    .#. {āa}:ā i {nņ}:n {aØ}:a > .#.
+āina    N+Sg+Gen    .#. {āa}:ā i {nņ}:n {aØ}:a > .#.
+āina    N+Sg+Dat    .#. {āa}:ā i {nņ}:n {aØ}:a > n .#.
+āina    N+Sg+Par    .#. {āa}:a i {nņ}:n {aØ}:0 > õ .#.
+āina    N+Sg+Ins    .#. {āa}:ā i {nņ}:n {aØ}:a > k s .#.
+āina    N+Sg+Ill    .#. {āa}:a i {nņ}:n {aØ}:0 > õ .#.
+āina    N+Sg+Ine    .#. {āa}:ā i {nņ}:n {aØ}:a > s .#.
+āina    N+Sg+Ela    .#. {āa}:ā i {nņ}:n {aØ}:a > s t .#.
+āina    N+Pl+Nom    .#. {āa}:ā i {nņ}:n {aØ}:a > d .#.
+āina    N+Pl+Gen    .#. {āa}:ā i {nņ}:n {aØ}:a > d .#.
+āina    N+Pl+Dat    .#. {āa}:ā i {nņ}:n {aØ}:a > d õ n .#.
+āina    N+Pl+Par    .#. {āa}:a i {nņ}:ņ {aØ}:0 > i .#.
+āina    N+Pl+Ins    .#. {āa}:ā i {nņ}:n {aØ}:a > d õ k s .#.
+āina    N+Pl+Ill    .#. {āa}:ā i {nņ}:n {aØ}:0 > i ž .#.
+āina    N+Pl+Ine    .#. {āa}:ā i {nņ}:n {aØ}:0 > i s .#.
+āina    N+Pl+Ela    .#. {āa}:ā i {nņ}:n {aØ}:0 > i s t .#.
 
 #id="", ''
 #"N_37":{"tips":"37","vards":"vēna","vcount":"2","bloks":"N","loc":{
