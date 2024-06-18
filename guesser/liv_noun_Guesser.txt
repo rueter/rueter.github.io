@@ -361,8 +361,8 @@ pū    N+Sg+Ela    .#. p ū > s t õ .#.
 pū    N+Pl+Nom    .#. p ū > d .#.
 pū    N+Pl+Gen    .#. p ū > d .#.
 pū    N+Pl+Dat    .#. p ū > d õ n .#.
-pū    N+Pl+Par    .#. p ū > ḑ i .#.
 pū    N+Pl+Ins    .#. p ū > d k õ k s .#.
+pū    N+Pl+Par    .#. p ū > ḑ i .#.
 pū    N+Pl+Ill    .#. p ū > ʼ ž i .#.
 pū    N+Pl+Ine    .#. p ū > š i .#.
 pū    N+Pl+Ela    .#. p ū > š t i .#.
@@ -380,8 +380,8 @@ rō    N+Sg+Ela    .#. r ǭ ʼ > s t õ .#.
 rō    N+Pl+Nom    .#. r ǭ ʼ > d .#.
 rō    N+Pl+Gen    .#. r ǭ ʼ > d .#.
 rō    N+Pl+Dat    .#. r ǭ ʼ > d õ n .#.
-rō    N+Pl+Par    .#. r ǭ ʼ > ḑ i .#.
 rō    N+Pl+Ins    .#. r ǭ ʼ > d k õ k s .#.
+rō    N+Pl+Par    .#. r ǭ ʼ > ḑ i .#.
 rō    N+Pl+Ill    .#. r ǭ ʼ > ž i .#.
 rō    N+Pl+Ine    .#. r ǭ ʼ > š i .#.
 rō    N+Pl+Ela    .#. r ǭ ʼ > š t i .#.
@@ -391,17 +391,17 @@ rō    N+Pl+Ela    .#. r ǭ ʼ > š t i .#.
 pǟ    N+Sg+Nom    .#. p {ǟē}:ǟ > .#.
 pǟ    N+Sg+Gen    .#. p {ǟē}:ǟ > .#.
 pǟ    N+Sg+Dat    .#. p {ǟē}:ǟ > n .#.
-pǟ    N+Sg+Par    .#. p {ǟē}:ǟ > d õ .#.
 pǟ    N+Sg+Ins    .#. p {ǟē}:ǟ > k õ k s .#.
+pǟ    N+Sg+Par    .#. p {ǟē}:ǟ > d õ .#.
 pǟ    N+Sg+Ill    .#. p {ǟē}:ǟ > ʼ z õ .#.
 pǟ    N+Sg+Ine    .#. p {ǟē}:ǟ > s õ .#.
 pǟ    N+Sg+Ela    .#. p {ǟē}:ǟ > s t õ .#.
 pǟ    N+Pl+Nom    .#. p {ǟē}:ǟ > d .#.
 pǟ    N+Pl+Gen    .#. p {ǟē}:ǟ > d .#.
 pǟ    N+Pl+Dat    .#. p {ǟē}:ǟ > d õ n .#.
-pǟ    N+Pl+Par    .#. p {ǟē}:ē > ḑ i .#.
 pǟ    N+Pl+Ins    .#. p {ǟē}:ǟ > d k õ k s .#.
 pǟ    N+Pl+Ill    .#. p {ǟē}:ē > ʼ ž i .#.
+pǟ    N+Pl+Par    .#. p {ǟē}:ē > ḑ i .#.
 pǟ    N+Pl+Ine    .#. p {ǟē}:ē > š i .#.
 pǟ    N+Pl+Ela    .#. p {ǟē}:ē > š t i .#.
 
@@ -438,9 +438,9 @@ tīe    N+Sg+Ela    .#. t ī {ʼØ}:0 e > s t õ .#.
 tīe    N+Pl+Nom    .#. t ī {ʼØ}:0 e > d .#.
 tīe    N+Pl+Gen    .#. t ī {ʼØ}:0 e > d .#.
 tīe    N+Pl+Dat    .#. t ī {ʼØ}:0 e > d õ n .#.
-tīe    N+Pl+Par    .#. t ī {ʼØ}:0 e > ḑ i .#.
 tīe    N+Pl+Ins    .#. t ī {ʼØ}:0 e > d k õ k s .#.
 tīe    N+Pl+Ill    .#. t ī {ʼØ}:ʼ e > ž i .#.
+tīe    N+Pl+Par    .#. t ī {ʼØ}:0 e > ḑ i .#.
 tīe    N+Pl+Ine    .#. t ī {ʼØ}:0 e > š i .#.
 tīe    N+Pl+Ela    .#. t ī {ʼØ}:0 e > š t i .#.
 
@@ -479,8 +479,8 @@ brī    A+Pl+Nom    .#. b r ī > d .#.
 brī    A+Pl+Gen    .#. b r ī > d .#.
 brī    A+Pl+Dat    .#. b r ī > d õ n .#.
 brī    A+Pl+Ins    .#. b r ī > d õ k s .#.
-brī    A+Pl+Par    .#. b r ī > ḑ i .#.
 brī    A+Pl+Ill    .#. b r ī > ž i .#.
+brī    A+Pl+Par    .#. b r ī > ḑ i .#.
 brī    A+Pl+Ine    .#. b r ī > š i .#.
 brī    A+Pl+Ela    .#. b r ī > š t i .#.
 
@@ -1930,22 +1930,22 @@ piņ    N+Pl+Ela    .#. p i {ʼØ}:0 ņ {LX}:0 ī s t .#.
 
 #id="", ''
 #"N_65":{"tips":"65","vards":"kuoț","vcount":"18","bloks":"N","loc":{
-kuoț    N+Sg+Nom    .#. k u o ț .#.
-kuoț    N+Sg+Gen    .#. k u o ț .#.
-kuoț    N+Sg+Dat    .#. k u o ț ț õ n .#.
-kuoț    N+Sg+Par    .#. k u o ț ț õ .#.
-kuoț    N+Sg+Ins    .#. k u o ț ț õ k s .#.
-kuoț    N+Sg+Ill    .#. k u o ț ț õ .#.
-kuoț    N+Sg+Ine    .#. k u o ț š õ .#.
-kuoț    N+Sg+Ela    .#. k u o ț š t õ .#.
-kuoț    N+Pl+Nom    .#. k u o ț ī d .#.
-kuoț    N+Pl+Gen    .#. k u o ț ī d .#.
-kuoț    N+Pl+Dat    .#. k u o ț ī d õ n .#.
-kuoț    N+Pl+Par    .#. k u o ț ī d i .#.
-kuoț    N+Pl+Ins    .#. k u o ț ī d õ k s .#.
-kuoț    N+Pl+Ill    .#. k u o ț ī ž .#.
-kuoț    N+Pl+Ine    .#. k u o ț ī s .#.
-kuoț    N+Pl+Ela    .#. k u o ț ī s t .#.
+kuoț    N+Sg+Nom    .#. k u o ț {LX}:0 .#.
+kuoț    N+Sg+Gen    .#. k u o ț {LX}:0 .#.
+kuoț    N+Sg+Dat    .#. k u o ț {LX}:ț õ n .#.
+kuoț    N+Sg+Par    .#. k u o ț {LX}:ț õ .#.
+kuoț    N+Sg+Ins    .#. k u o ț {LX}:ț õ k s .#.
+kuoț    N+Sg+Ill    .#. k u o ț {LX}:ț õ .#.
+kuoț    N+Sg+Ine    .#. k u o ț {LX}:0 š õ .#.
+kuoț    N+Sg+Ela    .#. k u o ț {LX}:0 š t õ .#.
+kuoț    N+Pl+Nom    .#. k u o ț {LX}:0 ī d .#.
+kuoț    N+Pl+Gen    .#. k u o ț {LX}:0 ī d .#.
+kuoț    N+Pl+Dat    .#. k u o ț {LX}:0 ī d õ n .#.
+kuoț    N+Pl+Ins    .#. k u o ț {LX}:0 ī d õ k s .#.
+kuoț    N+Pl+Par    .#. k u o ț {LX}:0 ī d i .#.
+kuoț    N+Pl+Ill    .#. k u o ț {LX}:0 ī ž .#.
+kuoț    N+Pl+Ine    .#. k u o ț {LX}:0 ī s .#.
+kuoț    N+Pl+Ela    .#. k u o ț {LX}:0 ī s t .#.
 
 #id="", ''
 #"N_66":{"tips":"66","vards":"vakț","vcount":"2","bloks":"N","loc":{
@@ -1968,22 +1968,22 @@ vakț    N+Pl+Ela    .#. v a k ț ī s t .#.
 
 #id="", ''
 #"N_67":{"tips":"67","vards":"reņ","vcount":"1","bloks":"N","loc":{
-reņ    N+Sg+Nom    .#. r {ēe}:e ņ .#.
-reņ    N+Sg+Gen    .#. r {ēe}:e ņ .#.
-reņ    N+Sg+Dat    .#. r {ēe}:e ņ ņ õ n .#.
-reņ    N+Sg+Ins    .#. r {ēe}:e ņ ņ õ k s .#.
-reņ    N+Sg+Par    .#. r {ēe}:e ņ ņ õ .#.
-reņ    N+Sg+Ill    .#. r {ēe}:e ņ ņ õ .#.
-reņ    N+Sg+Ine    .#. r {ēe}:e ņ š õ .#.
-reņ    N+Sg+Ela    .#. r {ēe}:e ņ š t õ .#.
-reņ    N+Pl+Nom    .#. r {ēe}:ē ņ i d .#.
-reņ    N+Pl+Gen    .#. r {ēe}:ē ņ i d .#.
-reņ    N+Pl+Dat    .#. r {ēe}:ē ņ i d õ n .#.
-reņ    N+Pl+Par    .#. r {ēe}:ē ņ i d i .#.
-reņ    N+Pl+Ins    .#. r {ēe}:ē ņ i d õ k s .#.
-reņ    N+Pl+Ill    .#. r {ēe}:ē ņ i ž .#.
-reņ    N+Pl+Ine    .#. r {ēe}:ē ņ i s .#.
-reņ    N+Pl+Ela    .#. r {ēe}:ē ņ i s t .#.
+reņ    N+Sg+Nom    .#. r {ēe}:e ņ {LX}:0 > .#.
+reņ    N+Sg+Gen    .#. r {ēe}:e ņ {LX}:0 > .#.
+reņ    N+Sg+Dat    .#. r {ēe}:e ņ {LX}:ņ > õ n .#.
+reņ    N+Sg+Ins    .#. r {ēe}:e ņ {LX}:ņ > õ k s .#.
+reņ    N+Sg+Par    .#. r {ēe}:e ņ {LX}:ņ > õ .#.
+reņ    N+Sg+Ill    .#. r {ēe}:e ņ {LX}:ņ > õ .#.
+reņ    N+Sg+Ine    .#. r {ēe}:e ņ {LX}:0 > š õ .#.
+reņ    N+Sg+Ela    .#. r {ēe}:e ņ {LX}:0 > š t õ .#.
+reņ    N+Pl+Nom    .#. r {ēe}:ē ņ {LX}:0 > i d .#.
+reņ    N+Pl+Gen    .#. r {ēe}:ē ņ {LX}:0 > i d .#.
+reņ    N+Pl+Dat    .#. r {ēe}:ē ņ {LX}:0 > i d õ n .#.
+reņ    N+Pl+Ins    .#. r {ēe}:ē ņ {LX}:0 > i d õ k s .#.
+reņ    N+Pl+Ill    .#. r {ēe}:ē ņ {LX}:0 > i ž .#.
+reņ    N+Pl+Par    .#. r {ēe}:ē ņ {LX}:0 > i d i .#.
+reņ    N+Pl+Ine    .#. r {ēe}:ē ņ {LX}:0 > i s .#.
+reņ    N+Pl+Ela    .#. r {ēe}:ē ņ {LX}:0 > i s t .#.
 
 #id="", ''
 #"N_68":{"tips":"68","vards":"okš","vcount":"25","bloks":"N","loc":{
@@ -1998,30 +1998,30 @@ okš    N+Sg+Ela    .#. o k š õ s t .#.
 okš    N+Pl+Nom    .#. o k š ī d .#.
 okš    N+Pl+Gen    .#. o k š ī d .#.
 okš    N+Pl+Dat    .#. o k š ī d õ n .#.
-okš    N+Pl+Par    .#. o k š ī d i .#.
 okš    N+Pl+Ins    .#. o k š ī d õ k s .#.
 okš    N+Pl+Ill    .#. o k š ī z .#.
+okš    N+Pl+Par    .#. o k š ī d i .#.
 okš    N+Pl+Ine    .#. o k š ī s .#.
 okš    N+Pl+Ela    .#. o k š ī s t .#.
 
 #id="", ''
 #"N_69":{"tips":"69","vards":"kaš","vcount":"11","bloks":"N","loc":{
-kaš    N+Sg+Nom    .#. k a š .#.
-kaš    N+Sg+Gen    .#. k a š .#.
-kaš    N+Sg+Dat    .#. k a š š õ n .#.
-kaš    N+Sg+Ins    .#. k a š š õ k s .#.
-kaš    N+Sg+Par    .#. k a š š õ .#.
-kaš    N+Sg+Ill    .#. k a š š õ .#.
-kaš    N+Sg+Ine    .#. k a š š õ s .#.
-kaš    N+Sg+Ela    .#. k a š š õ s t .#.
-kaš    N+Pl+Nom    .#. k a š ī d .#.
-kaš    N+Pl+Gen    .#. k a š ī d .#.
-kaš    N+Pl+Dat    .#. k a š ī d õ n .#.
-kaš    N+Pl+Ins    .#. k a š ī d õ k s .#.
-kaš    N+Pl+Par    .#. k a š ī d i .#.
-kaš    N+Pl+Ill    .#. k a š ī z .#.
-kaš    N+Pl+Ine    .#. k a š ī s .#.
-kaš    N+Pl+Ela    .#. k a š ī s t .#.
+kaš    N+Sg+Nom    .#. k a š {LX}:0 .#.
+kaš    N+Sg+Gen    .#. k a š {LX}:0 .#.
+kaš    N+Sg+Dat    .#. k a š {LX}:š õ n .#.
+kaš    N+Sg+Ins    .#. k a š {LX}:š õ k s .#.
+kaš    N+Sg+Par    .#. k a š {LX}:š õ .#.
+kaš    N+Sg+Ill    .#. k a š {LX}:š õ .#.
+kaš    N+Sg+Ine    .#. k a š {LX}:š õ s .#.
+kaš    N+Sg+Ela    .#. k a š {LX}:š õ s t .#.
+kaš    N+Pl+Nom    .#. k a š {LX}:0 ī d .#.
+kaš    N+Pl+Gen    .#. k a š {LX}:0 ī d .#.
+kaš    N+Pl+Dat    .#. k a š {LX}:0 ī d õ n .#.
+kaš    N+Pl+Ins    .#. k a š {LX}:0 ī d õ k s .#.
+kaš    N+Pl+Par    .#. k a š {LX}:0 ī d i .#.
+kaš    N+Pl+Ill    .#. k a š {LX}:0 ī z .#.
+kaš    N+Pl+Ine    .#. k a š {LX}:0 ī s .#.
+kaš    N+Pl+Ela    .#. k a š {LX}:0 ī s t .#.
 
 #id="", ''
 #"N_70":{"tips":"70","vards":"duņtš","vcount":"3","bloks":"N","loc":{
@@ -2037,68 +2037,68 @@ duņtš    N+Pl+Nom    .#. d {ūu}:ū ņ t š i d .#.
 duņtš    N+Pl+Gen    .#. d {ūu}:ū ņ t š i d .#.
 duņtš    N+Pl+Dat    .#. d {ūu}:ū ņ t š i d õ n .#.
 duņtš    N+Pl+Ins    .#. d {ūu}:ū ņ t š i d õ k s .#.
-duņtš    N+Pl+Par    .#. d {ūu}:ū ņ t š i d i .#.
 duņtš    N+Pl+Ill    .#. d {ūu}:ū ņ t š i z .#.
+duņtš    N+Pl+Par    .#. d {ūu}:ū ņ t š i d i .#.
 duņtš    N+Pl+Ine    .#. d {ūu}:ū ņ t š i s .#.
 duņtš    N+Pl+Ela    .#. d {ūu}:ū ņ t š i s t .#.
 
 #id="", ''
 #"N_71":{"tips":"71","vards":"torī","vcount":"11","bloks":"N","loc":{
-torī    N+Sg+Nom    .#. t o r ī .#.
-torī    N+Sg+Gen    .#. t o r ī .#.
-torī    N+Sg+Dat    .#. t o r ī n .#.
-torī    N+Sg+Ins    .#. t o r ī k s .#.
-torī    N+Sg+Par    .#. t o r ī .#.
-torī    N+Sg+Ill    .#. t o r ī .#.
-torī    N+Sg+Ill    .#. t o r ī z .#.
-torī    N+Sg+Ine    .#. t o r ī s .#.
-torī    N+Sg+Ela    .#. t o r ī s t .#.
-torī    N+Pl+Nom    .#. t o r ī d .#.
-torī    N+Pl+Gen    .#. t o r ī d .#.
-torī    N+Pl+Dat    .#. t o r ī d õ n .#.
-torī    N+Pl+Ins    .#. t o r ī d õ k s .#.
-torī    N+Pl+Par    .#. t o r ī d i .#.
-torī    N+Pl+Ill    .#. t o r ī ž .#.
-torī    N+Pl+Ine    .#. t o r ī s i .#.
-torī    N+Pl+Ela    .#. t o r ī s t i .#.
+torī    N+Sg+Nom    .#. t o r ī > .#.
+torī    N+Sg+Gen    .#. t o r ī > .#.
+torī    N+Sg+Dat    .#. t o r ī > n .#.
+torī    N+Sg+Ins    .#. t o r ī > k s .#.
+torī    N+Sg+Par    .#. t o r ī > .#.
+torī    N+Sg+Ill    .#. t o r ī > .#.
+torī    N+Sg+Ill    .#. t o r ī > z .#.
+torī    N+Sg+Ine    .#. t o r ī > s .#.
+torī    N+Sg+Ela    .#. t o r ī > s t .#.
+torī    N+Pl+Nom    .#. t o r ī > d .#.
+torī    N+Pl+Gen    .#. t o r ī > d .#.
+torī    N+Pl+Dat    .#. t o r ī > d õ n .#.
+torī    N+Pl+Ins    .#. t o r ī > d õ k s .#.
+torī    N+Pl+Ill    .#. t o r ī > ž .#.
+torī    N+Pl+Par    .#. t o r ī > d i .#.
+torī    N+Pl+Ine    .#. t o r ī > s i .#.
+torī    N+Pl+Ela    .#. t o r ī > s t i .#.
 
 #id="", ''
 #"N_72":{"tips":"72","vards":"vaʼg","vcount":"32","bloks":"N","loc":{
-vag    N+Sg+Nom    .#. v a {ʼØ}:ʼ g .#.
-vag    N+Sg+Gen    .#. v a {ʼØ}:ʼ g .#.
-vag    N+Sg+Dat    .#. v a {ʼØ}:ʼ g g õ n .#.
-vag    N+Sg+Ins    .#. v a {ʼØ}:ʼ g k õ k s .#.
-vag    N+Sg+Par    .#. v a {ʼØ}:ʼ g g õ .#.
-vag    N+Sg+Ill    .#. v a {ʼØ}:ʼ g g õ .#.
-vag    N+Sg+Ine    .#. v a {ʼØ}:ʼ g s õ .#.
-vag    N+Sg+Ela    .#. v a {ʼØ}:ʼ g s t õ .#.
-vag    N+Pl+Nom    .#. v a {ʼØ}:0 g ū d .#.
-vag    N+Pl+Gen    .#. v a {ʼØ}:0 g ū d .#.
-vag    N+Pl+Dat    .#. v a {ʼØ}:0 g ū d õ n .#.
-vag    N+Pl+Ins    .#. v a {ʼØ}:0 g ū d õ k s .#.
-vag    N+Pl+Par    .#. v a {ʼØ}:ʼ g ḑ i .#.
-vag    N+Pl+Ill    .#. v a {ʼØ}:ʼ g ž i .#.
-vag    N+Pl+Ine    .#. v a {ʼØ}:ʼ g š i .#.
-vag    N+Pl+Ela    .#. v a {ʼØ}:ʼ g š t i .#.
+vag    N+Sg+Nom    .#. v a {ʼØ}:ʼ g {LX}:0 .#.
+vag    N+Sg+Gen    .#. v a {ʼØ}:ʼ g {LX}:0 .#.
+vag    N+Sg+Dat    .#. v a {ʼØ}:ʼ g {LX}:g õ n .#.
+vag    N+Sg+Ins    .#. v a {ʼØ}:ʼ g {LX}:k õ k s .#.
+vag    N+Sg+Par    .#. v a {ʼØ}:ʼ g {LX}:g õ .#.
+vag    N+Sg+Ill    .#. v a {ʼØ}:ʼ g {LX}:g õ .#.
+vag    N+Sg+Ine    .#. v a {ʼØ}:ʼ g {LX}:0 s õ .#.
+vag    N+Sg+Ela    .#. v a {ʼØ}:ʼ g {LX}:0 s t õ .#.
+vag    N+Pl+Nom    .#. v a {ʼØ}:0 g {LX}:0 ū d .#.
+vag    N+Pl+Gen    .#. v a {ʼØ}:0 g {LX}:0 ū d .#.
+vag    N+Pl+Dat    .#. v a {ʼØ}:0 g {LX}:0 ū d õ n .#.
+vag    N+Pl+Ins    .#. v a {ʼØ}:0 g {LX}:0 ū d õ k s .#.
+vag    N+Pl+Par    .#. v a {ʼØ}:ʼ g {LX}:0 ḑ i .#.
+vag    N+Pl+Ill    .#. v a {ʼØ}:ʼ g {LX}:0 ž i .#.
+vag    N+Pl+Ine    .#. v a {ʼØ}:ʼ g {LX}:0 š i .#.
+vag    N+Pl+Ela    .#. v a {ʼØ}:ʼ g {LX}:0 š t i .#.
 
 #id="", ''
 #"N_73":{"tips":"73","vards":"kõʼl","vcount":"7","bloks":"N","loc":{
-kõl    A+Sg+Nom    .#. k õ {ʼØ}:ʼ l .#.
-kõl    A+Sg+Gen    .#. k õ {ʼØ}:ʼ l .#.
-kõl    A+Sg+Dat    .#. k õ {ʼØ}:ʼ l l õ n .#.
-kõl    A+Sg+Ins    .#. k õ {ʼØ}:ʼ l k õ k s .#.
-kõl    A+Sg+Par    .#. k õ {ʼØ}:ʼ l l õ .#.
-kõl    A+Sg+Ill    .#. k õ {ʼØ}:ʼ l l õ .#.
-kõl    A+Sg+Ine    .#. k õ {ʼØ}:ʼ l s õ .#.
-kõl    A+Sg+Ela    .#. k õ {ʼØ}:ʼ l s t õ .#.
-kõl    A+Pl+Nom    .#. k õ {ʼØ}:0 l ū d .#.
-kõl    A+Pl+Gen    .#. k õ {ʼØ}:0 l ū d .#.
-kõl    A+Pl+Dat    .#. k õ {ʼØ}:0 l ū d õ n .#.
-kõl    A+Pl+Ins    .#. k õ {ʼØ}:0 l ū d õ k s .#.
-kõl    A+Pl+Par    .#. k õ {ʼØ}:ʼ ļ ḑ i .#.
-kõl    A+Pl+Ill    .#. k õ {ʼØ}:ʼ ļ ž i .#.
-kõl    A+Pl+Ine    .#. k õ {ʼØ}:ʼ ļ š i .#.
-kõl    A+Pl+Ela    .#. k õ {ʼØ}:ʼ ļ š t i .#.
+kõl    A+Sg+Nom    .#. k õ {ʼØ}:ʼ l {LX}:0 .#.
+kõl    A+Sg+Gen    .#. k õ {ʼØ}:ʼ l {LX}:0 .#.
+kõl    A+Sg+Dat    .#. k õ {ʼØ}:ʼ l {LX}:l õ n .#.
+kõl    A+Sg+Ins    .#. k õ {ʼØ}:ʼ l {LX}:k õ k s .#.
+kõl    A+Sg+Par    .#. k õ {ʼØ}:ʼ l {LX}:l õ .#.
+kõl    A+Sg+Ill    .#. k õ {ʼØ}:ʼ l {LX}:l õ .#.
+kõl    A+Sg+Ine    .#. k õ {ʼØ}:ʼ l {LX}:0 s õ .#.
+kõl    A+Sg+Ela    .#. k õ {ʼØ}:ʼ l {LX}:0 s t õ .#.
+kõl    A+Pl+Nom    .#. k õ {ʼØ}:0 l {LX}:0 ū d .#.
+kõl    A+Pl+Gen    .#. k õ {ʼØ}:0 l {LX}:0 ū d .#.
+kõl    A+Pl+Dat    .#. k õ {ʼØ}:0 l {LX}:0 ū d õ n .#.
+kõl    A+Pl+Ins    .#. k õ {ʼØ}:0 l {LX}:0 ū d õ k s .#.
+kõl    A+Pl+Par    .#. k õ {ʼØ}:ʼ ļ {LX}:0 ḑ i .#.
+kõl    A+Pl+Ill    .#. k õ {ʼØ}:ʼ ļ {LX}:0 ž i .#.
+kõl    A+Pl+Ine    .#. k õ {ʼØ}:ʼ ļ {LX}:0 š i .#.
+kõl    A+Pl+Ela    .#. k õ {ʼØ}:ʼ ļ {LX}:0 š t i .#.
 
 #id="", ''
 #"N_74":{"tips":"74","vards":"suʼg","vcount":"33","bloks":"N","loc":{
@@ -2113,8 +2113,8 @@ sug    N+Sg+Ela    .#. s u {ʼØ}:ʼ g s t õ .#.
 sug    N+Pl+Nom    .#. s u {ʼØ}:0 g ū d .#.
 sug    N+Pl+Gen    .#. s u {ʼØ}:0 g ū d .#.
 sug    N+Pl+Dat    .#. s u {ʼØ}:0 g ū d õ n .#.
-sug    N+Pl+Par    .#. s u {ʼØ}:0 g ī d i .#.
 sug    N+Pl+Ins    .#. s u {ʼØ}:0 g ū d õ k s .#.
+sug    N+Pl+Par    .#. s u {ʼØ}:0 g ī d i .#.
 sug    N+Pl+Ill    .#. s u {ʼØ}:ʼ g ž i .#.
 sug    N+Pl+Ine    .#. s u {ʼØ}:ʼ g š i .#.
 sug    N+Pl+Ela    .#. s u {ʼØ}:ʼ g š t i .#.
@@ -2369,176 +2369,176 @@ kež    N+Pl+Ela    .#. k e {ʼØ}:0 ž ī s t .#.
 
 #id="", ''
 #"N_88":{"tips":"88","vards":"veʼž","vcount":"6","bloks":"N","loc":{
-vež    N+Sg+Nom    .#. v e ʼ ž .#.
-vež    N+Sg+Gen    .#. v i e ʼ d .#.
-vež    N+Sg+Dat    .#. v i e ʼ d d õ n .#.
-vež    N+Sg+Par    .#. v i e t ā .#.
-vež    N+Sg+Ins    .#. v i e ʼ d k õ k s .#.
-vež    N+Sg+Ill    .#. v i e ʼ d d õ .#.
-vež    N+Sg+Ine    .#. v i e ʼ d s õ .#.
-vež    N+Sg+Ela    .#. v i e ʼ d s tõ .#.
-vež    N+Pl+Nom    .#. v i e d ū d .#.
-vež    N+Pl+Gen    .#. v i e d ū d .#.
-vež    N+Pl+Dat    .#. v i e d ū d õ n .#.
-vež    N+Pl+Par    .#. v e ʼ ž ž i .#.
-vež    N+Pl+Ins    .#. v i e d ū d õ k s .#.
-vež    N+Pl+Ill    .#. v e ž ī z .#.
-vež    N+Pl+Ine    .#. v e ž ī s .#.
-vež    N+Pl+Ela    .#. v e ž ī s t .#.
+vež    N+Sg+Nom    .#. v {iØ}:0 e {ʼØ}:ʼ ž {LX}:0 > .#.
+vež    N+Sg+Gen    .#. v {iØ}:i e {ʼØ}:ʼ d {LX}:0 > .#.
+vež    N+Sg+Dat    .#. v {iØ}:i e {ʼØ}:ʼ d {LX}:d > õ n .#.
+vež    N+Sg+Par    .#. v {iØ}:i e {ʼØ}:0 t {LX}:0 > ā .#.
+vež    N+Sg+Ins    .#. v {iØ}:i e {ʼØ}:ʼ d {LX}:k > õ k s .#.
+vež    N+Sg+Ill    .#. v {iØ}:i e {ʼØ}:ʼ d {LX}:d > õ .#.
+vež    N+Sg+Ine    .#. v {iØ}:i e {ʼØ}:ʼ d {LX}:0 > s õ .#.
+vež    N+Sg+Ela    .#. v {iØ}:i e {ʼØ}:ʼ d {LX}:0 > s t õ .#.
+vež    N+Pl+Nom    .#. v {iØ}:i e {ʼØ}:0 d {LX}:0 ū > d .#.
+vež    N+Pl+Gen    .#. v {iØ}:i e {ʼØ}:0 d {LX}:0 ū > d .#.
+vež    N+Pl+Dat    .#. v {iØ}:i e {ʼØ}:0 d {LX}:0 ū > d õ n .#.
+vež    N+Pl+Ins    .#. v {iØ}:i e {ʼØ}:0 d {LX}:0 ū > d õ k s .#.
+vež    N+Pl+Par    .#. v {iØ}:0 e {ʼØ}:ʼ ž {LX}:0 > ž i .#.
+vež    N+Pl+Ill    .#. v {iØ}:0 e {ʼØ}:0 ž {LX}:0 > ī z .#.
+vež    N+Pl+Ine    .#. v {iØ}:0 e {ʼØ}:0 ž {LX}:0 > ī s .#.
+vež    N+Pl+Ela    .#. v {iØ}:0 e {ʼØ}:0 ž {LX}:0 > ī s t .#.
 
 #id="", ''
 #"N_89":{"tips":"89","vards":"kuʼž","vcount":"1","bloks":"N","loc":{
-kuž    N+Sg+Nom    .#. k u ʼ ž .#.
-kuž    N+Sg+Gen    .#. k u ʼ z .#.
-kuž    N+Sg+Dat    .#. k u ʼ z z õ n .#.
-kuž    N+Sg+Par    .#. k u z t ā .#.
-kuž    N+Sg+Ins    .#. k u ʼ z k õ k s .#.
-kuž    N+Sg+Ill    .#. k u ʼ z z õ .#.
-kuž    N+Sg+Ine    .#. k u ʼ z z õ s .#.
-kuž    N+Sg+Ela    .#. k u ʼ z z õ st .#.
-kuž    N+Pl+Nom    .#. k u z ū d .#.
-kuž    N+Pl+Gen    .#. k u z ū d .#.
-kuž    N+Pl+Dat    .#. k u z ū d õ n .#.
-kuž    N+Pl+Par    .#. k u ʼ ž ž i .#.
-kuž    N+Pl+Ins    .#. k u z ū d õ k s .#.
-kuž    N+Pl+Ill    .#. k u ž ī z .#.
-kuž    N+Pl+Ine    .#. k u ž ī s .#.
-kuž    N+Pl+Ela    .#. k u ž ī s t .#.
+kuž    N+Sg+Nom    .#. k u {ʼØ}:ʼ {zž}:ž .#.
+kuž    N+Sg+Gen    .#. k u {ʼØ}:ʼ {zž}:z .#.
+kuž    N+Sg+Dat    .#. k u {ʼØ}:ʼ {zž}:z z õ n .#.
+kuž    N+Sg+Par    .#. k u {ʼØ}:0 {zž}:z t ā .#.
+kuž    N+Sg+Ins    .#. k u {ʼØ}:ʼ {zž}:z k õ k s .#.
+kuž    N+Sg+Ill    .#. k u {ʼØ}:ʼ {zž}:z z õ .#.
+kuž    N+Sg+Ine    .#. k u {ʼØ}:ʼ {zž}:z z õ s .#.
+kuž    N+Sg+Ela    .#. k u {ʼØ}:ʼ {zž}:z z õ s t .#.
+kuž    N+Pl+Nom    .#. k u {ʼØ}:0 {zž}:z ū d .#.
+kuž    N+Pl+Gen    .#. k u {ʼØ}:0 {zž}:z ū d .#.
+kuž    N+Pl+Dat    .#. k u {ʼØ}:0 {zž}:z ū d õ n .#.
+kuž    N+Pl+Ins    .#. k u {ʼØ}:0 {zž}:z ū d õ k s .#.
+kuž    N+Pl+Par    .#. k u {ʼØ}:ʼ {zž}:ž ž i .#.
+kuž    N+Pl+Ill    .#. k u {ʼØ}:0 {zž}:ž ī z .#.
+kuž    N+Pl+Ine    .#. k u {ʼØ}:0 {zž}:ž ī s .#.
+kuž    N+Pl+Ela    .#. k u {ʼØ}:0 {zž}:ž ī s t .#.
 
 #id="", ''
 #"N_90":{"tips":"90","vards":"outō","vcount":"19","bloks":"N","loc":{
-outō    N+Sg+Nom    .#. o u t ō .#.
-outō    N+Sg+Gen    .#. o u t ō .#.
-outō    N+Sg+Dat    .#. o u t ō n .#.
-outō    N+Sg+Par    .#. o u t ō .#.
-outō    N+Sg+Ins    .#. o u t ō k s .#.
-outō    N+Sg+Ill    .#. o u t ō .#.
-outō    N+Sg+Ill    .#. o u t ō z .#.
-outō    N+Sg+Ine    .#. o u t ō s .#.
-outō    N+Sg+Ela    .#. o u t ō s t .#.
-outō    N+Pl+Nom    .#. o u t ō d .#.
-outō    N+Pl+Gen    .#. o u t ō d .#.
-outō    N+Pl+Dat    .#. o u t ō d õ n .#.
-outō    N+Pl+Par    .#. o u t ī d i .#.
-outō    N+Pl+Ins    .#. o u t ō d õ k s .#.
-outō    N+Pl+Ill    .#. o u t ī ž .#.
-outō    N+Pl+Ine    .#. o u t ī s .#.
-outō    N+Pl+Ela    .#. o u t ī s t .#.
+outō    N+Sg+Nom    .#. o u t {ōØ}:ō .#.
+outō    N+Sg+Gen    .#. o u t {ōØ}:ō .#.
+outō    N+Sg+Dat    .#. o u t {ōØ}:ō n .#.
+outō    N+Sg+Par    .#. o u t {ōØ}:ō .#.
+outō    N+Sg+Ins    .#. o u t {ōØ}:ō k s .#.
+outō    N+Sg+Ill    .#. o u t {ōØ}:ō .#.
+outō    N+Sg+Ill    .#. o u t {ōØ}:ō z .#.
+outō    N+Sg+Ine    .#. o u t {ōØ}:ō s .#.
+outō    N+Sg+Ela    .#. o u t {ōØ}:ō s t .#.
+outō    N+Pl+Nom    .#. o u t {ōØ}:ō d .#.
+outō    N+Pl+Gen    .#. o u t {ōØ}:ō d .#.
+outō    N+Pl+Dat    .#. o u t {ōØ}:ō d õ n .#.
+outō    N+Pl+Ins    .#. o u t {ōØ}:ō d õ k s .#.
+outō    N+Pl+Par    .#. o u t {ōØ}:0 ī d i .#.
+outō    N+Pl+Ill    .#. o u t {ōØ}:0 ī ž .#.
+outō    N+Pl+Ine    .#. o u t {ōØ}:0 ī s .#.
+outō    N+Pl+Ela    .#. o u t {ōØ}:0 ī s t .#.
 
 #id="", ''
 #"N_91":{"tips":"91","vards":"radio","vcount":"3","bloks":"N","loc":{
-radio    N+Sg+Nom    .#. r a d i o .#.
-radio    N+Sg+Gen    .#. r a d i o .#.
-radio    N+Sg+Dat    .#. r a d i o n .#.
-radio    N+Sg+Par    .#. r a d i o .#.
-radio    N+Sg+Ins    .#. r a d i o k s .#.
-radio    N+Sg+Ill    .#. r a d i o .#.
-radio    N+Sg+Ill    .#. r a d i o z .#.
-radio    N+Sg+Ine    .#. r a d i o s .#.
-radio    N+Sg+Ela    .#. r a d i o s t .#.
-radio    N+Pl+Nom    .#. r a d i o d .#.
-radio    N+Pl+Gen    .#. r a d i o d .#.
-radio    N+Pl+Dat    .#. r a d i o d õ n .#.
-radio    N+Pl+Par    .#. r a d i o d i .#.
-radio    N+Pl+Ins    .#. r a d i o d õ k s .#.
-radio    N+Pl+Ill    .#. r a d i o i ž .#.
-radio    N+Pl+Ine    .#. r a d i o i s .#.
-radio    N+Pl+Ela    .#. r a d i o i s t .#.
+radio    N+Sg+Nom    .#. r a d i o > .#.
+radio    N+Sg+Gen    .#. r a d i o > .#.
+radio    N+Sg+Dat    .#. r a d i o > n .#.
+radio    N+Sg+Par    .#. r a d i o > .#.
+radio    N+Sg+Ins    .#. r a d i o > k s .#.
+radio    N+Sg+Ill    .#. r a d i o > .#.
+radio    N+Sg+Ill    .#. r a d i o > z .#.
+radio    N+Sg+Ine    .#. r a d i o > s .#.
+radio    N+Sg+Ela    .#. r a d i o > s t .#.
+radio    N+Pl+Nom    .#. r a d i o > d .#.
+radio    N+Pl+Gen    .#. r a d i o > d .#.
+radio    N+Pl+Dat    .#. r a d i o > d õ n .#.
+radio    N+Pl+Ins    .#. r a d i o > d õ k s .#.
+radio    N+Pl+Par    .#. r a d i o > d i .#.
+radio    N+Pl+Ill    .#. r a d i o > i ž .#.
+radio    N+Pl+Ine    .#. r a d i o > i s .#.
+radio    N+Pl+Ela    .#. r a d i o > i s t .#.
 
 #id="", ''
 #"N_92":{"tips":"92","vards":"ang","vcount":"6","bloks":"N","loc":{
-ang    N+Sg+Nom    .#. a n g .#.
-ang    N+Sg+Gen    .#. a n g .#.
-ang    N+Sg+Dat    .#. a n g õ n .#.
-ang    N+Sg+Par    .#. a n g õ .#.
-ang    N+Sg+Ins    .#. a n g k õ k s .#.
-ang    N+Sg+Ill    .#. a n g õ .#.
-ang    N+Sg+Ine    .#. a n g s õ .#.
-ang    N+Sg+Ela    .#. a n g s t õ .#.
-ang    N+Pl+Nom    .#. ā n g õ d .#.
-ang    N+Pl+Gen    .#. ā n g õ d .#.
-ang    N+Pl+Dat    .#. ā n g õ d õ n .#.
-ang    N+Pl+Par    .#. a n g ḑ i .#.
-ang    N+Pl+Ins    .#. ā n g õ d õ k s .#.
-ang    N+Pl+Ill    .#. ā n g i ž .#.
-ang    N+Pl+Ine    .#. ā n g i s .#.
-ang    N+Pl+Ela    .#. ā n g i s t .#.
+ang    N+Sg+Nom    .#. {āa}:a n g .#.
+ang    N+Sg+Gen    .#. {āa}:a n g .#.
+ang    N+Sg+Dat    .#. {āa}:a n g õ n .#.
+ang    N+Sg+Par    .#. {āa}:a n g õ .#.
+ang    N+Sg+Ins    .#. {āa}:a n g k õ k s .#.
+ang    N+Sg+Ill    .#. {āa}:a n g õ .#.
+ang    N+Sg+Ine    .#. {āa}:a n g s õ .#.
+ang    N+Sg+Ela    .#. {āa}:a n g s t õ .#.
+ang    N+Pl+Nom    .#. {āa}:ā n g õ d .#.
+ang    N+Pl+Gen    .#. {āa}:ā n g õ d .#.
+ang    N+Pl+Dat    .#. {āa}:ā n g õ d õ n .#.
+ang    N+Pl+Ins    .#. {āa}:ā n g õ d õ k s .#.
+ang    N+Pl+Par    .#. {āa}:a n g ḑ i .#.
+ang    N+Pl+Ill    .#. {āa}:ā n g i ž .#.
+ang    N+Pl+Ine    .#. {āa}:ā n g i s .#.
+ang    N+Pl+Ela    .#. {āa}:ā n g i s t .#.
 
 #id="", ''
 #"N_93":{"tips":"93","vards":"kouv","vcount":"1","bloks":"N","loc":{
-kouv    N+Sg+Nom    .#. k o u v .#.
-kouv    N+Sg+Gen    .#. k o u v .#.
-kouv    N+Sg+Dat    .#. k o u v õ n .#.
-kouv    N+Sg+Par    .#. k o u v õ .#.
-kouv    N+Sg+Ins    .#. k o u v k õ k s .#.
-kouv    N+Sg+Ill    .#. k o u v õ .#.
-kouv    N+Sg+Ine    .#. k o u v s õ .#.
-kouv    N+Sg+Ela    .#. k o u v s t õ .#.
-kouv    N+Pl+Nom    .#. k ō v õ d .#.
-kouv    N+Pl+Gen    .#. k ō v õ d .#.
-kouv    N+Pl+Dat    .#. k ō v õ d õ n .#.
-kouv    N+Pl+Par    .#. k o u v ḑ i .#.
-kouv    N+Pl+Ins    .#. k ō v õ d õ k s .#.
-kouv    N+Pl+Ill    .#. k ō v i ž .#.
-kouv    N+Pl+Ine    .#. k ō v i s .#.
-kouv    N+Pl+Ela    .#. k ō v i s t .#.
+kouv    N+Sg+Nom    .#. k {ōo}:o {uØ}:u v .#.
+kouv    N+Sg+Gen    .#. k {ōo}:o {uØ}:u v .#.
+kouv    N+Sg+Dat    .#. k {ōo}:o {uØ}:u v õ n .#.
+kouv    N+Sg+Par    .#. k {ōo}:o {uØ}:u v õ .#.
+kouv    N+Sg+Ins    .#. k {ōo}:o {uØ}:u v k õ k s .#.
+kouv    N+Sg+Ill    .#. k {ōo}:o {uØ}:u v õ .#.
+kouv    N+Sg+Ine    .#. k {ōo}:o {uØ}:u v s õ .#.
+kouv    N+Sg+Ela    .#. k {ōo}:o {uØ}:u v s t õ .#.
+kouv    N+Pl+Nom    .#. k {ōo}:ō {uØ}:0 v õ d .#.
+kouv    N+Pl+Gen    .#. k {ōo}:ō {uØ}:0 v õ d .#.
+kouv    N+Pl+Dat    .#. k {ōo}:ō {uØ}:0 v õ d õ n .#.
+kouv    N+Pl+Ins    .#. k {ōo}:ō {uØ}:0 v õ d õ k s .#.
+kouv    N+Pl+Par    .#. k {ōo}:o {uØ}:u v ḑ i .#.
+kouv    N+Pl+Ill    .#. k {ōo}:ō {uØ}:0 v i ž .#.
+kouv    N+Pl+Ine    .#. k {ōo}:ō {uØ}:0 v i s .#.
+kouv    N+Pl+Ela    .#. k {ōo}:ō {uØ}:0 v i s t .#.
 
 #id="", ''
 #"N_94":{"tips":"94","vards":"kand","vcount":"161","bloks":"N","loc":{
-kand    N+Sg+Nom    .#. k a n d .#.
-kand    N+Sg+Gen    .#. k a n d .#.
-kand    N+Sg+Dat    .#. k a n d õ n .#.
-kand    N+Sg+Par    .#. k a n d õ .#.
-kand    N+Sg+Ins    .#. k a n d k õ k s .#.
-kand    N+Sg+Ill    .#. k a n d õ .#.
-kand    N+Sg+Ine    .#. k a n d s õ .#.
-kand    N+Sg+Ela    .#. k a n d s t õ .#.
-kand    N+Pl+Nom    .#. k ā n d õ d .#.
-kand    N+Pl+Gen    .#. k ā n d õ d .#.
-kand    N+Pl+Dat    .#. k ā n d õ d õ n .#.
-kand    N+Pl+Par    .#. k ā n d i d i .#.
-kand    N+Pl+Ins    .#. k ā n d õ d õ k s .#.
-kand    N+Pl+Ill    .#. k ā n d i ž .#.
-kand    N+Pl+Ine    .#. k ā n d i s .#.
-kand    N+Pl+Ela    .#. k ā n d i s t .#.
+kand    N+Sg+Nom    .#. k {āa}:a n d .#.
+kand    N+Sg+Gen    .#. k {āa}:a n d .#.
+kand    N+Sg+Dat    .#. k {āa}:a n d õ n .#.
+kand    N+Sg+Par    .#. k {āa}:a n d õ .#.
+kand    N+Sg+Ins    .#. k {āa}:a n d k õ k s .#.
+kand    N+Sg+Ill    .#. k {āa}:a n d õ .#.
+kand    N+Sg+Ine    .#. k {āa}:a n d s õ .#.
+kand    N+Sg+Ela    .#. k {āa}:a n d s t õ .#.
+kand    N+Pl+Nom    .#. k {āa}:ā n d õ d .#.
+kand    N+Pl+Gen    .#. k {āa}:ā n d õ d .#.
+kand    N+Pl+Dat    .#. k {āa}:ā n d õ d õ n .#.
+kand    N+Pl+Ins    .#. k {āa}:ā n d õ d õ k s .#.
+kand    N+Pl+Par    .#. k {āa}:ā n d i d i .#.
+kand    N+Pl+Ill    .#. k {āa}:ā n d i ž .#.
+kand    N+Pl+Ine    .#. k {āa}:ā n d i s .#.
+kand    N+Pl+Ela    .#. k {āa}:ā n d i s t .#.
 
 #id="", ''
 #"N_95":{"tips":"95","vards":"pȯrt","vcount":"1","bloks":"N","loc":{
-pȯrt    N+Sg+Nom    .#. p {ūȯ}:ȯ {oØ}:0 r t .#.
-pȯrt    N+Sg+Gen    .#. p {ūȯ}:ȯ {oØ}:0 r t .#.
-pȯrt    N+Sg+Dat    .#. p {ūȯ}:ȯ {oØ}:0 r t õ n .#.
-pȯrt    N+Sg+Par    .#. p {ūȯ}:ȯ {oØ}:0 r t õ .#.
-pȯrt    N+Sg+Ins    .#. p {ūȯ}:ȯ {oØ}:0 r t õ k s .#.
-pȯrt    N+Sg+Ill    .#. p {ūȯ}:ȯ {oØ}:0 r t õ .#.
-pȯrt    N+Sg+Ine    .#. p {ūȯ}:ȯ {oØ}:0 r t s õ .#.
-pȯrt    N+Sg+Ela    .#. p {ūȯ}:ȯ {oØ}:0 r t s t õ .#.
-pȯrt    N+Pl+Nom    .#. p {ūȯ}:ū {oØ}:o r t õ d .#.
-pȯrt    N+Pl+Gen    .#. p {ūȯ}:ū {oØ}:o r t õ d .#.
-pȯrt    N+Pl+Dat    .#. p {ūȯ}:ū {oØ}:o r t õ d õ n .#.
-pȯrt    N+Pl+Par    .#. p {ūȯ}:ū {oØ}:o r t i d i .#.
-pȯrt    N+Pl+Ins    .#. p {ūȯ}:ū {oØ}:o r t õ d õ k s .#.
-pȯrt    N+Pl+Ill    .#. p {ūȯ}:ū {oØ}:o r t i ž .#.
-pȯrt    N+Pl+Ine    .#. p {ūȯ}:ū {oØ}:o r t i s .#.
-pȯrt    N+Pl+Ela    .#. p {ūȯ}:ū {oØ}:o r t i st .#.
+pȯrt    N+Sg+Nom    .#. p {ūȯ}:ȯ {oØ}:0 r t {õØ}:0 .#.
+pȯrt    N+Sg+Gen    .#. p {ūȯ}:ȯ {oØ}:0 r t {õØ}:0 .#.
+pȯrt    N+Sg+Dat    .#. p {ūȯ}:ȯ {oØ}:0 r t {õØ}:õ n .#.
+pȯrt    N+Sg+Par    .#. p {ūȯ}:ȯ {oØ}:0 r t {õØ}:0 õ .#.
+pȯrt    N+Sg+Ins    .#. p {ūȯ}:ȯ {oØ}:0 r t {õØ}:õ k s .#.
+pȯrt    N+Sg+Ill    .#. p {ūȯ}:ȯ {oØ}:0 r t {õØ}:0 õ .#.
+pȯrt    N+Sg+Ine    .#. p {ūȯ}:ȯ {oØ}:0 r t {õØ}:0 s õ .#.
+pȯrt    N+Sg+Ela    .#. p {ūȯ}:ȯ {oØ}:0 r t {õØ}:0 s t õ .#.
+pȯrt    N+Pl+Nom    .#. p {ūȯ}:ū {oØ}:o r t {õØ}:õ d .#.
+pȯrt    N+Pl+Gen    .#. p {ūȯ}:ū {oØ}:o r t {õØ}:õ d .#.
+pȯrt    N+Pl+Dat    .#. p {ūȯ}:ū {oØ}:o r t {õØ}:õ d õ n .#.
+pȯrt    N+Pl+Ins    .#. p {ūȯ}:ū {oØ}:o r t {õØ}:õ d õ k s .#.
+pȯrt    N+Pl+Par    .#. p {ūȯ}:ū {oØ}:o r t {õØ}:0 i d i .#.
+pȯrt    N+Pl+Ill    .#. p {ūȯ}:ū {oØ}:o r t {õØ}:0 i ž .#.
+pȯrt    N+Pl+Ine    .#. p {ūȯ}:ū {oØ}:o r t {õØ}:0 i s .#.
+pȯrt    N+Pl+Ela    .#. p {ūȯ}:ū {oØ}:o r t {õØ}:0 i st .#.
 
 #id="", ''
 #"N_96":{"tips":"96","vards":"nuŗm","vcount":"5","bloks":"N","loc":{
-nuŗm    N+Sg+Nom    .#. n u ŗ m .#.
-nuŗm    N+Sg+Gen    .#. n u r m .#.
-nuŗm    N+Sg+Dat    .#. n u r m õ n .#.
-nuŗm    N+Sg+Par    .#. n u r m õ .#.
-nuŗm    N+Sg+Ins    .#. n u r m k õ k s .#.
-nuŗm    N+Sg+Ill    .#. n u r m õ .#.
-nuŗm    N+Sg+Ine    .#. n u r m s õ .#.
-nuŗm    N+Sg+Ela    .#. n u r m s t õ .#.
-nuŗm    N+Pl+Nom    .#. n ū r m õ d .#.
-nuŗm    N+Pl+Gen    .#. n ū r m õ d .#.
-nuŗm    N+Pl+Dat    .#. n ū r m õ d õ n .#.
-nuŗm    N+Pl+Par    .#. n ū r m i d i .#.
-nuŗm    N+Pl+Ins    .#. n ū r m õ d õ k s .#.
-nuŗm    N+Pl+Ill    .#. n ū r m i ž .#.
-nuŗm    N+Pl+Ine    .#. n ū r m i s .#.
-nuŗm    N+Pl+Ela    .#. n ū r m i s t .#.
+nuŗm    N+Sg+Nom    .#. n {ūu}:u ŗ m .#.
+nuŗm    N+Sg+Gen    .#. n {ūu}:u r m .#.
+nuŗm    N+Sg+Dat    .#. n {ūu}:u r m õ n .#.
+nuŗm    N+Sg+Par    .#. n {ūu}:u r m õ .#.
+nuŗm    N+Sg+Ins    .#. n {ūu}:u r m k õ k s .#.
+nuŗm    N+Sg+Ill    .#. n {ūu}:u r m õ .#.
+nuŗm    N+Sg+Ine    .#. n {ūu}:u r m s õ .#.
+nuŗm    N+Sg+Ela    .#. n {ūu}:u r m s t õ .#.
+nuŗm    N+Pl+Nom    .#. n {ūu}:ū r m õ d .#.
+nuŗm    N+Pl+Gen    .#. n {ūu}:ū r m õ d .#.
+nuŗm    N+Pl+Dat    .#. n {ūu}:ū r m õ d õ n .#.
+nuŗm    N+Pl+Ins    .#. n {ūu}:ū r m õ d õ k s .#.
+nuŗm    N+Pl+Par    .#. n {ūu}:ū r m i d i .#.
+nuŗm    N+Pl+Ill    .#. n {ūu}:ū r m i ž .#.
+nuŗm    N+Pl+Ine    .#. n {ūu}:ū r m i s .#.
+nuŗm    N+Pl+Ela    .#. n {ūu}:ū r m i s t .#.
 
 #id="", ''
 #"N_97":{"tips":"97","vards":"laint","vcount":"10","bloks":"N","loc":{
@@ -2561,60 +2561,60 @@ laint    N+Pl+Ela    .#. l ā i n i s t .#.
 
 #id="", ''
 #"N_98":{"tips":"98","vards":"loul","vcount":"33","bloks":"N","loc":{
-loul    N+Sg+Nom    .#. l o u l .#.
-loul    N+Sg+Gen    .#. l o u l .#.
-loul    N+Sg+Dat    .#. l o u l õ n .#.
-loul    N+Sg+Par    .#. l o u l õ .#.
-loul    N+Sg+Ins    .#. l o u l õ k s .#.
-loul    N+Sg+Ill    .#. l o u l õ .#.
-loul    N+Sg+Ine    .#. l o u l s õ .#.
-loul    N+Sg+Ela    .#. l o u l s t õ .#.
-loul    N+Pl+Nom    .#. l ō l õ d .#.
-loul    N+Pl+Gen    .#. l ō l õ d .#.
-loul    N+Pl+Dat    .#. l ō l õ d õ n .#.
-loul    N+Pl+Par    .#. l ō l i d i .#.
-loul    N+Pl+Ins    .#. l ō l õ d õ k s .#.
-loul    N+Pl+Ill    .#. l ō l i ž .#.
-loul    N+Pl+Ine    .#. l ō l i s .#.
-loul    N+Pl+Ela    .#. l ō l i s t .#.
+loul    N+Sg+Nom    .#. l {ōo}:o {uØ}:u l .#.
+loul    N+Sg+Gen    .#. l {ōo}:o {uØ}:u l .#.
+loul    N+Sg+Dat    .#. l {ōo}:o {uØ}:u l õ n .#.
+loul    N+Sg+Par    .#. l {ōo}:o {uØ}:u l õ .#.
+loul    N+Sg+Ins    .#. l {ōo}:o {uØ}:u l õ k s .#.
+loul    N+Sg+Ill    .#. l {ōo}:o {uØ}:u l õ .#.
+loul    N+Sg+Ine    .#. l {ōo}:o {uØ}:u l s õ .#.
+loul    N+Sg+Ela    .#. l {ōo}:o {uØ}:u l s t õ .#.
+loul    N+Pl+Nom    .#. l {ōo}:ō {uØ}:0 l õ d .#.
+loul    N+Pl+Gen    .#. l {ōo}:ō {uØ}:0 l õ d .#.
+loul    N+Pl+Dat    .#. l {ōo}:ō {uØ}:0 l õ d õ n .#.
+loul    N+Pl+Par    .#. l {ōo}:ō {uØ}:0 l i d i .#.
+loul    N+Pl+Ins    .#. l {ōo}:ō {uØ}:0 l õ d õ k s .#.
+loul    N+Pl+Ill    .#. l {ōo}:ō {uØ}:0 l i ž .#.
+loul    N+Pl+Ine    .#. l {ōo}:ō {uØ}:0 l i s .#.
+loul    N+Pl+Ela    .#. l {ōo}:ō {uØ}:0 l i s t .#.
 
 #id="", ''
 #"N_99":{"tips":"99","vards":"ul","vcount":"14","bloks":"N","loc":{
-ul    A+Sg+Nom    .#. u l .#.
-ul    A+Sg+Gen    .#. u l .#.
-ul    A+Sg+Dat    .#. u l l õ n .#.
-ul    A+Sg+Par    .#. u l l õ .#.
-ul    A+Sg+Ins    .#. u l l õ k s .#.
-ul    A+Sg+Ill    .#. u l l õ .#.
-ul    A+Sg+Ine    .#. u l s õ .#.
-ul    A+Sg+Ela    .#. u l s t õ .#.
-ul    A+Pl+Nom    .#. ū l õ d .#.
-ul    A+Pl+Gen    .#. ū l õ d .#.
-ul    A+Pl+Dat    .#. ū l õ d õ n .#.
-ul    A+Pl+Par    .#. ū l i d i .#.
-ul    A+Pl+Ins    .#. ū l õ d õ k s .#.
-ul    A+Pl+Ill    .#. ū l i ž .#.
-ul    A+Pl+Ine    .#. ū l i s .#.
-ul    A+Pl+Ela    .#. ū l i s t .#.
+ul    A+Sg+Nom    .#. {ūu }:u l {LX}:0 .#.
+ul    A+Sg+Gen    .#. {ūu }:u l {LX}:0 .#.
+ul    A+Sg+Dat    .#. {ūu }:u l {LX}:l õ n .#.
+ul    A+Sg+Par    .#. {ūu }:u l {LX}:l õ .#.
+ul    A+Sg+Ins    .#. {ūu }:u l {LX}:l õ k s .#.
+ul    A+Sg+Ill    .#. {ūu }:u l {LX}:l õ .#.
+ul    A+Sg+Ine    .#. {ūu }:u l {LX}:0 s õ .#.
+ul    A+Sg+Ela    .#. {ūu }:u l {LX}:0 s t õ .#.
+ul    A+Pl+Nom    .#. {ūu }:ū l {LX}:õ d .#.
+ul    A+Pl+Gen    .#. {ūu }:ū l {LX}:õ d .#.
+ul    A+Pl+Dat    .#. {ūu }:ū l {LX}:õ d õ n .#.
+ul    A+Pl+Ins    .#. {ūu }:ū l {LX}:õ d õ k s .#.
+ul    A+Pl+Par    .#. {ūu }:ū l {LX}:i d i .#.
+ul    A+Pl+Ill    .#. {ūu }:ū l {LX}:i ž .#.
+ul    A+Pl+Ine    .#. {ūu }:ū l {LX}:i s .#.
+ul    A+Pl+Ela    .#. {ūu }:ū l {LX}:i s t .#.
 
 #id="", ''
 #"N_100":{"tips":"100","vards":"pan","vcount":"2","bloks":"N","loc":{
-pan    N+Sg+Nom    .#. p a n .#.
-pan    N+Sg+Gen    .#. p a n .#.
-pan    N+Sg+Dat    .#. p a n n õ n .#.
-pan    N+Sg+Par    .#. p a n n õ .#.
-pan    N+Sg+Ins    .#. p a n n õ k s .#.
-pan    N+Sg+Ill    .#. p a n n õ .#.
-pan    N+Sg+Ine    .#. p a n s õ .#.
-pan    N+Sg+Ela    .#. p a n s t õ .#.
-pan    N+Pl+Nom    .#. p ǭ n õ d .#.
-pan    N+Pl+Gen    .#. p ǭ n õ d .#.
-pan    N+Pl+Dat    .#. p ǭ n õ d õ n .#.
-pan    N+Pl+Par    .#. p ǭ n i d i .#.
-pan    N+Pl+Ins    .#. p ǭ n õ d õ k s .#.
-pan    N+Pl+Ill    .#. p ǭ n i ž .#.
-pan    N+Pl+Ine    .#. p ǭ n i s .#.
-pan    N+Pl+Ela    .#. p ǭ n i s t .#.
+pan    N+Sg+Nom    .#. p {ǭa}:a n {LX}:0 .#.
+pan    N+Sg+Gen    .#. p {ǭa}:a n {LX}:0 .#.
+pan    N+Sg+Dat    .#. p {ǭa}:a n {LX}:n õ n .#.
+pan    N+Sg+Par    .#. p {ǭa}:a n {LX}:n õ .#.
+pan    N+Sg+Ins    .#. p {ǭa}:a n {LX}:n õ k s .#.
+pan    N+Sg+Ill    .#. p {ǭa}:a n {LX}:n õ .#.
+pan    N+Sg+Ine    .#. p {ǭa}:a n {LX}:0 s õ .#.
+pan    N+Sg+Ela    .#. p {ǭa}:a n {LX}:0 s t õ .#.
+pan    N+Pl+Nom    .#. p {ǭa}:ǭ n {LX}:0 õ d .#.
+pan    N+Pl+Gen    .#. p {ǭa}:ǭ n {LX}:0 õ d .#.
+pan    N+Pl+Dat    .#. p {ǭa}:ǭ n {LX}:0 õ d õ n .#.
+pan    N+Pl+Par    .#. p {ǭa}:ǭ n {LX}:0 i d i .#.
+pan    N+Pl+Ins    .#. p {ǭa}:ǭ n {LX}:0 õ d õ k s .#.
+pan    N+Pl+Ill    .#. p {ǭa}:ǭ n {LX}:0 i ž .#.
+pan    N+Pl+Ine    .#. p {ǭa}:ǭ n {LX}:0 i s .#.
+pan    N+Pl+Ela    .#. p {ǭa}:ǭ n {LX}:0 i s t .#.
 
 #id="", ''
 #"N_101":{"tips":"101","vards":"täm","vcount":"1","bloks":"N","loc":{
@@ -3053,8 +3053,8 @@ kōj    N+Sg+Ela    .#. k ǭ j s t õ .#.
 kōj    N+Pl+Nom    .#. k ǭ j d .#.
 kōj    N+Pl+Gen    .#. k ǭ j d .#.
 kōj    N+Pl+Dat    .#. k ǭ j d õ n .#.
-kōj    N+Pl+Par    .#. k ǭ j ḑ i .#.
 kōj    N+Pl+Ins    .#. k ǭ j d k õ k s .#.
+kōj    N+Pl+Par    .#. k ǭ j ḑ i .#.
 kōj    N+Pl+Ill    .#. k ǭ j ž i .#.
 kōj    N+Pl+Ine    .#. k ǭ j š i .#.
 kōj    N+Pl+Ela    .#. k ǭ j š t i .#.
@@ -3092,8 +3092,8 @@ irm    N+Sg+Ela    .#. i r m s t .#.
 irm    N+Pl+Nom    .#. i r m õ d .#.
 irm    N+Pl+Gen    .#. i r m õ d .#.
 irm    N+Pl+Dat    .#. i r m õ d õ n .#.
-irm    N+Pl+Par    .#. i r m i d i .#.
 irm    N+Pl+Ins    .#. i r m õ d õ k s .#.
+irm    N+Pl+Par    .#. i r m i d i .#.
 irm    N+Pl+Ill    .#. i r m i ž .#.
 irm    N+Pl+Ine    .#. i r m i s .#.
 irm    N+Pl+Ela    .#. i r m i s t .#.
@@ -3102,20 +3102,20 @@ irm    N+Pl+Ela    .#. i r m i s t .#.
 #"N_123":{"tips":"123","vards":"program","vcount":"55","bloks":"N","loc":{
 program    N+Sg+Nom    .#. p r o g r a m .#.
 program    N+Sg+Gen    .#. p r o g r a m .#.
-program    N+Sg+Dat    .#. p r o g r a mmõ n .#.
-program    N+Sg+Par    .#. p r o g r a mmõ .#.
-program    N+Sg+Ins    .#. p r o g r a mmõ k s .#.
-program    N+Sg+Ill    .#. p r o g r a mmõ .#.
-program    N+Sg+Ine    .#. p r o g r a ms .#.
-program    N+Sg+Ela    .#. p r o g r a mst .#.
-program    N+Pl+Nom    .#. p r o g r a mmõd .#.
-program    N+Pl+Gen    .#. p r o g r a mmõd .#.
-program    N+Pl+Dat    .#. p r o g r a mmõdõ n .#.
-program    N+Pl+Par    .#. p r o g r a mmidi .#.
-program    N+Pl+Ins    .#. p r o g r a mmõdõ k s .#.
-program    N+Pl+Ill    .#. p r o g r a mmiž .#.
-program    N+Pl+Ine    .#. p r o g r a mmis .#.
-program    N+Pl+Ela    .#. p r o g r a mmist .#.
+program    N+Sg+Dat    .#. p r o g r a m m õ n .#.
+program    N+Sg+Par    .#. p r o g r a m m õ .#.
+program    N+Sg+Ins    .#. p r o g r a m m õ k s .#.
+program    N+Sg+Ill    .#. p r o g r a m m õ .#.
+program    N+Sg+Ine    .#. p r o g r a m s .#.
+program    N+Sg+Ela    .#. p r o g r a m s t .#.
+program    N+Pl+Nom    .#. p r o g r a m m õ d .#.
+program    N+Pl+Gen    .#. p r o g r a m m õ d .#.
+program    N+Pl+Dat    .#. p r o g r a m m õ d õ n .#.
+program    N+Pl+Par    .#. p r o g r a m m i d i .#.
+program    N+Pl+Ins    .#. p r o g r a m m õ d õ k s .#.
+program    N+Pl+Ill    .#. p r o g r a m m i ž .#.
+program    N+Pl+Ine    .#. p r o g r a m m i s .#.
+program    N+Pl+Ela    .#. p r o g r a m m i st .#.
 
 #id="", ''
 #"N_124":{"tips":"124","vards":"vȯņ","vcount":"2","bloks":"N","loc":{
@@ -3168,8 +3168,8 @@ amāt    N+Sg+Ela    .#. a m ā t s t .#.
 amāt    N+Pl+Nom    .#. a m ā t õ d .#.
 amāt    N+Pl+Gen    .#. a m ā t õ d .#.
 amāt    N+Pl+Dat    .#. a m ā t õ d õ n .#.
-amāt    N+Pl+Par    .#. a m ā t i d i .#.
 amāt    N+Pl+Ins    .#. a m ā t õ d õ k s .#.
+amāt    N+Pl+Par    .#. a m ā t i d i .#.
 amāt    N+Pl+Ill    .#. a m ā t i ž .#.
 amāt    N+Pl+Ine    .#. a m ā t i s .#.
 amāt    N+Pl+Ela    .#. a m ā t i s t .#.
@@ -3183,34 +3183,34 @@ kultūr    N+Sg+Par    .#. k u l t ū r õ .#.
 kultūr    N+Sg+Ins    .#. k u l t ū r õ k s .#.
 kultūr    N+Sg+Ill    .#. k u l t ū r õ .#.
 kultūr    N+Sg+Ine    .#. k u l t ū r s .#.
-kultūr    N+Sg+Ela    .#. k u l t ū r st .#.
-kultūr    N+Pl+Nom    .#. k u l t ū r õd .#.
-kultūr    N+Pl+Gen    .#. k u l t ū r õd .#.
-kultūr    N+Pl+Dat    .#. k u l t ū r õdõ n .#.
-kultūr    N+Pl+Par    .#. k u l t ū r idi .#.
-kultūr    N+Pl+Ins    .#. k u l t ū r õdõ k s .#.
-kultūr    N+Pl+Ill    .#. k u l t ū r iž .#.
-kultūr    N+Pl+Ine    .#. k u l t ū r is .#.
-kultūr    N+Pl+Ela    .#. k u l t ū r ist .#.
+kultūr    N+Sg+Ela    .#. k u l t ū r s t .#.
+kultūr    N+Pl+Nom    .#. k u l t ū r õ d .#.
+kultūr    N+Pl+Gen    .#. k u l t ū r õ d .#.
+kultūr    N+Pl+Dat    .#. k u l t ū r õ d õ n .#.
+kultūr    N+Pl+Ins    .#. k u l t ū r õ d õ k s .#.
+kultūr    N+Pl+Par    .#. k u l t ū r i d i .#.
+kultūr    N+Pl+Ill    .#. k u l t ū r i ž .#.
+kultūr    N+Pl+Ine    .#. k u l t ū r i s .#.
+kultūr    N+Pl+Ela    .#. k u l t ū r i s t .#.
 
 #id="", ''
 #"N_127ʼ":{"tips":"127ʼ","vards":"faʼbrik","vcount":"9","bloks":"N","loc":{
 fabrik    N+Sg+Nom    .#. f a ʼ b r i k .#.
 fabrik    N+Sg+Gen    .#. f a ʼ b r i k .#.
-fabrik    N+Sg+Dat    .#. f a ʼ b r i kõ n .#.
-fabrik    N+Sg+Par    .#. f a ʼ b r i kõ .#.
-fabrik    N+Sg+Ins    .#. f a ʼ b r i kõ k s .#.
-fabrik    N+Sg+Ill    .#. f a ʼ b r i kõ .#.
+fabrik    N+Sg+Dat    .#. f a ʼ b r i k õ n .#.
+fabrik    N+Sg+Par    .#. f a ʼ b r i k õ .#.
+fabrik    N+Sg+Ins    .#. f a ʼ b r i k õ k s .#.
+fabrik    N+Sg+Ill    .#. f a ʼ b r i k õ .#.
 fabrik    N+Sg+Ine    .#. f a ʼ b r i k s .#.
-fabrik    N+Sg+Ela    .#. f a ʼ b r i k st .#.
-fabrik    N+Pl+Nom    .#. f a ʼ b r i kõd .#.
-fabrik    N+Pl+Gen    .#. f a ʼ b r i kõd .#.
-fabrik    N+Pl+Dat    .#. f a ʼ b r i kõdõ n .#.
-fabrik    N+Pl+Par    .#. f a ʼ b r i kidi .#.
-fabrik    N+Pl+Ins    .#. f a ʼ b r i kõdõ k s .#.
-fabrik    N+Pl+Ill    .#. f a ʼ b r i kiž .#.
-fabrik    N+Pl+Ine    .#. f a ʼ b r i kis .#.
-fabrik    N+Pl+Ela    .#. f a ʼ b r i kist .#.
+fabrik    N+Sg+Ela    .#. f a ʼ b r i k s t .#.
+fabrik    N+Pl+Nom    .#. f a ʼ b r i k õ d .#.
+fabrik    N+Pl+Gen    .#. f a ʼ b r i k õ d .#.
+fabrik    N+Pl+Dat    .#. f a ʼ b r i k õ d õ n .#.
+fabrik    N+Pl+Ins    .#. f a ʼ b r i k õ d õ k s .#.
+fabrik    N+Pl+Par    .#. f a ʼ b r i k i d i .#.
+fabrik    N+Pl+Ill    .#. f a ʼ b r i k i ž .#.
+fabrik    N+Pl+Ine    .#. f a ʼ b r i k i s .#.
+fabrik    N+Pl+Ela    .#. f a ʼ b r i k i s t .#.
 
 #id="", ''
 #"N_128":{"tips":"128","vards":"viļț","vcount":"100","bloks":"N","loc":{
@@ -3235,39 +3235,39 @@ viļț    N+Pl+Ela    .#. v i ļ ț i s t .#.
 #"N_129":{"tips":"129","vards":"gērmaņ","vcount":"8","bloks":"N","loc":{
 gērmaņ    N+Sg+Nom    .#. g ē r m a ņ .#.
 gērmaņ    N+Sg+Gen    .#. g ē r m a ņ .#.
-gērmaņ    N+Sg+Dat    .#. g ē r m a ņ ņõ n .#.
-gērmaņ    N+Sg+Par    .#. g ē r m a ņ ņõ .#.
-gērmaņ    N+Sg+Ins    .#. g ē r m a ņ ņõ k s .#.
-gērmaņ    N+Sg+Ill    .#. g ē r m a ņ ņõ .#.
+gērmaņ    N+Sg+Dat    .#. g ē r m a ņ ņ õ n .#.
+gērmaņ    N+Sg+Par    .#. g ē r m a ņ ņ õ .#.
+gērmaņ    N+Sg+Ins    .#. g ē r m a ņ ņ õ k s .#.
+gērmaņ    N+Sg+Ill    .#. g ē r m a ņ ņ õ .#.
 gērmaņ    N+Sg+Ine    .#. g ē r m a ņ š .#.
-gērmaņ    N+Sg+Ela    .#. g ē r m a ņ št .#.
-gērmaņ    N+Pl+Nom    .#. g ē r m a ņ ņõd .#.
-gērmaņ    N+Pl+Gen    .#. g ē r m a ņ ņõd .#.
-gērmaņ    N+Pl+Dat    .#. g ē r m a ņ ņõdõ n .#.
-gērmaņ    N+Pl+Par    .#. g ē r m a ņ ņidi .#.
-gērmaņ    N+Pl+Ins    .#. g ē r m a ņ ņõdõ k s .#.
-gērmaņ    N+Pl+Ill    .#. g ē r m a ņ ņiž .#.
-gērmaņ    N+Pl+Ine    .#. g ē r m a ņ ņis .#.
-gērmaņ    N+Pl+Ela    .#. g ē r m a ņ ņist .#.
+gērmaņ    N+Sg+Ela    .#. g ē r m a ņ š t .#.
+gērmaņ    N+Pl+Nom    .#. g ē r m a ņ ņ õ d .#.
+gērmaņ    N+Pl+Gen    .#. g ē r m a ņ ņ õ d .#.
+gērmaņ    N+Pl+Dat    .#. g ē r m a ņ ņ õ d õ n .#.
+gērmaņ    N+Pl+Par    .#. g ē r m a ņ ņ i d i .#.
+gērmaņ    N+Pl+Ins    .#. g ē r m a ņ ņ õ d õ k s .#.
+gērmaņ    N+Pl+Ill    .#. g ē r m a ņ ņ i ž .#.
+gērmaņ    N+Pl+Ine    .#. g ē r m a ņ ņ i s .#.
+gērmaņ    N+Pl+Ela    .#. g ē r m a ņ ņ i s t .#.
 
 #id="", ''
 #"N_130":{"tips":"130","vards":"blēʼḑ","vcount":"10","bloks":"N","loc":{
-blēḑ    N+Sg+Nom    .#. b l ē ʼ ḑ .#.
-blēḑ    N+Sg+Gen    .#. b l ē ʼ ḑ .#.
-blēḑ    N+Sg+Dat    .#. b l ē ʼ ḑ õ n .#.
-blēḑ    N+Sg+Par    .#. b l ē ʼ ḑ õ .#.
-blēḑ    N+Sg+Ins    .#. b l ē ʼ ḑ õ k s .#.
-blēḑ    N+Sg+Ill    .#. b l ē ʼ ḑ õ .#.
-blēḑ    N+Sg+Ine    .#. b l ē ʼ ḑ š õ .#.
-blēḑ    N+Sg+Ela    .#. b l ē ʼ ḑ š tõ .#.
-blēḑ    N+Pl+Nom    .#. b l ē ʼ ḑ õ d .#.
-blēḑ    N+Pl+Gen    .#. b l ē ʼ ḑ õ d .#.
-blēḑ    N+Pl+Dat    .#. b l ē ʼ ḑ õ d õ n .#.
-blēḑ    N+Pl+Par    .#. b l ē ʼ ḑ i d i .#.
-blēḑ    N+Pl+Ins    .#. b l ē ʼ ḑ õ d õ k s .#.
-blēḑ    N+Pl+Ill    .#. b l ē ʼ ḑ i ž .#.
-blēḑ    N+Pl+Ine    .#. b l ē ʼ ḑ i s .#.
-blēḑ    N+Pl+Ela    .#. b l ē ʼ ḑ i st .#.
+blēḑ    N+Sg+Nom    .#. b l ē ʼ ḑ {õØ}:0 .#.
+blēḑ    N+Sg+Gen    .#. b l ē ʼ ḑ {õØ}:0 .#.
+blēḑ    N+Sg+Dat    .#. b l ē ʼ ḑ {õØ}:õ n .#.
+blēḑ    N+Sg+Par    .#. b l ē ʼ ḑ {õØ}:õ .#.
+blēḑ    N+Sg+Ins    .#. b l ē ʼ ḑ {õØ}:õ k s .#.
+blēḑ    N+Sg+Ill    .#. b l ē ʼ ḑ {õØ}:õ .#.
+blēḑ    N+Sg+Ine    .#. b l ē ʼ ḑ {õØ}:0 š õ .#.
+blēḑ    N+Sg+Ela    .#. b l ē ʼ ḑ {õØ}:0 š tõ .#.
+blēḑ    N+Pl+Nom    .#. b l ē ʼ ḑ {õØ}:õ d .#.
+blēḑ    N+Pl+Gen    .#. b l ē ʼ ḑ {õØ}:õ d .#.
+blēḑ    N+Pl+Dat    .#. b l ē ʼ ḑ {õØ}:õ d õ n .#.
+blēḑ    N+Pl+Par    .#. b l ē ʼ ḑ {õØ}:0 i d i .#.
+blēḑ    N+Pl+Ins    .#. b l ē ʼ ḑ {õØ}:õ d õ k s .#.
+blēḑ    N+Pl+Ill    .#. b l ē ʼ ḑ {õØ}:0 i ž .#.
+blēḑ    N+Pl+Ine    .#. b l ē ʼ ḑ {õØ}:0 i s .#.
+blēḑ    N+Pl+Ela    .#. b l ē ʼ ḑ {õØ}:0 i st .#.
 
 #id="", ''
 #"N_131":{"tips":"131","vards":"fakt","vcount":"168","bloks":"N","loc":{
@@ -3282,50 +3282,50 @@ fakt    N+Sg+Ela    .#. f a k t õ s t .#.
 fakt    N+Pl+Nom    .#. f a k t õ d .#.
 fakt    N+Pl+Gen    .#. f a k t õ d .#.
 fakt    N+Pl+Dat    .#. f a k t õ d õ n .#.
-fakt    N+Pl+Par    .#. f a k t i d i .#.
 fakt    N+Pl+Ins    .#. f a k t õ d õ k s .#.
+fakt    N+Pl+Par    .#. f a k t i d i .#.
 fakt    N+Pl+Ill    .#. f a k t i ž .#.
 fakt    N+Pl+Ine    .#. f a k t i s .#.
 fakt    N+Pl+Ela    .#. f a k t i s t .#.
 
 #id="", ''
 #"N_132":{"tips":"132","vards":"tas","vcount":"4","bloks":"N","loc":{
-tas    N+Sg+Nom    .#. t a s .#.
-tas    N+Sg+Gen    .#. t a s .#.
-tas    N+Sg+Dat    .#. t a s s õ n .#.
-tas    N+Sg+Par    .#. t a s s õ .#.
-tas    N+Sg+Ins    .#. t a s s õ k s .#.
-tas    N+Sg+Ill    .#. t a s s õ .#.
-tas    N+Sg+Ine    .#. t a s s õ s .#.
-tas    N+Sg+Ela    .#. t a s s õ s t .#.
-tas    N+Pl+Nom    .#. t a s s õ d .#.
-tas    N+Pl+Gen    .#. t a s s õ d .#.
-tas    N+Pl+Dat    .#. t a s s õ d õ n .#.
-tas    N+Pl+Par    .#. t a s s i d i .#.
-tas    N+Pl+Ins    .#. t a s s õ d õ k s .#.
-tas    N+Pl+Ill    .#. t a s s i ž .#.
-tas    N+Pl+Ine    .#. t a s s i s .#.
-tas    N+Pl+Ela    .#. t a s s i s t .#.
+tas    N+Sg+Nom    .#. t a s {sØ}:0 .#.
+tas    N+Sg+Gen    .#. t a s {sØ}:0 .#.
+tas    N+Sg+Dat    .#. t a s {sØ}:s õ n .#.
+tas    N+Sg+Par    .#. t a s {sØ}:s õ .#.
+tas    N+Sg+Ins    .#. t a s {sØ}:s õ k s .#.
+tas    N+Sg+Ill    .#. t a s {sØ}:s õ .#.
+tas    N+Sg+Ine    .#. t a s {sØ}:s õ s .#.
+tas    N+Sg+Ela    .#. t a s {sØ}:s õ s t .#.
+tas    N+Pl+Nom    .#. t a s {sØ}:s õ d .#.
+tas    N+Pl+Gen    .#. t a s {sØ}:s õ d .#.
+tas    N+Pl+Dat    .#. t a s {sØ}:s õ d õ n .#.
+tas    N+Pl+Par    .#. t a s {sØ}:s i d i .#.
+tas    N+Pl+Ins    .#. t a s {sØ}:s õ d õ k s .#.
+tas    N+Pl+Ill    .#. t a s {sØ}:s i ž .#.
+tas    N+Pl+Ine    .#. t a s {sØ}:s i s .#.
+tas    N+Pl+Ela    .#. t a s {sØ}:s i s t .#.
 
 #id="", ''
 #"N_133":{"tips":"133","vards":"neitst","vcount":"9","bloks":"N","loc":{
-neitst    N+Sg+Nom    .#. n e i t s t .#.
-neitst    N+Sg+Gen    .#. n e i t s õ .#.
-neitst    N+Sg+Gen    .#. n e i t s t .#.
-neitst    N+Sg+Dat    .#. n e i t s õ n .#.
-neitst    N+Sg+Par    .#. n e i t s t õ .#.
-neitst    N+Sg+Ins    .#. n e i t s õ k s .#.
-neitst    N+Sg+Ill    .#. n e i t s õ .#.
-neitst    N+Sg+Ine    .#. n e i t s õ s .#.
-neitst    N+Sg+Ela    .#. n e i t s õ st .#.
-neitst    N+Pl+Nom    .#. n e i t s õ d .#.
-neitst    N+Pl+Gen    .#. n e i t s õ d .#.
-neitst    N+Pl+Dat    .#. n e i t s õ d õ n .#.
-neitst    N+Pl+Par    .#. n e i t s i d i .#.
-neitst    N+Pl+Ins    .#. n e i t s õ d õ k s .#.
-neitst    N+Pl+Ill    .#. n e i t s i ž .#.
-neitst    N+Pl+Ine    .#. n e i t s i s .#.
-neitst    N+Pl+Ela    .#. n e i t s i st .#.
+neitst    N+Sg+Nom    .#. n e i t s {õØ}:0 t > .#.
+neitst    N+Sg+Gen    .#. n e i t s {õØ}:õ > .#.
+neitst    N+Sg+Gen    .#. n e i t s {õØ}:0 t > .#.
+neitst    N+Sg+Dat    .#. n e i t s {õØ}:õ n .#.
+neitst    N+Sg+Par    .#. n e i t s {õØ}:0 > t õ .#.
+neitst    N+Sg+Ins    .#. n e i t s {õØ}:õ k s .#.
+neitst    N+Sg+Ill    .#. n e i t s {õØ}:0 > õ .#.
+neitst    N+Sg+Ine    .#. n e i t s {õØ}:õ s .#.
+neitst    N+Sg+Ela    .#. n e i t s {õØ}:õ s t .#.
+neitst    N+Pl+Nom    .#. n e i t s {õØ}:õ d .#.
+neitst    N+Pl+Gen    .#. n e i t s {õØ}:õ d .#.
+neitst    N+Pl+Dat    .#. n e i t s {õØ}:õ d õ n .#.
+neitst    N+Pl+Ins    .#. n e i t s {õØ}:õ d õ k s .#.
+neitst    N+Pl+Par    .#. n e i t s {õØ}:0 i d i .#.
+neitst    N+Pl+Ill    .#. n e i t s {õØ}:0 i ž .#.
+neitst    N+Pl+Ine    .#. n e i t s {õØ}:0 i s .#.
+neitst    N+Pl+Ela    .#. n e i t s {õØ}:0 i s t .#.
 
 #id="", ''
 #"N_134":{"tips":"134","vards":"sīend","vcount":"2","bloks":"N","loc":{
@@ -3360,8 +3360,8 @@ lǟnd    A+Sg+Ela    .#. l ǟ ʼ n õ s t .#.
 lǟnd    A+Pl+Nom    .#. l ǟ ʼ n õ d .#.
 lǟnd    A+Pl+Gen    .#. l ǟ ʼ n õ d .#.
 lǟnd    A+Pl+Dat    .#. l ǟ ʼ n õ d õ n .#.
-lǟnd    A+Pl+Par    .#. l ǟ ʼ n i d i .#.
 lǟnd    A+Pl+Ins    .#. l ǟ ʼ n õ d õ k s .#.
+lǟnd    A+Pl+Par    .#. l ǟ ʼ n i d i .#.
 lǟnd    A+Pl+Ill    .#. l ǟ ʼ n i ž .#.
 lǟnd    A+Pl+Ine    .#. l ǟ ʼ n i s .#.
 lǟnd    A+Pl+Ela    .#. l ǟ ʼ n i s t .#.
@@ -3374,16 +3374,16 @@ lǟnd    A+Pl+Ela    .#. l ǟ ʼ n i s t .#.
 āigast    N+Sg+Par    .#. ā i g a s t õ .#.
 āigast    N+Sg+Ins    .#. ā i g a s t õ k s .#.
 āigast    N+Sg+Ill    .#. ā i g a s t õ .#.
-āigast    N+Sg+Ine    .#. ā i g a s t õs .#.
-āigast    N+Sg+Ela    .#. ā i g a s t õst .#.
-āigast    N+Pl+Nom    .#. ā i g a s t õd .#.
-āigast    N+Pl+Gen    .#. ā i g a s t õd .#.
-āigast    N+Pl+Dat    .#. ā i g a s t õdõ n .#.
-āigast    N+Pl+Par    .#. ā i g a s t idi .#.
-āigast    N+Pl+Ins    .#. ā i g a s t õdõ k s .#.
-āigast    N+Pl+Ill    .#. ā i g a s t iž .#.
-āigast    N+Pl+Ine    .#. ā i g a s t is .#.
-āigast    N+Pl+Ela    .#. ā i g a s t ist .#.
+āigast    N+Sg+Ine    .#. ā i g a s t õ s .#.
+āigast    N+Sg+Ela    .#. ā i g a s t õ s t .#.
+āigast    N+Pl+Nom    .#. ā i g a s t õ d .#.
+āigast    N+Pl+Gen    .#. ā i g a s t õ d .#.
+āigast    N+Pl+Dat    .#. ā i g a s t õ d õ n .#.
+āigast    N+Pl+Ins    .#. ā i g a s t õ d õ k s .#.
+āigast    N+Pl+Par    .#. ā i g a s t i d i .#.
+āigast    N+Pl+Ill    .#. ā i g a s t i ž .#.
+āigast    N+Pl+Ine    .#. ā i g a s t i s .#.
+āigast    N+Pl+Ela    .#. ā i g a s t i s t .#.
 
 #id="", ''
 #"N_137ʼ":{"tips":"137ʼ","vards":"nīʼem","vcount":"97","bloks":"N","loc":{
@@ -3474,8 +3474,8 @@ tēḑ    N+Sg+Ela    .#. t ǟ ʼ d s t õ .#.
 tēḑ    N+Pl+Nom    .#. t ǟ ʼ d õ d .#.
 tēḑ    N+Pl+Gen    .#. t ǟ ʼ d õ d .#.
 tēḑ    N+Pl+Dat    .#. t ǟ ʼ d õ d õ n .#.
-tēḑ    N+Pl+Par    .#. t ē ʼ ḑ i .#.
 tēḑ    N+Pl+Ins    .#. t ǟ ʼ d õ d õ k s .#.
+tēḑ    N+Pl+Par    .#. t ē ʼ ḑ i .#.
 tēḑ    N+Pl+Ill    .#. t ē ʼ ḑ i ž .#.
 tēḑ    N+Pl+Ine    .#. t ē ʼ ḑ i s .#.
 tēḑ    N+Pl+Ela    .#. t ē ʼ ḑ i s t .#.
@@ -3512,8 +3512,8 @@ kīntš    N+Sg+Ela    .#. k ī n d s t õ .#.
 kīntš    N+Pl+Nom    .#. k ī n d õ d .#.
 kīntš    N+Pl+Gen    .#. k ī n d õ d .#.
 kīntš    N+Pl+Dat    .#. k ī n d õ d õ n .#.
-kīntš    N+Pl+Par    .#. k ī n t š i .#.
 kīntš    N+Pl+Ins    .#. k ī n d õ d õ k s .#.
+kīntš    N+Pl+Par    .#. k ī n t š i .#.
 kīntš    N+Pl+Ill    .#. k ī n d i ž .#.
 kīntš    N+Pl+Ine    .#. k ī n d i s .#.
 kīntš    N+Pl+Ela    .#. k ī n d i s t .#.
@@ -3596,269 +3596,269 @@ am    N+Pl+Ela    .#. a ʼ m m i s t .#.
 
 #id="", ''
 #"N_147":{"tips":"147","vards":"azūm","vcount":"11","bloks":"N","loc":{
-azūm    N+Sg+Nom    .#. a z ū m .#.
-azūm    N+Sg+Gen    .#. a z ū m .#.
-azūm    N+Sg+Dat    .#. a z ū m õ n .#.
-azūm    N+Sg+Par    .#. a z ū m t .#.
-azūm    N+Sg+Ins    .#. a z ū m õ k s .#.
-azūm    N+Sg+Ill    .#. a z ū m õ .#.
-azūm    N+Sg+Ine    .#. a z ū m õ s .#.
-azūm    N+Sg+Ela    .#. a z ū m õ s t .#.
-azūm    N+Pl+Nom    .#. a ʼ z m õ d .#.
-azūm    N+Pl+Gen    .#. a ʼ z m õ d .#.
-azūm    N+Pl+Dat    .#. a ʼ z m õ d õ n .#.
-azūm    N+Pl+Par    .#. a ʼ z m i d i .#.
-azūm    N+Pl+Ins    .#. a ʼ z m õ d õ k s .#.
-azūm    N+Pl+Ill    .#. a ʼ z m i ž .#.
-azūm    N+Pl+Ine    .#. a ʼ z m i s .#.
-azūm    N+Pl+Ela    .#. a ʼ z m i s t .#.
+azūm    N+Sg+Nom    .#. a {ʼØ}:0 z {ūØ}:ū m .#.
+azūm    N+Sg+Gen    .#. a {ʼØ}:0 z {ūØ}:ū m .#.
+azūm    N+Sg+Dat    .#. a {ʼØ}:0 z {ūØ}:ū m õ n .#.
+azūm    N+Sg+Par    .#. a {ʼØ}:0 z {ūØ}:ū m t .#.
+azūm    N+Sg+Ins    .#. a {ʼØ}:0 z {ūØ}:ū m õ k s .#.
+azūm    N+Sg+Ill    .#. a {ʼØ}:0 z {ūØ}:ū m õ .#.
+azūm    N+Sg+Ine    .#. a {ʼØ}:0 z {ūØ}:ū m õ s .#.
+azūm    N+Sg+Ela    .#. a {ʼØ}:0 z {ūØ}:ū m õ s t .#.
+azūm    N+Pl+Nom    .#. a {ʼØ}:ʼ z {ūØ}:0 m õ d .#.
+azūm    N+Pl+Gen    .#. a {ʼØ}:ʼ z {ūØ}:0 m õ d .#.
+azūm    N+Pl+Dat    .#. a {ʼØ}:ʼ z {ūØ}:0 m õ d õ n .#.
+azūm    N+Pl+Par    .#. a {ʼØ}:ʼ z {ūØ}:0 m i d i .#.
+azūm    N+Pl+Ins    .#. a {ʼØ}:ʼ z {ūØ}:0 m õ d õ k s .#.
+azūm    N+Pl+Ill    .#. a {ʼØ}:ʼ z {ūØ}:0 m i ž .#.
+azūm    N+Pl+Ine    .#. a {ʼØ}:ʼ z {ūØ}:0 m i s .#.
+azūm    N+Pl+Ela    .#. a {ʼØ}:ʼ z {ūØ}:0 m i s t .#.
 
 #id="", ''
 #"N_148":{"tips":"148","vards":"võțīm","vcount":"6","bloks":"N","loc":{
-võțīm    N+Sg+Nom    .#. v õ ț ī m .#.
-võțīm    N+Sg+Gen    .#. v õ ț ī m .#.
-võțīm    N+Sg+Dat    .#. v õ ț ī m õ n .#.
-võțīm    N+Sg+Par    .#. v õ ț ī m t .#.
-võțīm    N+Sg+Ins    .#. v õ ț ī m õ k s .#.
-võțīm    N+Sg+Ill    .#. v õ ț ī m õ .#.
-võțīm    N+Sg+Ine    .#. v õ ț ī m õ s .#.
-võțīm    N+Sg+Ela    .#. v õ ț ī m õ st .#.
-võțīm    N+Pl+Nom    .#. v õ ț m õ d .#.
-võțīm    N+Pl+Gen    .#. v õ ț m õ d .#.
-võțīm    N+Pl+Dat    .#. v õ ț m õ d õ n .#.
-võțīm    N+Pl+Par    .#. v õ ț m i d i .#.
-võțīm    N+Pl+Ins    .#. v õ ț m õ d õ k s .#.
-võțīm    N+Pl+Ill    .#. v õ ț m i ž .#.
-võțīm    N+Pl+Ine    .#. v õ ț m i s .#.
-võțīm    N+Pl+Ela    .#. v õ ț m i s t .#.
+võțīm    N+Sg+Nom    .#. v õ ț {īØ}:ī m .#.
+võțīm    N+Sg+Gen    .#. v õ ț {īØ}:ī m .#.
+võțīm    N+Sg+Dat    .#. v õ ț {īØ}:ī m õ n .#.
+võțīm    N+Sg+Par    .#. v õ ț {īØ}:ī m t .#.
+võțīm    N+Sg+Ins    .#. v õ ț {īØ}:ī m õ k s .#.
+võțīm    N+Sg+Ill    .#. v õ ț {īØ}:ī m õ .#.
+võțīm    N+Sg+Ine    .#. v õ ț {īØ}:ī m õ s .#.
+võțīm    N+Sg+Ela    .#. v õ ț {īØ}:ī m õ st .#.
+võțīm    N+Pl+Nom    .#. v õ ț {īØ}:0 m õ d .#.
+võțīm    N+Pl+Gen    .#. v õ ț {īØ}:0 m õ d .#.
+võțīm    N+Pl+Dat    .#. v õ ț {īØ}:0 m õ d õ n .#.
+võțīm    N+Pl+Ins    .#. v õ ț {īØ}:0 m õ d õ k s .#.
+võțīm    N+Pl+Par    .#. v õ ț {īØ}:0 m i d i .#.
+võțīm    N+Pl+Ill    .#. v õ ț {īØ}:0 m i ž .#.
+võțīm    N+Pl+Ine    .#. v õ ț {īØ}:0 m i s .#.
+võțīm    N+Pl+Ela    .#. v õ ț {īØ}:0 m i s t .#.
 
 #id="", ''
 #"N_149":{"tips":"149","vards":"kǭņim","vcount":"1","bloks":"N","loc":{
-kōņim    N+Sg+Nom    .#. k ǭ ņ i m .#.
-kōņim    N+Sg+Gen    .#. k ǭ ņ i m .#.
-kōņim    N+Sg+Dat    .#. k ǭ ņ i m õ n .#.
-kōņim    N+Sg+Par    .#. k ǭ ņ i m t .#.
-kōņim    N+Sg+Ins    .#. k ǭ ņ i m õ k s .#.
-kōņim    N+Sg+Ill    .#. k ǭ ņ i m õ .#.
-kōņim    N+Sg+Ine    .#. k ǭ ņ i m õ s .#.
-kōņim    N+Sg+Ela    .#. k ǭ ņ i m õ st .#.
-kōņim    N+Pl+Nom    .#. k a ņ m õ d .#.
-kōņim    N+Pl+Gen    .#. k a ņ m õ d .#.
-kōņim    N+Pl+Dat    .#. k a ņ m õ d õ n .#.
-kōņim    N+Pl+Par    .#. k a ņ m i d i .#.
-kōņim    N+Pl+Ins    .#. k a ņ m õ d õ k s .#.
-kōņim    N+Pl+Ill    .#. k a ņ m i ž .#.
-kōņim    N+Pl+Ine    .#. k a ņ m i s .#.
-kōņim    N+Pl+Ela    .#. k a ņ m i s t .#.
+kōņim    N+Sg+Nom    .#. k {ǭa}:ǭ ņ {iØ}:i m {õØ}:0 > .#.
+kōņim    N+Sg+Gen    .#. k {ǭa}:ǭ ņ {iØ}:i m {õØ}:0 > .#.
+kōņim    N+Sg+Dat    .#. k {ǭa}:ǭ ņ {iØ}:i m {õØ}:õ > n .#.
+kōņim    N+Sg+Par    .#. k {ǭa}:ǭ ņ {iØ}:i m {õØ}:0 > t .#.
+kōņim    N+Sg+Ins    .#. k {ǭa}:ǭ ņ {iØ}:i m {õØ}:õ > k s .#.
+kōņim    N+Sg+Ill    .#. k {ǭa}:ǭ ņ {iØ}:i m {õØ}:õ > .#.
+kōņim    N+Sg+Ine    .#. k {ǭa}:ǭ ņ {iØ}:i m {õØ}:õ > s .#.
+kōņim    N+Sg+Ela    .#. k {ǭa}:ǭ ņ {iØ}:i m {õØ}:õ > st .#.
+kōņim    N+Pl+Nom    .#. k {ǭa}:a ņ {iØ}:0 m {õØ}:õ > d .#.
+kōņim    N+Pl+Gen    .#. k {ǭa}:a ņ {iØ}:0 m {õØ}:õ > d .#.
+kōņim    N+Pl+Dat    .#. k {ǭa}:a ņ {iØ}:0 m {õØ}:õ > d õ n .#.
+kōņim    N+Pl+Par    .#. k {ǭa}:a ņ {iØ}:0 m {õØ}:0 > i d i .#.
+kōņim    N+Pl+Ins    .#. k {ǭa}:a ņ {iØ}:0 m {õØ}:õ > d õ k s .#.
+kōņim    N+Pl+Ill    .#. k {ǭa}:a ņ {iØ}:0 m {õØ}:0 > i ž .#.
+kōņim    N+Pl+Ine    .#. k {ǭa}:a ņ {iØ}:0 m {õØ}:0 > i s .#.
+kōņim    N+Pl+Ela    .#. k {ǭa}:a ņ {iØ}:0 m {õØ}:0 > i s t .#.
 
 #id="", ''
 #"N_150":{"tips":"150","vards":"ētam","vcount":"2","bloks":"N","loc":{
-ētam    N+Sg+Nom    .#. {ēe}:ē {iØ}:0 t a m .#.
-ētam    N+Sg+Gen    .#. {ēe}:ē {iØ}:0 t a m .#.
-ētam    N+Sg+Dat    .#. {ēe}:ē {iØ}:0 t a m õ n .#.
-ētam    N+Sg+Par    .#. {ēe}:ē {iØ}:0 t a m t .#.
-ētam    N+Sg+Ins    .#. {ēe}:ē {iØ}:0 t a m õ k s .#.
-ētam    N+Sg+Ill    .#. {ēe}:ē {iØ}:0 t a m õ .#.
-ētam    N+Sg+Ine    .#. {ēe}:ē {iØ}:0 t a m õ s .#.
-ētam    N+Sg+Ela    .#. {ēe}:ē {iØ}:0 t a m õ s t .#.
-ētam    N+Pl+Nom    .#. {ēe}:e {iØ}:i t m õ d .#.
-ētam    N+Pl+Gen    .#. {ēe}:e {iØ}:i t m õ d .#.
-ētam    N+Pl+Dat    .#. {ēe}:e {iØ}:i t m õ d õ n .#.
-ētam    N+Pl+Par    .#. {ēe}:e {iØ}:i t m i d i .#.
-ētam    N+Pl+Ins    .#. {ēe}:e {iØ}:i t m õ d õ k s .#.
-ētam    N+Pl+Ill    .#. {ēe}:e {iØ}:i t m i ž .#.
-ētam    N+Pl+Ine    .#. {ēe}:e {iØ}:i t m i s .#.
-ētam    N+Pl+Ela    .#. {ēe}:e {iØ}:i t m i s t .#.
+ētam    N+Sg+Nom    .#. {ēe}:ē {iØ}:0 t {aØ}:a m {õØ}:0 > .#.
+ētam    N+Sg+Gen    .#. {ēe}:ē {iØ}:0 t {aØ}:a m {õØ}:0 > .#.
+ētam    N+Sg+Dat    .#. {ēe}:ē {iØ}:0 t {aØ}:a m {õØ}:õ > n .#.
+ētam    N+Sg+Par    .#. {ēe}:ē {iØ}:0 t {aØ}:a m {õØ}:0 > t .#.
+ētam    N+Sg+Ins    .#. {ēe}:ē {iØ}:0 t {aØ}:a m {õØ}:õ > k s .#.
+ētam    N+Sg+Ill    .#. {ēe}:ē {iØ}:0 t {aØ}:a m {õØ}:õ > .#.
+ētam    N+Sg+Ine    .#. {ēe}:ē {iØ}:0 t {aØ}:a m {õØ}:õ > s .#.
+ētam    N+Sg+Ela    .#. {ēe}:ē {iØ}:0 t {aØ}:a m {õØ}:õ > s t .#.
+ētam    N+Pl+Nom    .#. {ēe}:e {iØ}:i t {aØ}:0 m {õØ}:õ > d .#.
+ētam    N+Pl+Gen    .#. {ēe}:e {iØ}:i t {aØ}:0 m {õØ}:õ > d .#.
+ētam    N+Pl+Dat    .#. {ēe}:e {iØ}:i t {aØ}:0 m {õØ}:õ > d õ n .#.
+ētam    N+Pl+Par    .#. {ēe}:e {iØ}:i t {aØ}:0 m {õØ}:0 > i d i .#.
+ētam    N+Pl+Ins    .#. {ēe}:e {iØ}:i t {aØ}:0 m {õØ}:õ > d õ k s .#.
+ētam    N+Pl+Ill    .#. {ēe}:e {iØ}:i t {aØ}:0 m {õØ}:0 > i ž .#.
+ētam    N+Pl+Ine    .#. {ēe}:e {iØ}:i t {aØ}:0 m {õØ}:0 > i s .#.
+ētam    N+Pl+Ela    .#. {ēe}:e {iØ}:i t {aØ}:0 m {õØ}:0 > i s t .#.
 
 #id="", ''
 #"N_151":{"tips":"151","vards":"atōm","vcount":"151","bloks":"N","loc":{
-atōm    N+Sg+Nom    .#. a t ō m .#.
-atōm    N+Sg+Gen    .#. a t ō m .#.
-atōm    N+Sg+Dat    .#. a t ō m õ n .#.
-atōm    N+Sg+Par    .#. a t ō m t .#.
-atōm    N+Sg+Ins    .#. a t ō m õ k s .#.
-atōm    N+Sg+Ill    .#. a t ō m õ .#.
-atōm    N+Sg+Ine    .#. a t ō m õ s .#.
-atōm    N+Sg+Ela    .#. a t ō m õ s t .#.
-atōm    N+Pl+Nom    .#. a t ō m õ d .#.
-atōm    N+Pl+Gen    .#. a t ō m õ d .#.
-atōm    N+Pl+Dat    .#. a t ō m õ d õ n .#.
-atōm    N+Pl+Par    .#. a t ō m i d i .#.
-atōm    N+Pl+Ins    .#. a t ō m õ d õ k s .#.
-atōm    N+Pl+Ill    .#. a t ō m i ž .#.
-atōm    N+Pl+Ine    .#. a t ō m i s .#.
-atōm    N+Pl+Ela    .#. a t ō m i s t .#.
+atōm    N+Sg+Nom    .#. a t ō m {õØ}:0 > .#.
+atōm    N+Sg+Gen    .#. a t ō m {õØ}:0 > .#.
+atōm    N+Sg+Dat    .#. a t ō m {õØ}:õ > n .#.
+atōm    N+Sg+Par    .#. a t ō m {õØ}:0 > t .#.
+atōm    N+Sg+Ins    .#. a t ō m {õØ}:õ > k s .#.
+atōm    N+Sg+Ill    .#. a t ō m {õØ}:õ > .#.
+atōm    N+Sg+Ine    .#. a t ō m {õØ}:õ > s .#.
+atōm    N+Sg+Ela    .#. a t ō m {õØ}:õ > s t .#.
+atōm    N+Pl+Nom    .#. a t ō m {õØ}:õ > d .#.
+atōm    N+Pl+Gen    .#. a t ō m {õØ}:õ > d .#.
+atōm    N+Pl+Dat    .#. a t ō m {õØ}:õ > d õ n .#.
+atōm    N+Pl+Ins    .#. a t ō m {õØ}:õ > d õ k s .#.
+atōm    N+Pl+Par    .#. a t ō m {õØ}:0 > i d i .#.
+atōm    N+Pl+Ill    .#. a t ō m {õØ}:0 > i ž .#.
+atōm    N+Pl+Ine    .#. a t ō m {õØ}:0 > i s .#.
+atōm    N+Pl+Ela    .#. a t ō m {õØ}:0 > i s t .#.
 
 #id="", ''
 #"N_152":{"tips":"152","vards":"irgõm","vcount":"164","bloks":"N","loc":{
-irgõm    N+Sg+Nom    .#. i r g õ m .#.
-irgõm    N+Sg+Gen    .#. i r g õ m .#.
-irgõm    N+Sg+Dat    .#. i r g õ m õ n .#.
-irgõm    N+Sg+Par    .#. i r g õ m t .#.
-irgõm    N+Sg+Ins    .#. i r g õ m õ k s .#.
-irgõm    N+Sg+Ill    .#. i r g õ m õ .#.
-irgõm    N+Sg+Ine    .#. i r g õ m s .#.
-irgõm    N+Sg+Ela    .#. i r g õ m s t .#.
-irgõm    N+Pl+Nom    .#. i r g õ m õ d .#.
-irgõm    N+Pl+Gen    .#. i r g õ m õ d .#.
-irgõm    N+Pl+Dat    .#. i r g õ m õ d õ n .#.
-irgõm    N+Pl+Par    .#. i r g õ m i d i .#.
-irgõm    N+Pl+Ins    .#. i r g õ m õ d õ k s .#.
-irgõm    N+Pl+Ill    .#. i r g õ m i ž .#.
-irgõm    N+Pl+Ine    .#. i r g õ m i s .#.
-irgõm    N+Pl+Ela    .#. i r g õ m i st .#.
+irgõm    N+Sg+Nom    .#. i r g õ m {õØ}:0 .#.
+irgõm    N+Sg+Gen    .#. i r g õ m {õØ}:0 .#.
+irgõm    N+Sg+Dat    .#. i r g õ m {õØ}:õ n .#.
+irgõm    N+Sg+Par    .#. i r g õ m {õØ}:0 t .#.
+irgõm    N+Sg+Ins    .#. i r g õ m {õØ}:õ k s .#.
+irgõm    N+Sg+Ill    .#. i r g õ m {õØ}:õ .#.
+irgõm    N+Sg+Ine    .#. i r g õ m {õØ}:0 s .#.
+irgõm    N+Sg+Ela    .#. i r g õ m {õØ}:0 s t .#.
+irgõm    N+Pl+Nom    .#. i r g õ m {õØ}:õ d .#.
+irgõm    N+Pl+Gen    .#. i r g õ m {õØ}:õ d .#.
+irgõm    N+Pl+Dat    .#. i r g õ m {õØ}:õ d õ n .#.
+irgõm    N+Pl+Par    .#. i r g õ m {õØ}:0 i d i .#.
+irgõm    N+Pl+Ins    .#. i r g õ m {õØ}:õ d õ k s .#.
+irgõm    N+Pl+Ill    .#. i r g õ m {õØ}:0 i ž .#.
+irgõm    N+Pl+Ine    .#. i r g õ m {õØ}:0 i s .#.
+irgõm    N+Pl+Ela    .#. i r g õ m {õØ}:0 i s t .#.
 
 #id="", ''
 #"N_153":{"tips":"153","vards":"āndam","vcount":"101","bloks":"N","loc":{
-āndam    N+Sg+Nom    .#. ā n d a m .#.
-āndam    N+Sg+Gen    .#. ā n d a m .#.
-āndam    N+Sg+Dat    .#. ā n d a m õ n .#.
-āndam    N+Sg+Par    .#. ā n d a m t .#.
-āndam    N+Sg+Ins    .#. ā n d a m õ k s .#.
-āndam    N+Sg+Ill    .#. ā n d a m õ .#.
-āndam    N+Sg+Ine    .#. ā n d a m s .#.
-āndam    N+Sg+Ela    .#. ā n d a m s t .#.
-āndam    N+Pl+Nom    .#. ā n d a m õ d .#.
-āndam    N+Pl+Gen    .#. ā n d a m õ d .#.
-āndam    N+Pl+Dat    .#. ā n d a m õ d õ n .#.
-āndam    N+Pl+Par    .#. ā n d a m i d i .#.
-āndam    N+Pl+Ins    .#. ā n d a m õ d õ k s .#.
-āndam    N+Pl+Ill    .#. ā n d a m i ž .#.
-āndam    N+Pl+Ine    .#. ā n d a m i s .#.
-āndam    N+Pl+Ela    .#. ā n d a m i st .#.
+āndam    N+Sg+Nom    .#. ā n d a m {õØ}:0 .#.
+āndam    N+Sg+Gen    .#. ā n d a m {õØ}:0 .#.
+āndam    N+Sg+Dat    .#. ā n d a m {õØ}:õ n .#.
+āndam    N+Sg+Par    .#. ā n d a m {õØ}:0 t .#.
+āndam    N+Sg+Ins    .#. ā n d a m {õØ}:õ k s .#.
+āndam    N+Sg+Ill    .#. ā n d a m {õØ}:õ .#.
+āndam    N+Sg+Ine    .#. ā n d a m {õØ}:0 s .#.
+āndam    N+Sg+Ela    .#. ā n d a m {õØ}:0 s t .#.
+āndam    N+Pl+Nom    .#. ā n d a m {õØ}:õ d .#.
+āndam    N+Pl+Gen    .#. ā n d a m {õØ}:õ d .#.
+āndam    N+Pl+Dat    .#. ā n d a m {õØ}:õ d õ n .#.
+āndam    N+Pl+Ins    .#. ā n d a m {õØ}:õ d õ k s .#.
+āndam    N+Pl+Par    .#. ā n d a m {õØ}:0 i d i .#.
+āndam    N+Pl+Ill    .#. ā n d a m {õØ}:0 i ž .#.
+āndam    N+Pl+Ine    .#. ā n d a m {õØ}:0 i s .#.
+āndam    N+Pl+Ela    .#. ā n d a m {õØ}:0 i s t .#.
 
 #id="", ''
 #"N_153ʼ":{"tips":"153ʼ","vards":"ȭʼdõg","vcount":"73","bloks":"N","loc":{
-ȭdõg    N+Sg+Nom    .#. ȭ ʼ d õ g .#.
-ȭdõg    N+Sg+Gen    .#. ȭ ʼ d õ g .#.
-ȭdõg    N+Sg+Dat    .#. ȭ ʼ d õ g õ n .#.
-ȭdõg    N+Sg+Par    .#. ȭ ʼ d õ g t .#.
-ȭdõg    N+Sg+Ins    .#. ȭ ʼ d õ g õ k s .#.
-ȭdõg    N+Sg+Ill    .#. ȭ ʼ d õ g õ .#.
-ȭdõg    N+Sg+Ine    .#. ȭ ʼ d õ g s .#.
-ȭdõg    N+Sg+Ela    .#. ȭ ʼ d õ g s t .#.
-ȭdõg    N+Pl+Nom    .#. ȭ ʼ d õ g õ d .#.
-ȭdõg    N+Pl+Gen    .#. ȭ ʼ d õ g õ d .#.
-ȭdõg    N+Pl+Dat    .#. ȭ ʼ d õ g õ d õ n .#.
-ȭdõg    N+Pl+Par    .#. ȭ ʼ d õ g i d i .#.
-ȭdõg    N+Pl+Ins    .#. ȭ ʼ d õ g õ d õ k s .#.
-ȭdõg    N+Pl+Ill    .#. ȭ ʼ d õ g i ž .#.
-ȭdõg    N+Pl+Ine    .#. ȭ ʼ d õ g i s .#.
-ȭdõg    N+Pl+Ela    .#. ȭ ʼ d õ g i st .#.
+ȭdõg    N+Sg+Nom    .#. ȭ ʼ d õ g {õØ}:0 > .#.
+ȭdõg    N+Sg+Gen    .#. ȭ ʼ d õ g {õØ}:0 > .#.
+ȭdõg    N+Sg+Dat    .#. ȭ ʼ d õ g {õØ}:õ > n .#.
+ȭdõg    N+Sg+Par    .#. ȭ ʼ d õ g {õØ}:0 > t .#.
+ȭdõg    N+Sg+Ins    .#. ȭ ʼ d õ g {õØ}:õ > k s .#.
+ȭdõg    N+Sg+Ill    .#. ȭ ʼ d õ g {õØ}:õ > .#.
+ȭdõg    N+Sg+Ine    .#. ȭ ʼ d õ g {õØ}:0 > s .#.
+ȭdõg    N+Sg+Ela    .#. ȭ ʼ d õ g {õØ}:0 > s t .#.
+ȭdõg    N+Pl+Nom    .#. ȭ ʼ d õ g {õØ}:õ > d .#.
+ȭdõg    N+Pl+Gen    .#. ȭ ʼ d õ g {õØ}:õ > d .#.
+ȭdõg    N+Pl+Dat    .#. ȭ ʼ d õ g {õØ}:õ > d õ n .#.
+ȭdõg    N+Pl+Ins    .#. ȭ ʼ d õ g {õØ}:õ > d õ k s .#.
+ȭdõg    N+Pl+Par    .#. ȭ ʼ d õ g {õØ}:0 > i d i .#.
+ȭdõg    N+Pl+Ill    .#. ȭ ʼ d õ g {õØ}:0 > i ž .#.
+ȭdõg    N+Pl+Ine    .#. ȭ ʼ d õ g {õØ}:0 > i s .#.
+ȭdõg    N+Pl+Ela    .#. ȭ ʼ d õ g {õØ}:0 > i s t .#.
 
 #id="", ''
 #"N_154":{"tips":"154","vards":"taptõd","vcount":"9","bloks":"N","loc":{
-taptõd    A+Sg+Nom    .#. t a p t õ d .#.
-taptõd    A+Sg+Gen    .#. t a p t õ d .#.
-taptõd    A+Sg+Dat    .#. t a p t õ n .#.
-taptõd    A+Sg+Par    .#. t a p t õ d t .#.
-taptõd    A+Sg+Ins    .#. t a p t õ k s .#.
-taptõd    A+Sg+Ill    .#. t a p t õ z .#.
-taptõd    A+Sg+Ine    .#. t a p t õ s .#.
-taptõd    A+Sg+Ela    .#. t a p t õ s t .#.
-taptõd    A+Pl+Nom    .#. t a p t õ d .#.
-taptõd    A+Pl+Gen    .#. t a p t õ d .#.
-taptõd    A+Pl+Dat    .#. t a p t õ d õ n .#.
-taptõd    A+Pl+Par    .#. t a p t i d i .#.
-taptõd    A+Pl+Ins    .#. t a p t õ d õ k s .#.
-taptõd    A+Pl+Ill    .#. t a p t i ž .#.
-taptõd    A+Pl+Ine    .#. t a p t i s .#.
-taptõd    A+Pl+Ela    .#. t a p t i s t .#.
+taptõd    A+Sg+Nom    .#. t a p t {õØ}:õ d .#.
+taptõd    A+Sg+Gen    .#. t a p t {õØ}:õ d .#.
+taptõd    A+Sg+Dat    .#. t a p t {õØ}:õ n .#.
+taptõd    A+Sg+Par    .#. t a p t {õØ}:õ d t .#.
+taptõd    A+Sg+Ins    .#. t a p t {õØ}:õ k s .#.
+taptõd    A+Sg+Ill    .#. t a p t {õØ}:õ z .#.
+taptõd    A+Sg+Ine    .#. t a p t {õØ}:õ s .#.
+taptõd    A+Sg+Ela    .#. t a p t {õØ}:õ s t .#.
+taptõd    A+Pl+Nom    .#. t a p t {õØ}:õ d .#.
+taptõd    A+Pl+Gen    .#. t a p t {õØ}:õ d .#.
+taptõd    A+Pl+Dat    .#. t a p t {õØ}:õ d õ n .#.
+taptõd    A+Pl+Ins    .#. t a p t {õØ}:õ d õ k s .#.
+taptõd    A+Pl+Par    .#. t a p t {õØ}:0 i d i .#.
+taptõd    A+Pl+Ill    .#. t a p t {õØ}:0 i ž .#.
+taptõd    A+Pl+Ine    .#. t a p t {õØ}:0 i s .#.
+taptõd    A+Pl+Ela    .#. t a p t {õØ}:0 i s t .#.
 
 #id="", ''
 #"N_154ʼ":{"tips":"154ʼ","vards":"tīʼedõd","vcount":"6","bloks":"N","loc":{
-tīedõd    A+Sg+Nom    .#. t ī ʼ e d õ d .#.
-tīedõd    A+Sg+Gen    .#. t ī ʼ e d õ d .#.
-tīedõd    A+Sg+Dat    .#. t ī ʼ e d õ n .#.
-tīedõd    A+Sg+Par    .#. t ī ʼ e d õ dt .#.
-tīedõd    A+Sg+Ins    .#. t ī ʼ e d õ k s .#.
-tīedõd    A+Sg+Ill    .#. t ī ʼ e d õ z .#.
-tīedõd    A+Sg+Ine    .#. t ī ʼ e d õ s .#.
-tīedõd    A+Sg+Ela    .#. t ī ʼ e d õ st .#.
-tīedõd    A+Pl+Nom    .#. t ī ʼ e d õ d .#.
-tīedõd    A+Pl+Gen    .#. t ī ʼ e d õ d .#.
-tīedõd    A+Pl+Dat    .#. t ī ʼ e d õ d õ n .#.
-tīedõd    A+Pl+Par    .#. t ī ʼ e d i d i .#.
-tīedõd    A+Pl+Ins    .#. t ī ʼ e d õ d õ k s .#.
-tīedõd    A+Pl+Ill    .#. t ī ʼ e d i ž .#.
-tīedõd    A+Pl+Ine    .#. t ī ʼ e d i s .#.
-tīedõd    A+Pl+Ela    .#. t ī ʼ e d i st .#.
+tīedõd    A+Sg+Nom    .#. t ī ʼ e d {õØ}:õ d .#.
+tīedõd    A+Sg+Gen    .#. t ī ʼ e d {õØ}:õ d .#.
+tīedõd    A+Sg+Dat    .#. t ī ʼ e d {õØ}:õ n .#.
+tīedõd    A+Sg+Par    .#. t ī ʼ e d {õØ}:õ dt .#.
+tīedõd    A+Sg+Ins    .#. t ī ʼ e d {õØ}:õ k s .#.
+tīedõd    A+Sg+Ill    .#. t ī ʼ e d {õØ}:õ z .#.
+tīedõd    A+Sg+Ine    .#. t ī ʼ e d {õØ}:õ s .#.
+tīedõd    A+Sg+Ela    .#. t ī ʼ e d {õØ}:õ st .#.
+tīedõd    A+Pl+Nom    .#. t ī ʼ e d {õØ}:õ d .#.
+tīedõd    A+Pl+Gen    .#. t ī ʼ e d {õØ}:õ d .#.
+tīedõd    A+Pl+Dat    .#. t ī ʼ e d {õØ}:õ d õ n .#.
+tīedõd    A+Pl+Ins    .#. t ī ʼ e d {õØ}:õ d õ k s .#.
+tīedõd    A+Pl+Par    .#. t ī ʼ e d {õØ}:0 i d i .#.
+tīedõd    A+Pl+Ill    .#. t ī ʼ e d {õØ}:0 i ž .#.
+tīedõd    A+Pl+Ine    .#. t ī ʼ e d {õØ}:0 i s .#.
+tīedõd    A+Pl+Ela    .#. t ī ʼ e d {õØ}:0 i st .#.
 
 #id="", ''
 #"N_155":{"tips":"155","vards":"-kimdõz","vcount":"26","bloks":"N","loc":{
--kimdõz    A+Sg+Nom    .#. - k i m d õ z .#.
--kimdõz    A+Sg+Gen    .#. - k i m d õ nd .#.
--kimdõz    A+Sg+Dat    .#. - k i m d õ ndõ n .#.
--kimdõz    A+Sg+Par    .#. - k i m d õ ndt .#.
--kimdõz    A+Sg+Ins    .#. - k i m d õ ndõ k s .#.
--kimdõz    A+Sg+Ill    .#. - k i m d õ ndõ .#.
--kimdõz    A+Sg+Ine    .#. - k i m d õ ndõs .#.
--kimdõz    A+Sg+Ela    .#. - k i m d õ ndõst .#.
--kimdõz    A+Pl+Nom    .#. - k i m d õ ndõd .#.
--kimdõz    A+Pl+Gen    .#. - k i m d õ ndõd .#.
--kimdõz    A+Pl+Dat    .#. - k i m d õ ndõdõ n .#.
--kimdõz    A+Pl+Par    .#. - k i m d õ ndidi .#.
--kimdõz    A+Pl+Ins    .#. - k i m d õ ndõdõ k s .#.
--kimdõz    A+Pl+Ill    .#. - k i m d õ ndiž .#.
--kimdõz    A+Pl+Ine    .#. - k i m d õ ndis .#.
--kimdõz    A+Pl+Ela    .#. - k i m d õ ndist .#.
+-kimdõz    A+Sg+Nom    .#. - k i m d õ {nØ}:0 {dz}:z {õØ}:0 .#.
+-kimdõz    A+Sg+Gen    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:0  .#.
+-kimdõz    A+Sg+Dat    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:õ n .#.
+-kimdõz    A+Sg+Par    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:0 t .#.
+-kimdõz    A+Sg+Ins    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:õ k s .#.
+-kimdõz    A+Sg+Ill    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:õ .#.
+-kimdõz    A+Sg+Ine    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:õ s .#.
+-kimdõz    A+Sg+Ela    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:õ s t .#.
+-kimdõz    A+Pl+Nom    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:õ d .#.
+-kimdõz    A+Pl+Gen    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:õ d .#.
+-kimdõz    A+Pl+Dat    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:õ d õ n .#.
+-kimdõz    A+Pl+Ins    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:õ d õ k s .#.
+-kimdõz    A+Pl+Par    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:0 i d i .#.
+-kimdõz    A+Pl+Ill    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:0 i ž .#.
+-kimdõz    A+Pl+Ine    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:0 i s .#.
+-kimdõz    A+Pl+Ela    .#. - k i m d õ {nØ}:n {dz}:d {õØ}:0 i s t .#.
 
 #id="", ''
 #"N_156":{"tips":"156","vards":"-tuoistõnz","vcount":"11","bloks":"N","loc":{
--tuoistõnz    A+Sg+Nom    .#. - t u o i s tõnz .#.
--tuoistõnz    A+Sg+Gen    .#. - t u o i s tõnd .#.
--tuoistõnz    A+Sg+Dat    .#. - t u o i s tõndõ n .#.
--tuoistõnz    A+Sg+Par    .#. - t u o i s tõndtõ .#.
--tuoistõnz    A+Sg+Ins    .#. - t u o i s tõndõ k s .#.
--tuoistõnz    A+Sg+Ill    .#. - t u o i s tõndõ .#.
--tuoistõnz    A+Sg+Ine    .#. - t u o i s tõndõs .#.
--tuoistõnz    A+Sg+Ela    .#. - t u o i s tõndõst .#.
--tuoistõnz    A+Pl+Nom    .#. - t u o i s tõndõd .#.
--tuoistõnz    A+Pl+Gen    .#. - t u o i s tõndõd .#.
--tuoistõnz    A+Pl+Dat    .#. - t u o i s tõndõdõ n .#.
--tuoistõnz    A+Pl+Par    .#. - t u o i s tõndidi .#.
--tuoistõnz    A+Pl+Ins    .#. - t u o i s tõndõdõ k s .#.
--tuoistõnz    A+Pl+Ill    .#. - t u o i s tõndiž .#.
--tuoistõnz    A+Pl+Ine    .#. - t u o i s tõndis .#.
--tuoistõnz    A+Pl+Ela    .#. - t u o i s tõndist .#.
+-tuoistõnz    A+Sg+Nom    .#. - t u o i s t õ n {dz}:z {õØ}:0 .#.
+-tuoistõnz    A+Sg+Gen    .#. - t u o i s t õ n {dz}:d {õØ}:0 .#.
+-tuoistõnz    A+Sg+Dat    .#. - t u o i s t õ n {dz}:d {õØ}:õ n .#.
+-tuoistõnz    A+Sg+Par    .#. - t u o i s t õ n {dz}:d {õØ}:0 t õ .#.
+-tuoistõnz    A+Sg+Ins    .#. - t u o i s t õ n {dz}:d {õØ}:õ k s .#.
+-tuoistõnz    A+Sg+Ill    .#. - t u o i s t õ n {dz}:d {õØ}:õ .#.
+-tuoistõnz    A+Sg+Ine    .#. - t u o i s t õ n {dz}:d {õØ}:õ s .#.
+-tuoistõnz    A+Sg+Ela    .#. - t u o i s t õ n {dz}:d {õØ}:õ s t .#.
+-tuoistõnz    A+Pl+Nom    .#. - t u o i s t õ n {dz}:d {õØ}:õ d .#.
+-tuoistõnz    A+Pl+Gen    .#. - t u o i s t õ n {dz}:d {õØ}:õ d .#.
+-tuoistõnz    A+Pl+Dat    .#. - t u o i s t õ n {dz}:d {õØ}:õ d õ n .#.
+-tuoistõnz    A+Pl+Par    .#. - t u o i s t õ n {dz}:d {õØ}:0 i d i .#.
+-tuoistõnz    A+Pl+Ins    .#. - t u o i s t õ n {dz}:d {õØ}:õ d õ k s .#.
+-tuoistõnz    A+Pl+Ill    .#. - t u o i s t õ n {dz}:d {õØ}:0 i ž .#.
+-tuoistõnz    A+Pl+Ine    .#. - t u o i s t õ n {dz}:d {õØ}:0 i s .#.
+-tuoistõnz    A+Pl+Ela    .#. - t u o i s t õ n {dz}:d {õØ}:0 i s t .#.
 
 #id="", ''
 #"N_157":{"tips":"157","vards":"īʼdõksmõz","vcount":"3","bloks":"N","loc":{
-īdõksmõz    A+Sg+Nom    .#. ī ʼ d õ k s mõz .#.
-īdõksmõz    A+Sg+Gen    .#. ī ʼ d õ k s mõnd .#.
-īdõksmõz    A+Sg+Dat    .#. ī ʼ d õ k s mõndõ n .#.
-īdõksmõz    A+Sg+Par    .#. ī ʼ d õ k s mõndt .#.
-īdõksmõz    A+Sg+Ins    .#. ī ʼ d õ k s mõndõ k s .#.
-īdõksmõz    A+Sg+Ill    .#. ī ʼ d õ k s mõndõ .#.
-īdõksmõz    A+Sg+Ine    .#. ī ʼ d õ k s mõndõs .#.
-īdõksmõz    A+Sg+Ela    .#. ī ʼ d õ k s mõndõst .#.
-īdõksmõz    A+Pl+Nom    .#. ī ʼ d õ k s mõndõd .#.
-īdõksmõz    A+Pl+Gen    .#. ī ʼ d õ k s mõndõd .#.
-īdõksmõz    A+Pl+Dat    .#. ī ʼ d õ k s mõndõdõ n .#.
-īdõksmõz    A+Pl+Par    .#. ī ʼ d õ k s mõndidi .#.
-īdõksmõz    A+Pl+Ins    .#. ī ʼ d õ k s mõndõdõ k s .#.
-īdõksmõz    A+Pl+Ill    .#. ī ʼ d õ k s mõndiž .#.
-īdõksmõz    A+Pl+Ine    .#. ī ʼ d õ k s mõndis .#.
-īdõksmõz    A+Pl+Ela    .#. ī ʼ d õ k s mõndist .#.
+īdõksmõz    A+Sg+Nom    .#. ī ʼ d õ k s m õ {nØ}:0 {dz}:z {õØ}:0 .#.
+īdõksmõz    A+Sg+Gen    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:0 .#.
+īdõksmõz    A+Sg+Dat    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:õ n .#.
+īdõksmõz    A+Sg+Par    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:0 t .#.
+īdõksmõz    A+Sg+Ins    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:õ k s .#.
+īdõksmõz    A+Sg+Ill    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:õ .#.
+īdõksmõz    A+Sg+Ine    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:õ s .#.
+īdõksmõz    A+Sg+Ela    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:õ s t .#.
+īdõksmõz    A+Pl+Nom    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:õ d .#.
+īdõksmõz    A+Pl+Gen    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:õ d .#.
+īdõksmõz    A+Pl+Dat    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:õ d õ n .#.
+īdõksmõz    A+Pl+Ins    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:õ d õ k s .#.
+īdõksmõz    A+Pl+Par    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:0 i d i .#.
+īdõksmõz    A+Pl+Ill    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:0 i ž .#.
+īdõksmõz    A+Pl+Ine    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:0 i s .#.
+īdõksmõz    A+Pl+Ela    .#. ī ʼ d õ k s m õ {nØ}:n {dz}:d {õØ}:0 i s t .#.
 
 #id="", ''
 #"N_158":{"tips":"158","vards":"mīez","vcount":"41","bloks":"N","loc":{
-mīez    N+Sg+Nom    .#. m ī e z .#.
-mīez    N+Sg+Gen    .#. m ī ʼ e .#.
-mīez    N+Sg+Dat    .#. m ī ʼ e n .#.
-mīez    N+Sg+Par    .#. m ī e z t õ .#.
-mīez    N+Sg+Ins    .#. m ī ʼ e k õ k s .#.
-mīez    N+Sg+Ill    .#. m ī ʼ e z õ .#.
-mīez    N+Sg+Ine    .#. m ī ʼ e s õ .#.
-mīez    N+Sg+Ela    .#. m ī ʼ e s t õ .#.
-mīez    N+Pl+Nom    .#. m ī ʼ e d .#.
-mīez    N+Pl+Gen    .#. m ī ʼ e d .#.
-mīez    N+Pl+Dat    .#. m ī ʼ e d õ n .#.
-mīez    N+Pl+Par    .#. m ē ʼ ḑ i .#.
-mīez    N+Pl+Ins    .#. m ī ʼ e d k õ k s .#.
-mīez    N+Pl+Ill    .#. m ē ʼ ž i .#.
-mīez    N+Pl+Ine    .#. m ē ʼ š i .#.
-mīez    N+Pl+Ela    .#. m ē ʼ š t i .#.
+mīez    N+Sg+Nom    .#. m ī {ʼØ}:0 {eØ}:e z .#.
+mīez    N+Sg+Gen    .#. m ī {ʼØ}:ʼ {eØ}:e .#.
+mīez    N+Sg+Dat    .#. m ī {ʼØ}:ʼ {eØ}:e n .#.
+mīez    N+Sg+Par    .#. m ī {ʼØ}:0 {eØ}:e z t õ .#.
+mīez    N+Sg+Ins    .#. m ī {ʼØ}:ʼ {eØ}:e k õ k s .#.
+mīez    N+Sg+Ill    .#. m ī {ʼØ}:ʼ {eØ}:e z õ .#.
+mīez    N+Sg+Ine    .#. m ī {ʼØ}:ʼ {eØ}:e s õ .#.
+mīez    N+Sg+Ela    .#. m ī {ʼØ}:ʼ {eØ}:e s t õ .#.
+mīez    N+Pl+Nom    .#. m ī {ʼØ}:ʼ {eØ}:e d .#.
+mīez    N+Pl+Gen    .#. m ī {ʼØ}:ʼ {eØ}:e d .#.
+mīez    N+Pl+Dat    .#. m ī {ʼØ}:ʼ {eØ}:e d õ n .#.
+mīez    N+Pl+Ins    .#. m ī {ʼØ}:ʼ {eØ}:e d k õ k s .#.
+mīez    N+Pl+Par    .#. m ē {ʼØ}:ʼ {eØ}:0 ḑ i .#.
+mīez    N+Pl+Ill    .#. m ē {ʼØ}:ʼ {eØ}:0 ž i .#.
+mīez    N+Pl+Ine    .#. m ē {ʼØ}:ʼ {eØ}:0 š i .#.
+mīez    N+Pl+Ela    .#. m ē {ʼØ}:ʼ {eØ}:0 š t i .#.
 
 #id="", ''
 #"N_159":{"tips":"159","vards":"roʼvz","vcount":"8","bloks":"N","loc":{
@@ -3881,203 +3881,203 @@ rovz    N+Pl+Ela    .#. r o ʼ v š t i .#.
 
 #id="", ''
 #"N_160":{"tips":"160","vards":"käbrāz","vcount":"1","bloks":"N","loc":{
-käbrāz    A+Sg+Nom    .#. k ä b r ā z .#.
-käbrāz    A+Sg+Gen    .#. k ä b r ā .#.
-käbrāz    A+Sg+Dat    .#. k ä b r ā n .#.
-käbrāz    A+Sg+Par    .#. k ä b r ā z t .#.
-käbrāz    A+Sg+Ins    .#. k ä b r ā k s .#.
-käbrāz    A+Sg+Ill    .#. k ä ʼ b r õ .#.
-käbrāz    A+Sg+Ill    .#. k ä ʼ b r õ z .#.
-käbrāz    A+Sg+Ine    .#. k ä b r ā s .#.
-käbrāz    A+Sg+Ela    .#. k ä b r ā s t .#.
-käbrāz    A+Pl+Nom    .#. k ä b r ā d .#.
-käbrāz    A+Pl+Gen    .#. k ä b r ā d .#.
-käbrāz    A+Pl+Dat    .#. k ä b r ā d õ n .#.
-käbrāz    A+Pl+Par    .#. k ä b r ī d i .#.
-käbrāz    A+Pl+Ins    .#. k ä b r ā d õ k s .#.
-käbrāz    A+Pl+Ill    .#. k ä b r ī ž .#.
-käbrāz    A+Pl+Ine    .#. k ä b r ī s .#.
-käbrāz    A+Pl+Ela    .#. k ä b r ī s t .#.
+käbrāz    A+Sg+Nom    .#. k ä {ʼØ}:0 b r {āØ}:ā z .#.
+käbrāz    A+Sg+Gen    .#. k ä {ʼØ}:0 b r {āØ}:ā .#.
+käbrāz    A+Sg+Dat    .#. k ä {ʼØ}:0 b r {āØ}:ā n .#.
+käbrāz    A+Sg+Par    .#. k ä {ʼØ}:0 b r {āØ}:ā z t .#.
+käbrāz    A+Sg+Ins    .#. k ä {ʼØ}:0 b r {āØ}:ā k s .#.
+käbrāz    A+Sg+Ill    .#. k ä {ʼØ}:ʼ b r {āØ}:0 õ .#.
+käbrāz    A+Sg+Ill    .#. k ä {ʼØ}:ʼ b r {āØ}:0 õ z .#.
+käbrāz    A+Sg+Ine    .#. k ä {ʼØ}:0 b r {āØ}:ā s .#.
+käbrāz    A+Sg+Ela    .#. k ä {ʼØ}:0 b r {āØ}:ā s t .#.
+käbrāz    A+Pl+Nom    .#. k ä {ʼØ}:0 b r {āØ}:ā d .#.
+käbrāz    A+Pl+Gen    .#. k ä {ʼØ}:0 b r {āØ}:ā d .#.
+käbrāz    A+Pl+Dat    .#. k ä {ʼØ}:0 b r {āØ}:ā d õ n .#.
+käbrāz    A+Pl+Ins    .#. k ä {ʼØ}:0 b r {āØ}:ā d õ k s .#.
+käbrāz    A+Pl+Par    .#. k ä {ʼØ}:0 b r {āØ}:0 ī d i .#.
+käbrāz    A+Pl+Ill    .#. k ä {ʼØ}:0 b r {āØ}:0 ī ž .#.
+käbrāz    A+Pl+Ine    .#. k ä {ʼØ}:0 b r {āØ}:0 ī s .#.
+käbrāz    A+Pl+Ela    .#. k ä {ʼØ}:0 b r {āØ}:0 ī s t .#.
 
 #id="", ''
 #"N_161":{"tips":"161","vards":"maigāz","vcount":"1","bloks":"N","loc":{
-maigāz    A+Sg+Nom    .#. m a i g ā z .#.
-maigāz    A+Sg+Gen    .#. m a ʼ i g õ .#.
-maigāz    A+Sg+Dat    .#. m a i g ā n .#.
-maigāz    A+Sg+Par    .#. m a i g ā z t .#.
-maigāz    A+Sg+Ins    .#. m a i g ā k s .#.
-maigāz    A+Sg+Ill    .#. m a ʼ i g õ .#.
-maigāz    A+Sg+Ill    .#. m a ʼ i g õ z .#.
-maigāz    A+Sg+Ine    .#. m a i g ā s .#.
-maigāz    A+Sg+Ela    .#. m a i g ā s t .#.
-maigāz    A+Pl+Nom    .#. m a i g ā d .#.
-maigāz    A+Pl+Gen    .#. m a i g ā d .#.
-maigāz    A+Pl+Dat    .#. m a i g ā d õ n .#.
-maigāz    A+Pl+Par    .#. m a i g ī d i .#.
-maigāz    A+Pl+Ins    .#. m a i g ā d õ k s .#.
-maigāz    A+Pl+Ill    .#. m a i g ī ž .#.
-maigāz    A+Pl+Ine    .#. m a i g ī s .#.
-maigāz    A+Pl+Ela    .#. m a i g ī s t .#.
+maigāz    A+Sg+Nom    .#. m a {ʼØ}:0 i g {āØ}:ā z .#.
+maigāz    A+Sg+Gen    .#. m a {ʼØ}:ʼ i g {āØ}:0 õ .#.
+maigāz    A+Sg+Dat    .#. m a {ʼØ}:0 i g {āØ}:ā n .#.
+maigāz    A+Sg+Par    .#. m a {ʼØ}:0 i g {āØ}:ā z t .#.
+maigāz    A+Sg+Ins    .#. m a {ʼØ}:0 i g {āØ}:ā k s .#.
+maigāz    A+Sg+Ill    .#. m a {ʼØ}:ʼ i g {āØ}:0 õ .#.
+maigāz    A+Sg+Ill    .#. m a {ʼØ}:ʼ i g {āØ}:0 õ z .#.
+maigāz    A+Sg+Ine    .#. m a {ʼØ}:0 i g {āØ}:ā s .#.
+maigāz    A+Sg+Ela    .#. m a {ʼØ}:0 i g {āØ}:ā s t .#.
+maigāz    A+Pl+Nom    .#. m a {ʼØ}:0 i g {āØ}:ā d .#.
+maigāz    A+Pl+Gen    .#. m a {ʼØ}:0 i g {āØ}:ā d .#.
+maigāz    A+Pl+Dat    .#. m a {ʼØ}:0 i g {āØ}:ā d õ n .#.
+maigāz    A+Pl+Ins    .#. m a {ʼØ}:0 i g {āØ}:ā d õ k s .#.
+maigāz    A+Pl+Par    .#. m a {ʼØ}:0 i g {āØ}:0 ī d i .#.
+maigāz    A+Pl+Ill    .#. m a {ʼØ}:0 i g {āØ}:0 ī ž .#.
+maigāz    A+Pl+Ine    .#. m a {ʼØ}:0 i g {āØ}:0 ī s .#.
+maigāz    A+Pl+Ela    .#. m a {ʼØ}:0 i g {āØ}:0 ī s t .#.
 
 #id="", ''
 #"N_162":{"tips":"162","vards":"nõtkāz","vcount":"4","bloks":"N","loc":{
-nõtkāz    A+Sg+Nom    .#. n õ t k ā z .#.
-nõtkāz    A+Sg+Gen    .#. n õ t k õ .#.
-nõtkāz    A+Sg+Dat    .#. n õ t k ā n .#.
-nõtkāz    A+Sg+Par    .#. n õ t k ā z t .#.
-nõtkāz    A+Sg+Ins    .#. n õ t k ā k s .#.
-nõtkāz    A+Sg+Ill    .#. n õ t k õ .#.
-nõtkāz    A+Sg+Ill    .#. n õ t k õ z .#.
-nõtkāz    A+Sg+Ine    .#. n õ t k ā s .#.
-nõtkāz    A+Sg+Ela    .#. n õ t k ā s t .#.
-nõtkāz    A+Pl+Nom    .#. n õ t k õ d .#.
-nõtkāz    A+Pl+Gen    .#. n õ t k õ d .#.
-nõtkāz    A+Pl+Dat    .#. n õ t k õ d õ n .#.
-nõtkāz    A+Pl+Par    .#. n õ t k ī d i .#.
-nõtkāz    A+Pl+Ins    .#. n õ t k õ d õ k s .#.
-nõtkāz    A+Pl+Ill    .#. n õ t k ī ž .#.
-nõtkāz    A+Pl+Ine    .#. n õ t k ī s .#.
-nõtkāz    A+Pl+Ela    .#. n õ t k ī s t .#.
+nõtkāz    A+Sg+Nom    .#. n õ t k {āØ}:ā z .#.
+nõtkāz    A+Sg+Gen    .#. n õ t k {āØ}:0 õ .#.
+nõtkāz    A+Sg+Dat    .#. n õ t k {āØ}:ā n .#.
+nõtkāz    A+Sg+Par    .#. n õ t k {āØ}:ā z t .#.
+nõtkāz    A+Sg+Ins    .#. n õ t k {āØ}:ā k s .#.
+nõtkāz    A+Sg+Ill    .#. n õ t k {āØ}:0 õ .#.
+nõtkāz    A+Sg+Ill    .#. n õ t k {āØ}:0 õ z .#.
+nõtkāz    A+Sg+Ine    .#. n õ t k {āØ}:ā s .#.
+nõtkāz    A+Sg+Ela    .#. n õ t k {āØ}:ā s t .#.
+nõtkāz    A+Pl+Nom    .#. n õ t k {āØ}:õ d .#.
+nõtkāz    A+Pl+Gen    .#. n õ t k {āØ}:õ d .#.
+nõtkāz    A+Pl+Dat    .#. n õ t k {āØ}:õ d õ n .#.
+nõtkāz    A+Pl+Ins    .#. n õ t k {āØ}:õ d õ k s .#.
+nõtkāz    A+Pl+Par    .#. n õ t k {āØ}:0 ī d i .#.
+nõtkāz    A+Pl+Ill    .#. n õ t k {āØ}:0 ī ž .#.
+nõtkāz    A+Pl+Ine    .#. n õ t k {āØ}:0 ī s .#.
+nõtkāz    A+Pl+Ela    .#. n õ t k {āØ}:0 ī s t .#.
 
 #id="", ''
 #"N_163":{"tips":"163","vards":"rikāz","vcount":"1","bloks":"N","loc":{
-rikāz    A+Sg+Nom    .#. r i k ā z .#.
-rikāz    A+Sg+Gen    .#. r i k k õ .#.
-rikāz    A+Sg+Dat    .#. r i k k õ n .#.
-rikāz    A+Sg+Par    .#. r i k ā z t .#.
-rikāz    A+Sg+Ins    .#. r i k k õ k s .#.
-rikāz    A+Sg+Ill    .#. r i k k õ .#.
-rikāz    A+Sg+Ill    .#. r i k k õ z .#.
-rikāz    A+Sg+Ine    .#. r i k ā s .#.
-rikāz    A+Sg+Ela    .#. r i k ā s t .#.
-rikāz    A+Pl+Nom    .#. r i k k õ d .#.
-rikāz    A+Pl+Gen    .#. r i k k õ d .#.
-rikāz    A+Pl+Dat    .#. r i k k õ d õ n .#.
-rikāz    A+Pl+Par    .#. r i k ī d i .#.
-rikāz    A+Pl+Ins    .#. r i k k õ d õ k s .#.
-rikāz    A+Pl+Ill    .#. r i k ī ž .#.
-rikāz    A+Pl+Ine    .#. r i k ī s .#.
-rikāz    A+Pl+Ela    .#. r i k ī s t .#.
+rikāz    A+Sg+Nom    .#. r i k {kØ}:0 {āõØ}:ā z .#.
+rikāz    A+Sg+Gen    .#. r i k {kØ}:k {āõØ}:õ .#.
+rikāz    A+Sg+Dat    .#. r i k {kØ}:k {āõØ}:õ n .#.
+rikāz    A+Sg+Par    .#. r i k {kØ}:0 {āõØ}:ā z t .#.
+rikāz    A+Sg+Ins    .#. r i k {kØ}:k {āõØ}:õ k s .#.
+rikāz    A+Sg+Ill    .#. r i k {kØ}:k {āõØ}:0 õ .#.
+rikāz    A+Sg+Ill    .#. r i k {kØ}:k {āõØ}:õ z .#.
+rikāz    A+Sg+Ine    .#. r i k {kØ}:0 {āõØ}:ā s .#.
+rikāz    A+Sg+Ela    .#. r i k {kØ}:0 {āõØ}:ā s t .#.
+rikāz    A+Pl+Nom    .#. r i k {kØ}:k {āõØ}:õ d .#.
+rikāz    A+Pl+Gen    .#. r i k {kØ}:k {āõØ}:õ d .#.
+rikāz    A+Pl+Dat    .#. r i k {kØ}:k {āõØ}:õ d õ n .#.
+rikāz    A+Pl+Ins    .#. r i k {kØ}:k {āõØ}:õ d õ k s .#.
+rikāz    A+Pl+Par    .#. r i k {kØ}:0 {āõØ}:0 ī d i .#.
+rikāz    A+Pl+Ill    .#. r i k {kØ}:0 {āõØ}:0 ī ž .#.
+rikāz    A+Pl+Ine    .#. r i k {kØ}:0 {āõØ}:0 ī s .#.
+rikāz    A+Pl+Ela    .#. r i k {kØ}:0 {āõØ}:0 ī s t .#.
 
 #id="", ''
 #"N_164":{"tips":"164","vards":"bikšāz","vcount":"5","bloks":"N","loc":{
-bikšāz    N+Sg+Nom    .#. b i k š ā z .#.
-bikšāz    N+Sg+Gen    .#. b i k š õ .#.
-bikšāz    N+Sg+Dat    .#. b i k š õ n .#.
-bikšāz    N+Sg+Par    .#. b i k š ā z t .#.
-bikšāz    N+Sg+Ins    .#. b i k š õ k s .#.
-bikšāz    N+Sg+Ill    .#. b i k š õ .#.
-bikšāz    N+Sg+Ill    .#. b i k š õ z .#.
-bikšāz    N+Sg+Ine    .#. b i k š ā s .#.
-bikšāz    N+Sg+Ela    .#. b i k š ā s t .#.
-bikšāz    N+Pl+Nom    .#. b i k š õ d .#.
-bikšāz    N+Pl+Gen    .#. b i k š õ d .#.
-bikšāz    N+Pl+Dat    .#. b i k š õ d õ n .#.
-bikšāz    N+Pl+Par    .#. b i k š ī d i .#.
-bikšāz    N+Pl+Ins    .#. b i k š õ d õ k s .#.
-bikšāz    N+Pl+Ill    .#. b i k š ī z .#.
-bikšāz    N+Pl+Ine    .#. b i k š ī s .#.
-bikšāz    N+Pl+Ela    .#. b i k š ī s t .#.
+bikšāz    N+Sg+Nom    .#. b i k š {āõØ}:ā z .#.
+bikšāz    N+Sg+Gen    .#. b i k š {āõØ}:õ .#.
+bikšāz    N+Sg+Dat    .#. b i k š {āõØ}:õ n .#.
+bikšāz    N+Sg+Par    .#. b i k š {āõØ}:ā z t .#.
+bikšāz    N+Sg+Ins    .#. b i k š {āõØ}:õ k s .#.
+bikšāz    N+Sg+Ill    .#. b i k š {āõØ}:õ .#.
+bikšāz    N+Sg+Ill    .#. b i k š {āõØ}:õ z .#.
+bikšāz    N+Sg+Ine    .#. b i k š {āõØ}:ā s .#.
+bikšāz    N+Sg+Ela    .#. b i k š {āõØ}:ā s t .#.
+bikšāz    N+Pl+Nom    .#. b i k š {āõØ}:õ d .#.
+bikšāz    N+Pl+Gen    .#. b i k š {āõØ}:õ d .#.
+bikšāz    N+Pl+Dat    .#. b i k š {āõØ}:õ d õ n .#.
+bikšāz    N+Pl+Ins    .#. b i k š {āõØ}:õ d õ k s .#.
+bikšāz    N+Pl+Par    .#. b i k š {āõØ}:0 ī d i .#.
+bikšāz    N+Pl+Ill    .#. b i k š {āõØ}:0 ī z .#.
+bikšāz    N+Pl+Ine    .#. b i k š {āõØ}:0 ī s .#.
+bikšāz    N+Pl+Ela    .#. b i k š {āõØ}:0 ī s t .#.
 
 #id="", ''
 #"N_165":{"tips":"165","vards":"āmbaz","vcount":"48","bloks":"N","loc":{
-āmbaz    N+Sg+Nom    .#. ā m b a z .#.
-āmbaz    N+Sg+Gen    .#. a m b õ .#.
-āmbaz    N+Sg+Dat    .#. a m b õ n .#.
-āmbaz    N+Sg+Par    .#. ā m b a z t .#.
-āmbaz    N+Sg+Ins    .#. a m b õ k s .#.
-āmbaz    N+Sg+Ill    .#. a m b õ .#.
-āmbaz    N+Sg+Ill    .#. a m b õ z .#.
-āmbaz    N+Sg+Ine    .#. a m b õ s .#.
-āmbaz    N+Sg+Ela    .#. a m b õ s t .#.
-āmbaz    N+Pl+Nom    .#. a m b õ d .#.
-āmbaz    N+Pl+Gen    .#. a m b õ d .#.
-āmbaz    N+Pl+Dat    .#. a m b õ d õ n .#.
-āmbaz    N+Pl+Par    .#. a m b i d i .#.
-āmbaz    N+Pl+Ins    .#. a m b õ d õ k s .#.
-āmbaz    N+Pl+Ill    .#. a m b i ž .#.
-āmbaz    N+Pl+Ine    .#. a m b i s .#.
-āmbaz    N+Pl+Ela    .#. a m b i s t .#.
+āmbaz    N+Sg+Nom    .#. {āa}:ā m b {aõØ}:a z .#.
+āmbaz    N+Sg+Gen    .#. {āa}:a m b {aõØ}:õ .#.
+āmbaz    N+Sg+Dat    .#. {āa}:a m b {aõØ}:õ n .#.
+āmbaz    N+Sg+Par    .#. {āa}:ā m b {aõØ}:a z t .#.
+āmbaz    N+Sg+Ins    .#. {āa}:a m b {aõØ}:õ k s .#.
+āmbaz    N+Sg+Ill    .#. {āa}:a m b {aõØ}:õ .#.
+āmbaz    N+Sg+Ill    .#. {āa}:a m b {aõØ}:õ z .#.
+āmbaz    N+Sg+Ine    .#. {āa}:a m b {aõØ}:õ s .#.
+āmbaz    N+Sg+Ela    .#. {āa}:a m b {aõØ}:õ s t .#.
+āmbaz    N+Pl+Nom    .#. {āa}:a m b {aõØ}:õ d .#.
+āmbaz    N+Pl+Gen    .#. {āa}:a m b {aõØ}:õ d .#.
+āmbaz    N+Pl+Dat    .#. {āa}:a m b {aõØ}:õ d õ n .#.
+āmbaz    N+Pl+Ins    .#. {āa}:a m b {aõØ}:õ d õ k s .#.
+āmbaz    N+Pl+Par    .#. {āa}:a m b {aõØ}:0 i d i .#.
+āmbaz    N+Pl+Ill    .#. {āa}:a m b {aõØ}:0 i ž .#.
+āmbaz    N+Pl+Ine    .#. {āa}:a m b {aõØ}:0 i s .#.
+āmbaz    N+Pl+Ela    .#. {āa}:a m b {aõØ}:0 i s t .#.
 
 #id="", ''
 #"N_166":{"tips":"166","vards":"pūŗaz","vcount":"12","bloks":"N","loc":{
-pūŗaz    N+Sg+Nom    .#. p ū ŗ a z .#.
-pūŗaz    N+Sg+Gen    .#. p u ŗ ŗ õ .#.
-pūŗaz    N+Sg+Dat    .#. p u ŗ ŗ õ n .#.
-pūŗaz    N+Sg+Par    .#. p ū ŗ a z t .#.
-pūŗaz    N+Sg+Ins    .#. p u ŗ ŗ õ k s .#.
-pūŗaz    N+Sg+Ill    .#. p u ŗ ŗ õ .#.
-pūŗaz    N+Sg+Ill    .#. p u ŗ ŗ õ z .#.
-pūŗaz    N+Sg+Ine    .#. p u ŗ ŗ õ s .#.
-pūŗaz    N+Sg+Ela    .#. p u ŗ ŗ õ s t .#.
-pūŗaz    N+Pl+Nom    .#. p u ŗ ŗ õ d .#.
-pūŗaz    N+Pl+Gen    .#. p u ŗ ŗ õ d .#.
-pūŗaz    N+Pl+Dat    .#. p u ŗ ŗ õ d õ n .#.
-pūŗaz    N+Pl+Par    .#. p u ŗ ŗ i d i .#.
-pūŗaz    N+Pl+Ins    .#. p u ŗ ŗ õ d õ k s .#.
-pūŗaz    N+Pl+Ill    .#. p u ŗ ŗ i ž .#.
-pūŗaz    N+Pl+Ine    .#. p u ŗ ŗ i s .#.
-pūŗaz    N+Pl+Ela    .#. p u ŗ ŗ i s t .#.
+pūŗaz    N+Sg+Nom    .#. p ū ŗ {ŗØ}:0 {aõØ}:a z .#.
+pūŗaz    N+Sg+Gen    .#. p u ŗ {ŗØ}:ŗ {aõØ}:õ .#.
+pūŗaz    N+Sg+Dat    .#. p u ŗ {ŗØ}:ŗ {aõØ}:õ n .#.
+pūŗaz    N+Sg+Par    .#. p ū ŗ {ŗØ}:0 {aõØ}:a z t .#.
+pūŗaz    N+Sg+Ins    .#. p u ŗ {ŗØ}:ŗ {aõØ}:õ k s .#.
+pūŗaz    N+Sg+Ill    .#. p u ŗ {ŗØ}:ŗ {aõØ}:õ .#.
+pūŗaz    N+Sg+Ill    .#. p u ŗ {ŗØ}:ŗ {aõØ}:õ z .#.
+pūŗaz    N+Sg+Ine    .#. p u ŗ {ŗØ}:ŗ {aõØ}:õ s .#.
+pūŗaz    N+Sg+Ela    .#. p u ŗ {ŗØ}:ŗ {aõØ}:õ s t .#.
+pūŗaz    N+Pl+Nom    .#. p u ŗ {ŗØ}:ŗ {aõØ}:õ d .#.
+pūŗaz    N+Pl+Gen    .#. p u ŗ {ŗØ}:ŗ {aõØ}:õ d .#.
+pūŗaz    N+Pl+Dat    .#. p u ŗ {ŗØ}:ŗ {aõØ}:õ d õ n .#.
+pūŗaz    N+Pl+Ins    .#. p u ŗ {ŗØ}:ŗ {aõØ}:õ d õ k s .#.
+pūŗaz    N+Pl+Par    .#. p u ŗ {ŗØ}:ŗ {aõØ}:0 i d i .#.
+pūŗaz    N+Pl+Ill    .#. p u ŗ {ŗØ}:ŗ {aõØ}:0 i ž .#.
+pūŗaz    N+Pl+Ine    .#. p u ŗ {ŗØ}:ŗ {aõØ}:0 i s .#.
+pūŗaz    N+Pl+Ela    .#. p u ŗ {ŗØ}:ŗ {aõØ}:0 i s t .#.
 
 #id="", ''
 #"N_167":{"tips":"167","vards":"pǭļaz","vcount":"5","bloks":"N","loc":{
-pōļaz    A+Sg+Nom    .#. p ǭ ļ a z .#.
-pōļaz    A+Sg+Gen    .#. p a ļ ļ õ .#.
-pōļaz    A+Sg+Dat    .#. p a ļ ļ õ n .#.
-pōļaz    A+Sg+Par    .#. p ǭ ļ a z t .#.
-pōļaz    A+Sg+Ins    .#. p a ļ ļ õ k s .#.
-pōļaz    A+Sg+Ill    .#. p a ļ ļ õ .#.
-pōļaz    A+Sg+Ill    .#. p a ļ ļ õ z .#.
-pōļaz    A+Sg+Ine    .#. p a ļ ļ õ s .#.
-pōļaz    A+Sg+Ela    .#. p a ļ ļ õ s t .#.
-pōļaz    A+Pl+Nom    .#. p a ļ ļ õ d .#.
-pōļaz    A+Pl+Gen    .#. p a ļ ļ õ d .#.
-pōļaz    A+Pl+Dat    .#. p a ļ ļ õ d õ n .#.
-pōļaz    A+Pl+Par    .#. p a ļ ļ i d i .#.
-pōļaz    A+Pl+Ins    .#. p a ļ ļ õ d õ k s .#.
-pōļaz    A+Pl+Ill    .#. p a ļ ļ i ž .#.
-pōļaz    A+Pl+Ine    .#. p a ļ ļ i s .#.
-pōļaz    A+Pl+Ela    .#. p a ļ ļ i s t .#.
+pōļaz    A+Sg+Nom    .#. p ǭ ļ {ļØ}:0 {aõØ}:a z .#.
+pōļaz    A+Sg+Gen    .#. p a ļ {ļØ}:ļ {aõØ}:õ .#.
+pōļaz    A+Sg+Dat    .#. p a ļ {ļØ}:ļ {aõØ}:õ n .#.
+pōļaz    A+Sg+Par    .#. p ǭ ļ {ļØ}:0 {aõØ}:a z t .#.
+pōļaz    A+Sg+Ins    .#. p a ļ {ļØ}:ļ {aõØ}:õ k s .#.
+pōļaz    A+Sg+Ill    .#. p a ļ {ļØ}:ļ {aõØ}:õ .#.
+pōļaz    A+Sg+Ill    .#. p a ļ {ļØ}:ļ {aõØ}:õ z .#.
+pōļaz    A+Sg+Ine    .#. p a ļ {ļØ}:ļ {aõØ}:õ s .#.
+pōļaz    A+Sg+Ela    .#. p a ļ {ļØ}:ļ {aõØ}:õ s t .#.
+pōļaz    A+Pl+Nom    .#. p a ļ {ļØ}:ļ {aõØ}:õ d .#.
+pōļaz    A+Pl+Gen    .#. p a ļ {ļØ}:ļ {aõØ}:õ d .#.
+pōļaz    A+Pl+Dat    .#. p a ļ {ļØ}:ļ {aõØ}:õ d õ n .#.
+pōļaz    A+Pl+Par    .#. p a ļ {ļØ}:ļ {aõØ}:0 i d i .#.
+pōļaz    A+Pl+Ins    .#. p a ļ {ļØ}:ļ {aõØ}:õ d õ k s .#.
+pōļaz    A+Pl+Ill    .#. p a ļ {ļØ}:ļ {aõØ}:0 i ž .#.
+pōļaz    A+Pl+Ine    .#. p a ļ {ļØ}:ļ {aõØ}:0 i s .#.
+pōļaz    A+Pl+Ela    .#. p a ļ {ļØ}:ļ {aõØ}:0 i s t .#.
 
 #id="", ''
 #"N_168":{"tips":"168","vards":"rēnaz","vcount":"1","bloks":"N","loc":{
-rēnaz    N+Sg+Nom    .#. r {ēe}:ē {iØ}:0 n a z .#.
-rēnaz    N+Sg+Gen    .#. r {ēe}:e {iØ}:i n õ .#.
-rēnaz    N+Sg+Dat    .#. r {ēe}:e {iØ}:i n õ n .#.
-rēnaz    N+Sg+Par    .#. r {ēe}:ē {iØ}:0 n a z t .#.
-rēnaz    N+Sg+Ins    .#. r {ēe}:e {iØ}:i n õ k s .#.
-rēnaz    N+Sg+Ill    .#. r {ēe}:e {iØ}:i n õ .#.
-rēnaz    N+Sg+Ill    .#. r {ēe}:e {iØ}:i n õ z .#.
-rēnaz    N+Sg+Ine    .#. r {ēe}:e {iØ}:i n õ s .#.
-rēnaz    N+Sg+Ela    .#. r {ēe}:e {iØ}:i n õ s t .#.
-rēnaz    N+Pl+Nom    .#. r {ēe}:e {iØ}:i n õ d .#.
-rēnaz    N+Pl+Gen    .#. r {ēe}:e {iØ}:i n õ d .#.
-rēnaz    N+Pl+Dat    .#. r {ēe}:e {iØ}:i n õ d õ n .#.
-rēnaz    N+Pl+Par    .#. r {ēe}:e {iØ}:i n i d i .#.
-rēnaz    N+Pl+Ins    .#. r {ēe}:e {iØ}:i n õ d õ k s .#.
-rēnaz    N+Pl+Ill    .#. r {ēe}:e {iØ}:i n i ž .#.
-rēnaz    N+Pl+Ine    .#. r {ēe}:e {iØ}:i n i s .#.
-rēnaz    N+Pl+Ela    .#. r {ēe}:e {iØ}:i n i s t .#.
+rēnaz    N+Sg+Nom    .#. r {ēe}:ē {iØ}:0 n {aõØ}:a z .#.
+rēnaz    N+Sg+Gen    .#. r {ēe}:e {iØ}:i n {aõØ}:õ .#.
+rēnaz    N+Sg+Dat    .#. r {ēe}:e {iØ}:i n {aõØ}:õ n .#.
+rēnaz    N+Sg+Par    .#. r {ēe}:ē {iØ}:0 n {aõØ}:a z t .#.
+rēnaz    N+Sg+Ins    .#. r {ēe}:e {iØ}:i n {aõØ}:õ k s .#.
+rēnaz    N+Sg+Ill    .#. r {ēe}:e {iØ}:i n {aõØ}:õ .#.
+rēnaz    N+Sg+Ill    .#. r {ēe}:e {iØ}:i n {aõØ}:õ z .#.
+rēnaz    N+Sg+Ine    .#. r {ēe}:e {iØ}:i n {aõØ}:õ s .#.
+rēnaz    N+Sg+Ela    .#. r {ēe}:e {iØ}:i n {aõØ}:õ s t .#.
+rēnaz    N+Pl+Nom    .#. r {ēe}:e {iØ}:i n {aõØ}:õ d .#.
+rēnaz    N+Pl+Gen    .#. r {ēe}:e {iØ}:i n {aõØ}:õ d .#.
+rēnaz    N+Pl+Dat    .#. r {ēe}:e {iØ}:i n {aõØ}:õ d õ n .#.
+rēnaz    N+Pl+Par    .#. r {ēe}:e {iØ}:i n {aõØ}:0 i d i .#.
+rēnaz    N+Pl+Ins    .#. r {ēe}:e {iØ}:i n {aõØ}:õ d õ k s .#.
+rēnaz    N+Pl+Ill    .#. r {ēe}:e {iØ}:i n {aõØ}:0 i ž .#.
+rēnaz    N+Pl+Ine    .#. r {ēe}:e {iØ}:i n {aõØ}:0 i s .#.
+rēnaz    N+Pl+Ela    .#. r {ēe}:e {iØ}:i n {aõØ}:0 i s t .#.
 
 #id="", ''
 #"N_169":{"tips":"169","vards":"tōvaz","vcount":"6","bloks":"N","loc":{
-tōvaz    N+Sg+Nom    .#. t ō v a z .#.
-tōvaz    N+Sg+Gen    .#. t o u v õ .#.
-tōvaz    N+Sg+Dat    .#. t o u v õ n .#.
-tōvaz    N+Sg+Par    .#. t ō v a z t .#.
-tōvaz    N+Sg+Ins    .#. t o u v õ k s .#.
-tōvaz    N+Sg+Ill    .#. t o u v õ .#.
-tōvaz    N+Sg+Ill    .#. t o u v õ z .#.
-tōvaz    N+Sg+Ine    .#. t o u v õ s .#.
-tōvaz    N+Sg+Ela    .#. t o u v õ s t .#.
-tōvaz    N+Pl+Nom    .#. t o u v õ d .#.
-tōvaz    N+Pl+Gen    .#. t o u v õ d .#.
-tōvaz    N+Pl+Dat    .#. t o u v õ d õ n .#.
-tōvaz    N+Pl+Par    .#. t o u v i d i .#.
-tōvaz    N+Pl+Ins    .#. t o u v õ d õ k s .#.
-tōvaz    N+Pl+Ill    .#. t o u v i ž .#.
-tōvaz    N+Pl+Ine    .#. t o u v i s .#.
-tōvaz    N+Pl+Ela    .#. t o u v i s t .#.
+tōvaz    N+Sg+Nom    .#. t {ōo}:ō {uØ}:0 v {aõØ}:a z .#.
+tōvaz    N+Sg+Gen    .#. t {ōo}:o {uØ}:u v {aõØ}:õ .#.
+tōvaz    N+Sg+Dat    .#. t {ōo}:o {uØ}:u v {aõØ}:õ n .#.
+tōvaz    N+Sg+Par    .#. t {ōo}:ō {uØ}:0 v {aõØ}:a z t .#.
+tōvaz    N+Sg+Ins    .#. t {ōo}:o {uØ}:u v {aõØ}:õ k s .#.
+tōvaz    N+Sg+Ill    .#. t {ōo}:o {uØ}:u v {aõØ}:0 õ .#.
+tōvaz    N+Sg+Ill    .#. t {ōo}:o {uØ}:u v {aõØ}:õ z .#.
+tōvaz    N+Sg+Ine    .#. t {ōo}:o {uØ}:u v {aõØ}:õ s .#.
+tōvaz    N+Sg+Ela    .#. t {ōo}:o {uØ}:u v {aõØ}:õ s t .#.
+tōvaz    N+Pl+Nom    .#. t {ōo}:o {uØ}:u v {aõØ}:õ d .#.
+tōvaz    N+Pl+Gen    .#. t {ōo}:o {uØ}:u v {aõØ}:õ d .#.
+tōvaz    N+Pl+Dat    .#. t {ōo}:o {uØ}:u v {aõØ}:õ d õ n .#.
+tōvaz    N+Pl+Par    .#. t {ōo}:o {uØ}:u v {aõØ}:0 i d i .#.
+tōvaz    N+Pl+Ins    .#. t {ōo}:o {uØ}:u v {aõØ}:õ d õ k s .#.
+tōvaz    N+Pl+Ill    .#. t {ōo}:o {uØ}:u v {aõØ}:0 i ž .#.
+tōvaz    N+Pl+Ine    .#. t {ōo}:o {uØ}:u v {aõØ}:0 i s .#.
+tōvaz    N+Pl+Ela    .#. t {ōo}:o {uØ}:u v {aõØ}:0 i s t .#.
 
 #id="N_170", ''
 #"N_170":{"tips":"170","vards":"pūoraz","vcount":"1","bloks":"N","loc":{
@@ -4141,103 +4141,103 @@ vȭrõz    N+Pl+Ela    .#. v ȭ r {õØ}:0 {zØ}:0 > i s t .#.
 
 #id="", ''
 #"N_173":{"tips":"173","vards":"arāgõz","vcount":"38","bloks":"N","loc":{
-arāgõz    N+Sg+Nom    .#. a r ā g õ z .#.
-arāgõz    N+Sg+Gen    .#. a r ā g õ .#.
-arāgõz    N+Sg+Dat    .#. a r ā g õ n .#.
-arāgõz    N+Sg+Par    .#. a r ā g õ z t .#.
-arāgõz    N+Sg+Ins    .#. a r ā g õ k s .#.
-arāgõz    N+Sg+Ill    .#. a r ā g õ .#.
-arāgõz    N+Sg+Ill    .#. a r ā g õ z .#.
-arāgõz    N+Sg+Ine    .#. a r ā g õ s .#.
-arāgõz    N+Sg+Ela    .#. a r ā g õ s t .#.
-arāgõz    N+Pl+Nom    .#. a r ā g õ d .#.
-arāgõz    N+Pl+Gen    .#. a r ā g õ d .#.
-arāgõz    N+Pl+Dat    .#. a r ā g õ d õ n .#.
-arāgõz    N+Pl+Par    .#. a r ā g i d i .#.
-arāgõz    N+Pl+Ins    .#. a r ā g õ d õ k s .#.
-arāgõz    N+Pl+Ill    .#. a r ā g i ž .#.
-arāgõz    N+Pl+Ine    .#. a r ā g i s .#.
-arāgõz    N+Pl+Ela    .#. a r ā g i s t .#.
+arāgõz    N+Sg+Nom    .#. a r ā g {õØ}:õ z .#.
+arāgõz    N+Sg+Gen    .#. a r ā g {õØ}:õ .#.
+arāgõz    N+Sg+Dat    .#. a r ā g {õØ}:õ n .#.
+arāgõz    N+Sg+Par    .#. a r ā g {õØ}:õ z t .#.
+arāgõz    N+Sg+Ins    .#. a r ā g {õØ}:õ k s .#.
+arāgõz    N+Sg+Ill    .#. a r ā g {õØ}:õ .#.
+arāgõz    N+Sg+Ill    .#. a r ā g {õØ}:õ z .#.
+arāgõz    N+Sg+Ine    .#. a r ā g {õØ}:õ s .#.
+arāgõz    N+Sg+Ela    .#. a r ā g {õØ}:õ s t .#.
+arāgõz    N+Pl+Nom    .#. a r ā g {õØ}:õ d .#.
+arāgõz    N+Pl+Gen    .#. a r ā g {õØ}:õ d .#.
+arāgõz    N+Pl+Dat    .#. a r ā g {õØ}:õ d õ n .#.
+arāgõz    N+Pl+Par    .#. a r ā g {õØ}:0 i d i .#.
+arāgõz    N+Pl+Ins    .#. a r ā g {õØ}:õ d õ k s .#.
+arāgõz    N+Pl+Ill    .#. a r ā g {õØ}:0 i ž .#.
+arāgõz    N+Pl+Ine    .#. a r ā g {õØ}:0 i s .#.
+arāgõz    N+Pl+Ela    .#. a r ā g {õØ}:0 i s t .#.
 
 #id="", ''
 #"N_173ʼ":{"tips":"173ʼ","vards":"äʼggõz","vcount":"45","bloks":"N","loc":{
-äggõz    N+Sg+Nom    .#. ä ʼ g g õ z .#.
-äggõz    N+Sg+Gen    .#. ä ʼ g g õ .#.
-äggõz    N+Sg+Dat    .#. ä ʼ g g õ n .#.
-äggõz    N+Sg+Par    .#. ä ʼ g g õ z t .#.
-äggõz    N+Sg+Ins    .#. ä ʼ g g õ k s .#.
-äggõz    N+Sg+Ill    .#. ä ʼ g g õ .#.
-äggõz    N+Sg+Ill    .#. ä ʼ g g õ z .#.
-äggõz    N+Sg+Ine    .#. ä ʼ g g õ s .#.
-äggõz    N+Sg+Ela    .#. ä ʼ g g õ s t .#.
-äggõz    N+Pl+Nom    .#. ä ʼ g g õ d .#.
-äggõz    N+Pl+Gen    .#. ä ʼ g g õ d .#.
-äggõz    N+Pl+Dat    .#. ä ʼ g g õ d õ n .#.
-äggõz    N+Pl+Par    .#. ä ʼ g g i d i .#.
-äggõz    N+Pl+Ins    .#. ä ʼ g g õ d õ k s .#.
-äggõz    N+Pl+Ill    .#. ä ʼ g g i ž .#.
-äggõz    N+Pl+Ine    .#. ä ʼ g g i s .#.
-äggõz    N+Pl+Ela    .#. ä ʼ g g i s t .#.
+äggõz    N+Sg+Nom    .#. ä ʼ g g {õØ}:õ z .#.
+äggõz    N+Sg+Gen    .#. ä ʼ g g {õØ}:õ .#.
+äggõz    N+Sg+Dat    .#. ä ʼ g g {õØ}:õ n .#.
+äggõz    N+Sg+Par    .#. ä ʼ g g {õØ}:õ z t .#.
+äggõz    N+Sg+Ins    .#. ä ʼ g g {õØ}:õ k s .#.
+äggõz    N+Sg+Ill    .#. ä ʼ g g {õØ}:õ .#.
+äggõz    N+Sg+Ill    .#. ä ʼ g g {õØ}:õ z .#.
+äggõz    N+Sg+Ine    .#. ä ʼ g g {õØ}:õ s .#.
+äggõz    N+Sg+Ela    .#. ä ʼ g g {õØ}:õ s t .#.
+äggõz    N+Pl+Nom    .#. ä ʼ g g {õØ}:õ d .#.
+äggõz    N+Pl+Gen    .#. ä ʼ g g {õØ}:õ d .#.
+äggõz    N+Pl+Dat    .#. ä ʼ g g {õØ}:õ d õ n .#.
+äggõz    N+Pl+Ins    .#. ä ʼ g g {õØ}:õ d õ k s .#.
+äggõz    N+Pl+Par    .#. ä ʼ g g {õØ}:0 i d i .#.
+äggõz    N+Pl+Ill    .#. ä ʼ g g {õØ}:0 i ž .#.
+äggõz    N+Pl+Ine    .#. ä ʼ g g {õØ}:0 i s .#.
+äggõz    N+Pl+Ela    .#. ä ʼ g g {õØ}:0 i s t .#.
 
 #id="", ''
 #"N_172ʼ":{"tips":"172ʼ","vards":"pūʼdõz","vcount":"58","bloks":"N","loc":{
-pūdõz    A+Sg+Nom    .#. p ū ʼ d õ z .#.
-pūdõz    A+Sg+Gen    .#. p ū ʼ d õ .#.
-pūdõz    A+Sg+Dat    .#. p ū ʼ d õ n .#.
-pūdõz    A+Sg+Par    .#. p ū ʼ d õ z t .#.
-pūdõz    A+Sg+Ins    .#. p ū ʼ d õ k s .#.
-pūdõz    A+Sg+Ill    .#. p ū ʼ d õ .#.
-pūdõz    A+Sg+Ill    .#. p ū ʼ d õ z .#.
-pūdõz    A+Sg+Ine    .#. p ū ʼ d õ s .#.
-pūdõz    A+Sg+Ela    .#. p ū ʼ d õ s t .#.
-pūdõz    A+Pl+Nom    .#. p ū ʼ d õ d .#.
-pūdõz    A+Pl+Gen    .#. p ū ʼ d õ d .#.
-pūdõz    A+Pl+Dat    .#. p ū ʼ d õ d õ n .#.
-pūdõz    A+Pl+Par    .#. p ū ʼ d i d i .#.
-pūdõz    A+Pl+Ins    .#. p ū ʼ d õ d õ k s .#.
-pūdõz    A+Pl+Ill    .#. p ū ʼ d i ž .#.
-pūdõz    A+Pl+Ine    .#. p ū ʼ d i s .#.
-pūdõz    A+Pl+Ela    .#. p ū ʼ d i s t .#.
+pūdõz    A+Sg+Nom    .#. p ū ʼ d {õØ}:õ z .#.
+pūdõz    A+Sg+Gen    .#. p ū ʼ d {õØ}:õ .#.
+pūdõz    A+Sg+Dat    .#. p ū ʼ d {õØ}:õ n .#.
+pūdõz    A+Sg+Par    .#. p ū ʼ d {õØ}:õ z t .#.
+pūdõz    A+Sg+Ins    .#. p ū ʼ d {õØ}:õ k s .#.
+pūdõz    A+Sg+Ill    .#. p ū ʼ d {õØ}:õ .#.
+pūdõz    A+Sg+Ill    .#. p ū ʼ d {õØ}:õ z .#.
+pūdõz    A+Sg+Ine    .#. p ū ʼ d {õØ}:õ s .#.
+pūdõz    A+Sg+Ela    .#. p ū ʼ d {õØ}:õ s t .#.
+pūdõz    A+Pl+Nom    .#. p ū ʼ d {õØ}:õ d .#.
+pūdõz    A+Pl+Gen    .#. p ū ʼ d {õØ}:õ d .#.
+pūdõz    A+Pl+Dat    .#. p ū ʼ d {õØ}:õ d õ n .#.
+pūdõz    A+Pl+Par    .#. p ū ʼ d {õØ}:0 i d i .#.
+pūdõz    A+Pl+Ins    .#. p ū ʼ d {õØ}:õ d õ k s .#.
+pūdõz    A+Pl+Ill    .#. p ū ʼ d {õØ}:0 i ž .#.
+pūdõz    A+Pl+Ine    .#. p ū ʼ d {õØ}:0 i s .#.
+pūdõz    A+Pl+Ela    .#. p ū ʼ d {õØ}:0 i s t .#.
 
 #id="", ''
 #"N_174":{"tips":"174","vards":"vīetšõz","vcount":"6","bloks":"N","loc":{
-vīetšõz    N+Sg+Nom    .#. v ī e t š õ z .#.
-vīetšõz    N+Sg+Gen    .#. v ī e t š õ .#.
-vīetšõz    N+Sg+Dat    .#. v ī e t š õ n .#.
-vīetšõz    N+Sg+Par    .#. v ī e t š õ z t .#.
-vīetšõz    N+Sg+Ins    .#. v ī e t š õ k s .#.
-vīetšõz    N+Sg+Ill    .#. v ī e t š õ .#.
-vīetšõz    N+Sg+Ill    .#. v ī e t š õ z .#.
-vīetšõz    N+Sg+Ine    .#. v ī e t š õ s .#.
-vīetšõz    N+Sg+Ela    .#. v ī e t š õ s t .#.
-vīetšõz    N+Pl+Nom    .#. v ī e t š õ d .#.
-vīetšõz    N+Pl+Gen    .#. v ī e t š õ d .#.
-vīetšõz    N+Pl+Dat    .#. v ī e t š õ d õ n .#.
-vīetšõz    N+Pl+Par    .#. v ī e t š i d i .#.
-vīetšõz    N+Pl+Ins    .#. v ī e t š õ d õ k s .#.
-vīetšõz    N+Pl+Ill    .#. v ī e t š i z .#.
-vīetšõz    N+Pl+Ine    .#. v ī e t š i s .#.
-vīetšõz    N+Pl+Ela    .#. v ī e t š i st .#.
+vīetšõz    N+Sg+Nom    .#. v ī e t š {õØ}:õ z .#.
+vīetšõz    N+Sg+Gen    .#. v ī e t š {õØ}:õ .#.
+vīetšõz    N+Sg+Dat    .#. v ī e t š {õØ}:õ n .#.
+vīetšõz    N+Sg+Par    .#. v ī e t š {õØ}:õ z t .#.
+vīetšõz    N+Sg+Ins    .#. v ī e t š {õØ}:õ k s .#.
+vīetšõz    N+Sg+Ill    .#. v ī e t š {õØ}:õ .#.
+vīetšõz    N+Sg+Ill    .#. v ī e t š {õØ}:õ z .#.
+vīetšõz    N+Sg+Ine    .#. v ī e t š {õØ}:õ s .#.
+vīetšõz    N+Sg+Ela    .#. v ī e t š {õØ}:õ s t .#.
+vīetšõz    N+Pl+Nom    .#. v ī e t š {õØ}:õ d .#.
+vīetšõz    N+Pl+Gen    .#. v ī e t š {õØ}:õ d .#.
+vīetšõz    N+Pl+Dat    .#. v ī e t š {õØ}:õ d õ n .#.
+vīetšõz    N+Pl+Par    .#. v ī e t š {õØ}:0 i d i .#.
+vīetšõz    N+Pl+Ins    .#. v ī e t š {õØ}:õ d õ k s .#.
+vīetšõz    N+Pl+Ill    .#. v ī e t š {õØ}:0 i z .#.
+vīetšõz    N+Pl+Ine    .#. v ī e t š {õØ}:0 i s .#.
+vīetšõz    N+Pl+Ela    .#. v ī e t š {õØ}:0 i st .#.
 
 #id="", ''
 #"N_174ʼ":{"tips":"174ʼ","vards":"lǭʼtšõz","vcount":"1","bloks":"N","loc":{
-lōtšõz    N+Sg+Nom    .#. l ǭ ʼ t š õ z .#.
-lōtšõz    N+Sg+Gen    .#. l ǭ ʼ t š õ .#.
-lōtšõz    N+Sg+Dat    .#. l ǭ ʼ t š õ n .#.
-lōtšõz    N+Sg+Par    .#. l ǭ ʼ t š õ z t .#.
-lōtšõz    N+Sg+Ins    .#. l ǭ ʼ t š õ k s .#.
-lōtšõz    N+Sg+Ill    .#. l ǭ ʼ t š õ .#.
-lōtšõz    N+Sg+Ill    .#. l ǭ ʼ t š õ z .#.
-lōtšõz    N+Sg+Ine    .#. l ǭ ʼ t š õ s .#.
-lōtšõz    N+Sg+Ela    .#. l ǭ ʼ t š õ s t .#.
-lōtšõz    N+Pl+Nom    .#. l ǭ ʼ t š õ d .#.
-lōtšõz    N+Pl+Gen    .#. l ǭ ʼ t š õ d .#.
-lōtšõz    N+Pl+Dat    .#. l ǭ ʼ t š õ d õ n .#.
-lōtšõz    N+Pl+Par    .#. l ǭ ʼ t š i d i .#.
-lōtšõz    N+Pl+Ins    .#. l ǭ ʼ t š õ d õ k s .#.
-lōtšõz    N+Pl+Ill    .#. l ǭ ʼ t š i z .#.
-lōtšõz    N+Pl+Ine    .#. l ǭ ʼ t š i s .#.
-lōtšõz    N+Pl+Ela    .#. l ǭ ʼ t š i s t .#.
+lōtšõz    N+Sg+Nom    .#. l ǭ ʼ t š {õØ}:õ z .#.
+lōtšõz    N+Sg+Gen    .#. l ǭ ʼ t š {õØ}:õ .#.
+lōtšõz    N+Sg+Dat    .#. l ǭ ʼ t š {õØ}:õ n .#.
+lōtšõz    N+Sg+Par    .#. l ǭ ʼ t š {õØ}:õ z t .#.
+lōtšõz    N+Sg+Ins    .#. l ǭ ʼ t š {õØ}:õ k s .#.
+lōtšõz    N+Sg+Ill    .#. l ǭ ʼ t š {õØ}:õ .#.
+lōtšõz    N+Sg+Ill    .#. l ǭ ʼ t š {õØ}:õ z .#.
+lōtšõz    N+Sg+Ine    .#. l ǭ ʼ t š {õØ}:õ s .#.
+lōtšõz    N+Sg+Ela    .#. l ǭ ʼ t š {õØ}:õ s t .#.
+lōtšõz    N+Pl+Nom    .#. l ǭ ʼ t š {õØ}:õ d .#.
+lōtšõz    N+Pl+Gen    .#. l ǭ ʼ t š {õØ}:õ d .#.
+lōtšõz    N+Pl+Dat    .#. l ǭ ʼ t š {õØ}:õ d õ n .#.
+lōtšõz    N+Pl+Par    .#. l ǭ ʼ t š {õØ}:0 i d i .#.
+lōtšõz    N+Pl+Ins    .#. l ǭ ʼ t š {õØ}:õ d õ k s .#.
+lōtšõz    N+Pl+Ill    .#. l ǭ ʼ t š {õØ}:0 i z .#.
+lōtšõz    N+Pl+Ine    .#. l ǭ ʼ t š {õØ}:0 i s .#.
+lōtšõz    N+Pl+Ela    .#. l ǭ ʼ t š {õØ}:0 i s t .#.
 
 #id="", ''
 #"N_175":{"tips":"175","vards":"sēji","vcount":"99","bloks":"N","loc":{
@@ -4342,19 +4342,19 @@ tuļļi    N+Pl+Ela    .#. t u ļ ļ i s t i .#.
 läbḑi    N+Sg+Nom    .#. l ä ʼ b ḑ i .#.
 läbḑi    N+Sg+Gen    .#. l ä ʼ b ḑ i z .#.
 läbḑi    N+Sg+Dat    .#. l ä ʼ b ḑ i n .#.
-läbḑi    N+Sg+Par    .#. l ä ʼ b ḑ i zt .#.
+läbḑi    N+Sg+Par    .#. l ä ʼ b ḑ i z t .#.
 läbḑi    N+Sg+Ins    .#. l ä ʼ b ḑ i k s .#.
-läbḑi    N+Sg+Ill    .#. l ä ʼ b ḑ i zõ .#.
+läbḑi    N+Sg+Ill    .#. l ä ʼ b ḑ i z õ .#.
 läbḑi    N+Sg+Ine    .#. l ä ʼ b ḑ i s .#.
-läbḑi    N+Sg+Ela    .#. l ä ʼ b ḑ i st .#.
+läbḑi    N+Sg+Ela    .#. l ä ʼ b ḑ i s t .#.
 läbḑi    N+Pl+Nom    .#. l ä ʼ b ḑ i d .#.
 läbḑi    N+Pl+Gen    .#. l ä ʼ b ḑ i d .#.
 läbḑi    N+Pl+Dat    .#. l ä ʼ b ḑ i d õ n .#.
 läbḑi    N+Pl+Par    .#. l ä ʼ b ḑ i d i .#.
 läbḑi    N+Pl+Ins    .#. l ä ʼ b ḑ i d õ k s .#.
 läbḑi    N+Pl+Ill    .#. l ä ʼ b ḑ i ž .#.
-läbḑi    N+Pl+Ine    .#. l ä ʼ b ḑ i si .#.
-läbḑi    N+Pl+Ela    .#. l ä ʼ b ḑ i sti .#.
+läbḑi    N+Pl+Ine    .#. l ä ʼ b ḑ i s i .#.
+läbḑi    N+Pl+Ela    .#. l ä ʼ b ḑ i s t i .#.
 
 #id="", ''
 #"N_180":{"tips":"180","vards":"nai","vcount":"17","bloks":"N","loc":{
@@ -4379,41 +4379,41 @@ nai    N+Pl+Ela    .#. n a i ž i s t .#.
 
 #id="", ''
 #"N_181":{"tips":"181","vards":"aʼigi","vcount":"6","bloks":"N","loc":{
-aigi    Hom3+A+Sg+Nom    .#. a ʼ i g i .#.
-aigi    Hom3+A+Sg+Gen    .#. a i g ī z .#.
-aigi    Hom3+A+Sg+Dat    .#. a i g ī z õ n .#.
-aigi    Hom3+A+Sg+Par    .#. a i g ī z t .#.
-aigi    Hom3+A+Sg+Ins    .#. a i g ī z õ k s .#.
-aigi    Hom3+A+Sg+Ill    .#. a i g ī z õ .#.
-aigi    Hom3+A+Sg+Ine    .#. a i g ī z õ s .#.
-aigi    Hom3+A+Sg+Ela    .#. a i g ī z õ st .#.
-aigi    Hom3+A+Pl+Nom    .#. a ʼ i g i z t .#.
-aigi    Hom3+A+Pl+Gen    .#. a ʼ i g i z t .#.
-aigi    Hom3+A+Pl+Dat    .#. a ʼ i g i z tõ n .#.
-aigi    Hom3+A+Pl+Par    .#. a i g ī ž i .#.
-aigi    Hom3+A+Pl+Ins    .#. a ʼ i g i z tõ k s .#.
-aigi    Hom3+A+Pl+Ill    .#. a i g ī ž i z .#.
-aigi    Hom3+A+Pl+Ine    .#. a i g ī ž i s .#.
-aigi    Hom3+A+Pl+Ela    .#. a i g ī ž i st .#.
+aigi    Hom3+A+Sg+Nom    .#. a {ʼØ}:ʼ i g i .#.
+aigi    Hom3+A+Sg+Gen    .#. a {ʼØ}:0 i g ī z .#.
+aigi    Hom3+A+Sg+Dat    .#. a {ʼØ}:0 i g ī z õ n .#.
+aigi    Hom3+A+Sg+Par    .#. a {ʼØ}:0 i g ī z t .#.
+aigi    Hom3+A+Sg+Ins    .#. a {ʼØ}:0 i g ī z õ k s .#.
+aigi    Hom3+A+Sg+Ill    .#. a {ʼØ}:0 i g ī z õ .#.
+aigi    Hom3+A+Sg+Ine    .#. a {ʼØ}:0 i g ī z õ s .#.
+aigi    Hom3+A+Sg+Ela    .#. a {ʼØ}:0 i g ī z õ st .#.
+aigi    Hom3+A+Pl+Nom    .#. a {ʼØ}:ʼ i g i z t .#.
+aigi    Hom3+A+Pl+Gen    .#. a {ʼØ}:ʼ i g i z t .#.
+aigi    Hom3+A+Pl+Dat    .#. a {ʼØ}:ʼ i g i z t õ n .#.
+aigi    Hom3+A+Pl+Ins    .#. a {ʼØ}:ʼ i g i z t õ k s .#.
+aigi    Hom3+A+Pl+Par    .#. a {ʼØ}:0 i g ī ž i .#.
+aigi    Hom3+A+Pl+Ill    .#. a {ʼØ}:0 i g ī ž i z .#.
+aigi    Hom3+A+Pl+Ine    .#. a {ʼØ}:0 i g ī ž i s .#.
+aigi    Hom3+A+Pl+Ela    .#. a {ʼØ}:0 i g ī ž i s t .#.
 
 #id="", ''
 #"N_182ʼ":{"tips":"182ʼ","vards":"puʼnni","vcount":"118","bloks":"N","loc":{
-punni    A+Sg+Nom    .#. p u ʼ n n i .#.
-punni    A+Sg+Gen    .#. p u n ī z .#.
-punni    A+Sg+Dat    .#. p u n ī z õ n .#.
-punni    A+Sg+Par    .#. p u n ī z t .#.
-punni    A+Sg+Ins    .#. p u n ī z õ k s .#.
-punni    A+Sg+Ill    .#. p u n ī z õ .#.
-punni    A+Sg+Ine    .#. p u n ī z õ s .#.
-punni    A+Sg+Ela    .#. p u n ī z õ st .#.
-punni    A+Pl+Nom    .#. p u ʼ n n i zt .#.
-punni    A+Pl+Gen    .#. p u ʼ n n i zt .#.
-punni    A+Pl+Dat    .#. p u ʼ n n i ztõ n .#.
-punni    A+Pl+Par    .#. p u n ī ž i .#.
-punni    A+Pl+Ins    .#. p u ʼ n n i ztõ k s .#.
-punni    A+Pl+Ill    .#. p u n ī ž i z .#.
-punni    A+Pl+Ine    .#. p u n ī ž i s .#.
-punni    A+Pl+Ela    .#. p u n ī ž i st .#.
+punni    A+Sg+Nom    .#. p u {ʼØ}:ʼ n n i .#.
+punni    A+Sg+Gen    .#. p u {ʼØ}:0 n ī z .#.
+punni    A+Sg+Dat    .#. p u {ʼØ}:0 n ī z õ n .#.
+punni    A+Sg+Par    .#. p u {ʼØ}:0 n ī z t .#.
+punni    A+Sg+Ins    .#. p u {ʼØ}:0 n ī z õ k s .#.
+punni    A+Sg+Ill    .#. p u {ʼØ}:0 n ī z õ .#.
+punni    A+Sg+Ine    .#. p u {ʼØ}:0 n ī z õ s .#.
+punni    A+Sg+Ela    .#. p u {ʼØ}:0 n ī z õ st .#.
+punni    A+Pl+Nom    .#. p u {ʼØ}:ʼ n n i zt .#.
+punni    A+Pl+Gen    .#. p u {ʼØ}:ʼ n n i zt .#.
+punni    A+Pl+Dat    .#. p u {ʼØ}:ʼ n n i ztõ n .#.
+punni    A+Pl+Par    .#. p u {ʼØ}:0 n ī ž i .#.
+punni    A+Pl+Ins    .#. p u {ʼØ}:ʼ n n i ztõ k s .#.
+punni    A+Pl+Ill    .#. p u {ʼØ}:0 n ī ž i z .#.
+punni    A+Pl+Ine    .#. p u {ʼØ}:0 n ī ž i s .#.
+punni    A+Pl+Ela    .#. p u {ʼØ}:0 n ī ž i st .#.
 
 #id="", ''
 #"N_183":{"tips":"183","vards":"kațki","vcount":"12","bloks":"N","loc":{
