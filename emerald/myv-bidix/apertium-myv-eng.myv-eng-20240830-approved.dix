@@ -1,0 +1,867 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <alphabet> '-/ABCEFIJMRSTabcdefghijklmnopqrstuvwxyzМРабвгдежзийклмнопрстуфхцчшыьэюяё</alphabet>
+    <sdefs>
+    </sdefs>
+    <section id="main" type="standard">
+        <e r="RL"><p><l>саевикс<s n="n"/></l><r>subtrahend</r></p></e>
+        <e r="RL"><p><l>тыц<s n="adv"/></l><r>chock-full<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>пелев<s n="adj"/></l><r>cloudy<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>икельце<s n="adj"/></l><r>front<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>стака<s n="adj"/></l><r>heavy<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>лутков-латков<s n="adj"/></l><r>hilly<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>пси<s n="adj"/></l><r>hot<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>закононь коряс<s n="adv"/></l><r>legitimate<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>чопода<s n="adj"/></l><r>obscure<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>лия<s n="det"/></l><r>other<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>эсь<s n="adj"/></l><r>own<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>ванькс<s n="adj"/></l><r>pure<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>истямо<s n="adj"/></l><r>such<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>верце<s n="adj"/></l><r>supreme<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>лавшо<s n="adj"/></l><r>weak<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>аванькс<s n="adj"/></l><r>filthy<s n="adj"/></r></p></e>
+        <e><p><l>акемевикс<s n="adj"/></l><r>unbelievable<s n="adj"/></r></p></e>
+        <e><p><l>алкуксонь<s n="adj"/></l><r>real<s n="adj"/></r></p></e>
+        <e><p><l>анок<s n="adj"/></l><r>ready<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>анок<s n="adj"/></l><r>done<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>анок<s n="adj"/></l><r>alert<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>аржов<s n="adj"/></l><r>jagged<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>асакланя<s n="adj"/></l><r>indefinite<s n="adj"/></r></p></e>
+        <e><p><l>ачарькодевикс<s n="adj"/></l><r>obscure<s n="adj"/></r></p></e>
+        <e><p><l>ашо<s n="adj"/></l><r>white<s n="adj"/></r></p></e>
+        <e><p><l>аэрявикс<s n="adj"/></l><r>insignificant<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>бедной<s n="adj"/></l><r>needy<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>вайгельтеме<s n="adj"/></l><r>mute<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>валдо-якстере<s n="adj"/></l><r>pink<s n="adj"/></r></p></e>
+        <e><p><l>ванькс<s n="adj"/></l><r>clean<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>васенце<s n="adj"/></l><r>first<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>васолдонь<s n="adj"/></l><r>remote<s n="adj"/></r></p></e>
+        <e><p><l>васолце<s n="adj"/></l><r>distant<s n="adj"/></r></p></e>
+        <e><p><l>вейкеяк<s n="adj"/></l><r>any<s n="adj"/></r></p></e>
+        <e><p><l>вейксэце<s n="adj"/></l><r>ninth<s n="adj"/></r></p></e>
+        <e><p><l>верце<s n="adj"/></l><r>upper<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ветеце<s n="adj"/></l><r>fifth<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>вецана<s n="adj"/></l><r>soggy<s n="adj"/></r></p></e>
+        <e><p><l>виень путыця<s n="adj"/></l><r>diligent<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>вишка<s n="adj"/></l><r>minor<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>вишка<s n="adj"/></l><r>little<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>дёшова<s n="adj"/></l><r>cheap<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>жив<s n="adj"/></l><r>alive<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>идем<s n="adj"/></l><r>savage<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>иржаня<s n="adj"/></l><r>notched<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кавксоце<s n="adj"/></l><r>eighth<s n="adj"/></r></p></e>
+        <e><p><l>кавто прясо<s n="adj"/></l><r>two-headed<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кежев<s n="adj"/></l><r>unkind<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кежев<s n="adj"/></l><r>malignant<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кежев<s n="adj"/></l><r>cruel<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кежев<s n="adj"/></l><r>angry<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кежев<s n="adj"/></l><r>relentless<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кежев<s n="adj"/></l><r>fierce<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кежев<s n="adj"/></l><r>brutal<s n="adj"/></r></p></e>
+        <e><p><l>кельме<s n="adj"/></l><r>cold<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кельме<s n="adj"/></l><r>chill<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кеменце<s n="adj"/></l><r>tenth<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кондямо<s n="adj"/></l><r>like<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>копордазь<s n="adj"/></l><r>tipsy<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>коськана<s n="adj"/></l><r>dryish<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>коськаня<s n="adj"/></l><r>dryish<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>котоце<s n="adj"/></l><r>sixth<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кувака<s n="adj"/></l><r>lengthy<s n="adj"/></r></p></e>
+        <e><p><l>кувака<s n="adj"/></l><r>long<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кудовтомо<s n="adj"/></l><r>homeless<s n="adj"/></r></p></e>
+        <e><p><l>лезэв<s n="adj"/></l><r>useful<s n="adj"/></r></p></e>
+        <e><p><l>лембе<s n="adj"/></l><r>warm<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>лия<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>лия<s n="adj"/></l><r>other<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>лопав<s n="adj"/></l><r>leafy<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>мазы<s n="adj"/></l><r>beautiful<s n="adj"/></r></p></e>
+        <e><p><l>мазый<s n="adj"/></l><r>beautiful<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>меельце<s n="adj"/></l><r>ultimate<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>мокшонь<s n="adj"/></l><r>Mokshan<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>нардев<s n="adj"/></l><r>strong<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>нардев<s n="adj"/></l><r>firm<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>наян<s n="adj"/></l><r>mischievous<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>наян<s n="adj"/></l><r>insolent<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>неень<s n="adj"/></l><r>current<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>нилеце<s n="adj"/></l><r>fourth<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>нузякс<s n="adj"/></l><r>idle<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>од<s n="adj"/></l><r>young<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>од<s n="adj"/></l><r>new<s n="adj"/></r></p></e>
+        <e><p><l>ожо<s n="adj"/></l><r>yellow<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>омбоце<s n="adj"/></l><r>next<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>омбоце<s n="adj"/></l><r>following<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>омбоце<s n="adj"/></l><r>second<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>омбоце<s n="adj"/></l><r>other<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>опаня<s n="adj"/></l><r>sultry<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>опаня<s n="adj"/></l><r>stifling<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>опаня<s n="adj"/></l><r>stuffy<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ормав<s n="adj"/></l><r>diseased<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ормав<s n="adj"/></l><r>ill<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>пекев<s n="adj"/></l><r>pregnant<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>пешксе<s n="adj"/></l><r>full of<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>питнев<s n="adj"/></l><r>expensive<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>питнев<s n="adj"/></l><r>valuable<s n="adj"/></r></p></e>
+        <e><p><l>покш<s n="adj"/></l><r>big<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>превев<s n="adj"/></l><r>sagacious<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>превей<s n="adj"/></l><r>smart<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>превтеме<s n="adj"/></l><r>thoughtless<s n="adj"/></r></p></e>
+        <e><p><l>пшти<s n="adj"/></l><r>sharp<s n="adj"/></r></p></e>
+        <e><p><l>раужо<s n="adj"/></l><r>black<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ризксэв<s n="adj"/></l><r>grievous<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>рузонь<s n="adj"/></l><r>Russian<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сакланя<s n="adj"/></l><r>definite<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>седейтеме<s n="adj"/></l><r>ruthless<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сельмевтеме<s n="adj"/></l><r>blind<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сисемеце<s n="adj"/></l><r>seventh<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>содов<s n="adj"/></l><r>smutty<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>содов<s n="adj"/></l><r>sooty<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сумборя<s n="adj"/></l><r>gloomy<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сумборя<s n="adj"/></l><r>sullen<s n="adj"/></r></p></e>
+        <e><p><l>сыре<s n="adj"/></l><r>old<s n="adj"/></r></p></e>
+        <e><p><l>сэнь<s n="adj"/></l><r>blue<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сэрей<s n="adj"/></l><r>deep<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сэрей<s n="adj"/></l><r>tall<s n="adj"/></r></p></e>
+        <e><p><l>сёвонев<s n="adj"/></l><r>clayey<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сёрмав<s n="adj"/></l><r>many-coloured<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>тазов<s n="adj"/></l><r>mangy<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>тазов<s n="adj"/></l><r>scabby<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>талай<s n="adj"/></l><r>late<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>тантей<s n="adj"/></l><r>delicious<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>тантей<s n="adj"/></l><r>tasteful<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>тарадов<s n="adj"/></l><r>branchy<s n="adj"/></r></p></e>
+        <e><p><l>тюжа<s n="adj"/></l><r>brown<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>умонь<s n="adj"/></l><r>long-standing<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ушонь<s n="adj"/></l><r>outdoor<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>финнэнь<s n="adj"/></l><r>Finnish<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>цецькав<s n="adj"/></l><r>full of flowers<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>цецяв<s n="adj"/></l><r>full of flowers<s n="adj"/></r></p></e>
+        <e><p><l>чапамо<s n="adj"/></l><r>sour<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>човинька<s n="adj"/></l><r>rather thin<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>човов<s n="adj"/></l><r>frothy<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>човов<s n="adj"/></l><r>foamy<s n="adj"/></r></p></e>
+        <e><p><l>чопода<s n="adj"/></l><r>dark<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>чуро<s n="adj"/></l><r>sparse<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>эрзянь<s n="adj"/></l><r>Erzyan<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>якстере<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>тесэ<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+        <e r="RL"><p><l>кода<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
+        <e r="RL"><p><l>ушосо<s n="adv"/></l><r>outdoors<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>аламошка<s n="adv"/></l><r>slightly<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>алдо<s n="adv"/></l><r>from below<s n="adv"/></r></p></e>
+        <e><p><l>ало<s n="adv"/></l><r>below<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>байтяк<s n="adv"/></l><r>quite a few<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>беряньстэ<s n="adv"/></l><r>ill<s n="adv"/></r></p></e>
+        <e><p><l>валдо валс<s n="adv"/></l><r>literally<s n="adv"/></r></p></e>
+        <e><p><l>ванды<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>васенцеде<s n="adv"/></l><r>for the first time<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>васолдо<s n="adv"/></l><r>from far away<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>васолдо<s n="adv"/></l><r>from a distance<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>васолдо<s n="adv"/></l><r>from afar<s n="adv"/></r></p></e>
+        <e><p><l>весемеде<s n="adv"/></l><r>most<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ветексть<s n="adv"/></l><r>five times<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>веть<s n="adv"/></l><r>at night<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зняро<s n="adv"/></l><r>how many<s n="adv"/></r></p></e>
+        <e><p><l>зярдо<s n="adv"/></l><r>when<s n="adv"/></r></p></e>
+        <e><p><l>зяро<s n="adv"/></l><r>how many<s n="adv"/></r></p></e>
+        <e><p><l>зяро<s n="adv"/></l><r>how much<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>икельде<s n="adv"/></l><r>from the front<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>иредьстэ<s n="adv"/></l><r>drunk<s n="adj"/></r></p></e>
+        <e><p><l>кавксть<s n="adv"/></l><r>twice<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ков<s n="adv"/></l><r>where<s n="prn"/></r></p></e>
+        <e><p><l>ков<s n="adv"/></l><r>whither<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>коволдо<s n="adv"/></l><r>whence<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>козо<s n="adv"/></l><r>whither<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>козонь<s n="adv"/></l><r>whither<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>колмоксть<s n="adv"/></l><r>thrice<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>колмоксть<s n="adv"/></l><r>three times<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>косо<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ламо<s n="adv"/></l><r>several<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ламо<s n="adv"/></l><r>lot<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ламоксть<s n="adv"/></l><r>repeatedly<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ламоксть<s n="adv"/></l><r>many times<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ласте<s n="adv"/></l><r>on horseback<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>маныть<s n="adv"/></l><r>year before last<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>меельцек<s n="adv"/></l><r>immediately after<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>меельцек<s n="adv"/></l><r>one after another<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>мекевлангт<s n="adv"/></l><r>vice versa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>мельга мельцек<s n="adv"/></l><r>in a row<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>мельга мельцек<s n="adv"/></l><r>without a break<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>мельга мельцек<s n="adv"/></l><r>one after another<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>мельтеме<s n="adv"/></l><r>unwillingly<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>мелят<s n="adv"/></l><r>last year<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>нилексть<s n="adv"/></l><r>four times<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>омбоцеде<s n="adv"/></l><r>for the second time<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>пельксэнь-пелькс<s n="adv"/></l><r>to pieces<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>пецек<s n="adv"/></l><r>without a break<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>пецек<s n="adv"/></l><r>one after another<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>питнень апак сае<s n="adv"/></l><r>for free<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>потсто<s n="adv"/></l><r>from within<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>превейстэ<s n="adv"/></l><r>judiciously<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>превейстэ<s n="adv"/></l><r>wisely<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>седе икеле<s n="adv"/></l><r>formerly<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>седикеле<s n="adv"/></l><r>formerly<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>сеске<s n="adv"/></l><r>straightway<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>сех<s n="adv"/></l><r>most<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>сех<s n="adv"/></l><r>most<s n="pcle"/></r></p></e>
+        <e r="LR"><p><l>сехте<s n="adv"/></l><r>most<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>сёксня<s n="adv"/></l><r>in autumn<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>талай<s n="adv"/></l><r>late<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тев<s n="adv"/></l><r>hither<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тев<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тедеде<s n="adv"/></l><r>this year<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тедеде<s n="adv"/></l><r>during the current year<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тей<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тей<s n="adv"/></l><r>hither<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тей-тов<s n="adv"/></l><r>hither and thither<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тельня<s n="adv"/></l><r>in winter time<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>теске<s n="adv"/></l><r>right here<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>трокс<s n="adv"/></l><r>across<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тувако<s n="adv"/></l><r>ibidem<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>удалов<s n="adv"/></l><r>rearwards<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>удалов<s n="adv"/></l><r>backward<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>улема<s n="adv"/></l><r>apparently<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>улкоть<s n="adv"/></l><r>lately<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>чачков<s n="adv"/></l><r>in half<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>чинь-чоп<s n="adv"/></l><r>the whole day<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>чинь-чоп<s n="adv"/></l><r>all day long<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>чить<s n="adv"/></l><r>in the day time<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>чить<s n="adv"/></l><r>by day<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>чокшне<s n="adv"/></l><r>in the evening<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>чоп<s n="adv"/></l><r>all day long<s n="adv"/></r></p></e>
+        <e><p><l>эрьва косо<s n="adv"/></l><r>everywhere<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ёжовсто<s n="adv"/></l><r>judiciously<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ёжовсто<s n="adv"/></l><r>cleverly<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ёжовсто<s n="adv"/></l><r>wisely<s n="adv"/></r></p></e>
+        <e><p><l>а<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+        <e><p><l>ды<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+        <e><p><l>бути<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+        <e r="LR"><p><l>зярдо<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
+        <e r="LR"><p><l>зярс<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
+        <e r="LR"><p><l>кадык<s n="cnjsub"/></l><r>despite<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>што<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+        <e r="LR"><p><l>-со/-сэ</l><r>with<s n="pr"/></r></p></e>
+        <e r="RL"><p><l>весе<s n="det"/></l><r>all<s n="det"/></r></p></e>
+        <e r="LR"><p><l>зяро<s n="det"/></l><r>how many<s n="prn"/></r></p></e>
+        <e><p><l>ламо<s n="det"/></l><r>several<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>эрьва<s n="det"/></l><r>each<s n="det"/></r></p></e>
+        <e r="LR"><p><l>эрьва<s n="det"/></l><r>every<s n="det"/></r></p></e>
+        <e r="RL"><p><l>покш ломань<s n="n"/></l><r>adult<s n="n"/></r></p></e>
+        <e r="RL"><p><l>лепе<s n="n"/></l><r>alder<s n="n"/></r></p></e>
+        <e r="RL"><p><l>коткудав<s n="n"/></l><r>ant<s n="n"/></r></p></e>
+        <e r="RL"><p><l>ён<s n="n"/></l><r>bearings<s n="n"/></r></p></e>
+        <e r="RL"><p><l>леля<s n="n"/></l><r>big brother<s n="n"/></r></p></e>
+        <e r="RL"><p><l>авака киска<s n="n"/></l><r>bitch<s n="n"/></r></p></e>
+        <e r="RL"><p><l>одирьва<s n="n"/></l><r>bride<s n="n"/></r></p></e>
+        <e r="RL"><p><l>ваз<s n="n"/></l><r>calf<s n="n"/></r></p></e>
+        <e r="RL"><p><l>ваньксчи<s n="n"/></l><r>cleanliness<s n="n"/></r></p></e>
+        <e r="RL"><p><l>явиця<s n="n"/></l><r>denominator<s n="n"/></r></p></e>
+        <e r="RL"><p><l>башкачи<s n="n"/></l><r>difference<s n="n"/></r></p></e>
+        <e r="RL"><p><l>сур<s n="n"/></l><r>finger<s n="n"/></r></p></e>
+        <e r="RL"><p><l>тол<s n="n"/></l><r>fire<s n="n"/></r></p></e>
+        <e r="RL"><p><l>тонолпе<s n="n"/></l><r>fire-brand<s n="n"/></r></p></e>
+        <e r="RL"><p><l>икельце вал<s n="n"/></l><r>forword<s n="n"/></r></p></e>
+        <e r="RL"><p><l>явовкс<s n="n"/></l><r>fraction<s n="n"/></r></p></e>
+        <e r="RL"><p><l>черь<s n="n"/></l><r>hair<s n="n"/></r></p></e>
+        <e r="RL"><p><l>пона<s n="n"/></l><r>hair<s n="n"/></r></p></e>
+        <e r="RL"><p><l>сув<s n="n"/></l><r>haze<s n="n"/></r></p></e>
+        <e r="RL"><p><l>пандо<s n="n"/></l><r>hill<s n="n"/></r></p></e>
+        <e r="RL"><p><l>алаша<s n="n"/></l><r>horse<s n="n"/></r></p></e>
+        <e r="RL"><p><l>кумажа<s n="n"/></l><r>knee<s n="n"/></r></p></e>
+        <e r="RL"><p><l>тол<s n="n"/></l><r>light<s n="n"/></r></p></e>
+        <e r="RL"><p><l>смусть<s n="n"/></l><r>meaning<s n="n"/></r></p></e>
+        <e r="RL"><p><l>алкиньгавтовикс<s n="n"/></l><r>minuend<s n="n"/></r></p></e>
+        <e r="RL"><p><l>курго<s n="n"/></l><r>mouth<s n="n"/></r></p></e>
+        <e r="RL"><p><l>судо<s n="n"/></l><r>nose<s n="n"/></r></p></e>
+        <e r="RL"><p><l>судоваря<s n="n"/></l><r>nostril<s n="n"/></r></p></e>
+        <e r="RL"><p><l>явовикс<s n="n"/></l><r>numerator<s n="n"/></r></p></e>
+        <e r="RL"><p><l>якстерекал<s n="n"/></l><r>salmon<s n="n"/></r></p></e>
+        <e r="RL"><p><l>реве<s n="n"/></l><r>sheep<s n="n"/></r></p></e>
+        <e r="RL"><p><l>палатка<s n="n"/></l><r>tent<s n="n"/></r></p></e>
+        <e r="RL"><p><l>ведь<s n="n"/></l><r>water<s n="n"/></r></p></e>
+        <e r="RL"><p><l>чивалгома<s n="n"/></l><r>west<s n="n"/></r></p></e>
+        <e r="RL"><p><l>вал<s n="n"/></l><r>word<s n="n"/></r></p></e>
+        <e r="RL"><p><l>сукс<s n="n"/></l><r>worm<s n="n"/></r></p></e>
+        <e><p><l>Мордовия<s n="np"/></l><r>Mordovia<s n="np"/></r></p></e>
+        <e r="LR"><p><l>Россия<s n="np"/></l><r>Russia<s n="np"/></r></p></e>
+        <e r="LR"><p><l>Роштува<s n="n"/></l><r>Christmas<s n="np"/></r></p></e>
+        <e r="LR"><p><l>Рузонь мастор<s n="np"/></l><r>Russia<s n="np"/></r></p></e>
+        <e r="LR"><p><l>авака<s n="n"/></l><r>female<s n="n"/></r></p></e>
+        <e r="LR"><p><l>авака мацей<s n="n"/></l><r>goose<s n="n"/></r></p></e>
+        <e r="LR"><p><l>авака овто<s n="n"/></l><r>sow bear<s n="n"/></r></p></e>
+        <e><p><l>авака туво<s n="n"/></l><r>sow<s n="n"/></r></p></e>
+        <e r="LR"><p><l>азорава<s n="n"/></l><r>mistress<s n="n"/></r></p></e>
+        <e r="LR"><p><l>азорава<s n="n"/></l><r>female proprietor<s n="n"/></r></p></e>
+        <e r="LR"><p><l>азорава<s n="n"/></l><r>madam<s n="n"/></r></p></e>
+        <e r="LR"><p><l>алашо<s n="n"/></l><r>egg white<s n="n"/></r></p></e>
+        <e r="LR"><p><l>анокчи<s n="n"/></l><r>readiness<s n="n"/></r></p></e>
+        <e r="LR"><p><l>аржо<s n="n"/></l><r>jag<s n="n"/></r></p></e>
+        <e r="LR"><p><l>атяка<s n="n"/></l><r>male<s n="n"/></r></p></e>
+        <e r="LR"><p><l>атякарь<s n="n"/></l><r>worn-out bast shoe<s n="n"/></r></p></e>
+        <e r="LR"><p><l>атякш<s n="n"/></l><r>cock<s n="n"/></r></p></e>
+        <e><p><l>атямарь<s n="n"/></l><r>cherry<s n="n"/></r></p></e>
+        <e r="LR"><p><l>атямарькс<s n="n"/></l><r>cherry tree<s n="n"/></r></p></e>
+        <e><p><l>аштемков<s n="n"/></l><r>June<s n="n"/></r></p></e>
+        <e><p><l>бабаямкс<s n="n"/></l><r>graupel<s n="n"/></r></p></e>
+        <e r="LR"><p><l>балл<s n="n"/></l><r>point<s n="n"/></r></p></e>
+        <e><p><l>бант<s n="n"/></l><r>bow<s n="n"/></r></p></e>
+        <e r="LR"><p><l>боба<s n="n"/></l><r>bean<s n="n"/></r></p></e>
+        <e r="LR"><p><l>буддизма<s n="n"/></l><r>Buddhism<s n="n"/></r></p></e>
+        <e r="LR"><p><l>буе<s n="n"/></l><r>raion<s n="n"/></r></p></e>
+        <e r="LR"><p><l>важодиця<s n="n"/></l><r>labourer<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вайгельпе<s n="n"/></l><r>kilometre<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вайгельпе<s n="n"/></l><r>verst<s n="n"/></r></p></e>
+        <e r="LR"><p><l>валвелявкс<s n="n"/></l><r>metaphor<s n="n"/></r></p></e>
+        <e r="LR"><p><l>валвелявкс<s n="n"/></l><r>parable<s n="n"/></r></p></e>
+        <e r="LR"><p><l>валмельгакс<s n="n"/></l><r>postposition<s n="n"/></r></p></e>
+        <e r="LR"><p><l>валске<s n="n"/></l><r>morning<s n="n"/></r></p></e>
+        <e r="LR"><p><l>валске<s n="n"/></l><r>tomorrow<s n="n"/></r></p></e>
+        <e r="LR"><p><l>валталика<s n="n"/></l><r>syllable<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вальма<s n="n"/></l><r>window<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вандолкс<s n="n"/></l><r>shining<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вандолкс<s n="n"/></l><r>flash<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вандолкс<s n="n"/></l><r>gleaming<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ванстома<s n="n"/></l><r>conservation<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вардоньсюро<s n="n"/></l><r>belemnite<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вардоньсюро<s n="n"/></l><r>elf-bolt<s n="n"/></r></p></e>
+        <e r="LR"><p><l>васолбаба<s n="n"/></l><r>maternal grandmother<s n="n"/></r></p></e>
+        <e r="LR"><p><l>васолобаба<s n="n"/></l><r>maternal grandmother<s n="n"/></r></p></e>
+        <e r="LR"><p><l>васолободя<s n="n"/></l><r>maternal grandfather<s n="n"/></r></p></e>
+        <e r="LR"><p><l>васолпокштя<s n="n"/></l><r>maternal grandfather<s n="n"/></r></p></e>
+        <e r="LR"><p><l>васоньпеельть<s n="n"/></l><r>shears<s n="n"/></r></p></e>
+        <e><p><l>васоньпеельть<s n="n"/></l><r>scissors<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вастаньчи<s n="n"/></l><r>Tuesday<s n="n"/></r></p></e>
+        <e><p><l>ватракш<s n="n"/></l><r>frog<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведень чарамо<s n="n"/></l><r>whirlpool<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведень чарамо<s n="n"/></l><r>vortex<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведрекш<s n="n"/></l><r>heifer<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведьвелявкс<s n="n"/></l><r>whirlpool<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведьвелявкс<s n="n"/></l><r>vortex<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведьинзей<s n="n"/></l><r>dewberry<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведькев<s n="n"/></l><r>millstone<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведьметьказ<s n="n"/></l><r>newt<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведьпарсей<s n="n"/></l><r>algae<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведьпеште<s n="n"/></l><r>water chestnut<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведьпря<s n="n"/></l><r>river head<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вежаське<s n="n"/></l><r>little finger<s n="n"/></r></p></e>
+        <e><p><l>вежкель<s n="n"/></l><r>uvula<s n="n"/></r></p></e>
+        <e><p><l>вейсэндявкс<s n="n"/></l><r>organization<s n="n"/></r></p></e>
+        <e r="LR"><p><l>веле<s n="n"/></l><r>hamlet<s n="n"/></r></p></e>
+        <e><p><l>венчнерь<s n="n"/></l><r>bow<s n="ship"/><s n="n"/></r></p></e>
+        <e r="LR"><p><l>вень куншка<s n="n"/></l><r>midnight<s n="n"/></r></p></e>
+        <e r="LR"><p><l>верень лепштямо<s n="n"/></l><r>blood pressure<s n="n"/></r></p></e>
+        <e r="LR"><p><l>видевкс<s n="n"/></l><r>land under crop<s n="n"/></r></p></e>
+        <e r="LR"><p><l>видькстамо<s n="n"/></l><r>repentance<s n="n"/></r></p></e>
+        <e><p><l>вирь<s n="n"/></l><r>forest<s n="n"/></r></p></e>
+        <e r="LR"><p><l>витнема<s n="n"/></l><r>repair<s n="n"/></r></p></e>
+        <e r="LR"><p><l>виш<s n="n"/></l><r>spelt wheat<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вишкасур<s n="n"/></l><r>little finger<s n="n"/></r></p></e>
+        <e r="LR"><p><l>гайть<s n="n"/></l><r>sound<s n="n"/></r></p></e>
+        <e r="LR"><p><l>гала<s n="n"/></l><r>goose<s n="n"/></r></p></e>
+        <e r="LR"><p><l>гигерь<s n="n"/></l><r>birch bark<s n="n"/></r></p></e>
+        <e r="LR"><p><l>даця<s n="n"/></l><r>tribute<s n="n"/></r></p></e>
+        <e r="LR"><p><l>дива<s n="n"/></l><r>marvel<s n="n"/></r></p></e>
+        <e r="LR"><p><l>дова<s n="n"/></l><r>widow<s n="n"/></r></p></e>
+        <e r="LR"><p><l>жаба<s n="n"/></l><r>child<s n="n"/></r></p></e>
+        <e r="LR"><p><l>жар<s n="n"/></l><r>fever<s n="n"/></r></p></e>
+        <e r="LR"><p><l>жуль ведь<s n="n"/></l><r>slop<s n="n"/></r></p></e>
+        <e r="LR"><p><l>зэхель<s n="n"/></l><r>breeze<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ие<s n="n"/></l><r>year<s n="n"/></r></p></e>
+        <e r="LR"><p><l>изнявкс<s n="n"/></l><r>victory<s n="n"/></r></p></e>
+        <e r="LR"><p><l>инегуй<s n="n"/></l><r>hydra<s n="n"/></r></p></e>
+        <e r="LR"><p><l>инязорава<s n="n"/></l><r>tsarina<s n="n"/></r></p></e>
+        <e r="LR"><p><l>инятя<s n="n"/></l><r>ancestor<s n="n"/></r></p></e>
+        <e r="LR"><p><l>йода<s n="n"/></l><r>iodine<s n="n"/></r></p></e>
+        <e r="LR"><p><l>каворь<s n="n"/></l><r>gristle<s n="n"/></r></p></e>
+        <e r="LR"><p><l>казна<s n="n"/></l><r>treasure<s n="n"/></r></p></e>
+        <e><p><l>казне<s n="n"/></l><r>gift<s n="n"/></r></p></e>
+        <e r="LR"><p><l>камбраз<s n="n"/></l><r>saddle<s n="n"/></r></p></e>
+        <e r="LR"><p><l>каназор<s n="n"/></l><r>emperor<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кансть<s n="n"/></l><r>hemp<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кардаз<s n="n"/></l><r>cattle yard<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кардаз<s n="n"/></l><r>farm yard<s n="n"/></r></p></e>
+        <e r="LR"><p><l>каркс<s n="n"/></l><r>thong<s n="n"/></r></p></e>
+        <e r="LR"><p><l>карсемат<s n="n"/></l><r>footwear<s n="n"/></r></p></e>
+        <e r="LR"><p><l>карь<s n="n"/></l><r>bast shoe<s n="n"/></r></p></e>
+        <e r="LR"><p><l>карькс<s n="n"/></l><r>bast shoe string<s n="n"/></r></p></e>
+        <e><p><l>катка<s n="n"/></l><r>cat<s n="n"/></r></p></e>
+        <e r="LR"><p><l>каткине<s n="n"/></l><r>little cat<s n="n"/></r></p></e>
+        <e r="LR"><p><l>каткине<s n="n"/></l><r>kitty<s n="n"/></r></p></e>
+        <e r="LR"><p><l>каша<s n="n"/></l><r>gruel<s n="n"/></r></p></e>
+        <e r="LR"><p><l>каша<s n="n"/></l><r>porridge<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кашторкс<s n="n"/></l><r>rustle<s n="n"/></r></p></e>
+        <e><p><l>кедьнимиляв<s n="n"/></l><r>bat<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кель<s n="n"/></l><r>tongue<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кемема<s n="n"/></l><r>faith<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кендял<s n="n"/></l><r>bedbug<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кенере<s n="n"/></l><r>cubit<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кенерепакарь<s n="n"/></l><r>elbow<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кенже<s n="n"/></l><r>nail<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кенкш<s n="n"/></l><r>door<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кикске<s n="n"/></l><r>dash<s n="n"/></r></p></e>
+        <e r="LR"><p><l>килей<s n="n"/></l><r>birch<s n="n"/></r></p></e>
+        <e r="LR"><p><l>килейпуло<s n="n"/></l><r>birch wood<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кино<s n="n"/></l><r>cinema<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кирда<s n="n"/></l><r>ritual<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кирмалав<s n="n"/></l><r>burdock<s n="n"/></r></p></e>
+        <e><p><l>киска<s n="n"/></l><r>dog<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ковонь ёмамо<s n="n"/></l><r>eclipse of the moon<s n="n"/></r></p></e>
+        <e><p><l>ковонь ёмамо<s n="n"/></l><r>lunar eclipse<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кодст<s n="n"/></l><r>fabric<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кодст<s n="n"/></l><r>cloth<s n="n"/></r></p></e>
+        <e><p><l>кодсткудо<s n="n"/></l><r>tent<s n="n"/></r></p></e>
+        <e r="LR"><p><l>козкс<s n="n"/></l><r>cough<s n="n"/></r></p></e>
+        <e r="LR"><p><l>комоля<s n="n"/></l><r>hop<s n="n"/></r></p></e>
+        <e r="LR"><p><l>концерт<s n="n"/></l><r>concert<s n="n"/></r></p></e>
+        <e r="LR"><p><l>копоркс<s n="n"/></l><r>swig<s n="n"/></r></p></e>
+        <e r="LR"><p><l>копоркс<s n="n"/></l><r>sip<s n="n"/></r></p></e>
+        <e r="LR"><p><l>копёр<s n="n"/></l><r>dill<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кортыялга<s n="n"/></l><r>interlocutor<s n="n"/></r></p></e>
+        <e r="LR"><p><l>корён<s n="n"/></l><r>root<s n="n"/></r></p></e>
+        <e r="LR"><p><l>коткудавпизе<s n="n"/></l><r>anthill<s n="n"/></r></p></e>
+        <e><p><l>коткудавпизэ<s n="n"/></l><r>anthill<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кувалмо<s n="n"/></l><r>longitude<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кудазор<s n="n"/></l><r>host<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кудазорава<s n="n"/></l><r>hostess<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кудопря<s n="n"/></l><r>roof<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кудыне<s n="n"/></l><r>hut<s n="n"/></r></p></e>
+        <e r="LR"><p><l>куз<s n="n"/></l><r>spruce<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кузтемат<s n="n"/></l><r>ladder<s n="n"/></r></p></e>
+        <e r="LR"><p><l>куйме<s n="n"/></l><r>bast-basket<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кулов<s n="n"/></l><r>ash<s n="n"/></r></p></e>
+        <e><p><l>культура<s n="n"/></l><r>culture<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кулялопань сёрмадей<s n="n"/></l><r>journalist<s n="n"/></r></p></e>
+        <e r="LR"><p><l>куя<s n="n"/></l><r>tallow<s n="n"/></r></p></e>
+        <e><p><l>куяр<s n="n"/></l><r>cucumber<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кшна<s n="n"/></l><r>leather<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кшна<s n="n"/></l><r>leather belt<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кшумань<s n="n"/></l><r>black radish<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кыргама<s n="n"/></l><r>curry comb</r></p></e>
+        <e r="LR"><p><l>лаз<s n="n"/></l><r>plank<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лазкс<s n="n"/></l><r>crevice<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лазкс<s n="n"/></l><r>fissure<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лазкс<s n="n"/></l><r>narrow opening<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лазкс<s n="n"/></l><r>split<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лазовкс<s n="n"/></l><r>fissure<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лазовкс<s n="n"/></l><r>narrow opening<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ламбамо<s n="n"/></l><r>sweetness<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ламокайть<s n="n"/></l><r>set<s n="n"/></r></p></e>
+        <e r="LR"><p><l>латалкс<s n="n"/></l><r>yard with a roof<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лашмо<s n="n"/></l><r>dell<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лейпря<s n="n"/></l><r>river head<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лейпря<s n="n"/></l><r>source of river<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лекш<s n="n"/></l><r>rime<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лекш<s n="n"/></l><r>hoar-frost<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лем<s n="n"/></l><r>name<s n="n"/></r></p></e>
+        <e><p><l>лемполавтовкс<s n="n"/></l><r>pronoun<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ливезь<s n="n"/></l><r>perspiration<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ликша<s n="n"/></l><r>buckwheat<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ловажаудем<s n="n"/></l><r>bone marrow<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ловсо<s n="n"/></l><r>milk<s n="n"/></r></p></e>
+        <e r="LR"><p><l>локсей<s n="n"/></l><r>swan<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лукш<s n="n"/></l><r>rind<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лёмзёр<s n="n"/></l><r>bird cherry<s n="n"/></r></p></e>
+        <e r="LR"><p><l>маней<s n="n"/></l><r>fair and clear weather<s n="n"/></r></p></e>
+        <e r="LR"><p><l>манчейка<s n="n"/></l><r>cheater<s n="n"/></r></p></e>
+        <e r="LR"><p><l>манчейка<s n="n"/></l><r>trickster<s n="n"/></r></p></e>
+        <e r="LR"><p><l>манчейка<s n="n"/></l><r>deceiver<s n="n"/></r></p></e>
+        <e r="LR"><p><l>манчейка<s n="n"/></l><r>swindler<s n="n"/></r></p></e>
+        <e r="LR"><p><l>мастер-класс<s n="n"/></l><r>master class<s n="n"/></r></p></e>
+        <e r="LR"><p><l>матрамо<s n="n"/></l><r>pressing<s n="n"/></r></p></e>
+        <e r="LR"><p><l>мацей<s n="n"/></l><r>goose<s n="n"/></r></p></e>
+        <e r="LR"><p><l>медьков<s n="n"/></l><r>July<s n="n"/></r></p></e>
+        <e r="LR"><p><l>мекшкудо<s n="n"/></l><r>beehive<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ментюк<s n="n"/></l><r>burbot<s n="n"/></r></p></e>
+        <e r="LR"><p><l>металл<s n="n"/></l><r>metal<s n="n"/></r></p></e>
+        <e r="LR"><p><l>меште<s n="n"/></l><r>bosom<s n="n"/></r></p></e>
+        <e><p><l>мирде<s n="n"/></l><r>husband<s n="n"/></r></p></e>
+        <e r="LR"><p><l>модамаксака<s n="n"/></l><r>hamster<s n="n"/></r></p></e>
+        <e r="LR"><p><l>моданумоло<s n="n"/></l><r>jerboa<s n="n"/></r></p></e>
+        <e r="LR"><p><l>модаой<s n="n"/></l><r>oil<s n="n"/></r></p></e>
+        <e r="LR"><p><l>навоз<s n="n"/></l><r>dung<s n="n"/></r></p></e>
+        <e r="LR"><p><l>назём<s n="n"/></l><r>dung<s n="n"/></r></p></e>
+        <e><p><l>налчирьке<s n="n"/></l><r>bow<s n="n"/></r></p></e>
+        <e r="LR"><p><l>нардамо<s n="n"/></l><r>eraser<s n="n"/></r></p></e>
+        <e r="LR"><p><l>нардевчи<s n="n"/></l><r>durability<s n="n"/></r></p></e>
+        <e><p><l>нармунь<s n="n"/></l><r>bird<s n="n"/></r></p></e>
+        <e r="LR"><p><l>нартемкс<s n="n"/></l><r>wormwood<s n="n"/></r></p></e>
+        <e r="LR"><p><l>нельгема<s n="n"/></l><r>seizure<s n="n"/></r></p></e>
+        <e r="LR"><p><l>нельгема<s n="n"/></l><r>usurpation<s n="n"/></r></p></e>
+        <e r="LR"><p><l>нерьгаз<s n="n"/></l><r>badger<s n="n"/></r></p></e>
+        <e r="LR"><p><l>нешкепарь<s n="n"/></l><r>beehive<s n="n"/></r></p></e>
+        <e><p><l>ни<s n="n"/></l><r>wife<s n="n"/></r></p></e>
+        <e r="LR"><p><l>новта<s n="n"/></l><r>bridle<s n="n"/></r></p></e>
+        <e r="LR"><p><l>нолго<s n="n"/></l><r>snot<s n="n"/></r></p></e>
+        <e r="LR"><p><l>нумоло<s n="n"/></l><r>wild rabbit<s n="n"/></r></p></e>
+        <e><p><l>овтолевкс<s n="n"/></l><r>bear cub<s n="n"/></r></p></e>
+        <e r="LR"><p><l>озкс<s n="n"/></l><r>worship<s n="n"/></r></p></e>
+        <e r="LR"><p><l>оймсема чи<s n="n"/></l><r>rest-day<s n="n"/></r></p></e>
+        <e r="LR"><p><l>оймсема чи<s n="n"/></l><r>day off<s n="n"/></r></p></e>
+        <e r="LR"><p><l>оймсема чи<s n="n"/></l><r>holiday<s n="n"/></r></p></e>
+        <e r="LR"><p><l>оймсема чи<s n="n"/></l><r>free day<s n="n"/></r></p></e>
+        <e r="LR"><p><l>орожия<s n="n"/></l><r>fortune-teller<s n="n"/></r></p></e>
+        <e r="LR"><p><l>орта<s n="n"/></l><r>gate<s n="n"/></r></p></e>
+        <e r="LR"><p><l>оршамот<s n="n"/></l><r>clothes<s n="n"/></r></p></e>
+        <e r="LR"><p><l>очко<s n="n"/></l><r>wash tub<s n="n"/></r></p></e>
+        <e r="LR"><p><l>оя<s n="n"/></l><r>friend<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ояксчи<s n="n"/></l><r>companionship<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ояксчи<s n="n"/></l><r>fellowship<s n="n"/></r></p></e>
+        <e r="LR"><p><l>паламо<s n="n"/></l><r>kiss<s n="n"/></r></p></e>
+        <e r="LR"><p><l>палымода<s n="n"/></l><r>peat<s n="n"/></r></p></e>
+        <e><p><l>пандя<s n="n"/></l><r>bed<s n="n"/></r></p></e>
+        <e r="LR"><p><l>панст<s n="n"/></l><r>bridle<s n="n"/></r></p></e>
+        <e><p><l>патя<s n="n"/></l><r>big sister<s n="n"/></r></p></e>
+        <e r="LR"><p><l>патя<s n="n"/></l><r>elder female cousin<s n="n"/></r></p></e>
+        <e r="LR"><p><l>патя<s n="n"/></l><r>elder sister<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пачалксе<s n="n"/></l><r>pancake<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пей<s n="n"/></l><r>tine<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пей<s n="n"/></l><r>prong<s n="n"/></r></p></e>
+        <e><p><l>пей<s n="n"/></l><r>tooth<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пейсывель<s n="n"/></l><r>gum<s n="n"/></r></p></e>
+        <e><p><l>пелеве<s n="n"/></l><r>midnight<s n="n"/></r></p></e>
+        <e><p><l>пель<s n="n"/></l><r>half<s n="n"/></r></p></e>
+        <e><p><l>пель<s n="n"/></l><r>cloud<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пелюма<s n="n"/></l><r>scythe<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пенгть<s n="n"/></l><r>firewood<s n="n"/></r></p></e>
+        <e r="LR"><p><l>петькель<s n="n"/></l><r>pestle<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пешкс<s n="n"/></l><r>nut tree<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пивтембарь<s n="n"/></l><r>churn<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пиле<s n="n"/></l><r>ear<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пилекс<s n="n"/></l><r>earrring<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пильге<s n="n"/></l><r>foot<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пильгеки<s n="n"/></l><r>footprint<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пильгесур<s n="n"/></l><r>toe<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пине<s n="n"/></l><r>dog<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пире<s n="n"/></l><r>orchard<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пичеумарь<s n="n"/></l><r>pine cone<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пичечуля<s n="n"/></l><r>blueberry<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пичумарь<s n="n"/></l><r>blueberry<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пичумарь<s n="n"/></l><r>whortleberry<s n="n"/></r></p></e>
+        <e r="LR"><p><l>покш леля<s n="n"/></l><r>elder brother<s n="n"/></r></p></e>
+        <e r="LR"><p><l>порькс<s n="n"/></l><r>chewing gum<s n="n"/></r></p></e>
+        <e r="LR"><p><l>потявтома<s n="n"/></l><r>milking<s n="n"/></r></p></e>
+        <e r="LR"><p><l>почко<s n="n"/></l><r>spool<s n="n"/></r></p></e>
+        <e r="LR"><p><l>прев<s n="n"/></l><r>wit<s n="n"/></r></p></e>
+        <e r="LR"><p><l>прев<s n="n"/></l><r>brainpower<s n="n"/></r></p></e>
+        <e r="LR"><p><l>превтемечи<s n="n"/></l><r>folly<s n="n"/></r></p></e>
+        <e r="LR"><p><l>промо<s n="n"/></l><r>gadfly<s n="n"/></r></p></e>
+        <e r="LR"><p><l>прялкс<s n="n"/></l><r>pillow<s n="n"/></r></p></e>
+        <e r="LR"><p><l>прялкс<s n="n"/></l><r>head-rest<s n="n"/></r></p></e>
+        <e><p><l>псака<s n="n"/></l><r>cat<s n="n"/></r></p></e>
+        <e r="LR"><p><l>псакалевкс<s n="n"/></l><r>kitten<s n="n"/></r></p></e>
+        <e><p><l>псакине<s n="n"/></l><r>kitty<s n="n"/></r></p></e>
+        <e r="LR"><p><l>псакине<s n="n"/></l><r>little cat<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пулт<s n="n"/></l><r>sheaf<s n="n"/></r></p></e>
+        <e><p><l>пурька<s n="n"/></l><r>carrot<s n="n"/></r></p></e>
+        <e r="LR"><p><l>рамавкс<s n="n"/></l><r>purchase<s n="n"/></r></p></e>
+        <e r="LR"><p><l>раужо нартемкс<s n="n"/></l><r>wormwood<s n="n"/></r></p></e>
+        <e r="LR"><p><l>раужо нартемкс<s n="n"/></l><r>absinth<s n="n"/></r></p></e>
+        <e r="LR"><p><l>рашко<s n="n"/></l><r>embranchment<s n="n"/></r></p></e>
+        <e r="LR"><p><l>рашко<s n="n"/></l><r>crotch<s n="n"/></r></p></e>
+        <e r="LR"><p><l>регион<s n="n"/></l><r>region<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ривезьлевкс<s n="n"/></l><r>fox kit<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ризкс<s n="n"/></l><r>melancholy<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ризкс<s n="n"/></l><r>sorrow<s n="n"/></r></p></e>
+        <e r="LR"><p><l>робочей<s n="n"/></l><r>labourer<s n="n"/></r></p></e>
+        <e r="LR"><p><l>розьпряцеця<s n="n"/></l><r>cornflower<s n="n"/></r></p></e>
+        <e r="LR"><p><l>розьцеця<s n="n"/></l><r>blue-bonnet<s n="n"/></r></p></e>
+        <e r="LR"><p><l>розьцеця<s n="n"/></l><r>cornflower<s n="n"/></r></p></e>
+        <e r="LR"><p><l>садпире<s n="n"/></l><r>garden<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сазор<s n="n"/></l><r>younger sister<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сазор<s n="n"/></l><r>younger female cousin<s n="n"/></r></p></e>
+        <e r="LR"><p><l>салведь<s n="n"/></l><r>pickle<s n="n"/></r></p></e>
+        <e r="LR"><p><l>салдырькс<s n="n"/></l><r>salt-cellar<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сан<s n="n"/></l><r>vein<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сан<s n="n"/></l><r>sinew<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сезьган<s n="n"/></l><r>magpie<s n="n"/></r></p></e>
+        <e r="LR"><p><l>секунда<s n="n"/></l><r>second<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сельге<s n="n"/></l><r>spittle<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сельме<s n="n"/></l><r>eye<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сельмеварчамот<s n="n"/></l><r>glasses<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сельмечирке<s n="n"/></l><r>eyebrow<s n="n"/></r></p></e>
+        <e r="LR"><p><l>серяка<s n="n"/></l><r>ant<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сий<s n="n"/></l><r>louse<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сильдей<s n="n"/></l><r>tussock<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сильдей<s n="n"/></l><r>hummock<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сия<s n="n"/></l><r>Ag<s n="n"/></r></p></e>
+        <e r="LR"><p><l>скалой<s n="n"/></l><r>butter<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сод<s n="n"/></l><r>soot<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сод<s n="n"/></l><r>lampblack<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сод<s n="n"/></l><r>carbon black<s n="n"/></r></p></e>
+        <e r="LR"><p><l>содкс<s n="n"/></l><r>bond<s n="n"/></r></p></e>
+        <e r="LR"><p><l>содкс<s n="n"/></l><r>connection<s n="n"/></r></p></e>
+        <e r="LR"><p><l>содкс<s n="n"/></l><r>link<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сока<s n="n"/></l><r>plough<s n="n"/></r></p></e>
+        <e r="LR"><p><l>столь<s n="n"/></l><r>table<s n="n"/></r></p></e>
+        <e><p><l>сув<s n="n"/></l><r>fog<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сувозей<s n="n"/></l><r>capercaillie<s n="n"/></r></p></e>
+        <e r="LR"><p><l>суро<s n="n"/></l><r>millet<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сускомо<s n="n"/></l><r>morsel<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сыречи<s n="n"/></l><r>old age<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сэдявкс<s n="n"/></l><r>flooring<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сэдявкс<s n="n"/></l><r>planking<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сэнь цеця<s n="n"/></l><r>blue-bonnet<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сэпе<s n="n"/></l><r>gall bladder<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сэпе<s n="n"/></l><r>bitterness<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сэпе<s n="n"/></l><r>bile<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сюро<s n="n"/></l><r>grain<s n="n"/></r></p></e>
+        <e><p><l>сёвонь<s n="n"/></l><r>clay<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сёрмадей<s n="n"/></l><r>writer<s n="n"/></r></p></e>
+        <e r="LR"><p><l>таза<s n="n"/></l><r>mange<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тазт<s n="n"/></l><r>mange<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тапамо<s n="n"/></l><r>chopper<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тарваз<s n="n"/></l><r>sickle<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тарькс<s n="n"/></l><r>cool<s n="n"/></r></p></e>
+        <e r="LR"><p><l>татар<s n="n"/></l><r>Tatar<s n="n"/></r></p></e>
+        <e r="LR"><p><l>таштамков<s n="n"/></l><r>September<s n="n"/></r></p></e>
+        <e><p><l>театра<s n="n"/></l><r>theater<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тевеляв<s n="n"/></l><r>lung<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тейтерне<s n="n"/></l><r>little girl<s n="n"/></r></p></e>
+        <e><p><l>теле<s n="n"/></l><r>winter<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тенсть<s n="n"/></l><r>besom<s n="n"/></r></p></e>
+        <e r="LR"><p><l>терть<s n="n"/></l><r>hobble<s n="n"/></r></p></e>
+        <e r="LR"><p><l>терть<s n="n"/></l><r>shackle<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тингеланго<s n="n"/></l><r>threshing floor<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тиринь кель<s n="n"/></l><r>native language<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тиринь кель<s n="n"/></l><r>mother tongue<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тодовлангакс<s n="n"/></l><r>pillowcase<s n="n"/></r></p></e>
+        <e r="LR"><p><l>той<s n="n"/></l><r>bride-money<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тол<s n="n"/></l><r>electricity<s n="n"/></r></p></e>
+        <e r="LR"><p><l>толпандя<s n="n"/></l><r>bonfire<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тонавтыця<s n="n"/></l><r>teacher<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тонол<s n="n"/></l><r>smouldering piece of wood<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тонол<s n="n"/></l><r>fire-brand<s n="n"/></r></p></e>
+        <e r="LR"><p><l>топо<s n="n"/></l><r>stuffing<s n="n"/></r></p></e>
+        <e r="LR"><p><l>топо<s n="n"/></l><r>filling<s n="n"/></r></p></e>
+        <e><p><l>торпинге<s n="n"/></l><r>war<s n="n"/></r></p></e>
+        <e r="LR"><p><l>троксчувто<s n="n"/></l><r>crossbar<s n="n"/></r></p></e>
+        <e r="LR"><p><l>троксчувто<s n="n"/></l><r>crossbeam<s n="n"/></r></p></e>
+        <e r="LR"><p><l>трёшник<s n="n"/></l><r>copeck<s n="n"/></r></p></e>
+        <e><p><l>туво<s n="n"/></l><r>pig<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тулевкс<s n="n"/></l><r>piglet<s n="n"/></r></p></e>
+        <e><p><l>тумо<s n="n"/></l><r>oak<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тундо<s n="n"/></l><r>springtime<s n="n"/></r></p></e>
+        <e r="LR"><p><l>увт<s n="n"/></l><r>hum<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ужо<s n="n"/></l><r>angle<s n="n"/></r></p></e>
+        <e r="LR"><p><l>укштор<s n="n"/></l><r>maple<s n="n"/></r></p></e>
+        <e r="LR"><p><l>улов<s n="n"/></l><r>cadaver<s n="n"/></r></p></e>
+        <e r="LR"><p><l>улов<s n="n"/></l><r>dead body<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ульманедь<s n="n"/></l><r>fishing pole<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ума<s n="n"/></l><r>plot<s n="n"/></r></p></e>
+        <e r="LR"><p><l>умарьков<s n="n"/></l><r>August<s n="n"/></r></p></e>
+        <e r="LR"><p><l>умбрав<s n="n"/></l><r>sorrel<s n="n"/></r></p></e>
+        <e><p><l>ундовкс<s n="n"/></l><r>root<s n="n"/></r></p></e>
+        <e r="LR"><p><l>уроньпуло<s n="n"/></l><r>horsetail<s n="n"/></r></p></e>
+        <e r="LR"><p><l>устававкс<s n="n"/></l><r>beginning<s n="n"/></r></p></e>
+        <e r="LR"><p><l>уцяска<s n="n"/></l><r>bliss<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ушо<s n="n"/></l><r>outdoors<s n="n"/></r></p></e>
+        <e r="LR"><p><l>финн<s n="n"/></l><r>Finnish<s n="n"/></r></p></e>
+        <e r="LR"><p><l>целковой<s n="n"/></l><r>rouble<s n="n"/></r></p></e>
+        <e r="LR"><p><l>цюлан<s n="n"/></l><r>storeroom<s n="n"/></r></p></e>
+        <e><p><l>цёра<s n="n"/></l><r>man<s n="n"/></r></p></e>
+        <e r="LR"><p><l>цёра<s n="n"/></l><r>son<s n="n"/></r></p></e>
+        <e r="LR"><p><l>цёра ялга<s n="n"/></l><r>boyfriend<s n="n"/></r></p></e>
+        <e><p><l>чавачамо<s n="n"/></l><r>mirror<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чавка<s n="n"/></l><r>jackdaw<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чадо<s n="n"/></l><r>flood water<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чадыведь<s n="n"/></l><r>flood water<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чадыков<s n="n"/></l><r>April<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чаманардамо<s n="n"/></l><r>towel<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чамапаця<s n="n"/></l><r>towel<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чапавтома<s n="n"/></l><r>fermentation<s n="n"/></r></p></e>
+        <e><p><l>чарысёлмо<s n="n"/></l><r>helicopter<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чевгекс<s n="n"/></l><r>snowball tree<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чеерень тол<s n="n"/></l><r>foxfire<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чей<s n="n"/></l><r>fen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чейумарь<s n="n"/></l><r>cranberry<s n="n"/></r></p></e>
+        <e r="LR"><p><l>черьпуло<s n="n"/></l><r>braid<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чи<s n="n"/></l><r>sun<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чи<s n="n"/></l><r>day<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чинь куншка<s n="n"/></l><r>noon<s n="n"/></r></p></e>
+        <e><p><l>чинь ёмамо<s n="n"/></l><r>solar eclipse<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чинь ёмамо<s n="n"/></l><r>eclipse of the sun<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чиньчарамо<s n="n"/></l><r>sunflower<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чипай<s n="n"/></l><r>sun<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чов<s n="n"/></l><r>scum<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чов<s n="n"/></l><r>froth<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чов<s n="n"/></l><r>foam<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чокшнэ<s n="n"/></l><r>evening<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чудикерькс<s n="n"/></l><r>brook<s n="n"/></r></p></e>
+        <e r="LR"><p><l>шалага<s n="n"/></l><r>brushwood hut<s n="n"/></r></p></e>
+        <e r="LR"><p><l>шанжавлондакш<s n="n"/></l><r>cobweb<s n="n"/></r></p></e>
+        <e r="LR"><p><l>шка<s n="n"/></l><r>time<s n="n"/></r></p></e>
+        <e r="LR"><p><l>шлямо<s n="n"/></l><r>washing<s n="n"/></r></p></e>
+        <e r="LR"><p><l>шнамо<s n="n"/></l><r>approval<s n="n"/></r></p></e>
+        <e r="LR"><p><l>штелькс<s n="n"/></l><r>fragment<s n="n"/></r></p></e>
+        <e r="LR"><p><l>эждема<s n="n"/></l><r>warming<s n="n"/></r></p></e>
+        <e><p><l>эйде<s n="n"/></l><r>infant<s n="n"/></r></p></e>
+        <e r="LR"><p><l>эйзюрков<s n="n"/></l><r>March<s n="n"/></r></p></e>
+        <e><p><l>эйкакш<s n="n"/></l><r>child<s n="n"/></r></p></e>
+        <e r="LR"><p><l>эйсюрков<s n="n"/></l><r>March<s n="n"/></r></p></e>
+        <e r="LR"><p><l>экше<s n="n"/></l><r>coolness<s n="n"/></r></p></e>
+        <e r="LR"><p><l>эмежпире<s n="n"/></l><r>orchard<s n="n"/></r></p></e>
+        <e r="LR"><p><l>эрексия<s n="n"/></l><r>mercury<s n="n"/></r></p></e>
+        <e><p><l>эрзя<s n="n"/></l><r>Erzya<s n="n"/></r></p></e>
+        <e r="LR"><p><l>эрьге<s n="n"/></l><r>bead<s n="n"/></r></p></e>
+        <e r="LR"><p><l>эрямо<s n="n"/></l><r>life<s n="n"/></r></p></e>
+        <e r="LR"><p><l>эсь прянь вечкиця<s n="n"/></l><r>egoist<s n="n"/></r></p></e>
+        <e r="LR"><p><l>юр<s n="n"/></l><r>root<s n="n"/></r></p></e>
+        <e r="LR"><p><l>юрт<s n="n"/></l><r>house allotment<s n="n"/></r></p></e>
+        <e r="LR"><p><l>юткошка<s n="n"/></l><r>recess<s n="n"/></r></p></e>
+        <e r="LR"><p><l>юткошка<s n="n"/></l><r>interim<s n="n"/></r></p></e>
+        <e r="LR"><p><l>явтыкикс<s n="n"/></l><r>fraction bar<s n="n"/></r></p></e>
+        <e r="LR"><p><l>якшамков<s n="n"/></l><r>January<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ялакс<s n="n"/></l><r>younger female cousin<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ялга<s n="n"/></l><r>mate<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ялгаксчи<s n="n"/></l><r>fellowship<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ёвкс<s n="n"/></l><r>fairy tale<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ёжовчи<s n="n"/></l><r>craftiness<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ёжовчи<s n="n"/></l><r>guile<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ёзны<s n="n"/></l><r>snake<s n="n"/></r></p></e>
+        <e r="RL"><p><l>тёжа<s n="num"/></l><r>thousand<s n="num"/></r></p></e>
+        <e r="RL"><p><l>комсь<s n="num"/></l><r>twenty<s n="num"/></r></p></e>
+        <e r="LR"><p><l>васенце<s n="num"/></l><r>initial<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>васенце<s n="num"/></l><r>first<s n="num"/></r></p></e>
+        <e><p><l>вете<s n="num"/></l><r>five<s n="num"/></r></p></e>
+        <e r="LR"><p><l>кавксо<s n="num"/></l><r>eight<s n="num"/></r></p></e>
+        <e r="LR"><p><l>кевейксэе<s n="num"/></l><r>nineteen<s n="num"/></r></p></e>
+        <e r="LR"><p><l>колмо<s n="num"/></l><r>three<s n="num"/></r></p></e>
+        <e r="LR"><p><l>сизьгемень<s n="num"/></l><r>seventy<s n="num"/></r></p></e>
+        <e r="LR"><p><l>сядо<s n="num"/></l><r>hundred<s n="num"/></r></p></e>
+        <e r="LR"><p><l>алдо<s n="post"/></l><r>from under<s n="pr"/></r></p></e>
+        <e><p><l>ало<s n="post"/></l><r>under<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>алов<s n="post"/></l><r>under<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>икельга<s n="post"/></l><r>along before<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>ладсо<s n="post"/></l><r>like<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>ланга<s n="post"/></l><r>upon<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>лангс<s n="post"/></l><r>onto<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>марто<s n="post"/></l><r>with<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>пачк<s n="post"/></l><r>through<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>перть<s n="post"/></l><r>around<s n="post"/></r></p></e>
+        <e r="LR"><p><l>перть<s n="post"/></l><r>during<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>перька<s n="post"/></l><r>around<s n="post"/></r></p></e>
+        <e r="LR"><p><l>потсо<s n="post"/></l><r>inside<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>таркас<s n="post"/></l><r>instead<s n="pr"/></r></p></e>
+        <e><p><l>томбале<s n="post"/></l><r>beyond<s n="pr"/></r></p></e>
+        <e><p><l>трокс<s n="post"/></l><r>across<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>трокс<s n="post"/></l><r>athwart<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>туртов<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>ютксо<s n="post"/></l><r>among<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>ёнов<s n="post"/></l><r>in the direction of<s n="pr"/></r></p></e>
+        <e r="RL"><p><l>марто<s n="post"/></l><r>along<s n="pr"/></r></p></e>
+        <e r="RL"><p><l>удало<s n="post"/></l><r>behind<s n="pr"/></r></p></e>
+        <e r="RL"><p><l>алов<s n="post"/></l><r>beneath<s n="pr"/></r></p></e>
+        <e r="RL"><p><l>вакска<s n="post"/></l><r>by<s n="pr"/></r></p></e>
+        <e r="RL"><p><l>каршо<s n="post"/></l><r>facing<s n="pr"/></r></p></e>
+        <e r="RL"><p><l>алов<s n="post"/></l><r>underneath<s n="pr"/></r></p></e>
+        <e r="LR"><p><l>весе<s n="prn"/></l><r>everyone<s n="prn"/></r></p></e>
+        <e><p><l>кие<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>кие<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>киненьгак<s n="prn"/></l><r>to anybody<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>кияк<s n="prn"/></l><r>anybody<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>кияк<s n="prn"/></l><r>somebody<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>кона-бути<s n="prn"/></l><r>somebody<s n="prn"/></r></p></e>
+        <e><p><l>мезе<s n="prn"/></l><r>what<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>минек<s n="prn"/></l><r>our<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>минсь<s n="prn"/></l><r>ourselves<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>мон<s n="prn"/></l><r>I<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>сынсь<s n="prn"/></l><r>themselves<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>сынь<s n="prn"/></l><r>they<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>тынсь<s n="prn"/></l><r>yourselves<s n="prn"/></r></p></e>
+        <e r="RL"><p><l>мазылгавтомс<s n="vblex"/></l><r>adorn<s n="vblex"/></r></p></e>
+        <e r="RL"><p><l>чумондомс<s n="vblex"/></l><r>charge<s n="vblex"/></r></p></e>
+        <e r="RL"><p><l>ветямс<s n="vblex"/></l><r>conduct<s n="vblex"/></r></p></e>
+        <e r="RL"><p><l>арсемс<s n="vblex"/></l><r>contemplate<s n="vblex"/></r></p></e>
+        <e r="RL"><p><l>мазылгавтомс<s n="vblex"/></l><r>decorate<s n="vblex"/></r></p></e>
+        <e r="RL"><p><l>чудемс<s n="vblex"/></l><r>flow<s n="vblex"/></r></p></e>
+        <e r="RL"><p><l>кунсоломс<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
+        <e r="RL"><p><l>кармамс<s n="vblex"/></l><r>start<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>аздамс<s n="vblex"/></l><r>be unaware<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>азоркстамс<s n="vblex"/></l><r>reign<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>алтамс<s n="vblex"/></l><r>promise<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>аржиямс<s n="vblex"/></l><r>become jagged<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>аржиямс<s n="vblex"/></l><r>become notched<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ацирьгадомс<s n="vblex"/></l><r>frustrate<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ашолдомс<s n="vblex"/></l><r>show up white<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ашолдомс<s n="vblex"/></l><r>appear white<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>безардемс<s n="vblex"/></l><r>despise<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>вадемс<s n="vblex"/></l><r>anoint<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>важодемс<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ваномс<s n="vblex"/></l><r>watch<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>вечкемс<s n="vblex"/></l><r>love<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>вешнемс<s n="vblex"/></l><r>look for<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>виевгадомс<s n="vblex"/></l><r>gain more power<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>виздемс<s n="vblex"/></l><r>feel shame<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>виздемс<s n="vblex"/></l><r>be self-conscious<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>вииямс<s n="vblex"/></l><r>gain more power<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>икнемс<s n="vblex"/></l><r>hiccup<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>икнетемс<s n="vblex"/></l><r>hiccup<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ильтямс<s n="vblex"/></l><r>see off<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>каванямс<s n="vblex"/></l><r>cater<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кавонзамс<s n="vblex"/></l><r>redouble<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кавонзамс<s n="vblex"/></l><r>reduplicate<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кавонзамс<s n="vblex"/></l><r>double<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>калгодкстомомс<s n="vblex"/></l><r>become hardened<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>карксамс<s n="vblex"/></l><r>surround<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кармамс<s n="vblex"/></l><r>begin<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кевендямс<s n="vblex"/></l><r>turn into stone<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кевензамс<s n="vblex"/></l><r>turn into stone<s n="vblex"/></r></p></e>
+        <e><p><l>керямс<s n="vblex"/></l><r>cut<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кикстамс<s n="vblex"/></l><r>underscore<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>киртямс<s n="vblex"/></l><r>curtail<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>киртямс<s n="vblex"/></l><r>abridge<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>комавтомс<s n="vblex"/></l><r>make sb bow<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>комболдомс<s n="vblex"/></l><r>boil up<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>конямс<s n="vblex"/></l><r>close one's eyes<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>копордамс<s n="vblex"/></l><r>take a sip<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>копордамс<s n="vblex"/></l><r>take a swig<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кортамс<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>куштамс<s n="vblex"/></l><r>get mouldy<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>куштамс<s n="vblex"/></l><r>grow musty<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>куялгадомс<s n="vblex"/></l><r>grow plump<s n="vblex"/></r></p></e>
+        <e><p><l>лездамс<s n="vblex"/></l><r>help<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ливезиямс<s n="vblex"/></l><r>perspire<s n="vblex"/></r></p></e>
+        <e><p><l>мадстемс<s n="vblex"/></l><r>lay<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>максомс<s n="vblex"/></l><r>allow<s n="vblex"/></r></p></e>
+        <e><p><l>максомс<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>мознемс<s n="vblex"/></l><r>smolder<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>муемс<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e>
+        <e><p><l>нарамс<s n="vblex"/></l><r>shave<s n="vblex"/></r></p></e>
+        <e><p><l>нежедемс<s n="vblex"/></l><r>lean<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>нельгемс<s n="vblex"/></l><r>take by force<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>нузялдомс<s n="vblex"/></l><r>to be in a lazy mood<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>нузялдомс<s n="vblex"/></l><r>not to feel like<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>нузялдомс<s n="vblex"/></l><r>feel too lazy to do sth<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>нулгодемс<s n="vblex"/></l><r>despise<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>нулгодемс<s n="vblex"/></l><r>loathe<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>олякстомомс<s n="vblex"/></l><r>free oneself<s n="vblex"/></r></p></e>
+        <e><p><l>пандомс<s n="vblex"/></l><r>patch<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>пеедькшнемс<s n="vblex"/></l><r>chuckle<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>пекстамс<s n="vblex"/></l><r>shut<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>превейгадомс<s n="vblex"/></l><r>grow wise<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>превиямс<s n="vblex"/></l><r>grow wise<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>пупстамс<s n="vblex"/></l><r>prod<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>раужкадомс<s n="vblex"/></l><r>grow black<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>раужкадомс<s n="vblex"/></l><r>blacken<s n="vblex"/></r></p></e>
+        <e><p><l>саемс<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>салыямс<s n="vblex"/></l><r>become salted<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>стувтомс<s n="vblex"/></l><r>forget<s n="vblex"/></r></p></e>
+        <e><p><l>судрямс<s n="vblex"/></l><r>comb<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>сёрмадстомс<s n="vblex"/></l><r>subscribe<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тазыямс<s n="vblex"/></l><r>become mangy<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>теялгадомс<s n="vblex"/></l><r>grow narrow<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тостедемс<s n="vblex"/></l><r>push away<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тостядемс<s n="vblex"/></l><r>nudge<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тутмадемс<s n="vblex"/></l><r>nudge<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тутмадемс<s n="vblex"/></l><r>push away<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ульнемс<s n="vblex"/></l><r>be<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>урядамс<s n="vblex"/></l><r>clean up<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>цивтёлдомс<s n="vblex"/></l><r>glimmer<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>цёкордомс<s n="vblex"/></l><r>warble<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>чапавтомс<s n="vblex"/></l><r>make sour<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>чарамс<s n="vblex"/></l><r>spin<s n="vblex"/></r></p></e>
+        <e><p><l>чачомс<s n="vblex"/></l><r>be born<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>шержиямс<s n="vblex"/></l><r>grow grey<s n="vblex"/></r></p></e>
+        <e><p><l>якамс<s n="vblex"/></l><r>attend<s n="vblex"/></r></p></e>
+    </section>
+</dictionary>

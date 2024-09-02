@@ -1,0 +1,885 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <alphabet> -5MabdefghijklmnoprstuvyäöšМабвгдежзийклмнопрстуфхцчшыьэюяё</alphabet>
+    <sdefs>
+    </sdefs>
+    <section id="main" type="standard">
+        <e r="RL"><p><l>тюштяпингень<s n="adj"/></l><r>aataminaikainen<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>меельце<s n="adj"/></l><r>viimeinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>авань<s n="adj"/></l><r>äidin<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>авань<s n="adj"/></l><r>henkiolennon<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>авань<s n="adj"/></l><r>haltijan<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>авань<s n="adj"/></l><r>naisen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>авардиця<s n="adj"/></l><r>itkeskelevä<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>алашань<s n="adj"/></l><r>hevosen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>алка<s n="adj"/></l><r>lyhytkasvuinen<s n="adj"/></r></p></e>
+        <e><p><l>алкуксонь<s n="adj"/></l><r>todellinen<s n="adj"/></r></p></e>
+        <e><p><l>анок<s n="adj"/></l><r>valmis<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>атянь<s n="adj"/></l><r>vanhuksen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>атянь<s n="adj"/></l><r>ukon<s n="adj"/></r></p></e>
+        <e><p><l>ашо<s n="adj"/></l><r>valkoinen<s n="adj"/></r></p></e>
+        <e><p><l>ашо<s n="adj"/></l><r>valkea<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>бабань<s n="adj"/></l><r>eukon<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>бабань<s n="adj"/></l><r>akan<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>бабань<s n="adj"/></l><r>mummon<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>бабань<s n="adj"/></l><r>muorin<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>бабань<s n="adj"/></l><r>isoäidin<s n="adj"/></r></p></e>
+        <e><p><l>бойка<s n="adj"/></l><r>nopea<s n="adj"/></r></p></e>
+        <e><p><l>боцькакурго<s n="adj"/></l><r>suurisuinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>букань<s n="adj"/></l><r>sonnin<s n="adj"/></r></p></e>
+        <e><p><l>вадря<s n="adj"/></l><r>hieno<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>валдо-сэнь<s n="adj"/></l><r>vaaleansininen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ванькс<s n="adj"/></l><r>puhdas<s n="adj"/></r></p></e>
+        <e><p><l>васенце<s n="adj"/></l><r>ensimmäinen<s n="adj"/></r></p></e>
+        <e><p><l>васолце<s n="adj"/></l><r>kaukainen<s n="adj"/></r></p></e>
+        <e><p><l>вейксэце<s n="adj"/></l><r>yhdeksäs<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>велень<s n="adj"/></l><r>kylän<s n="adj"/></r></p></e>
+        <e><p><l>верек<s n="adj"/></l><r>raaka<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>верце<s n="adj"/></l><r>ylhäällä sijaitseva<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>верьгизэнь<s n="adj"/></l><r>suden<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ветеце<s n="adj"/></l><r>viides<s n="num"/></r></p></e>
+        <e r="LR"><p><l>вийтеме<s n="adj"/></l><r>vähävoimainen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>вить<s n="adj"/></l><r>oikeanpuoleinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>вишка<s n="adj"/></l><r>pieni<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>гайтев<s n="adj"/></l><r>soiva<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>горяв<s n="adj"/></l><r>murheellinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>зняроце<s n="adj"/></l><r>monesko<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>зярдонь<s n="adj"/></l><r>milloinen<s n="adj"/></r></p></e>
+        <e><p><l>зяроце<s n="adj"/></l><r>monesko<s n="adj"/></r></p></e>
+        <e><p><l>истямо<s n="adj"/></l><r>sellainen<s n="adj"/></r></p></e>
+        <e><p><l>кавксоце<s n="adj"/></l><r>kahdeksas<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кавто прясо<s n="adj"/></l><r>kaksipäinen<s n="adj"/></r></p></e>
+        <e><p><l>кадовикс<s n="adj"/></l><r>ylijäänyt<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кадовикс<s n="adj"/></l><r>jäljellejäänyt<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>каткань<s n="adj"/></l><r>kissan<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кежев<s n="adj"/></l><r>vihainen<s n="adj"/></r></p></e>
+        <e><p><l>кельме<s n="adj"/></l><r>kylmä<s n="adj"/></r></p></e>
+        <e><p><l>кеменце<s n="adj"/></l><r>kymmenes<s n="adj"/></r></p></e>
+        <e><p><l>кемнилееце<s n="adj"/></l><r>neljästoista<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>керень<s n="adj"/></l><r>kaarnan<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>керень<s n="adj"/></l><r>kuoren<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кивень<s n="adj"/></l><r>lyijyinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кизэнь<s n="adj"/></l><r>kesäinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>килеень<s n="adj"/></l><r>koivun<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кирдевикс<s n="adj"/></l><r>siedettävä<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>колмоце<s n="adj"/></l><r>kolmas<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кондямо<s n="adj"/></l><r>-mainen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>конёвонь<s n="adj"/></l><r>paperinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>коськана<s n="adj"/></l><r>kuivahko<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>коськаня<s n="adj"/></l><r>kuivaska<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>коськаня<s n="adj"/></l><r>kuivahko<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>котоце<s n="adj"/></l><r>kuudes<s n="adj"/></r></p></e>
+        <e><p><l>кувака<s n="adj"/></l><r>pitkä<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кудряв<s n="adj"/></l><r>kihara<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>кузонь<s n="adj"/></l><r>kuusen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>лавшо<s n="adj"/></l><r>heikko<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>леень<s n="adj"/></l><r>joen<s n="adj"/></r></p></e>
+        <e><p><l>лезэв<s n="adj"/></l><r>hyödyllinen<s n="adj"/></r></p></e>
+        <e><p><l>лембе<s n="adj"/></l><r>lämmin<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ленгень<s n="adj"/></l><r>niinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>лия<s n="adj"/></l><r>toinen<s n="adj"/></r></p></e>
+        <e><p><l>лия<s n="adj"/></l><r>muu<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ловонь<s n="adj"/></l><r>lumen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ловсонь<s n="adj"/></l><r>maidon<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>лопав<s n="adj"/></l><r>runsaslehtinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>лопав<s n="adj"/></l><r>lehtevä<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>мазы<s n="adj"/></l><r>kaunis<s n="adj"/></r></p></e>
+        <e><p><l>мазый<s n="adj"/></l><r>kaunis<s n="adj"/></r></p></e>
+        <e><p><l>маней<s n="adj"/></l><r>pouta<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>маней<s n="adj"/></l><r>kaunis ilma<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>медев<s n="adj"/></l><r>hunajainen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>мекшень<s n="adj"/></l><r>mehiläisen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>менелень<s n="adj"/></l><r>taivaan<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>мокшонь<s n="adj"/></l><r>mokšalainen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>мокшонь<s n="adj"/></l><r>mokšan<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>мокшонь-эрзянь<s n="adj"/></l><r>mokšalais-ersäläinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>моргов<s n="adj"/></l><r>oksakas<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>нармунень<s n="adj"/></l><r>linnun<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>наян<s n="adj"/></l><r>tunkeileva<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>наян<s n="adj"/></l><r>töykeä<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>нилеце<s n="adj"/></l><r>neljäs<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>нумолонь<s n="adj"/></l><r>jäniksen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>нурькине<s n="adj"/></l><r>lyhyt<s n="adj"/></r></p></e>
+        <e><p><l>од<s n="adj"/></l><r>uusi<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>од<s n="adj"/></l><r>nuori<s n="adj"/></r></p></e>
+        <e><p><l>ожо<s n="adj"/></l><r>keltainen<s n="adj"/></r></p></e>
+        <e><p><l>омбоце<s n="adj"/></l><r>toinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ордакш<s n="adj"/></l><r>murjottava<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ордакш<s n="adj"/></l><r>kiukutteleva<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>пандов<s n="adj"/></l><r>vuoristoinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>пеев<s n="adj"/></l><r>hampaallinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>пеляз<s n="adj"/></l><r>mieletön<s n="adj"/></r></p></e>
+        <e><p><l>покш<s n="adj"/></l><r>iso<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>покш<s n="adj"/></l><r>suuri<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>понань<s n="adj"/></l><r>villava<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>превев<s n="adj"/></l><r>teräväpäinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>псакань<s n="adj"/></l><r>kissan<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>пси<s n="adj"/></l><r>kuuma<s n="adj"/></r></p></e>
+        <e><p><l>пшти<s n="adj"/></l><r>terävä<s n="adj"/></r></p></e>
+        <e><p><l>раужо<s n="adj"/></l><r>musta<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ривезень<s n="adj"/></l><r>ketun<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>ризксэв<s n="adj"/></l><r>murheellinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>седейтеме<s n="adj"/></l><r>säälimätön<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сисемеце<s n="adj"/></l><r>seitsemäs<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>совершенной<s n="adj"/></l><r>täydellinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>стака<s n="adj"/></l><r>painava<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>стака<s n="adj"/></l><r>vaikea<s n="adj"/></r></p></e>
+        <e><p><l>сыре<s n="adj"/></l><r>vanha<s n="adj"/></r></p></e>
+        <e><p><l>сэнь<s n="adj"/></l><r>sininen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сэпев<s n="adj"/></l><r>karvas<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сэрей<s n="adj"/></l><r>syvä<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сэрей<s n="adj"/></l><r>korkea<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сэрей<s n="adj"/></l><r>pitkä<s n="n"/></r></p></e>
+        <e><p><l>сэрей<s n="adj"/></l><r>korkea<s n="adj"/></r></p></e>
+        <e><p><l>сюпав<s n="adj"/></l><r>rikas<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сядоце<s n="adj"/></l><r>sadas<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>сёвонев<s n="adj"/></l><r>savinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>тазов<s n="adj"/></l><r>kapinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>тазов<s n="adj"/></l><r>syyhyinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>тарадов<s n="adj"/></l><r>haarova<s n="adj"/></r></p></e>
+        <e><p><l>тюжа<s n="adj"/></l><r>ruskea<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>тёжаце<s n="adj"/></l><r>tuhannes<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>умарень<s n="adj"/></l><r>omenan<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>усав<s n="adj"/></l><r>viiksekäs<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>цецькав<s n="adj"/></l><r>kukallinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>цецькав<s n="adj"/></l><r>reiällinen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>цецяв<s n="adj"/></l><r>kukallinen<s n="adj"/></r></p></e>
+        <e><p><l>чапамо<s n="adj"/></l><r>hapan<s n="adj"/></r></p></e>
+        <e><p><l>човине<s n="adj"/></l><r>ohut<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>човинька<s n="adj"/></l><r>ohuehko<s n="adj"/></r></p></e>
+        <e><p><l>човинька<s n="adj"/></l><r>ohkainen<s n="adj"/></r></p></e>
+        <e><p><l>чопода<s n="adj"/></l><r>pimeä<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>чумо<s n="adj"/></l><r>syyllisyys<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>эйдень<s n="adj"/></l><r>lasten<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>эрьва кодамо<s n="adj"/></l><r>kaikenlainen<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>эсь<s n="adj"/></l><r>oma<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>якстере<s n="adj"/></l><r>punainen<s n="adj"/></r></p></e>
+        <e r="RL"><p><l>косто<s n="adv"/></l><r>mistä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>аламошка<s n="adv"/></l><r>vähäsen<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>алкукс<s n="adv"/></l><r>todella<s n="adv"/></r></p></e>
+        <e><p><l>ало<s n="adv"/></l><r>alhaalla<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>аноксто<s n="adv"/></l><r>valmiina<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ашосто<s n="adv"/></l><r>siistinä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ашосто<s n="adv"/></l><r>siististi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ашосто<s n="adv"/></l><r>kirkkaana<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ашосто<s n="adv"/></l><r>puhtaana<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>бойкасто<s n="adv"/></l><r>nopeasti<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>бойкасто<s n="adv"/></l><r>lujaa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>бокасо<s n="adv"/></l><r>vierellä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>бокасто<s n="adv"/></l><r>syrjästä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>бокасто<s n="adv"/></l><r>viereltä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>бокасто<s n="adv"/></l><r>vierestä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>валдосто<s n="adv"/></l><r>valoisalla<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>валске<s n="adv"/></l><r>aamulla<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>валске<s n="adv"/></l><r>aamu<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>валске<s n="adv"/></l><r>huomenna<s n="adv"/></r></p></e>
+        <e><p><l>ванды<s n="adv"/></l><r>huomenna<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ваньксстэ<s n="adv"/></l><r>siististi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ваньксстэ<s n="adv"/></l><r>siistinä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ваньксстэ<s n="adv"/></l><r>puhtaana<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>васенцеде<s n="adv"/></l><r>ensimmäistä kertaa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>васенцеде<s n="adv"/></l><r>ensimmäisen kerran<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>васоло<s n="adv"/></l><r>kaukana<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>вачодо<s n="adv"/></l><r>nälkäisenä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>вачодо<s n="adv"/></l><r>nälissään<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>вень перть<s n="adv"/></l><r>koko yön<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>верьга<s n="adv"/></l><r>ylitse<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ветексть<s n="adv"/></l><r>viidesti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ветексть<s n="adv"/></l><r>viisi kertaa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>доволь<s n="adv"/></l><r>yllin kyllin<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>дуборсо<s n="adv"/></l><r>kopinalla<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>дуборсо<s n="adv"/></l><r>jyrinällä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>дуборсо<s n="adv"/></l><r>jyminällä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>дуборсо<s n="adv"/></l><r>kapseella<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>дуборсо<s n="adv"/></l><r>töminällä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>дубушки<s n="adv"/></l><r>takajaloillaan<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>дубушки<s n="adv"/></l><r>takajaloilleen<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>живойстэ<s n="adv"/></l><r>elävänä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>живойстэ<s n="adv"/></l><r>elävältä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>живойстэ<s n="adv"/></l><r>hengissä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>живойстэ<s n="adv"/></l><r>elossa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>живстэ<s n="adv"/></l><r>elävänä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>живстэ<s n="adv"/></l><r>elossa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>живстэ<s n="adv"/></l><r>hengissä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>живстэ<s n="adv"/></l><r>henkiin<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>живстэ<s n="adv"/></l><r>eloon<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>живстэ<s n="adv"/></l><r>elävältä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зняроксть<s n="adv"/></l><r>monestiko<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зняроксть<s n="adv"/></l><r>montako kertaa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>знярошкас<s n="adv"/></l><r>kuinka pitkäksi aikaa suunnilleen<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зярдо<s n="adv"/></l><r>milloin<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зяро<s n="adv"/></l><r>paljonko<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зяро<s n="adv"/></l><r>kuinka paljon<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зяро<s n="adv"/></l><r>kuinka monta<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зяро<s n="adv"/></l><r>montako<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зяро-бути<s n="adv"/></l><r>jonkin verran<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зяроксть<s n="adv"/></l><r>monestiko<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зяроксть<s n="adv"/></l><r>montako kertaa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зяроцеде<s n="adv"/></l><r>monettako kertaa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зярс<s n="adv"/></l><r>niin kauan kuin<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>зярс<s n="adv"/></l><r>mihin asti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>казямосто<s n="adv"/></l><r>epäystävällisesti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>казямосто<s n="adv"/></l><r>karkeasti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>карадо-каршо<s n="adv"/></l><r>vastakkain<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>карадо-каршо<s n="adv"/></l><r>vastatusten<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>кежевстэ<s n="adv"/></l><r>häijysti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>кежевстэ<s n="adv"/></l><r>kiukkuisena<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>кежевстэ<s n="adv"/></l><r>ankarasti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>келес<s n="adv"/></l><r>ympäriinsä<s n="adv"/></r></p></e>
+        <e><p><l>ков<s n="adv"/></l><r>mihin<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ков<s n="adv"/></l><r>minne<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>кода<s n="adv"/></l><r>miten<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>козо<s n="adv"/></l><r>minne<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>козонь<s n="adv"/></l><r>minne<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>кой-зярдо<s n="adv"/></l><r>väliin<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>кой-косто<s n="adv"/></l><r>jostakin<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>колмоксть<s n="adv"/></l><r>kolmesti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>колмоксть<s n="adv"/></l><r>kolme kertaa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>комадо<s n="adv"/></l><r>rähmällään<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>комадо<s n="adv"/></l><r>rähmälleen<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>комадо<s n="adv"/></l><r>vatsalleen<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>комадо<s n="adv"/></l><r>kumolleen<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>косо<s n="adv"/></l><r>missä<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>косо<s n="adv"/></l><r>missä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>кувакасто<s n="adv"/></l><r>syvästi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>кувакасто<s n="adv"/></l><r>pitkästi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>кувакасто<s n="adv"/></l><r>syvään<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>лавшосто<s n="adv"/></l><r>löyhästi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>лавшосто<s n="adv"/></l><r>höllästi<s n="adv"/></r></p></e>
+        <e><p><l>ламо<s n="adv"/></l><r>paljon<s n="adv"/></r></p></e>
+        <e><p><l>ламо<s n="adv"/></l><r>monta<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ламо шкас<s n="adv"/></l><r>pitkän aikaa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ласте<s n="adv"/></l><r>hevosella<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ласте<s n="adv"/></l><r>ratsain<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>лембестэ<s n="adv"/></l><r>lämpimänä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>лиякс<s n="adv"/></l><r>toisin<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>малас<s n="adv"/></l><r>lähelle<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>маныть<s n="adv"/></l><r>toissa vuonna<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>маныть<s n="adv"/></l><r>kaksi vuotta sitten<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>масторов<s n="adv"/></l><r>lattialle<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>масторов<s n="adv"/></l><r>maahan<s n="adv"/></r></p></e>
+        <e><p><l>мик<s n="adv"/></l><r>jopa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>нейке<s n="adv"/></l><r>nyt heti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>одсто<s n="adv"/></l><r>nuorena<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>озадо<s n="adv"/></l><r>istumassa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>озадо<s n="adv"/></l><r>istuen<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>парс<s n="adv"/></l><r>hyväksi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>пелевидьс<s n="adv"/></l><r>puoleksi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>пельс<s n="adv"/></l><r>puoleksi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>пецек<s n="adv"/></l><r>peräkanaa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>питневстэ<s n="adv"/></l><r>kalliilla<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>питневстэ<s n="adv"/></l><r>kalliisti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>питнейстэ<s n="adv"/></l><r>kalliisti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>питнейстэ<s n="adv"/></l><r>kalliilla<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>потс<s n="adv"/></l><r>sisälle<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>потсо<s n="adv"/></l><r>sisässä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>потсто<s n="adv"/></l><r>sisältä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>потсто<s n="adv"/></l><r>sisästä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>превейстэ<s n="adv"/></l><r>älykkäästi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>превейстэ<s n="adv"/></l><r>viisaasti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>псистэ<s n="adv"/></l><r>kuumasti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>псистэ<s n="adv"/></l><r>kuumana<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>псистэ<s n="adv"/></l><r>kiihkeästi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>псистэ<s n="adv"/></l><r>kuumaksi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>пустас<s n="adv"/></l><r>tarpeettomasti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>пштистэ<s n="adv"/></l><r>terävänä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>пштистэ<s n="adv"/></l><r>tarkkaavaisesti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>пштистэ<s n="adv"/></l><r>teräväksi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>рузкс<s n="adv"/></l><r>venäjäksi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>седе икеле<s n="adv"/></l><r>aikaisemmin<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>седикеле<s n="adv"/></l><r>aikaisemmin<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>секс<s n="adv"/></l><r>sen takia<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>сех<s n="adv"/></l><r>eniten<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>сехте<s n="adv"/></l><r>eniten<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>стядо<s n="adv"/></l><r>seisoallaan<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>стядо<s n="adv"/></l><r>seisoen<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>стядо<s n="adv"/></l><r>seisten<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>сюпавсто<s n="adv"/></l><r>rikkaana<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>сюпавсто<s n="adv"/></l><r>vauraasti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>сядоксть<s n="adv"/></l><r>sadasti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>сядоксть<s n="adv"/></l><r>sata kertaa<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тантейстэ<s n="adv"/></l><r>herkullisesti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>таркань-таркань<s n="adv"/></l><r>paikoitellen<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>таркань-таркань<s n="adv"/></l><r>paikka paikoin<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тестэ<s n="adv"/></l><r>tästä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тестэ<s n="adv"/></l><r>täältä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тесэ<s n="adv"/></l><r>täällä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тия-тува<s n="adv"/></l><r>siellä täällä<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>тоско<s n="adv"/></l><r>sillä paikalla<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>улкоть<s n="adv"/></l><r>äskettäin<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ушосо<s n="adv"/></l><r>ulkona<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>чиезь<s n="adv"/></l><r>juosten<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>чиезь<s n="adv"/></l><r>juoksemalla<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>чинек-венек<s n="adv"/></l><r>yötä päivää<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>чирьстэ<s n="adv"/></l><r>kieroon<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>чоп<s n="adv"/></l><r>koko pitkän päivän<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>эрекстэ<s n="adv"/></l><r>vilkkaasti<s n="adv"/></r></p></e>
+        <e><p><l>эрьва косо<s n="adv"/></l><r>kaikkialla<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ёжовсто<s n="adv"/></l><r>viekkaasti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ёжовсто<s n="adv"/></l><r>ovelasti<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>ёжовсто<s n="adv"/></l><r>älykkäästi<s n="adv"/></r></p></e>
+        <e r="LR"><p><l>а<s n="cnjcoo"/></l><r>ja<s n="cnjcoo"/></r></p></e>
+        <e><p><l>а<s n="cnjcoo"/></l><r>mutta<s n="cnjcoo"/></r></p></e>
+        <e><p><l>ды<s n="cnjcoo"/></l><r>ja<s n="cnjcoo"/></r></p></e>
+        <e><p><l>бути<s n="cnjsub"/></l><r>jos<s n="cnjsub"/></r></p></e>
+        <e r="LR"><p><l>зярдо<s n="cnjsub"/></l><r>kun<s n="cnjsub"/></r></p></e>
+        <e r="LR"><p><l>што<s n="cnjsub"/></l><r>että<s n="cnjsub"/></r></p></e>
+        <e r="LR"><p><l>зяро<s n="det"/></l><r>montako<s n="num"/></r></p></e>
+        <e><p><l>зяро<s n="det"/></l><r>paljonko<s n="det"/></r></p></e>
+        <e><p><l>ламо<s n="det"/></l><r>paljon<s n="det"/></r></p></e>
+        <e><p><l>ламо<s n="det"/></l><r>monta<s n="det"/></r></p></e>
+        <e><p><l>эрьва<s n="det"/></l><r>jokainen<s n="det"/></r></p></e>
+        <e r="LR"><p><l>эрьва<s n="det"/></l><r>joka<s n="det"/></r></p></e>
+        <e r="LR"><p><l>вана<s n="ij"/></l><r>kas tässä<s n="ij"/></r></p></e>
+        <e r="LR"><p><l>вара<s n="ij"/></l><r>kas tässä<s n="ij"/></r></p></e>
+        <e r="LR"><p><l>да<s n="ij"/></l><r>niin<s n="ij"/></r></p></e>
+        <e r="RL"><p><l>ушодкс<s n="n"/></l><r>aloite<s n="n"/></r></p></e>
+        <e r="RL"><p><l>шиче<s n="n"/></l><r>isosiskonmies<s n="n"/></r></p></e>
+        <e r="RL"><p><l>безгутай<s n="n"/></l><r>kesakko<s n="n"/></r></p></e>
+        <e r="RL"><p><l>ёв<s n="n"/></l><r>kymi<s n="n"/></r></p></e>
+        <e r="RL"><p><l>алашо<s n="n"/></l><r>munanvalkuainen<s n="n"/></r></p></e>
+        <e r="RL"><p><l>балл<s n="n"/></l><r>piste<s n="n"/></r></p></e>
+        <e r="RL"><p><l>сельмепона<s n="n"/></l><r>silmäripsi<s n="n"/></r></p></e>
+        <e r="RL"><p><l>таргатома<s n="n"/></l><r>suonenveto<s n="n"/></r></p></e>
+        <e r="RL"><p><l>сув<s n="n"/></l><r>usva<s n="n"/></r></p></e>
+        <e r="LR"><p><l>Мордовия<s n="np"/></l><r>Mordva<s n="np"/></r></p></e>
+        <e><p><l>Мордовия<s n="np"/></l><r>Mordovia<s n="n"/></r></p></e>
+        <e r="LR"><p><l>Мордовия<s n="np"/></l><r>Mordva</r></p></e>
+        <e><p><l>Москов<s n="np"/></l><r>Moskova<s n="np"/></r></p></e>
+        <e r="LR"><p><l>авака<s n="n"/></l><r>naaras<s n="n"/></r></p></e>
+        <e r="LR"><p><l>авака верьгиз<s n="n"/></l><r>naarassusi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>авака мацей<s n="n"/></l><r>naarashanhi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>авака мацей<s n="n"/></l><r>hanhiemo<s n="n"/></r></p></e>
+        <e r="LR"><p><l>авака овто<s n="n"/></l><r>emokarhu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>авака овто<s n="n"/></l><r>naaraskarhu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>авака туво<s n="n"/></l><r>emakko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>аволдамо<s n="n"/></l><r>pyyhkäisy<s n="n"/></r></p></e>
+        <e r="LR"><p><l>аксялкс<s n="n"/></l><r>tila seinään kiinnitetyn lavitsan alla<s n="n"/></r></p></e>
+        <e><p><l>алашо<s n="n"/></l><r>valkuainen<s n="n"/></r></p></e>
+        <e><p><l>алгапанар<s n="n"/></l><r>aluspaita<s n="n"/></r></p></e>
+        <e r="LR"><p><l>алгапонкст<s n="n"/></l><r>alushousut<s n="n"/></r></p></e>
+        <e r="LR"><p><l>альне<s n="n"/></l><r>aviomiehen vanhempi veli<s n="n"/></r></p></e>
+        <e r="LR"><p><l>аля<s n="n"/></l><r>kelpo<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>аля<s n="n"/></l><r>mies<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ангордавкс<s n="n"/></l><r>raapimahaava<s n="n"/></r></p></e>
+        <e r="LR"><p><l>анксема<s n="n"/></l><r>avanto<s n="n"/></r></p></e>
+        <e r="LR"><p><l>апаргадома<s n="n"/></l><r>pahentuminen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>артома<s n="n"/></l><r>maalaus<s n="n"/></r></p></e>
+        <e r="LR"><p><l>артома<s n="n"/></l><r>värjäys<s n="n"/></r></p></e>
+        <e r="LR"><p><l>атярозь<s n="n"/></l><r>härkäjyvä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ашо цецька<s n="n"/></l><r>saunio<s n="n"/></r></p></e>
+        <e><p><l>аштемков<s n="n"/></l><r>kesäkuu<s n="n"/></r></p></e>
+        <e><p><l>бабаямкс<s n="n"/></l><r>lumirae<s n="n"/></r></p></e>
+        <e r="LR"><p><l>боба<s n="n"/></l><r>pavut<s n="n"/></r></p></e>
+        <e r="LR"><p><l>боба<s n="n"/></l><r>papu<s n="n"/></r></p></e>
+        <e><p><l>боцькакурго<s n="n"/></l><r>tynnyrinsuu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>боярава<s n="n"/></l><r>pajaritar<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ваз<s n="n"/></l><r>vasikka<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ваз<s n="n"/></l><r>vasa<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вал<s n="n"/></l><r>sana<s n="n"/></r></p></e>
+        <e r="LR"><p><l>валдо<s n="n"/></l><r>valoisuus<s n="n"/></r></p></e>
+        <e r="LR"><p><l>валмеревкс<s n="n"/></l><r>sanalasku<s n="n"/></r></p></e>
+        <e r="LR"><p><l>валске<s n="n"/></l><r>aamu<s n="n"/></r></p></e>
+        <e><p><l>валталика<s n="n"/></l><r>tavu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вальма<s n="n"/></l><r>ikkuna<s n="n"/></r></p></e>
+        <e><p><l>вальмасельме<s n="n"/></l><r>ikkunalasi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ваньксчи<s n="n"/></l><r>vilpittömyys<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ваньксчи<s n="n"/></l><r>puhtaus<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ваньксчи<s n="n"/></l><r>raikkaus<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вардоньсюро<s n="n"/></l><r>belemniittipuikko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вармаведькев<s n="n"/></l><r>tuulimylly<s n="n"/></r></p></e>
+        <e r="LR"><p><l>васолбаба<s n="n"/></l><r>äidin äiti<s n="n"/></r></p></e>
+        <e r="LR"><p><l>васолобаба<s n="n"/></l><r>äidin äiti<s n="n"/></r></p></e>
+        <e r="LR"><p><l>васолободя<s n="n"/></l><r>äidin isä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>васолпокштя<s n="n"/></l><r>äidin isä<s n="n"/></r></p></e>
+        <e><p><l>васоньпеельть<s n="n"/></l><r>sakset<s n="n"/></r></p></e>
+        <e><p><l>ватракш<s n="n"/></l><r>sammakko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вачкодькс<s n="n"/></l><r>isku<s n="n"/></r></p></e>
+        <e><p><l>ведь<s n="n"/></l><r>vesi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведьава<s n="n"/></l><r>vedenemäntä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ведьатя<s n="n"/></l><r>vesihiisi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вежаське<s n="n"/></l><r>pikkusormi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>венелькс<s n="n"/></l><r>paikka pihalla<s n="n"/></r></p></e>
+        <e r="LR"><p><l>венелькс<s n="n"/></l><r>paikka taivasalla<s n="n"/></r></p></e>
+        <e><p><l>венчнерь<s n="n"/></l><r>keula<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вень куншка<s n="n"/></l><r>puoliyö<s n="n"/></r></p></e>
+        <e r="LR"><p><l>верьгедема кев<s n="n"/></l><r>piikivi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>верьгиз<s n="n"/></l><r>susi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>верьгизлевкс<s n="n"/></l><r>sudenpentu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>видевкс<s n="n"/></l><r>kylvös<s n="n"/></r></p></e>
+        <e r="LR"><p><l>видечи<s n="n"/></l><r>totuus<s n="n"/></r></p></e>
+        <e><p><l>вирь<s n="n"/></l><r>metsä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>вирьава<s n="n"/></l><r>metsänemäntä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>витнема<s n="n"/></l><r>parantelu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>гуй<s n="n"/></l><r>käärme<s n="n"/></r></p></e>
+        <e r="LR"><p><l>дамка<s n="n"/></l><r>tammipeli<s n="n"/></r></p></e>
+        <e r="LR"><p><l>дамка<s n="n"/></l><r>tammi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>делегация<s n="n"/></l><r>valtuuskunta<s n="n"/></r></p></e>
+        <e r="LR"><p><l>дова<s n="n"/></l><r>leskivaimo<s n="n"/></r></p></e>
+        <e r="LR"><p><l>жаба<s n="n"/></l><r>lapsi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>жар<s n="n"/></l><r>kuume<s n="n"/></r></p></e>
+        <e r="LR"><p><l>жуль ведь<s n="n"/></l><r>litku<s n="n"/></r></p></e>
+        <e r="LR"><p><l>идемэвсь<s n="n"/></l><r>paha henki<s n="n"/></r></p></e>
+        <e><p><l>ие<s n="n"/></l><r>vuosi<s n="n"/></r></p></e>
+        <e><p><l>инзей<s n="n"/></l><r>vadelma<s n="n"/></r></p></e>
+        <e r="LR"><p><l>инкс<s n="n"/></l><r>kuorimisrauta<s n="n"/></r></p></e>
+        <e><p><l>казне<s n="n"/></l><r>lahja<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кака<s n="n"/></l><r>lapsi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>калго<s n="n"/></l><r>päistär<s n="n"/></r></p></e>
+        <e r="LR"><p><l>калда<s n="n"/></l><r>karjapiha<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кансёро<s n="n"/></l><r>hampunsiemen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>капстапря<s n="n"/></l><r>kaalinkerä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>капшамо<s n="n"/></l><r>hoppu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>катка<s n="n"/></l><r>kissa<s n="n"/></r></p></e>
+        <e r="LR"><p><l>каткалевкс<s n="n"/></l><r>kissanpentu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>каткалевкс<s n="n"/></l><r>kissanpoika<s n="n"/></r></p></e>
+        <e r="LR"><p><l>каткине<s n="n"/></l><r>pikkukissa<s n="n"/></r></p></e>
+        <e><p><l>кев<s n="n"/></l><r>kivi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кедьнармунь<s n="n"/></l><r>lepakko<s n="n"/></r></p></e>
+        <e><p><l>кедьнимиляв<s n="n"/></l><r>lepakko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кежевчи<s n="n"/></l><r>raivokkuus<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кежевчи<s n="n"/></l><r>vihaisuus<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кель<s n="n"/></l><r>kieli<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кенде<s n="n"/></l><r>satulan alla oleva huopapeite<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кенерепакарь<s n="n"/></l><r>kyynärpää<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кенже<s n="n"/></l><r>kynsi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кенкш<s n="n"/></l><r>ovi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кескав<s n="n"/></l><r>säkki<s n="n"/></r></p></e>
+        <e><p><l>ки<s n="n"/></l><r>tie<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кижнэма<s n="n"/></l><r>kähinä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кижнэма<s n="n"/></l><r>korina<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кизэ<s n="n"/></l><r>kesä<s n="n"/></r></p></e>
+        <e><p><l>кирьга<s n="n"/></l><r>kaula<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кирьгаведьме<s n="n"/></l><r>talutin<s n="n"/></r></p></e>
+        <e><p><l>киска<s n="n"/></l><r>koira<s n="n"/></r></p></e>
+        <e><p><l>ковонь ёмамо<s n="n"/></l><r>kuunpimennys<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кодст<s n="n"/></l><r>palttina<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кодст<s n="n"/></l><r>kangas<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кольнема<s n="n"/></l><r>kuje<s n="n"/></r></p></e>
+        <e r="LR"><p><l>концерт<s n="n"/></l><r>konsertti<s n="n"/></r></p></e>
+        <e><p><l>копёр<s n="n"/></l><r>tilli<s n="n"/></r></p></e>
+        <e r="LR"><p><l>корён<s n="n"/></l><r>kasvin juuri<s n="n"/></r></p></e>
+        <e r="LR"><p><l>корён<s n="n"/></l><r>juuri<s n="n"/></r></p></e>
+        <e r="LR"><p><l>коткудав<s n="n"/></l><r>muurahainen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>коткудавой<s n="n"/></l><r>muurahaishappo<s n="n"/></r></p></e>
+        <e><p><l>кошт<s n="n"/></l><r>ilma<s n="n"/></r></p></e>
+        <e r="LR"><p><l>крильця<s n="n"/></l><r>portaikko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кувалмо<s n="n"/></l><r>pituus<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кудонумоло<s n="n"/></l><r>kani<s n="n"/></r></p></e>
+        <e><p><l>куз<s n="n"/></l><r>kuusi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кузтемат<s n="n"/></l><r>tikapuut<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кузумарь<s n="n"/></l><r>kuusenkäpy<s n="n"/></r></p></e>
+        <e r="LR"><p><l>куйме<s n="n"/></l><r>iso punottu astia<s n="n"/></r></p></e>
+        <e r="LR"><p><l>куйме<s n="n"/></l><r>iso punottu kori<s n="n"/></r></p></e>
+        <e r="LR"><p><l>культура<s n="n"/></l><r>kulttuuri<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кулялопань сёрмадей<s n="n"/></l><r>lehdentoimittaja<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кулялопань сёрмадей<s n="n"/></l><r>journalisti<s n="n"/></r></p></e>
+        <e r="LR"><p><l>кумажа<s n="n"/></l><r>polvi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>куншкакуро<s n="n"/></l><r>keskusta<s n="n"/></r></p></e>
+        <e r="LR"><p><l>курго<s n="n"/></l><r>suu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>курокс<s n="n"/></l><r>päitset<s n="n"/></r></p></e>
+        <e r="LR"><p><l>курокст<s n="n"/></l><r>päitset<s n="n"/></r></p></e>
+        <e><p><l>куяр<s n="n"/></l><r>kurkku<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лавтов<s n="n"/></l><r>olkapää<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лагун<s n="n"/></l><r>palju<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ламокайть<s n="n"/></l><r>joukko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>левш<s n="n"/></l><r>liotettu niini<s n="n"/></r></p></e>
+        <e><p><l>лей<s n="n"/></l><r>joki<s n="n"/></r></p></e>
+        <e r="LR"><p><l>леля<s n="n"/></l><r>isoveli<s n="n"/></r></p></e>
+        <e r="LR"><p><l>леля<s n="n"/></l><r>setä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лем<s n="n"/></l><r>nimi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лем<s n="n"/></l><r>ihra<s n="n"/></r></p></e>
+        <e><p><l>лемполавтовкс<s n="n"/></l><r>pronomini<s n="n"/></r></p></e>
+        <e><p><l>лепе<s n="n"/></l><r>leppä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>лицей<s n="n"/></l><r>lyseo<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ловажаудем<s n="n"/></l><r>luuydin<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ловсо<s n="n"/></l><r>maito<s n="n"/></r></p></e>
+        <e r="LR"><p><l>маразь<s n="n"/></l><r>tataarivaahtera<s n="n"/></r></p></e>
+        <e r="LR"><p><l>медьарво<s n="n"/></l><r>hunajavesi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>медьков<s n="n"/></l><r>heinäkuu<s n="n"/></r></p></e>
+        <e><p><l>мирде<s n="n"/></l><r>aviomies<s n="n"/></r></p></e>
+        <e r="LR"><p><l>мияв<s n="n"/></l><r>majava<s n="n"/></r></p></e>
+        <e r="LR"><p><l>модамаксака<s n="n"/></l><r>hamsteri<s n="n"/></r></p></e>
+        <e r="LR"><p><l>моданумоло<s n="n"/></l><r>hyppyrotta<s n="n"/></r></p></e>
+        <e><p><l>молотка<s n="n"/></l><r>vasara<s n="n"/></r></p></e>
+        <e r="LR"><p><l>мотьке<s n="n"/></l><r>sisälmykset<s n="n"/></r></p></e>
+        <e><p><l>нармунь<s n="n"/></l><r>lintu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>нешкепире<s n="n"/></l><r>mehiläistarha<s n="n"/></r></p></e>
+        <e><p><l>ни<s n="n"/></l><r>vaimo<s n="n"/></r></p></e>
+        <e r="LR"><p><l>новта<s n="n"/></l><r>remmikuolaimet<s n="n"/></r></p></e>
+        <e r="LR"><p><l>нулгодькс<s n="n"/></l><r>vastenmielinen<s n="n"/></r></p></e>
+        <e><p><l>нупонь<s n="n"/></l><r>sammal<s n="n"/></r></p></e>
+        <e r="LR"><p><l>овто<s n="n"/></l><r>karhunliha<s n="n"/></r></p></e>
+        <e><p><l>овто<s n="n"/></l><r>karhu<s n="n"/></r></p></e>
+        <e><p><l>од цёра<s n="n"/></l><r>nuorukainen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>одирьва<s n="n"/></l><r>miniä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>озамо<s n="n"/></l><r>istumapaikka<s n="n"/></r></p></e>
+        <e r="LR"><p><l>озкс<s n="n"/></l><r>rukousjuhla<s n="n"/></r></p></e>
+        <e r="LR"><p><l>онава<s n="n"/></l><r>morsiamen häärattaat<s n="n"/></r></p></e>
+        <e r="LR"><p><l>онава<s n="n"/></l><r>morsiusrattaat<s n="n"/></r></p></e>
+        <e r="LR"><p><l>онгома<s n="n"/></l><r>haukku<s n="n"/></r></p></e>
+        <e r="LR"><p><l>онгома<s n="n"/></l><r>haukunta<s n="n"/></r></p></e>
+        <e><p><l>онксть<s n="n"/></l><r>kuolaimet<s n="n"/></r></p></e>
+        <e r="LR"><p><l>орта<s n="n"/></l><r>portti<s n="n"/></r></p></e>
+        <e r="LR"><p><l>оя<s n="n"/></l><r>ystävä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пазава<s n="n"/></l><r>pyhänkuva<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пазе<s n="n"/></l><r>koirashamppu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пакша<s n="n"/></l><r>lapsi<s n="n"/></r></p></e>
+        <e><p><l>пандя<s n="n"/></l><r>kasvipenkki<s n="n"/></r></p></e>
+        <e r="LR"><p><l>панст<s n="n"/></l><r>remmikuolaimet<s n="n"/></r></p></e>
+        <e r="LR"><p><l>патя<s n="n"/></l><r>isosisko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>патя<s n="n"/></l><r>täti<s n="n"/></r></p></e>
+        <e><p><l>пей<s n="n"/></l><r>hammas<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пеке<s n="n"/></l><r>vatsa<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пелеве<s n="n"/></l><r>keskiyö<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пель<s n="n"/></l><r>pilvi<s n="n"/></r></p></e>
+        <e><p><l>пель<s n="n"/></l><r>puoli<s n="n"/></r></p></e>
+        <e><p><l>пенч<s n="n"/></l><r>lusikka<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пиле<s n="n"/></l><r>korva<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пильгалкс<s n="n"/></l><r>jalanpohja<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пильгесур<s n="n"/></l><r>varvas<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пине<s n="n"/></l><r>koira<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пита<s n="n"/></l><r>pimppi<s n="n"/></r></p></e>
+        <e><p><l>пиче<s n="n"/></l><r>mänty<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пичеумарь<s n="n"/></l><r>männynkäpy<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пичеумарь<s n="n"/></l><r>mustikka<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пичумарь<s n="n"/></l><r>mustikka<s n="n"/></r></p></e>
+        <e r="LR"><p><l>прялкс<s n="n"/></l><r>päänalunen<s n="n"/></r></p></e>
+        <e><p><l>псака<s n="n"/></l><r>kissa<s n="n"/></r></p></e>
+        <e r="LR"><p><l>псакалевкс<s n="n"/></l><r>kissanpentu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>псакине<s n="n"/></l><r>pikkukissa<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пуре<s n="n"/></l><r>hunajaolut<s n="n"/></r></p></e>
+        <e><p><l>пурька<s n="n"/></l><r>porkkana<s n="n"/></r></p></e>
+        <e r="LR"><p><l>пятак<s n="n"/></l><r>5 kopeekan kolikko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>раужо нартемкс<s n="n"/></l><r>pujo<s n="n"/></r></p></e>
+        <e><p><l>реве<s n="n"/></l><r>lammas<s n="n"/></r></p></e>
+        <e r="LR"><p><l>рельса<s n="n"/></l><r>rautatiekisko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>рельса<s n="n"/></l><r>ratakisko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ривезьлевкс<s n="n"/></l><r>ketunpoikanen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>рузава<s n="n"/></l><r>venäläinen nainen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сазор<s n="n"/></l><r>nuorempi sisar<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сезял<s n="n"/></l><r>suolistoloinen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сезял<s n="n"/></l><r>suolimato<s n="n"/></r></p></e>
+        <e><p><l>сельме<s n="n"/></l><r>silmä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сельме-чама<s n="n"/></l><r>kasvot<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сельмеава<s n="n"/></l><r>pupilli<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сельмечирке<s n="n"/></l><r>kulmakarva<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сельмеютко<s n="n"/></l><r>nenänjuuri<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сельмеютко<s n="n"/></l><r>nenäntyvi<s n="n"/></r></p></e>
+        <e><p><l>смусть<s n="n"/></l><r>merkitys<s n="n"/></r></p></e>
+        <e><p><l>сокскикс<s n="n"/></l><r>latu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>спорт<s n="n"/></l><r>urheilu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>станок<s n="n"/></l><r>työpöytä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сув<s n="n"/></l><r>sumu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>судо<s n="n"/></l><r>nenä<s n="n"/></r></p></e>
+        <e><p><l>сукс<s n="n"/></l><r>mato<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сумань<s n="n"/></l><r>kaftaani<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сундерьков<s n="n"/></l><r>marraskuu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сур<s n="n"/></l><r>sormi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сурки<s n="n"/></l><r>sormenjälki<s n="n"/></r></p></e>
+        <e r="LR"><p><l>суро<s n="n"/></l><r>hirssi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сурпря<s n="n"/></l><r>sormenpää<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сэнь<s n="n"/></l><r>sininen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сюва<s n="n"/></l><r>kalan pieni ruoto<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сюро<s n="n"/></l><r>sarvi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сюро<s n="n"/></l><r>jyvä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сёвонь<s n="n"/></l><r>savi<s n="n"/></r></p></e>
+        <e><p><l>сёксь<s n="n"/></l><r>syksy<s n="n"/></r></p></e>
+        <e r="LR"><p><l>сёлт<s n="n"/></l><r>patoallas<s n="n"/></r></p></e>
+        <e r="LR"><p><l>таз<s n="n"/></l><r>kapi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>таза<s n="n"/></l><r>kapi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тарго<s n="n"/></l><r>viikko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>таштамков<s n="n"/></l><r>syyskuu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>театра<s n="n"/></l><r>teatteri<s n="n"/></r></p></e>
+        <e><p><l>теварсевкс<s n="n"/></l><r>projekti<s n="n"/></r></p></e>
+        <e><p><l>теле<s n="n"/></l><r>talvi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>течи<s n="n"/></l><r>tämä päivä<s n="n"/></r></p></e>
+        <e><p><l>тиринь кель<s n="n"/></l><r>äidinkieli<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тодовлангакс<s n="n"/></l><r>tyynynpäällinen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тол<s n="n"/></l><r>tuli<s n="n"/></r></p></e>
+        <e r="LR"><p><l>толкун<s n="n"/></l><r>aalto<s n="n"/></r></p></e>
+        <e r="LR"><p><l>томбаланго<s n="n"/></l><r>uunin edusta<s n="n"/></r></p></e>
+        <e r="LR"><p><l>томбаланго<s n="n"/></l><r>lieden edusta<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тонавтниця<s n="n"/></l><r>oppilas<s n="n"/></r></p></e>
+        <e><p><l>тонавтниця<s n="n"/></l><r>opiskelija<s n="n"/></r></p></e>
+        <e><p><l>тонавтыця<s n="n"/></l><r>opettaja<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тоначи<s n="n"/></l><r>manala<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тоначи<s n="n"/></l><r>tuonpuoleinen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>торкай<s n="n"/></l><r>leivonen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>троксчувто<s n="n"/></l><r>palkki<s n="n"/></r></p></e>
+        <e><p><l>троллейбус<s n="n"/></l><r>johdinauto<s n="n"/></r></p></e>
+        <e><p><l>трёшник<s n="n"/></l><r>kopeekka<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тувонар<s n="n"/></l><r>ratamo<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тулевкс<s n="n"/></l><r>porsas<s n="n"/></r></p></e>
+        <e><p><l>тумо<s n="n"/></l><r>tammi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тумопуло<s n="n"/></l><r>tammilehto<s n="n"/></r></p></e>
+        <e><p><l>тюс<s n="n"/></l><r>väri<s n="n"/></r></p></e>
+        <e r="LR"><p><l>тяка<s n="n"/></l><r>lapsi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>укштор<s n="n"/></l><r>vaahtera<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ума<s n="n"/></l><r>maapala<s n="n"/></r></p></e>
+        <e r="LR"><p><l>умарьков<s n="n"/></l><r>elokuu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>умарькс<s n="n"/></l><r>omenapuu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>умбрав<s n="n"/></l><r>hierakka<s n="n"/></r></p></e>
+        <e><p><l>ундовкс<s n="n"/></l><r>juuri<s n="n"/></r></p></e>
+        <e r="LR"><p><l>утом<s n="n"/></l><r>suuli<s n="n"/></r></p></e>
+        <e><p><l>факультет<s n="n"/></l><r>tiedekunta<s n="n"/></r></p></e>
+        <e r="LR"><p><l>фотокув<s n="n"/></l><r>valokuva<s n="n"/></r></p></e>
+        <e r="LR"><p><l>цюлан<s n="n"/></l><r>ruokakomero<s n="n"/></r></p></e>
+        <e r="LR"><p><l>цярка<s n="n"/></l><r>haarikka<s n="n"/></r></p></e>
+        <e r="LR"><p><l>цёканьсюро<s n="n"/></l><r>virsunaskali<s n="n"/></r></p></e>
+        <e r="LR"><p><l>цёко<s n="n"/></l><r>rimpsu<s n="n"/></r></p></e>
+        <e><p><l>чавачамо<s n="n"/></l><r>peili<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чадо<s n="n"/></l><r>tulvavesi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чадыведь<s n="n"/></l><r>tulvavesi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чадыков<s n="n"/></l><r>huhtikuu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чевге<s n="n"/></l><r>heisipuun marja<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чевгекс<s n="n"/></l><r>heisipuu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чевгель<s n="n"/></l><r>heisipuun marja<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чевгерина<s n="n"/></l><r>heisipuu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чевгечувто<s n="n"/></l><r>heisipuu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чеерень тол<s n="n"/></l><r>peikonkulta<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чеерь<s n="n"/></l><r>hiiri<s n="n"/></r></p></e>
+        <e><p><l>чейумарь<s n="n"/></l><r>karpalo<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чернига<s n="n"/></l><r>mustikka<s n="n"/></r></p></e>
+        <e r="LR"><p><l>черь<s n="n"/></l><r>hius<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чи<s n="n"/></l><r>aurinko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чи<s n="n"/></l><r>päivä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чивалгома<s n="n"/></l><r>auringonlasku<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чикордома<s n="n"/></l><r>narahtelu<s n="n"/></r></p></e>
+        <e><p><l>чинь ёмамо<s n="n"/></l><r>auringonpimennys<s n="n"/></r></p></e>
+        <e><p><l>чомболкс<s n="n"/></l><r>lumikko<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чугун<s n="n"/></l><r>valurauta<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чугун<s n="n"/></l><r>valurautapata<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чугун<s n="n"/></l><r>harkkorauta<s n="n"/></r></p></e>
+        <e r="LR"><p><l>чудикерькс<s n="n"/></l><r>pikku joki<s n="n"/></r></p></e>
+        <e><p><l>чудикерькс<s n="n"/></l><r>puro<s n="n"/></r></p></e>
+        <e><p><l>шабра<s n="n"/></l><r>naapuri<s n="n"/></r></p></e>
+        <e r="LR"><p><l>шалага<s n="n"/></l><r>risumaja<s n="n"/></r></p></e>
+        <e r="LR"><p><l>шалага<s n="n"/></l><r>havumaja<s n="n"/></r></p></e>
+        <e r="LR"><p><l>шанжавлондакш<s n="n"/></l><r>hämähäkinseitti<s n="n"/></r></p></e>
+        <e r="LR"><p><l>шка<s n="n"/></l><r>aika<s n="n"/></r></p></e>
+        <e><p><l>школа<s n="n"/></l><r>koulu<s n="n"/></r></p></e>
+        <e r="LR"><p><l>шукшторов<s n="n"/></l><r>viinimarja<s n="n"/></r></p></e>
+        <e r="LR"><p><l>эйзюрков<s n="n"/></l><r>maaliskuu<s n="n"/></r></p></e>
+        <e><p><l>эйкакш<s n="n"/></l><r>lapsi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>эйпачалго<s n="n"/></l><r>jäälautta<s n="n"/></r></p></e>
+        <e><p><l>эрзя<s n="n"/></l><r>ersä<s n="n"/></r></p></e>
+        <e r="LR"><p><l>эрзява<s n="n"/></l><r>ersäläinen nainen<s n="n"/></r></p></e>
+        <e r="LR"><p><l>эрисан<s n="n"/></l><r>siitin<s n="n"/></r></p></e>
+        <e r="LR"><p><l>юв<s n="n"/></l><r>kalan pieni ruoto<s n="n"/></r></p></e>
+        <e r="LR"><p><l>юва<s n="n"/></l><r>kalan pieni ruoto<s n="n"/></r></p></e>
+        <e r="LR"><p><l>юр<s n="n"/></l><r>juuri<s n="n"/></r></p></e>
+        <e r="LR"><p><l>юртава<s n="n"/></l><r>talonhaltija<s n="n"/></r></p></e>
+        <e r="LR"><p><l>явтыкикс<s n="n"/></l><r>kauttaviiva<s n="n"/></r></p></e>
+        <e r="LR"><p><l>якшамков<s n="n"/></l><r>tammikuu<s n="n"/></r></p></e>
+        <e><p><l>ёв<s n="n"/></l><r>suurjoki<s n="n"/></r></p></e>
+        <e><p><l>ёзнэ<s n="n"/></l><r>käärme<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ёлка<s n="n"/></l><r>kuusi<s n="n"/></r></p></e>
+        <e r="LR"><p><l>ёмамо<s n="n"/></l><r>rappio<s n="n"/></r></p></e>
+        <e r="RL"><p><l>колмо<s n="num"/></l><r>kolme<s n="num"/></r></p></e>
+        <e><p><l>вете<s n="num"/></l><r>viisi<s n="num"/></r></p></e>
+        <e r="LR"><p><l>кавксо<s n="num"/></l><r>kahdeksan<s n="num"/></r></p></e>
+        <e r="LR"><p><l>кавто<s n="num"/></l><r>kaksi<s n="num"/></r></p></e>
+        <e r="LR"><p><l>кевейксэе<s n="num"/></l><r>yhdeksäntoista<s n="num"/></r></p></e>
+        <e r="LR"><p><l>кемзисемге<s n="num"/></l><r>seitsemäntoista<s n="adj"/></r></p></e>
+        <e r="LR"><p><l>колмосядт<s n="num"/></l><r>kolmesataa<s n="num"/></r></p></e>
+        <e r="LR"><p><l>колоньгемень<s n="num"/></l><r>kolmekymmentä<s n="num"/></r></p></e>
+        <e><p><l>комсь<s n="num"/></l><r>kaksikymmentä<s n="num"/></r></p></e>
+        <e><p><l>кото<s n="num"/></l><r>kuusi<s n="num"/></r></p></e>
+        <e r="LR"><p><l>ниленьгемень<s n="num"/></l><r>neljäkymmentä<s n="num"/></r></p></e>
+        <e><p><l>сядо<s n="num"/></l><r>sata<s n="num"/></r></p></e>
+        <e><p><l>тёжа<s n="num"/></l><r>tuhat<s n="num"/></r></p></e>
+        <e r="RL"><p><l>велькска<s n="post"/></l><r>ylitse<s n="post"/></r></p></e>
+        <e><p><l>алдо<s n="post"/></l><r>alta<s n="post"/></r></p></e>
+        <e><p><l>ало<s n="post"/></l><r>alla<s n="post"/></r></p></e>
+        <e><p><l>алов<s n="post"/></l><r>alle<s n="post"/></r></p></e>
+        <e r="LR"><p><l>вакска<s n="post"/></l><r>vieritse<s n="post"/></r></p></e>
+        <e r="LR"><p><l>вакска<s n="post"/></l><r>ohi<s n="post"/></r></p></e>
+        <e r="LR"><p><l>вакска<s n="post"/></l><r>ohitse<s n="post"/></r></p></e>
+        <e r="LR"><p><l>ваксс<s n="post"/></l><r>luo<s n="post"/></r></p></e>
+        <e><p><l>вакссо<s n="post"/></l><r>vieressä<s n="post"/></r></p></e>
+        <e r="LR"><p><l>вельде<s n="post"/></l><r>avulla<s n="post"/></r></p></e>
+        <e><p><l>велькска<s n="post"/></l><r>yli<s n="post"/></r></p></e>
+        <e r="LR"><p><l>видьс<s n="post"/></l><r>asti<s n="post"/></r></p></e>
+        <e r="LR"><p><l>икеле<s n="post"/></l><r>edessä<s n="post"/></r></p></e>
+        <e r="LR"><p><l>кувалма<s n="post"/></l><r>takia<s n="post"/></r></p></e>
+        <e r="LR"><p><l>кувалма<s n="post"/></l><r>vuoksi<s n="post"/></r></p></e>
+        <e r="LR"><p><l>лангс<s n="post"/></l><r>-lle</r></p></e>
+        <e r="LR"><p><l>лангсо<s n="post"/></l><r>-lla</r></p></e>
+        <e r="LR"><p><l>лангсто<s n="post"/></l><r>-lta</r></p></e>
+        <e><p><l>маласо<s n="post"/></l><r>lähellä<s n="post"/></r></p></e>
+        <e><p><l>марто<s n="post"/></l><r>kanssa<s n="post"/></r></p></e>
+        <e r="LR"><p><l>пачк<s n="post"/></l><r>läpi</r></p></e>
+        <e r="LR"><p><l>пачк<s n="post"/></l><r>läpi<s n="post"/></r></p></e>
+        <e r="LR"><p><l>пачк<s n="post"/></l><r>lävitse</r></p></e>
+        <e><p><l>перька<s n="post"/></l><r>ympäri<s n="post"/></r></p></e>
+        <e r="LR"><p><l>потсо<s n="post"/></l><r>sisällä<s n="post"/></r></p></e>
+        <e r="LR"><p><l>трокс<s n="post"/></l><r>poikki<s n="n"/></r></p></e>
+        <e r="LR"><p><l>трокс<s n="post"/></l><r>yli<s n="n"/></r></p></e>
+        <e r="LR"><p><l>туртов<s n="post"/></l><r>varten<s n="post"/></r></p></e>
+        <e r="LR"><p><l>удалов<s n="post"/></l><r>taakse<s n="post"/></r></p></e>
+        <e r="LR"><p><l>эйстэ<s n="post"/></l><r>-sta</r></p></e>
+        <e r="LR"><p><l>эйстэ<s n="post"/></l><r>sisästä<s n="post"/></r></p></e>
+        <e r="LR"><p><l>эйстэ<s n="post"/></l><r>-stä</r></p></e>
+        <e r="LR"><p><l>эйсэ<s n="post"/></l><r>-ssa</r></p></e>
+        <e r="LR"><p><l>эйсэ<s n="post"/></l><r>-lla</r></p></e>
+        <e r="LR"><p><l>юткова<s n="post"/></l><r>välitse</r></p></e>
+        <e r="LR"><p><l>ютксо<s n="post"/></l><r>joukossa</r></p></e>
+        <e r="LR"><p><l>ютксо<s n="post"/></l><r>parissa</r></p></e>
+        <e r="LR"><p><l>ютксо<s n="post"/></l><r>välissä</r></p></e>
+        <e r="LR"><p><l>ютксо<s n="post"/></l><r>välillä</r></p></e>
+        <e r="LR"><p><l>ёндо<s n="post"/></l><r>suunnasta<s n="post"/></r></p></e>
+        <e><p><l>кие<s n="prn"/></l><r>kuka<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>кие<s n="prn"/></l><r>kuka<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>кие<s n="prn"/></l><r>joka<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>китькак<s n="prn"/></l><r>kukaan<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>кона<s n="prn"/></l><r>kuka<s n="prn"/></r></p></e>
+        <e><p><l>мезе<s n="prn"/></l><r>mikä<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>минек<s n="prn"/></l><r>meidän<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>мон<s n="prn"/></l><r>minä<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>сынь<s n="prn"/></l><r>ne<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>сынь<s n="prn"/></l><r>he<s n="prn"/></r></p></e>
+        <e r="LR"><p><l>теке<s n="prn"/></l><r>tämä sama<s n="prn"/></r></p></e>
+        <e r="RL"><p><l>таргсемс<s n="vblex"/></l><r>kiskoa<s n="vblex"/></r></p></e>
+        <e r="RL"><p><l>сельмс кортамс<s n="vblex"/></l><r>puhua totta<s n="vblex"/></r></p></e>
+        <e r="RL"><p><l>кармамс<s n="vblex"/></l><r>ruveta<s n="vblex"/></r></p></e>
+        <e r="RL"><p><l>ашолгадомс<s n="vblex"/></l><r>tulla valkoisemmaksi<s n="vblex"/></r></p></e>
+        <e r="RL"><p><l>таргсемс<s n="vblex"/></l><r>vetää<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>авкстнемс<s n="vblex"/></l><r>räkyttää<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>аволямс<s n="vblex"/></l><r>nostella kättään<s n="vblex"/></r></p></e>
+        <e><p><l>адя<s n="vblex"/></l><r>tule<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>аздамс<s n="vblex"/></l><r>olla tietämätön<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>аксорямс<s n="vblex"/></l><r>ryiskellä<s n="vblex"/></r></p></e>
+        <e><p><l>алтамс<s n="vblex"/></l><r>luvata<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>амолямс<s n="vblex"/></l><r>ammennella<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ардстомс<s n="vblex"/></l><r>antaa kyyti<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>аржиямс<s n="vblex"/></l><r>loveutua<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>арсемс<s n="vblex"/></l><r>miettiä<s n="vblex"/></r></p></e>
+        <e><p><l>арсемс<s n="vblex"/></l><r>ajatella<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ашолгадокшномс<s n="vblex"/></l><r>kajastaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ашолдомс<s n="vblex"/></l><r>loistaa valkoisena<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>аштекшнемс<s n="vblex"/></l><r>istua vankilassa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>багордамс<s n="vblex"/></l><r>tarrata kiinni<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>багордомс<s n="vblex"/></l><r>tarrata kiinni<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>басямс<s n="vblex"/></l><r>puhua<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>бертядемс<s n="vblex"/></l><r>naukata<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>бизмолгадомс<s n="vblex"/></l><r>alkaa häärätä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>благойгадомс<s n="vblex"/></l><r>tulla villiksi<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>вадневемс<s n="vblex"/></l><r>tulla voidelluksi<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>важодемс<s n="vblex"/></l><r>työskennellä<s n="vblex"/></r></p></e>
+        <e><p><l>ваномс<s n="vblex"/></l><r>katsoa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>вариямс<s n="vblex"/></l><r>kulua puhki<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>варялгадомс<s n="vblex"/></l><r>tulla reiälliseksi<s n="vblex"/></r></p></e>
+        <e><p><l>вечкемс<s n="vblex"/></l><r>rakastaa<s n="vblex"/></r></p></e>
+        <e><p><l>вешнемс<s n="vblex"/></l><r>etsiä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>видемемс<s n="vblex"/></l><r>suoristautua<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>гулдордомс<s n="vblex"/></l><r>kujerrella<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>дураскадомс<s n="vblex"/></l><r>tyhmistyä<s n="vblex"/></r></p></e>
+        <e><p><l>зэрнемс<s n="vblex"/></l><r>jyristä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>икнемс<s n="vblex"/></l><r>hikata<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>икнетемс<s n="vblex"/></l><r>hikata<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ильведемс<s n="vblex"/></l><r>tehdä virhe<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ильтямс<s n="vblex"/></l><r>saattaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кавонзамс<s n="vblex"/></l><r>tuplata<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>калядамс<s n="vblex"/></l><r>kulkea talosta taloon joululauluja laulaen<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>канзедемс<s n="vblex"/></l><r>saada ikenensä helliksi<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>канзедемс<s n="vblex"/></l><r>sureksia<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>капшавтнемс<s n="vblex"/></l><r>hoputella<s n="vblex"/></r></p></e>
+        <e><p><l>карксамс<s n="vblex"/></l><r>ympäröidä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>карксамс<s n="vblex"/></l><r>vyöttäytyä<s n="vblex"/></r></p></e>
+        <e><p><l>кармамс<s n="vblex"/></l><r>alkaa<s n="vaux"/></r></p></e>
+        <e r="LR"><p><l>каямс<s n="vblex"/></l><r>kaataa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кемевтемс<s n="vblex"/></l><r>saada luottamaan<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кемевтемс<s n="vblex"/></l><r>saada uskomaan<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>керямс<s n="vblex"/></l><r>leikata<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кижнэмс<s n="vblex"/></l><r>puhua käheästi<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>киртнемс<s n="vblex"/></l><r>lyhennellä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>козкстамс<s n="vblex"/></l><r>yskäistä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>козкстамс<s n="vblex"/></l><r>yskähtää<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>конямс<s n="vblex"/></l><r>sulkea silmänsä<s n="vblex"/></r></p></e>
+        <e><p><l>кортамс<s n="vblex"/></l><r>puhua<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кузтемс<s n="vblex"/></l><r>viedä ylös kiipeämällä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>кундамс<s n="vblex"/></l><r>ryhtyä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ластямс<s n="vblex"/></l><r>nousta ratsaille<s n="vblex"/></r></p></e>
+        <e><p><l>ледемс<s n="vblex"/></l><r>ampua<s n="vblex"/></r></p></e>
+        <e><p><l>лездамс<s n="vblex"/></l><r>auttaa<s n="vblex"/></r></p></e>
+        <e><p><l>лекамс<s n="vblex"/></l><r>latkia<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>лотксемс<s n="vblex"/></l><r>seisahdella<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>лужакадомс<s n="vblex"/></l><r>alkaa itkeä katkerasti<s n="vblex"/></r></p></e>
+        <e><p><l>мазылгавтомс<s n="vblex"/></l><r>kaunistaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>максомс<s n="vblex"/></l><r>antaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>матрамс<s n="vblex"/></l><r>tiivistyä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>матратомс<s n="vblex"/></l><r>puutua<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>маштомс<s n="vblex"/></l><r>tappaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>маштомс<s n="vblex"/></l><r>osata<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>морсемс<s n="vblex"/></l><r>laulella<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>муемс<s n="vblex"/></l><r>löytää<s n="vblex"/></r></p></e>
+        <e><p><l>нарамс<s n="vblex"/></l><r>ajaa parta<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>нарамс<s n="vblex"/></l><r>keritä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>низэльдемс<s n="vblex"/></l><r>virnistellä<s n="vblex"/></r></p></e>
+        <e><p><l>нурсемс<s n="vblex"/></l><r>keinuttaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>оиямс<s n="vblex"/></l><r>öljyyntyä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>оиямс<s n="vblex"/></l><r>tahriintua rasvaan<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>палсемс<s n="vblex"/></l><r>suukotella<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>памордемс<s n="vblex"/></l><r>murustaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>паморемс<s n="vblex"/></l><r>murustua<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>памшамс<s n="vblex"/></l><r>mussuttaa<s n="vblex"/></r></p></e>
+        <e><p><l>пандомс<s n="vblex"/></l><r>maksaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>парсемс<s n="vblex"/></l><r>vihtoa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>парсемс<s n="vblex"/></l><r>vastoa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>пидсемс<s n="vblex"/></l><r>paistella<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>пижелдомс<s n="vblex"/></l><r>vihannoida<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>пижелдэмс<s n="vblex"/></l><r>vihannoida<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>покшкавтнемс<s n="vblex"/></l><r>leuhkia<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>потомдамс<s n="vblex"/></l><r>tukkia<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>рангстамс<s n="vblex"/></l><r>kiljaista<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>рудазкавтомс<s n="vblex"/></l><r>kurastaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>салыямс<s n="vblex"/></l><r>tulla suolaiseksi<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>седямс<s n="vblex"/></l><r>soittaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>сееремс<s n="vblex"/></l><r>kiljaista<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>сельмедемс<s n="vblex"/></l><r>vahingoittaa silmällä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>сивемс<s n="vblex"/></l><r>tulla murretuksi<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>содыямс<s n="vblex"/></l><r>tahriintua nokeen<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>сорыямс<s n="vblex"/></l><r>kasvaa rikkaruohoa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>сорыямс<s n="vblex"/></l><r>roskiintua<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>сорыямс<s n="vblex"/></l><r>täyttyä roskasta<s n="vblex"/></r></p></e>
+        <e><p><l>стувтомс<s n="vblex"/></l><r>unohtaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>стядо аштемс<s n="vblex"/></l><r>olla pystyssä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>сувтамс<s n="vblex"/></l><r>savuttaa suitsukkeella<s n="vblex"/></r></p></e>
+        <e><p><l>судрямс<s n="vblex"/></l><r>kammata<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>сыявтомс<s n="vblex"/></l><r>märkiä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>сэдямс<s n="vblex"/></l><r>tehdä lattiaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>сэдямс<s n="vblex"/></l><r>rakentaa siltaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>таймазкадомс<s n="vblex"/></l><r>jähmetä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>таргатомс<s n="vblex"/></l><r>kouristaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>токшемс<s n="vblex"/></l><r>käydä tervehtimässä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>толгиямс<s n="vblex"/></l><r>saada höyhenpeite<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>толгиямс<s n="vblex"/></l><r>tulla höyheniseksi<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тонавтомс<s n="vblex"/></l><r>opettaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тренькаемс<s n="vblex"/></l><r>rimputtaa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тренькаемс<s n="vblex"/></l><r>rämpyttää<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тувтомс<s n="vblex"/></l><r>pistellä poskeensa<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тувтомс<s n="vblex"/></l><r>popsia<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тулкадемс<s n="vblex"/></l><r>työntää<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тюнгольдемс<s n="vblex"/></l><r>herättää vastenmielisyyttä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>тюнгольдемс<s n="vblex"/></l><r>tympäistä<s n="vblex"/></r></p></e>
+        <e><p><l>улемс<s n="vblex"/></l><r>olla<s n="vaux"/></r></p></e>
+        <e><p><l>ульнемс<s n="vblex"/></l><r>olla<s n="vaux"/></r></p></e>
+        <e r="LR"><p><l>урозкадомс<s n="vblex"/></l><r>orpoutua<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>урьвакстомс<s n="vblex"/></l><r>ottaa vaimo<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>цападемс<s n="vblex"/></l><r>tarrata kiinni<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>цяпадемс<s n="vblex"/></l><r>tarrata<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>цяподемс<s n="vblex"/></l><r>tarrata<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>чарамс<s n="vblex"/></l><r>pyöriä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>чарамс-велямс<s n="vblex"/></l><r>leijailla<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>чачомс<s n="vblex"/></l><r>syntyä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>чикоргадомс<s n="vblex"/></l><r>napsahdella<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>чикоргадомс<s n="vblex"/></l><r>naksahdella<s n="vblex"/></r></p></e>
+        <e><p><l>чудемс<s n="vblex"/></l><r>virrata<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>энялгадомс<s n="vblex"/></l><r>alkaa pyydellä<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>эрсемс<s n="vblex"/></l><r>tapahtua usein<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>эскельдямс<s n="vblex"/></l><r>ottaa askel<s n="vblex"/></r></p></e>
+        <e r="LR"><p><l>ёкномс<s n="vblex"/></l><r>hytkähdellä<s n="vblex"/></r></p></e>
+    </section>
+</dictionary>
