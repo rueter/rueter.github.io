@@ -10,6 +10,11 @@ Hämäläinen, M., Alnajjar, K., Rueter, J., Lehtinen, M. & Partanen, N., 2021, 
 
 
 # Introduction
-This dataset has been derived from dictionary work on the Erzya language for use in Giella XML, Apertium bidix XML formats
 
+This is a collection of Apertium XML files for Erzya to X for use in Apertium shallow-transfer rule-based machine translation.
 
+The content has been edited on the dictionary editing platform Veʹrdd.
+
+Each line contains two entries with indication of translation orientation as an attribute in the <e> element. If r=LR, translation is limited to left-to-right, if r=RL, translation is limited to right-to-left, If no r attribute is present, both orientations are acceptible.
+
+For each language pair there are two .dix files. The one in -approved.dix indicates that the translation pairs have been manually approved. The one in -not_approved.dix indicates they have not been manually approved and therefore may contain translation pairs that are not valid.
