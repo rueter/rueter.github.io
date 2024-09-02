@@ -1,4 +1,5 @@
-# myv-bidix, 2024-09-02
+# myv-bidix, Erzya to X
+
 These are the Apertium-style XML files for shallow-transfer, rule-based machine translation of Erzya to X. They represent but one of the download possibilities Erzya-language dictionary materials annotated on Veʹrdd.
 The dictionary editing platform is located [here](https://akusanat.com/verdd).
 # Cite
