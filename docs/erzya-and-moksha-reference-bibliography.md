@@ -58,6 +58,8 @@
 
 - Bartens, Raija 1999: *Mordvalaiskielten rakenne ja kehitys.* Suomalais-Ugrilaisen Seuran Toimituksia 232. Helsinki: Suomalais-Ugrilainen Seura.
 
+- Bubrix, D.V. (Бубрих, Д. В.) 1927: *Краткий отчёт о лингвистической поездке в мордву* // Доклады АН СССР. Сер. В. – 1927. – № 10 – С. 205–209.
+
 - Bubrix, D.V. (Бубрих, Д. В.) 1930: *Звуки и формы эрзянской речи по говору с. Козловки.* Центральное издательство народов СССР. Москва.
 
 - Bubrix,  D. V. (Бубрих, Д. В.) 1935: Instrukciâ  i  programma  po  sobiraniiu  materiala  dlâ  dialektologičeskogo  atlasa mordovskix (erzâ i mokša) âzykov [Instruction and program on collecting of dialectological material for dialectological atlas of the Mordovian (Erzya and Moksha) languages]. Saransk: Mordgiz Publ., 1935. 46 p. (In Russian)
@@ -92,7 +94,6 @@
 - Cygankin, D. V. (Цыганкин, Д.В.) 1994: Транспозиционные отношения между частями речи в эрзянском языке. In *Volgalaiskielet muutoksessa*, 87&ndash;91. Volgalaiskielten symposiumi Turussa 1. &ndash; 2.9.1993. Turku.
 
 - Cygankin (Цыганкин, Д. В.) 2000a: Валонь теевемась. *Эрзянь кель, морфемика, валонь теевема ды морфология*: Вузонь эрзянь ды финнэнь ожделениянь тонавтницятнень туртов /Редколлегиясь: Д.В. Цыганкин (отв. ред., Н. А. Агафонова, М. Д. Имайкина ды лият, 34&ndash;37. ― Саранск: Тип. «Крас. Окт.». 2000. ― 280 с. ― Мордов.-эрзя яз.
-
 
 - Cygankin (Цыганкин, Д. В.) 2000b: *Мордовские языки глазами ученого-лингвиста.* Саранск: Типография «Красный Октябрь».
 
@@ -138,7 +139,7 @@
 
 - Ermuškin (Ермушкин, Г. И.) 1968: Северо-западные говоры эрзя-мордовского языка. *Очерки мордовских диалектов, том V.* Редакционная коллегия: И. С. Бузаков, Р. В. Бабушкина, Д. Т. Надькин. Научно-Исследовательский Институт Языка, Литературы, Истории И Экономики При Совете Министров Мордовской АССР, 318-382. Мордовское книжное издательство —  Саранск.
 
-- Ermuškin G. I. (Ермушкин, Г. И.) 1984: Arealnye issledovaniâ po vostočnym finno-ugorskim âzykam (erzâ-mordovskij âzyk) [Areal studies on the Eastern Finno-Ugric languages (the Erzya-Mordovian language)]. Moscow: Nauka Publ., 1984. 142 p. (In Russian)
+- Ermuškin G. I. (Ермушкин, Г. И.) 1984: Arealnye issledovaniâ po vostočnym finno-ugorskim âzykam (erzâ-mordovskij âzyk) [Areal studies on the Eastern Finno-Ugric languages (the Erzya-Mordovian language)]/ Г. И. Ермушкин. – Moscow: Nauka Publ., 1984. 142 p. (In Russian)
 
 - Ermushkin, Grigorij I. (Ермушкин, Григорий И.) 1991: III. *Verchnep'janskij dialekt èrzja-mordovskogo jazyka.* (Als Manuskript vervielfältigt.) Mitteilungen der Societas Uralo-Altaica. Heft 13. Hamburg: Finnisch-Ugrisches Seminar der Universität Hamburg.
 
@@ -161,6 +162,7 @@
 
 - Feoktistow, A.P. 1990 = Феоктистов А.П. 1990: Die Dialekte der mordwinischen Sprachen.  In  *H. Paasonens Mordwinisches Wörterbuch.* Band I (A-J) Zusammengestellt von Kaino Heikkilä. Unter Mitarbeit von Hans-Hermann Bartens, Aleksandr Feoktistow und Grigori Jermuschkin bearbeitet und herausgegeben von Martti Kahla. Lexica Societatis Fenno-Ugricae XXIII, 1 Kotimaisten kielten tutkimuskeskuksen julkaisuja 59, XXXI&ndash;LVII. Helsinki: Suomalais-Ugrilainen Seura &amp; Kotimaisten kielten tutkimuskeskus.
 
+- Feoktistov, A. P. (Феоктистов А.П.) 2002: *Об исследовании диалектов финно-угорских языков методами полевой и арефльной лингвистики*/ А. П. Феоктистов // Научные издания московского венгерского колледжа. – М., 2002. – С. 318 – 329.
 
 - Feoktistov, Aleksandr &amp; Sirkka Saarinen 2005: *Mokšamordvan murteet.* Suomalais-Ugrilaisen Seuran Toimituksia. 249. Helsinki: Suomalais-Ugrilainen Seura.
 
@@ -303,7 +305,7 @@
 
 - Niemi, Jaana &amp; Mihail Mosin 1995: *Ersäläis-suomalainen sanakirja*. Turun yliopiston suomalaisen ja yleisen kielitieteen laitoksen julkaisuja 48. Turku.
 
-- Obʺedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlâ  sobiraniâ  svedeny  po  dialektam  mordovskix  (mokšanskogo  i erzânskogo) âzykov [Questioner for collecting of data on the dialects of the Mordovian (Moksha and Erzya) languages]. Saransk: Tip. «Kras. Okt.» Publ., 1960. 106 p. (In Russian)
+- Obʺedkin  V.  D.  (Объедкин, В. Д.) 1960: Voprosnik  dlâ  sobiraniâ  svedeny  po  dialektam  mordovskix  (mokšanskogo  i erzânskogo) âzykov [Questioner for collecting of data on the dialects of the Mordovian (Moksha and Erzya) languages]/ В. Д. Объедкин, А. П. Феоктистов, О. И. Чудаева. – Saransk: Tip. «Kras. Okt.» Publ., 1960. 106 p. (In Russian)
 
 - Obʺedkin, V. D. (Объедкин, В. Д.) 1961: Старо-Турдаковский диалект эрзя-мордовского языка. *Очерки мордовских диалектов. Том 1.* Редакторы: доктор филологических наук. профессор М. Н. Колядёнков, Кандидат филологических наук О. И. Чудаева. Научно-Исследовательский Институт Языка, Литературы, Истории и Экономики при Совете Министров Мордовской АССР, 100-196. Мордовское Книжное Издательство — Саранск.
 
@@ -416,7 +418,6 @@
 - Tixonova, T. M. (Tichonova, T. M.) 1966: Expression of definiteness and indefiniteness of the direct object in the Mordvin languages. *Советское финно-угроведение*, (4), 241&ndash;245.
 
 - Tixonova, T. M. (Тихонова Т.М.) 1972: Выражение категории определённости в мордовских языках. In *Вопросы мордовского языкознания труды*, выпуск 42, 3&ndash;60. Редакторы: Бузаков И.С., Надкин Д.Т., Тихонова Т.М. Саранск: Мордовское книжное издательство.
-
 
 - Tixonova, T. M. (Тихонова Т.М.) 1974: Суффиксы притяжательности в непритяжательном значении в волжских языках финно-угорской группы// In *Вопросы советского финно-угроведения* 119-121. Петрозаводск.
 
