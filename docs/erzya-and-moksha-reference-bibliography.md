@@ -10,7 +10,7 @@
 
 - Agafonova (Агафонова, Н. А.) 2000: Местоимениясь. *Эрзянь кель, морфемика, валонь теевема ды морфология*: Вузонь эрзянь ды финнэнь ожделениянь тонавтницятнень туртов /Редколлегиясь: Д.В. Цыганкин (отв. ред., Н. А. Агафонова, М. Д. Имайкина ды лият, 124&ndash;145. ― Саранск: Тип. «Крас. Окт.». 2000. ― 280 с. ― Мордов.-эрзя яз.
 
-- Agafonova  N. A. (Агафонова, Н. А.),  Râbov  I.  N. (Рябов, И. Н.) 2013:  Dialektologičeskij atlas kak rezultat issledovanij èrzânskix dialektov metodami lingvističeskoj geografii [Dialectological atlas as a result of research of the Erzya dialects through methods of linguistic geography]. Finno-ugorskij mir [Finno-Ugric World], 2013, no. 2 (15), pp. 48–53. (In Russian)
+- Agafonova  N. A. (Агафонова, Н. А.),  Râbov  I.  N. (Рябов, И. Н.) 2013:  Dialektologičeskij atlas kak rezultat issledovanij èrzânskix dialektov metodami lingvističeskoj geografii [Dialectological atlas as a result of research of the Erzya dialects through methods of linguistic geography]. Finno-ugorskij mir [Finno-Ugric World], 2013, № 2 (15), pp. 48–53. (In Russian)
 
 - Agafonova  N. A. (Агафонова, Н. А.),  Râbov  I.  N. (Рябов, И. Н.) 2014:  Dialektologičeskij atlas èrzânskogo âzyka. Programma-voprosnik (Morfologiâ) [Dialectological atlas of the Erzya language. Program-questioner]. Saransk: Print-Izdat Publ., 2014. 52 p. (In Russian)
 
