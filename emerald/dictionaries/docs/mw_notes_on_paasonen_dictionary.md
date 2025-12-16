@@ -9,4 +9,14 @@
 
 egrep '<l\b[^>]*/>[^<]*<[ib]'
 
+130 hits
+```
+
+```
+(1) check validity of what is being copied
+(2) enter copy to replace <cyr>id.</cyr>  segment.
+
+<sense><cyr>id.</cyr></sense>
+
+approximately 1734 instances
 ```
