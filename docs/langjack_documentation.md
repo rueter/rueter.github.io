@@ -31,7 +31,7 @@ Other transducers, however, can actually be made available by merely editing the
 
 ##Dictionaries
 
-Collaboration with the people in the open-source GiellaLT and Apertium infrastructures have made Jack aware of dictionary pairs that are easily utilized for the purpose of this tool. At present the dictionary contains over one and a half translation pair of the type (sms_piânnai:eng_dog|eng_dog:sms_piânnai)
+Collaboration with the people in the open-source GiellaLT and Apertium infrastructures have made Jack aware of dictionary pairs that are easily utilized for the purpose of this tool. At present the dictionary contains over one and a half translation pair of the type (sms_piânnai:eng_dog;eng_dog:sms_piânnai)
 
 None of the dictionaries are complete, but they are relatively extensive in enough languages to help in the glossing of texts. There is also a possibility for entering .TSV dictionaries of your own to complement the dictionary FSTs.
 
