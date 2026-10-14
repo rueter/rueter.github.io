@@ -12,7 +12,7 @@ The LangJack helps me to take command of simple tasks and I hope to contnue deve
 
 First, a brief overview of what is here: finite-state analyzers and dictionaries with just a few rudimentary but helpful functions.
 
-#Analyzers
+##Analyzers
 
 Languages covered:
 By default the following transducers are shown in the scroll down menu.
@@ -29,11 +29,13 @@ mhr (Meadow Mari and Eastern Mari), mrj (Hill Mari, aka Western Mari)
 
 Other transducers, however, can actually be made available by merely editing the <Custom ISO> button at the bottom of the scroll-down menu. Languages to be revealed will include, for example ‹liv› for Livonian, ‹vro› for Võro, ‹yrk› for Nenets (Tundra Nenets), or even ‹apu› for Apurinã, an Arawak language of the upper Amazon, and ‹lut› for Lushootseed, a Salishan language from the Salish Sea region.
 
-#Dictionaries
+##Dictionaries
 
 Collaboration with the people in the open-source GiellaLT and Apertium infrastructures have made Jack aware of dictionary pairs that are easily utilized for the purpose of this tool. At present the dictionary contains over one and a half translation pair of the type (sms_piânnai:eng_dog|eng_dog:sms_piânnai)
 
 None of the dictionaries are complete, but they are relatively extensive in enough languages to help in the glossing of texts. There is also a possibility for entering .TSV dictionaries of your own to complement the dictionary FSTs.
+
+##Illustrations
 
 The accompanying screenshots 0 through 6 will provide a rough idea of what you can do with the LangJack.
 
